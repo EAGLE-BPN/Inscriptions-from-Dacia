@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000003</idno>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000003.html</idno>
 
   <idno type="localID">fm00000003</idno>
 <availability>
@@ -114,17 +114,17 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-25" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
-    <graphic n="CIL III 12461_1" url="https://commons.wikimedia.org/wiki/File:CIL III 12461_1.jpg">
+    <graphic n="CIL III 12461_1" url="https://upload.wikimedia.org/wikipedia/commons/0/0b/CIL_III_12461_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 12461_1.jpg">
        <desc> CIL III 12461_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 12461_2" url="https://commons.wikimedia.org/wiki/File:CIL III 12461_2.jpg">
+    <graphic n=" CIL III 12461_2" url="https://upload.wikimedia.org/wikipedia/commons/9/95/CIL_III_12461_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 12461_2.JPG">
        <desc>  CIL III 12461_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

@@ -21,7 +21,8 @@
          <div xml:id="index">
             <ab>
                <title>Inscriptions</title>
-               <list>                  <item xml:id="ip00000001" corresp="text/ip00000001"/>
+               <list>
+                  <item xml:id="ip00000001" corresp="text/ip00000001"/>
                   <item xml:id="ip00000002" corresp="text/ip00000002"/>
                   <item xml:id="ip00000003" corresp="text/ip00000003"/>
                   <item xml:id="ip00000004" corresp="text/ip00000004"/>
@@ -670,7 +671,7 @@
                   <item xml:id="ip00000647" corresp="text/ip00000647"/>
                   <item xml:id="ip00000648" corresp="text/ip00000648"/>
                   <item xml:id="ip00000649" corresp="text/ip00000649"/>
-                  
+
                   <item xml:id="fm00000001" corresp="text/fm00000001"/>
                   <item xml:id="fm00000002" corresp="text/fm00000002"/>
                   <item xml:id="fm00000003" corresp="text/fm00000003"/>
@@ -854,7 +855,7 @@
                   <item xml:id="fm00000181" corresp="text/fm00000181"/>
                   <item xml:id="fm00000182" corresp="text/fm00000182"/>
                   <item xml:id="fm00000183" corresp="text/fm00000183"/>
-                  
+
                   <item xml:id="rv00000001" corresp="text/rv00000001"/>
                   <item xml:id="rv00000002" corresp="text/rv00000002"/>
                   <item xml:id="rv00000003" corresp="text/rv00000003"/>

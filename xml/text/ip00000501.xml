@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000501</idno>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000501.html</idno>
                 
                 
                <idno type="localID">ip00000501</idno>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
         

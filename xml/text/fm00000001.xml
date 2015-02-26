@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000001</idno>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000001.html</idno>
 
   <idno type="localID">fm00000001</idno>
 <availability>
@@ -114,22 +114,22 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-25" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
-    <graphic n="CIL III 6223 1" url="https://commons.wikimedia.org/wiki/File:CIL III 6223 1.jpg">
+    <graphic n="CIL III 6223 1" sameAs="https://commons.wikimedia.org/wiki/File%3ACIL_III_6223_1.JPG" url="https://upload.wikimedia.org/wikipedia/commons/c/ca/CIL_III_6223_1.JPG">
        <desc> CIL III 6223 1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 6223_2" url="https://commons.wikimedia.org/wiki/File:CIL III 6223_2.jpg">
+    <graphic n=" CIL III 6223_2" sameAs="https://commons.wikimedia.org/wiki/File%3ACIL_III_6223_2.JPG" url="https://upload.wikimedia.org/wikipedia/commons/6/60/CIL_III_6223_2.JPG">
        <desc>  CIL III 6223_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 6223_3" url="https://commons.wikimedia.org/wiki/File:CIL III 6223_3.jpg">
+    <graphic n=" CIL III 6223_3" sameAs="https://commons.wikimedia.org/wiki/File%3ACIL_III_6223_3.jpg" url="https://upload.wikimedia.org/wikipedia/commons/c/cb/CIL_III_6223_3.jpg">
        <desc>  CIL III 6223_3
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
@@ -167,7 +167,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                 
             </div>
 
-            <div type="translation">BLABLABLABLBALBALB BDALDBALB </div>
+            
 
             <div type="commentary">
                 <p>Altar of hexagonal shape, erected by one of the primi pili of the I Italica legion. His origin was Bononia, probably modern Bologna.</p>

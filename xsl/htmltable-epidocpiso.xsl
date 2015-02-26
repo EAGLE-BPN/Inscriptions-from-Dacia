@@ -39,7 +39,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-                <idno type="URI"><xsl:text>inscriptionsfromdacia.altervista.org/text/</xsl:text><xsl:value-of select="$id"/></idno>
+                <idno type="URI"><xsl:text>inscriptionsfromdacia.altervista.org/text/</xsl:text><xsl:value-of select="concat($id,'.html')"/></idno>
                 <xsl:if test="contains(TD[position()=28], 'HD')"><idno type="EDH"><xsl:value-of select="concat('HD',substring-after(TD[position()=28], 'HD'))"/></idno></xsl:if>
                 <xsl:if test="contains(TD[position()=28], 'lupa')"><idno type="Lupa"><xsl:value-of select="substring-before(.,';')"/></idno></xsl:if>
                <idno type="localID"><xsl:value-of select="$id"/></idno>

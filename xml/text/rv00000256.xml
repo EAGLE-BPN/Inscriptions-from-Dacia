@@ -8,7 +8,7 @@
             <publicationStmt>
 
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000256</idno>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000256.html</idno>
 
                 <idno type="localID">rv00000256</idno>
                 
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>

@@ -9,13 +9,13 @@
     padding:5px;
 }
 #section{
-    width:800px;
+    width:850px;
     float:left;
     padding:10px;
 }
 #images{
-    width:350px;
-    float:right;
+    width:850px;
+    float:left;
     padding:10px;
 }
 #commentary{
@@ -51,7 +51,7 @@ ul{
     font-family:"Arial Unicode MS", Times, serif;
 }
 .col3{
-    -webkit-columns: 3;
+    -webkit-columns:3;
 }
 #list{
     float:left;

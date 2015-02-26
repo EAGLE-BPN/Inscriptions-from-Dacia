@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:gcse="nothing"
     exclude-result-prefixes="xs tei" version="2.0">
     
     <xsl:variable name="inscription">
@@ -9,13 +10,14 @@
         </xsl:for-each>
     </xsl:variable>
     
-    
+    <xsl:output method="html"/>
     
     <xsl:template match="/">
        
-        <!-- TO BE USED ON GENERAL INDEX creates directly an HTML index of terms with drop down menus for each value which show each inscription related to the term.-->
+        <!-- TO BE USED ON GENERAL INDEX creates directly an HTML index of terms with links to inscriptions which have that value-->
 
         
+
         
         <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
@@ -23,17 +25,6 @@
                 <title>Inscriptions from Dacia</title>
                 <link rel="stylesheet" href="graficagenerale.css" type="text/css"/>
                 
-                <!--java for select and go to url-->
-                
-                <script type="text/javascript">
-                    <!--
-function go(){
-location=
-list.inscriptions.
-options[list.inscriptions.selectedIndex].value
-}
-//-->
-                </script>
                 
             </head>
             <body>
@@ -48,13 +39,13 @@ options[list.inscriptions.selectedIndex].value
                     <br/>
                     <a href="Bibliografia.html">Bibliography</a>
                     <br/>
-                    <a href="../inscriptionbyprovenance.html">Inscriptions by provenance</a>
+                    <a href="inscriptionsbyplace.html">Inscriptions by provenance</a>
                     <br/>
-                    <!--
+                    
             <br />
-            <script>
+           <script>
   (function() {
-    var cx = '004934001066682767631:fb5smmh8ili';
+    var cx = '004934001066682767631:o6msemn59ww';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -64,7 +55,7 @@ options[list.inscriptions.selectedIndex].value
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-            <gcse:searchbox-only></gcse:searchbox-only>-->
+<gcse:search></gcse:search>
                 </div>
 
                 <div id="section">
@@ -80,7 +71,7 @@ options[list.inscriptions.selectedIndex].value
                                
                                 <xsl:sort order="ascending" select="lower-case(.)"/>
                                 <tr>
-                                    <td><a>
+                                    <td><a target="_blank">
                                     <xsl:attribute name="href">
                                         <xsl:value-of select="@ref"/>
                                     </xsl:attribute>
@@ -90,7 +81,7 @@ options[list.inscriptions.selectedIndex].value
                                     </td>
                                         
                                         <td>
-                                            <xsl:for-each select="current-group()"><a href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                            <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
                                         </td>
 
                                </tr>
@@ -106,7 +97,7 @@ options[list.inscriptions.selectedIndex].value
                                 
                                 <xsl:sort order="ascending" select="lower-case(.)"/>
                                 <tr>
-<td>                                    <a>
+                                    <td>                                    <a target="_blank">
                                         <xsl:attribute name="href">
                                             <xsl:value-of select="@ref"/>
                                         </xsl:attribute>
@@ -114,7 +105,7 @@ options[list.inscriptions.selectedIndex].value
                                     </a>
 </td>                                  <td>  <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text></td>
                                     <td>
-                                        <xsl:for-each select="current-group()"><a href="{concat('/text/',../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../tei:fileDesc/tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                        <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/text/',../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../tei:fileDesc/tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
                                     </td>
                                     
                                 </tr>
@@ -129,7 +120,7 @@ options[list.inscriptions.selectedIndex].value
                                 
                                 <xsl:sort order="ascending" select="lower-case(.)"/>
                                 <tr>
-<td>                                    <a>
+                                    <td>                                    <a target="_blank">
                                         <xsl:attribute name="href">
                                             <xsl:value-of select="@ref"/>
                                         </xsl:attribute>
@@ -141,7 +132,7 @@ options[list.inscriptions.selectedIndex].value
                                     
                                     
                                     <td>
-                                        <xsl:for-each select="current-group()"><a href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                        <xsl:for-each select="current-group()"><a target="_blank" href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
                                     </td>                                    
                                 </tr>
                             </xsl:for-each-group>

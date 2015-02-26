@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000005</idno>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000005.html</idno>
 
   <idno type="localID">fm00000005</idno>
 <availability>
@@ -114,17 +114,17 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-25" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
-    <graphic n="ISM I 333_1" url="https://commons.wikimedia.org/wiki/File:ISM I 333_1.jpg">
+    <graphic n="ISM I 333_1" url="https://upload.wikimedia.org/wikipedia/commons/4/48/ISM_I_333_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 333_1.JPG">
        <desc> ISM I 333_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" ISM I 333_2" url="https://commons.wikimedia.org/wiki/File:ISM I 333_2.jpg">
+    <graphic n=" ISM I 333_2" url="https://upload.wikimedia.org/wikipedia/commons/e/e4/ISM_I_333_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 333_2.jpg">
        <desc>  ISM I 333_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

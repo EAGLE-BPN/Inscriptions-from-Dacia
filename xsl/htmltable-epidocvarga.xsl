@@ -40,7 +40,7 @@
             <publicationStmt>
 
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-                <idno type="URI"><xsl:text>inscriptionsfromdacia.altervista.org/text/</xsl:text><xsl:value-of select="$id"/></idno>
+                <idno type="URI"><xsl:text>inscriptionsfromdacia.altervista.org/text/</xsl:text><xsl:value-of select="concat($id,'.html')"/></idno>
 <xsl:if test="TD[position()=32]/text()"><idno type="EDH"><xsl:value-of select="normalize-space(TD[position()=32])"/></idno>
     <idno type="TM"><xsl:variable select="normalize-space(TD[position()=32])" name="tm"/><xsl:value-of select="document('../../Dropbox/Heidelberg/EAGLE/CONTENT_PREPARATION/UPConversion/epidocupconversion/allinone/edh-tm.htm')//td[preceding-sibling::td[lower-case(.) = lower-case($tm)]]"/></idno></xsl:if>
                 <idno type="localID"><xsl:value-of select="$id"/><!--<xsl:choose><xsl:when test="contains(td[position()=2], ';')">

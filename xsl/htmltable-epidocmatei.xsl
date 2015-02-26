@@ -41,7 +41,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI"><xsl:text>inscriptionsfromdacia.altervista.org/text/</xsl:text><xsl:value-of select="$id"/></idno>
+<idno type="URI"><xsl:text>inscriptionsfromdacia.altervista.org/text/</xsl:text><xsl:value-of select="concat($id,'.html')"/></idno>
 <xsl:if test="TD[position()=31]/text()"><idno type="lupa"><xsl:value-of select="normalize-space(TD[position()=31])"/></idno></xsl:if>
             
 <!--NO HD NUMBERS PROVIDED = NO TM APPLICABLE!! and NO valid URI provided!!-->
