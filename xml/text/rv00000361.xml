@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>self-disolving declaration</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000361</idno>
+
+                <idno type="localID">rv00000361</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>1</width>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">9th of February 167</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1788</date>
+                                <placeName>Sf. Iosef mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/379">self-disolving declaration</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AM_12" url="https://commons.wikimedia.org/wiki/File:AM_12.png">
+       <desc> AM_12
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    Descriptum et recognitum factum ex libello, qui propositus <lb n="2"/>erat <expan><abbr>Alb</abbr><ex>urno</ex></expan> maiori ad statione Resculi, in quo scriptum erat <lb n="3"/>id quod <expan><abbr>i</abbr><ex>nfra</ex></expan> <expan><abbr>s</abbr><ex>criptum</ex></expan> est. <lb n="4"/>Artemidorus Apolloni magister college Iovis Cerneni et <lb n="5"/>Valerius Niconis et Offas Menofili questores college eius <lb n="6"/>dem posito hoc libello publice testantur: <lb n="7"/>ex collegio <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>crypto</ex></expan>, ubi errant ho<supplied reason="lost">m</supplied>( ines) LIIII, ex eis non plus <lb n="8"/>remasisse ad <expan><abbr>Alb</abbr><ex>urno</ex></expan> quam quot <expan><abbr>h</abbr><ex>omines</ex></expan> XVII: Iulium Iuli quoque <lb n="9"/>commagistrum suum ex die magisteri sui non accessisse <lb n="10"/>ad Alburnum <expan><abbr>neq</abbr><ex>ue</ex></expan> in collegio: seque eis qui pre <lb n="11"/>sentes fuerunt rationem reddedisse et si quit <lb n="12"/>eorum abuerat reddedisset sive funeribus: 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     et cautionem suam, in qua eis caverat, recepisset: <lb n="2"/>modoque autem neque funeraticis sufficerent <lb n="3"/>neque loculum aberet neque quisquam tam magno <lb n="4"/>tempore diebus, quibus legi continetur, convenire <lb n="5"/>voluerint aut conferre funeraticia sive munera: <lb n="6"/>seque i<supplied reason="lost">d</supplied>circo per hunc libellum publice testantur, <lb n="7"/>ut, si quis defunctus fuerit, ne putet se colle <lb n="8"/>gium abere au tab eis aliquem petition <lb n="9"/>nem funeris abiturum. <lb n="10"/>Propositus <expan><abbr>Alb</abbr><ex>urno</ex></expan> Maiori V idus <expan><abbr>Febr</abbr><ex>uarias</ex></expan> <expan><abbr>imp</abbr><ex>eratore</ex></expan> <expan><abbr>L</abbr><ex>ucio</ex></expan> <expan><abbr>Aur</abbr><ex>elio</ex></expan> Vero III et Quadrato <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan>. <lb n="11"/><expan><abbr>Act</abbr><ex>um</ex></expan> <expan><abbr>Alb</abbr><ex>urno</ex></expan> maiori 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … <expan><abbr>L</abbr><ex>uci</ex></expan> Vasidi Victoris <lb n="2"/><expan><abbr>C</abbr><ex>ai</ex></expan> Secundini Legitimi <lb n="3"/>Stertini Rustici <lb n="4"/>Aeli Platoris Geldonis <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <lb n="6"/>Ulpi Felicis <lb n="7"/>Septembris Platoris 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="4" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … .
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Copied from the minutes posted at statio Resculum from Alburnus Maior: Artemidorus son of Apollonius, magister of the association dedicated to Iupiter Cernenus and Valerius son of Nicos and Offas son of Menofilus, questors of the same association, declare: in the said association, from the 54 initial members, only 17 are still left in Alburnus Maior and Iulius son of Iulius, the other magister, hasn't been to Alburnus since the day of his election. Artemidorus himself cleared his accounts regarding the received money and the money spent for funerals and he also received back the money he had given as guarantee. Now the asociatio has no place for funerals, no money and nobody wants to gather in the established days. Thus, they declare taht the association exists no more and if any of the members was to die, no support will be given for the funeral. Posted in Alburnus Maior, on the 9th of February, when emperor Lucius Aurelius Verus for the third time and Quadratus were consuls.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

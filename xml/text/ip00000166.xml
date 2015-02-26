@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Valeria Dulae</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000166</idno>
+                
+                
+               <idno type="localID">ip00000166</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turda, inv. 81</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>20</height>
+                                         <width>17</width>
+                                         <depth>77</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1912 au pied du plateau Cetate, dans la partie est, lors de l’installation de conduits d’eau.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de l’arrivée, vers 168 de la légion à Potaissa et, avec elle, de la mode de représenter les scènes du banquet funéraire.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1912</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_167" url="https://commons.wikimedia.org/wiki/File:PO_167.jpg">
+       <desc> PO_167
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. I. Russu, AISC 4, 1941-1943, p. 212, no 24 </bibl><bibl> AMN 4, 1967, p. 91 </bibl><bibl> M. Jude, C. Pop, Monumente sculpturale romane în Muzeul de Istorie Turda, Cluj 1973, p. 7-8, no 2, pl. II </bibl><bibl> ILD 13.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>V <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXXI titulun <expan><abbr>pos</abbr><ex>uit</ex></expan> <expan><abbr>Volus</abbr><ex>ius</ex></expan> <lb n="4"/>Titianus co<expan><ex>n</ex><abbr>iugi</abbr></expan> <expan><abbr>pie</abbr><ex>n</ex></expan> <lb n="5"/><expan><abbr>tis</abbr><ex>simae</ex></expan><expan><ex>coni</ex><abbr>ugi</abbr></expan> <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erenti</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Valeria Dula, a vécu 31 ans. Volusius Titianus a érigé l’inscription à l’épouse très pieuse, à l’épouse qui a bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le relief est surmonté par un fronton triangulaire ayant dans son intérieur des motifs végétaux. Le relief, encadré par un bord simple, représente la scène du banquet funéraire. Un défunt barbu, vêtu d’une tunique, est allongé sur la kliné et tient dans sa main gauche une coupe. Auprès de lui est assis un enfant(?), qu’il tient avec sa main droite derrière les épaules. Une femme assise à l’extrémité gauche porte une robe longue. Devant la kliné se trouve une mensa tripes avec le panneau représenté sans aucune idée de perspective, sur laquelle on distigue des vivres. La l. 1 de l’inscription est écrite dans la partie inférieure du relief. La défunte porte un cognomen, Dula, d’origine thrace, cf. D. Detschew, Sprachreste, p. 12-13 ; I. I. Russu ; D. Dana, Orbis antiquus, p. 439, et pas un patronymique de la même origine(comme sont enclins à croire Russu et Dana) ; par erreur Valeria se trouve au nominatif et Dulae au datif. L. 3-4 : titulun à la place de titulum(Russu), cf. Petolescu, HD : Ittu / iun ; l. : coiugi à la place de coniugi ; l. -6, M. Jude, C. Pop : co(n)iugi pie / [ ntissimae … et ?] b(ene) m(erenti).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

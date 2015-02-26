@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000363</idno>
+
+                <idno type="localID">rv00000363</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>Museum of Blaj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>7</width>
+                                         <depth>11</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">16th of May 142</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1854</date>
+                                <placeName>Sf. Ecaterina mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AM_14" url="https://commons.wikimedia.org/wiki/File:AM_14.png">
+       <desc> AM_14
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    Dasius Breucus emit mancipioque accepit <lb n="2"/>puerum Apalaustrum, sive is quo alio nomine <lb n="3"/>est, <expan><abbr>n</abbr><ex>atione</ex></expan> Grecum, apocatum pro uncis duabus <lb n="4"/>x DC de Bellioco Alexandri, <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>r</abbr><ex>ogato</ex></expan> <expan><abbr>M</abbr><ex>arco</ex></expan> Vibio Longo esse <lb n="5"/>Eum puerum sanum traditum furtis noxaque <lb n="6"/>solutum, erronem fugitium caducum non esse <lb n="7"/>prestari; et si quis ex eo eviderit, <expan><abbr>q</abbr><ex>uo</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> <lb n="8"/>uti frui habere <expan><abbr>possidereq</abbr><ex>ue</ex></expan> recte liceat: <lb n="9"/>tunc quantum id erit quod ita ex eo evictum fuerit 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     duplam <lb n="2"/><expan><abbr>t</abbr><ex>antam</ex></expan> <expan><abbr>p</abbr><ex>ecuniam</ex></expan> <expan><abbr>p</abbr><ex>robam</ex></expan> <expan><abbr>r</abbr><ex>ecte</ex></expan> <expan><abbr>d</abbr><ex>ari</ex></expan> <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>r</abbr><ex>ogavit</ex></expan> Dasius Breucus, <expan><abbr>d</abbr><ex>ari</ex></expan> <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>p</abbr><ex>romisit</ex></expan> <lb n="3"/>Bellicus Alexandri. Id<supplied reason="lost">em</supplied>fide sua esse <lb n="4"/>iussit Vibius Longus. <lb n="5"/>Proque eo puero, <expan><abbr>q</abbr><ex>ui</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptus</ex></expan> est, pretium, <lb n="6"/>eius x DC accepisse et habere se dixit <lb n="7"/>Bellicus Alexandria b Dasio Breuco. <lb n="8"/><expan><abbr>Act</abbr><ex>um</ex></expan> <expan><abbr>kanab</abbr><ex>is</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>g</abbr><ex>emine</ex></expan> XVII <expan><abbr>kal</abbr><ex>endas</ex></expan> Iunias <lb n="9"/>Rufino et Quadrato <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan>. 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … <lb n="2"/>Appi Proculi <expan><abbr>vet</abbr><ex>erani</ex></expan> <lb n="3"/><expan><abbr>leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>g</abbr><ex>eminae</ex></expan> <lb n="4"/>Antoni Celeris <lb n="5"/><expan><abbr>Iul</abbr><ex>i</ex></expan> Viatoris <lb n="6"/><expan><abbr>Ulp</abbr><ex>i</ex></expan> Severi <lb n="7"/>ni <lb n="8"/><expan><abbr>L</abbr><ex>uci</ex></expan> Firmi Primiti <lb n="9"/>vi <lb n="10"/><expan><abbr>M</abbr><ex>arci</ex></expan> Vibi Longi <lb n="11"/><expan><abbr>fideiussor</abbr><ex>is</ex></expan> <lb n="12"/>Bellici Alex<supplied reason="lost">a</supplied>n <lb n="13"/>dri <expan><abbr>venditor</abbr><ex>is</ex></expan> 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="4" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     …
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Dasius son of Breucus bought a boy slave, known by the name of Apalaustus or any other name, reek by nation, for the price of 600 denarii, from Belicus son of Alexander. M. Vibius Longus guaranteed the transaction with good faith. It is guaranteed that the boy is healthy, didn't show an iinclination towards theft or any other damaging activity, isn't a runaway of a different master; if any of this is different, Dasius son of Breucus requested the same amount of money back and Belicus son of Alexander agreed. Marcus Vibius Longus guranteed in good faith. Bellicus son of Dassius stated that he received the 600 denarii from Dasius son of Breucus. Signed in the canabae of the 13th Gemina legion, on the 16th of May, when Rufinus and Quadratus were consuls.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

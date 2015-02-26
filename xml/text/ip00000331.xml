@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription pour Jupiter Dolichenus par trois de ses prêtres.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000331</idno>
+                
+                
+               <idno type="localID">ip00000331</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>104</height>
+                                         <width>61</width>
+                                         <depth>60</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1996 dans la chambre b du temple dolichénien (édifice LM1-S), au nord du camp de Pomet.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0238" notAfter-custom="0244" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">238-244, en raison de la titulature de l'empereur Gorien III.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1996</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_12" url="https://commons.wikimedia.org/wiki/File:POR_12.jpg">
+       <desc> POR_12
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, D. Tamba, Dolichenus, p. 25, no 1 = p. 97, no 1, fig. 16-17 (photo, dessin) </bibl><bibl> iidem, Apulum 38, 2001, p. 174, fig. 5 (photo) </bibl><bibl> C. C. Petolescu, Epigrafia latină, p. 228-230, no 75 </bibl><bibl> I. Piso, AMN 38, 2001, p. 225-228, fig. 2 a-b (photo et dessin) </bibl><bibl> AE 2001, 1707 </bibl><bibl> C. C. Petolescu, SCIVA 54-56, 2003-2005, p. 381-381, no 1066 </bibl><bibl> ILD 684 </bibl><bibl> C. C. Petolescu, dans : Pouvoir et religion dans le monde romain en hommage à Jean-Pierre Martin, Paris 2006, p. 464-465, no 7 </bibl><bibl> voir AE 2006, 1125 </bibl><bibl> M. Popescu, dans : La « Crise » de l’Empire romain de Marc Aurèle à Constantin. Mutations, continuités, ruptures, Paris 2006, p. 481-496, fig. 1 (dessin) </bibl><bibl> voir AE 2006, 1124.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <supplied reason="lost"><expan><abbr>D</abbr><ex>olicheno</ex></expan></supplied> <lb n="2"/>pro salute eṭ <supplied reason="lost">incolu</supplied> <lb n="3"/>mitate <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>C</abbr><ex>aesaris</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> <supplied reason="lost"><expan><abbr>Ant</abbr><ex>onii</ex></expan></supplied> <lb n="4"/>Gordiani Pii <expan><abbr>Fel</abbr><ex>icis</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <lb n="5"/>5 et <expan><abbr>coh</abbr><ex>ortis</ex></expan> III <expan><abbr>Camp</abbr><ex>estris</ex></expan> <expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Aur</abbr><ex>elius</ex></expan> Flạ <lb n="6"/><expan><ex>v</ex><abbr>us</abbr></expan> IIIIvir <expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>S</abbr><ex>eptimii</ex></expan> <expan><abbr>P</abbr><ex>orolissensis</ex></expan> <expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Ant</abbr><ex>onius</ex></expan> Maxiṃụ<supplied reason="lost">s</supplied> <lb n="7"/><expan><abbr>vet</abbr><ex>eranus</ex></expan> ẹt ḍẹ<expan><abbr>c</abbr><ex>urio</ex></expan> ọ<supplied reason="lost">rnat</supplied>us <expan><abbr>ornam</abbr><ex>entis</ex></expan> <expan><abbr>IIIIvir</abbr><ex>alibus</ex></expan> <lb n="8"/><expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripti</ex></expan> et Ạụṛẹ(lius) Fla<expan><ex>v</ex><abbr>us</abbr></expan> <expan><abbr>dec</abbr><ex>urio</ex></expan> <expan><abbr>m</abbr><ex>unicipii</ex></expan> vegesi<supplied reason="lost">m</supplied>ạ<supplied reason="lost"><expan><abbr>r</abbr><ex>ius</ex></expan></supplied> <lb n="9"/>ṣacerdotes dei et coḥ(ortis) <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptae</ex></expan> <supplied reason="lost">t</supplied>eṃp<supplied reason="lost"><expan><abbr>l</abbr><ex>um</ex></expan> cum</supplied> <lb n="10"/>10 tabernis <expan><ex>a</ex><abbr>ere</abbr></expan> suo feceṛu<supplied reason="lost">nt</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>N. Gudea, D. Tamba : I(oui) O(ptimo) M(aximo) D(olicheno) / PRO SALVTE ET INCOLV/MITATE IMP(eratoris) C(aesaris) M(arci) ANTONI / GORDIANI PII F(elicis) AVG(usti) /5 ET COH(ortis) III CAMP(estris) M(arcus) AVREL(ius) ITAL/VS IIII VIR M(unicipii) S(eptimii) P(orolissensium) (et) ANT(onius) MAVIUS / VET(eranus) ET DEC(urio) ORNAT(us) ORNAMEN(tis) IIII VIR(alibus) / COL(oniae) S(upra) S(criptae) ET ACIVS FLAVVS ET C(aius) M(arcius) VEGESIVS / SACERDOTES D(ei) I(ovi) ET COL(oniae) S(upra) S(criptae) TEMPLVM ET /10 TABERNIS (a)ERE SVO FECERVNT. La plus grave erreur est la supposition qu’à Porolissum aurait existé une colonie auprès du municipe ; voir aussi C. C. Petolescu.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand, (Dolichenus), pour le salut et la sauvegarde de l'empereur César Marcus (Antonius) Gordianus pieux (et) heureux Auguste et de la IIIème cohorte Campestris. Marcus Aurelius Flavus, quattuorvir du municipe Septimium Porolissense, Marcus Antonius Maximus, vétéran et décurion décoré d'ornements quattuorviraux du muncipe ci-dessus mentionné, et Aurelius Flavus, décurion du municipe (et) vicesimarius, prêtres du dieu et de la cohorte ci-dessus mentionnée, ont construit à leurs frais le temple (avec) les tabernes.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les trois prêtres de Dolichenus étaient des dignitaires du municipe de Porolissum. Pour la chute du v dans Flavus voir H. Mihăescu, La langue latine, p. 195. Pour la transformation du i en e dans vigesimarius voir H. Mihăescu, p. 175-176. Le vegesimarius est un fermier de la vigesima hereditatium, soit de la vigesima libertatis, au compte du fisque ; voir I. Piso, AMN 38, 2001, p. 232 ; idem, Fasti II, p. 7-8. Le passage sacerdotes dei et coh(ortis) s(upra) s(criptae) (l. 9) ne doit pas nous faire croire que les trois auraient été des prêtres officiels de la cohorte. Le vrais sens est qu’ils célébraient le culte de Jupiter Dolichenus dans le vicus situé dans l’immédiate proximité du camp où stationnait la troupe ; voir I. Piso, AMN 38, 2001, p. 229. Sous Septime Sévère ou sous Caracalla la cohors III Campestris ∞ remplaça dans le camp de Pomet la cohors I Ulpia Brittonum ∞ ; pour la cohors III Campestris ∞ à Porolissum voir I. Piso, AMN 38, 2001, p. 229-230</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

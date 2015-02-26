@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Liber pater pour le salut de l'empereur Antonin le Pieux</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000495</idno>
+                
+                
+               <idno type="localID">ip00000495</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Caraș-Severin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Jupa</placeName>                     
+                        </settlement>
+                        <repository>Muzeul Banatului Timișoara</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque votive de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>50</height>
+                                         <width/>
+                                         <depth>180</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Quinze morceaux trouvés près du camp auxiliaire de Tibiscum
+                                <placeName ref="www.trismegistos.org/place/030131">Tibiscum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0138" notAfter-custom="0161" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des années 138-161.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>Jupa</placeName> 
+                            <placeName type="modernRegion">Jud. Caraș-Severin</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>IDR III/1, 181 (un seul )</bibl><bibl> I. Piso, D. Benea, AMN 36, 1999, p. 91-96, no 1 (tous les s), fig. 1 a-b (photo et dessin)</bibl><bibl> AE 1999, 1295.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">L</supplied>iber<supplied reason="lost">o patri pr</supplied>o sa<supplied reason="lost">l</supplied>ute <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <supplied reason="lost">Ca</supplied>e<supplied reason="lost"><expan><abbr>s</abbr><ex>aris</ex></expan> <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>Ael</abbr><ex>ii</ex></expan></supplied> H[a <lb n="2"/>driani Antonini <expan><abbr>Aug</abbr><ex>usti</ex></expan>] Pi[i et <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>Aurel</abbr><ex>ii</ex></expan> Veri <lb n="3"/><expan><abbr>Caes</abbr><ex>aris</ex></expan> <expan><abbr>ceterorumq</abbr><ex>ue</ex></expan> liberorum] ei<supplied reason="lost">u</supplied>s <lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> le</supplied><expan><abbr>g</abbr><ex>atus</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> [<expan><abbr>pr</abbr><ex>aetore</ex></expan> <lb n="5"/>tem]pl<supplied reason="lost" cert="low">um? - - - fecit</supplied><supplied reason="lost"> per vex</supplied>illation[em <lb n="6"/>Pal]myren<supplied reason="lost" cert="low">or(um) cu</supplied><supplied reason="lost"/>ra <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>bun<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="7"/>fru<supplied reason="lost" cert="low">gifero</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Liber (Pater) pour le salut de l'empereur César (Titus Aelius Hadrianus Antoninus Augustus) Pius et de (Marc Aurèle Verus César et de ses autres enfants), ... gouverneur, a érigé le temple(?) par la vexillation des Palmyréniens par les soins de ... à celui qui apporte des récoltes.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il s'agit de la base d'un grand groupe statuaire un d'une inscription de construction d'un temple pour Liber pater. Il s'agit d'une vexillation de Palmyreni sagittarii, qui vers la fin du règne d'Antonin le Pieux deviendra le numerus Palmyrenorum Tibiscensium. Les lettres de la fin de la l. 6 appartiennent probablement au cognomen du commandant de la troupe.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>instrumentum militare</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000113</idno>
+
+                <idno type="localID">rv00000113</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Museum of Sarmizegetusa(there are 94 pieces)</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1788">brick</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/131">clay</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>3</height>
+                                         <width>14</width>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">the cartouche is a tabula ansata</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/8">stamped</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">2,62,8</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">during the governance of D.Terentius Scaurianus(109-110?) ?</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>forum vetus</placeName> 
+                            <placeName type="modernRegion">Hunedoara</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term>instrumentum militare</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="UTS_109" url="https://commons.wikimedia.org/wiki/File:UTS_109.png">
+       <desc> UTS_109
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III, 1633, 15 = 8075, 15</bibl><bibl> Fr. Studniczka, AEM 8, 1884, p. 47, no11</bibl><bibl> G. Téglás, P.König, AEM 8, 1884, p. 54, no 5(= CIL III, 8075, 16)</bibl><bibl> B. Kuzsinszky, AErt 8, 1888, p. 242</bibl><bibl> Al. Bărcăcilă, ArhOlt 2, 1923, p. 190</bibl><bibl> C. Daicoviciu 1927-1932, p. 543-544, 552, fig. 49, nos 2, 4</bibl><bibl> Christescu, p. 75</bibl><bibl> Szilágyi, p. 58, pl. XIX, no290</bibl><bibl> Macrea, VDR, p. 315</bibl><bibl> I. I. Russu, SCIVA 25 / 4, 1974, p. 591-592, no6, fig. 6</bibl><bibl> Branga 1974-1975, p. 90, noXXVIII, p. 99, pl. VI, fig. 7</bibl><bibl> 1978, p. 76,fig. 8</bibl><bibl> Gudea 1978, p. 140</bibl><bibl> IDR III / 2, 563</bibl><bibl> H. Daicoviciu et coll. 1981, p. 252, 254, fig. 7, no8</bibl><bibl> H.Daicoviciu-Alicu 1984, p. 189, fig. 78</bibl><bibl> Piso 1996, p. 160-162, no9 = 2005, p.303-304, no 9</bibl><bibl> AE 1996,1283.</bibl><bibl>I. Piso, Le vorum vetus de Sarmizegetusa, Bucuresti, 2006, p. 320-321.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Pr</abbr><ex>aedia</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan> <expan><abbr>sive</abbr><ex>ex</ex></expan> <expan><abbr>pr</abbr><ex>aediis</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    of the consular's propriety</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

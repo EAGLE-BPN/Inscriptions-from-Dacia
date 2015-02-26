@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000039</idno>
+                
+                <idno type="Lupa">
+				8 / 14 / 2013 14:36:00
+				Inscription votive
+				PO_40
+				I. Téglás, AÉrt 3, 191, p. 4, fig. 3, p. 46 </idno>
+               <idno type="localID">ip00000039</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul Național de Antichități, București, inv. L 204.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>69</height>
+                                         <width/>
+                                         <depth>31</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">scultpées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en septembre 19 sur la propriété de Bethlen Sándor lors des travaux agricoles sur la pente de la Cetate, en extérieur du camp légionnaire, dans des ruines romaines.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIe siècle, en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>19</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_40" url="https://commons.wikimedia.org/wiki/File:PO_40.jpg">
+       <desc> PO_40
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Téglás, AÉrt 3, 191, p. 4, fig. 3, p. 46 </bibl><bibl> N. Gostar, Dacia 4, 1960, p. 19-22, fig. 1-2(photo et dessin) </bibl><bibl> J. et L. Robert, BullÉp 1962, p. 192, no 24 </bibl><bibl> E. Lane, Berytus 1, 1964, p. 12 C </bibl><bibl> I. I. Russu, Studii și comunicări Sibiu 12, 196, p. 71, no 32, fig. 32(dessin) </bibl><bibl> E. Bujor, Apulum 6, 1967, p. 186-189, no 3, fig. 1 / 3 </bibl><bibl> AE 1967, 398 </bibl><bibl> SEG 24, 1969, 116 </bibl><bibl> E. Lane, Corpus monumentorum religionis Dei Menis(= EPRO 19) I, Leiden 1971, p. 13-14, no 21(dessin) </bibl><bibl> CIGD 67 </bibl><bibl> ILD 04.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Μηνὶ ἀνει <lb n="2"/><surplus>ι</surplus>κήτῳ <expan><abbr>Aur</abbr><ex>elius</ex></expan> <lb n="3"/>Marcianuṣ <lb n="4"/>ṣignifer <lb n="5"/>lẹ<expan><abbr>g</abbr><ex>ionis</ex></expan> voto <lb n="6"/>posuit.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À l’invaincu Men. Aurelius Marcianus, signifer de la légion, érigea(ceci) à la suite d’un vœu.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>C’est C. Daicoviciu(RE XXII / 1(193), 19) qui a reconnu dans le dessin de Téglás cette divinité lunaire micro-asiatique : MENI ANEIKHTΩ ; cf. Gostar : Μηνὶ ἀνει / {ι}κή [ τ]ῳ ; J. et L. Robert : Μηνὶ ἀνει / {ι}κή(τ)ῳ; Russu: Μηνὶ ἀνε / ικήτω; pour Men voir A. Lesky, RE XV / 1(1931), 689-697 ; pour le culte de cette divinité en Dacie voir Al. Popa, Apulum 6, 1967, p. 14-161. L’épithète ἀνίκητος(invictus) n’est pas connu pour Men, ce qui indique une possible contamination avec Mithra ou Helios(Daicoviciu, Gostar). Russu n’exclue pas une erreur du lapicide. L., Gostar, J. et L. Robert, Lane : l [ e]g(ionis) ; Petolescu: leg(ionis) ; Bujor, AE : l(egionis) G(eminae) ; pourtant, entre le L et le G semble se trouver un H, donc un E grec.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

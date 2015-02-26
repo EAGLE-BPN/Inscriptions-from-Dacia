@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de construction des principia du camp légionnaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000158</idno>
+                
+                
+               <idno type="localID">ip00000158</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Provient des principia du camp légionnaire.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0019" notAfter-custom="0019" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 19, en raison du chiffre de la puissance tribunicienne de l'empereur.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>173</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_19" url="https://commons.wikimedia.org/wiki/File:PO_19.jpg">
+       <desc> PO_19
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 90(+ p. 14) </bibl><bibl> I. Piso, Fasti I, p., no 2</bibl><bibl> M. Bărbulescu, Inscriptions, p. 2-7, no 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Imp</abbr><ex>erator</ex></expan> <expan><abbr>Caes</abbr><ex>ar</ex></expan> <expan><abbr>L</abbr><ex>ucius</ex></expan> <expan><abbr>Sep</abbr><ex>timius</ex></expan> Severus <expan><abbr>P</abbr><ex>ius</ex></expan> <expan><abbr>Pert</abbr><ex>inax</ex></expan> <expan><abbr>Aug</abbr><ex>ustus</ex></expan> <lb n="2"/><expan><abbr>Arab</abbr><ex>icus</ex></expan> <expan><abbr>Adiabenic</abbr><ex>us</ex></expan> <expan><abbr>pont</abbr><ex>ifex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <lb n="3"/><expan><abbr>pot</abbr><ex>estate</ex></expan> III <expan><abbr>imp</abbr><ex>erator</ex></expan> VII co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> II proco<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <lb n="4"/><expan><abbr>leg</abbr><ex>ioni</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> &lt;<expan><abbr>f</abbr><ex>ideli</ex></expan>&gt; <expan><abbr>don</abbr><ex>o</ex></expan> dedit dedicante <lb n="5"/><expan><abbr>P</abbr><ex>ublio</ex></expan> Septimio Geta <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan> <lb n="6"/>cura agente <expan><abbr>Tib</abbr><ex>erio</ex></expan> C <supplied reason="lost"> <expan><abbr>l</abbr><ex>audio</ex></expan></supplied> Claudiano <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 4, Mommsen: P∙P.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L’empereur César Lucius Septimius Severus Pius Pertinax Auguste, vainqueur des Arabes, vainqueur des Adiabènes, grand pontife, investi de la puissance tribunicienne pour la septième fois, acclamé empereur à sept reprises, consul à deux reprises, proconsul, père de la patrie, en a fait don à la Vème légion Macedonica la pieuse(et) la fidèle, dédicant étant Publius Septimius Geta, légat d’Auguste en qualité de pro praetore(gouverneur), de ceci s’occupant Tiberius Claudius Claudianus, légat d’Auguste(légat de légion).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L'empereur Septime Sévère a fait don à la legion d’un édifice essentiel, qui ne pouvait être que l'édifice du commandement de la légion(principia). P. Septimius Geta, le frère de l’empereur, a gouverné la Dacie dans l’intervalle 194 / 19-197?(I. Piso, Fasti I, p. -16, no 31). Ti. Claudius Claudianus a commandé la légion de Potaissa en 19-196(I. Piso, Fasti I, p. 270-276, no 69).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

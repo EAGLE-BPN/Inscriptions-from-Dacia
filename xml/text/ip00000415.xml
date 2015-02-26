@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Victoria Afra</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000415</idno>
+                
+                
+               <idno type="localID">ip00000415</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Bloc en granit rougeâtre, sculpté aproximativement en forme de parallélépipède.</objectType>
+                                    <material>granit rougeâtre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>225</height>
+                                         <width>55</width>
+                                         <depth>55</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1868 sous la colline Pomet, probablement dans le cimetière romain.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison de l´écriture très primitive et du matériel utilisé, très tard, probablement de la fin de la province.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1868</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_96" url="https://commons.wikimedia.org/wiki/File:POR_96.jpg">
+       <desc> POR_96
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 6249 = 7640 </bibl><bibl> Gudea, V. Lucăcel, Inscripții, p. 15-16, no 15 (photo) </bibl><bibl> N. Gudea, AMP 13, 1989, p. 773, no 59, p. 1142, pl. CCLXXIX.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Victoriae <lb n="3"/>Afr<expan><ex>a</ex><abbr>e</abbr></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="4"/><expan><abbr>an</abbr><ex>nis</ex></expan> XX <expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ae</abbr><ex cert="low">lius </ex></expan> G <lb n="5"/>5 ula patro <lb n="6"/>nus <expan><abbr>liber</abbr><ex>tae</ex></expan> <lb n="7"/>libertae <expan><abbr>b</abbr><ex>ene</ex></expan> <lb n="8"/><expan><abbr>m</abbr><ex>erenti</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>A. v. Domaszewski (CIL 7640) : D M / VICTORIAI / ẠỊỊFRF VIX / AN XX P∙AIC /5 VLA PATRO/NVS LIBER / LIBERTE B / M ; Gudea, V. Lucăcel, N. Gudea : D(is) M(anibus) / Victoriai / Afr(a)e vix(it) / an(nis) XX pat /5 …. patro/nus liber( ?) / libert(a)e b(ene) / m(erenti).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Victoria Afra, (qui) a vécu 20 ans. Publius Aelius( ?) Gula, patron, (érigea ceci) à l’affranchie, à l’affranchie qui a bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Pour le nomen Victorius voir W. Schulze, Eigennamen, p. 260 ; H. Solin, O. Salomies, Repertorium, p. 208 ; pour le cognomen Gula voir Repertorium, p. 340. L. 7 : on répète le mot libert(a)e. Il y a pourtant une contradiction : normalement le nomen de l’affranchie devrait être identique à celui de son patron. L. 7 : liberte sans a.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

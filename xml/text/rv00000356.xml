@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000356</idno>
+
+                <idno type="localID">rv00000356</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>National Museum of Budapest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width/>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">23rd of October 163</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>19th century</date>
+                                <placeName/> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AM_7" url="https://commons.wikimedia.org/wiki/File:AM_7.png">
+       <desc> AM_7
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Laelia<supplied reason="lost">no</supplied>et<supplied reason="lost">Pa</supplied>store <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan> X.. k<supplied reason="lost">a</supplied><expan><abbr>l<supplied reason="lost">endas</supplied>Novembr</abbr><ex>es</ex></expan> Adiutor Macari scripsi rogatus <lb n="2"/><supplied reason="lost">co</supplied>ram ipso pra<supplied reason="lost">e</supplied>senti <expan><abbr>L</abbr><ex>ucio</ex></expan> Ulpio Valerio, quia s<supplied reason="lost">e</supplied>litteras scire negavit, it q<supplied reason="lost">uos</supplied> di<lb break="no" n="3"/>xit se loca<supplied reason="lost">sse</supplied>et locavit Socrationi <expan><abbr>S<supplied reason="lost">o</supplied>c</abbr><ex>r</ex></expan> atis<supplied reason="lost">op</supplied>eras sua ex<supplied reason="lost">ha</supplied>c<supplied reason="lost">d</supplied>ie in i<supplied reason="lost">dus</supplied> <lb n="4"/>sequentes anno uno x<supplied reason="lost" cert="low">sept</supplied>aginta. Mer<supplied reason="lost">c</supplied>edes suis tem<supplied reason="lost">poribus solv</supplied>entu<supplied reason="lost">r</supplied> <lb n="5"/>Quas opers sanas valentes<supplied reason="lost">ede</supplied>re debebit<gap reason="lost" extent="unknown" unit="character"/> <lb n="6"/>inpedierit<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied><supplied reason="lost">d</supplied>ebe<supplied reason="lost">bit </supplied><gap reason="lost" extent="unknown" unit="character"/>dis <lb n="7"/><supplied reason="lost">c</supplied>edere vel cessare<gap reason="lost" extent="unknown" unit="character"/> <lb n="8"/>cessatis<gap reason="lost" extent="unknown" unit="character"/> <lb n="9"/><supplied reason="lost">aut<certainty locus="name" match="preceding-sibling::text()" cert="low"/> </supplied><gap reason="lost" extent="unknown" unit="character"/> <lb n="10"/>A<supplied reason="lost">ct. A</supplied>l<supplied reason="lost">b.</supplied>ma<supplied reason="lost">iori</supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    When Laelianus and Pastor were consuls, on the 23rd of October, I Adiutor son of Macarius wrote this for Lucius Ulpius Valerius, who declared he couldn't write. Thus, the latter lends his manpower to Socration son of Socrates, for a period of one year, for 70 denarii. The payments will be made when established. He will have to work hard and forcefully...Sealed at Alburnus Maior....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

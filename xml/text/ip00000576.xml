@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive pour Hercule</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000576</idno>
+                
+                
+               <idno type="localID">ip00000576</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Dolj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cioroiul Nou</placeName>                     
+                        </settlement>
+                        <repository>Musée de Craiova, inv. I 28243</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Statuette votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>11.5</height>
+                                         <width/>
+                                         <depth>31</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">1.3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1964 sur le champ.
+                                <placeName ref="www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1964</date>
+                                <placeName>Cioroiul Nou</placeName> 
+                            <placeName type="modernRegion">Jud. Dolj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="CN_1" url="https://commons.wikimedia.org/wiki/File:CN_1.jpg">
+       <desc> CN_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. S. Nicolăescu-Plopșor, Revista Muzeelor 2/3,1965, p. 203–207</bibl><bibl> D. Tudor, Latomus 25/4, 1966, p. 847</bibl><bibl> C. Daicoviciu, AMN 2, 1965, p. 654–655</bibl><bibl> IDR II 142</bibl><bibl> D. Bondoc, Inscripții și piese sculpturale. Muzeul Olteniei Craiova, Craiova 2004, p. 12, no 6</bibl><bibl> idem, Cioroiu Nou. 100 descoperiri arheologice, Craiova 2010, p. 27, no 1</bibl><bibl> 141, no 1</bibl><bibl> p. 79, pl. 1</bibl><bibl> H. W. Müller, I. Piso, B. Schwaighofer, M. Benea, Der Marmor im römischen Dakien, Cluj-Napoca 2012, p. 59, CN 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>M</abbr><ex>arcus</ex></expan> Opellius Maximus <lb n="2"/><supplied reason="lost"><expan><abbr>dec</abbr><ex>urio</ex></expan> Mo</supplied>ntanensium Herculi <lb n="3"/><supplied reason="lost">pro <expan><abbr>sal</abbr><ex>ute</ex></expan> Ma</supplied>ḷvensium ex voto posuit.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Marcus Opellius Maximus, décurion des Montanenses, érigea (ceci) à Hercule pour le salut des Montanenses.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>C. S. Nicolăescu-Plopșor: [Mal]vensium; C. Daicoviciu: [Aeq]uensium; D. Tudor: [Aq]uensium. Correcte est la première lecture, ce qui ne signifie pas que Cioroiul Nou pourrait être identifiée à l'ancienne Malva. Les Montanenses étaient les habitants de Montana, de Mésie Inférieure.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

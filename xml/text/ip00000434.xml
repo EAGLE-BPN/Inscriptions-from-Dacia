@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription dédiée à Jupiter par un beneficiarius consularis</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000434</idno>
+                
+                
+               <idno type="localID">ip00000434</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>Mus. Dej</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>86</height>
+                                         <width>35</width>
+                                         <depth>44</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé à Samum prbablement lors de fouilles de Em. Panaitescu de 1928-1929 et vu en 1956 dans le musée de Dej par I. I. Russu
+                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">L. Annius Arrianus et C. Cervonius Papus exercèrent leur consulat en 243 (A. Degrassi, Fasti consolari, p. 67).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1928/1929?</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. I. Russu, Activitatea Muzeelor 2, 1956, p. 131, no 9 </bibl><bibl> idem, AMN 6, 1969, p. 183 </bibl><bibl> Al. Popa, I. Berciu, Jupiter Dolichenus, p. 19, no 17 </bibl><bibl> S. Sanie, Cultele orientale I, p. 256-257, no 11 </bibl><bibl> CCID 131 </bibl><bibl> E. Schallmayer et alii, Osterburken I, p. 405-406, no 525 </bibl><bibl> D. Isac, dans : Osterburken II, p. 212, no 13, pl. III/13 (photo) </bibl><bibl> ILD 769 </bibl><bibl> M. Popescu, dans : La « Crise » de l’Empire romain de Marc Aurèle à Constantin. Mutations, continuités, ruptures (éd. M.-H. Quet), Paris 2006, 490 </bibl><bibl> AE 2006, 1124 </bibl><bibl> I. Piso, G. Cupcea, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <expan><abbr>Dol</abbr><ex>icheno</ex></expan> <lb n="2"/><expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> M<supplied reason="lost">a</supplied>rc<supplied reason="lost">e</supplied>ḷ <lb n="3"/>linus <supplied reason="lost"><expan><abbr>b</abbr><ex>ene</ex><abbr>f</abbr><ex>iciarius</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan></supplied> ḷ<expan><abbr>eg</abbr><ex>ionis</ex></expan> <lb n="4"/>V <expan><abbr>M</abbr><ex>acedonicae</ex></expan> Gọ<supplied reason="lost"><expan><abbr>rd</abbr><ex>ianae</ex></expan> agens Sa</supplied> <lb n="5"/>5 <supplied reason="lost">mo cum <expan><abbr>reg</abbr><ex>ione</ex></expan> <expan><abbr>Ans</abbr><ex cert="low">amensium </ex></expan> sub</supplied> <lb n="6"/><supplied reason="lost"><expan><abbr>sig</abbr><ex>nis</ex></expan> (primum) pro <expan><abbr>sal</abbr><ex>ute</ex></expan> sua suo</supplied> <lb n="7"/><expan><abbr>rumq</abbr><ex>ue</ex></expan> <supplied reason="lost">omn</supplied>ịụm <lb n="8"/><expan><abbr>v</abbr><ex>oto</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan> <lb n="9"/><supplied reason="lost">A</supplied>rriano et Papo co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Tous nos devanciers ont lu dans les l. 2-3 le nom P(ublius) Aelius Procu/linus ; or, un tel beneficiarius n’exista pas ; cf. E. Schallmayer et alii, C. C. Petolescu (ILD), M. Popescu : I(ovi) o(ptimo) m(aximo) D(olicheno) / P(ublius) Aelius Procu/linus b(ene)f(iciarius) co(n)s(ularis) leg(ionis) / V M(acedonicae) Go[rd(ianae) agens /5 sub sig(no) Samum / cum reg(ione) Ans(amensium) pro / salute sua et / suo]rum omnium / v(otum) l(ibens) m(erito) s(olvit) /10 [A]rriano et Papo co(n)s(ulibus), où les erreurs abondent.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand, Dolichenus. Publius Aelius Marcellinus, (bénéficiaire du consulaire), provenant de la legio V Macedonica Gordiana, (pour la première fois en mission sous les étendards à Samum, en incluant (dans son secteur) la regio Ansamensium?), érigea (ceci) (pour sa santé) et pour celle de tous siens, à la suite d’un vœu (et) de bon gré, sous le consulat d’Arrianus et de Papus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La lecture d'en haut chez I. Piso et G. Cupcea. Comme cette inscription est datable, tout comme CCID, de 243, de cette lecture Schallmayer et alii tirèrent la conclusion que les officiers étaient remplacés dans la statio de Samum chaque moitié d’année. Or, il n’y a rien, car dans les deux inscriptions l’officier est le même, notamment P. Aelius Marcellinus (I. Piso, G. Cupcea). Pour la regio Ansamensium voir AE 1957, 326.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

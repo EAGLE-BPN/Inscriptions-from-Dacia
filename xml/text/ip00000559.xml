@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Iulius Herculanus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000559</idno>
+                
+                
+               <idno type="localID">ip00000559</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mehedinți</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Schitul Topolniței</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turnu Severin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1773">Base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>185</height>
+                                         <width>61</width>
+                                         <depth>65</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">3.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="0271" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Drobeta ne pouvait avoir un collegium fabrum qu'après être devenue municipe sous le règne d'Hadrien (117-138). La cohors I sagittariorum est venue à Drobeta sous le règne de Septime Sévère (193-211) ou, plutôt, de Caracalla (212-217). À ce moment-là, Drobeta était colonia Septimia.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1873</date>
+                                <placeName>Schitul Topolniței</placeName> 
+                            <placeName type="modernRegion">Jud. Mehedinți</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="DR_4" url="https://commons.wikimedia.org/wiki/File:DR_4.jpg">
+       <desc> DR_4
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL 1583 = 8018</bibl><bibl> ILS 7247</bibl><bibl> Gr. G. Tocilescu, Monumentele epigrafice și sculpturali ale Muzeului Național de Antichități din București I, București 1902, p. 354-355</bibl><bibl> IDR II 135</bibl><bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>Iul</abbr><ex>ius</ex></expan> Herculanus <lb n="3"/><expan><abbr>dec</abbr><ex>urio</ex></expan> sc<expan><ex>h</ex><abbr>olae</abbr></expan> <expan><abbr>fab</abbr><ex>rum</ex></expan> i<surplus>i</surplus><expan><abbr>mag</abbr><ex>inifer</ex></expan> <lb n="4"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> LXXX <expan><abbr>Iul</abbr><ex>ia</ex></expan> Viv <lb n="5"/>enia coniux <expan><abbr>Iul</abbr><ex>ius</ex></expan> <lb n="6"/>Marcianus <expan><abbr>fil</abbr><ex>ius</ex></expan> im <lb n="7"/><surplus>m</surplus><expan><abbr>ag</abbr><ex>inifer</ex></expan> sc<expan><ex>h</ex><abbr>olae</abbr></expan> <expan><abbr>fab</abbr><ex>rum</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="8"/><expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XXVII <expan><abbr>Aur</abbr><ex>elius</ex></expan> Iuli <lb n="9"/>us <expan><abbr>mil</abbr><ex>es</ex></expan> c<expan><ex>o</ex><abbr>hor</abbr><ex>tis</ex></expan> I <expan><abbr>sag</abbr><ex>ittariorum</ex></expan> im <lb n="10"/><surplus>m</surplus><expan><abbr>ag</abbr><ex>inifer</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XXX <expan><abbr>Iul</abbr><ex>ius</ex></expan> <lb n="11"/>Marcellinus <expan><abbr>fil</abbr><ex>ius</ex></expan> <lb n="12"/><expan><abbr>vexil</abbr><ex>larius</ex></expan> sc<expan><ex>h</ex><abbr>olae</abbr></expan> <expan><abbr>fab</abbr><ex>rum</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="13"/><expan><abbr>n<am>n</am></abbr><ex>s</ex></expan> XXV <expan><abbr>Iul</abbr><ex>ia</ex></expan> Ma <lb n="14"/>rcia <expan><abbr>fil</abbr><ex>ia</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XIII <expan><abbr>Iul</abbr><ex>ia</ex></expan> Er <lb n="15"/>aclia <expan><abbr>fil</abbr><ex>ia</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="16"/><expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> VIIII <expan><abbr>Iul</abbr><ex>ia</ex></expan> <lb n="17"/>Marcel<expan><ex>l</ex><abbr>ina</abbr></expan> <expan><abbr>nep</abbr><ex>tis</ex></expan> <lb n="18"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>nis</ex></expan> IIII Viv <lb n="19"/>enia mater se viva <expan><abbr>f</abbr><ex>ecit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Iulius Herculanus, décurion de la schola des ouvriers (et) porteur d'image (de la même schola), a vécu 80 ans. (C'est) Iulia Vivenia, (son) épouse, (qui érigea ceci). Iulius Marcianus, (son) fils, porteur d'image de la schola des ouvriers, a vécu 27 ans. Aurelius Iulius, militaire de la cohors I sagittariorum, porteur d'image, a vécu 30 ans. Iulius Marcellinus, (son) fils, porteur de vexillum de la schola des ouvriers, a vécu 25 ans. Iulia Marcia, (sa) fille, a vécu 13 ans. Iulia Eraclia, (sa) fille, a vécu 8 ans. Iulia Marcllina, (sa) petite-fille, a vécu 4 ans. Vivenia, mère, érigea (ceci) de son vivant.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L'inscription contient plusieurs charges de principales du collegium fabrum de la colonie de Drobeta.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

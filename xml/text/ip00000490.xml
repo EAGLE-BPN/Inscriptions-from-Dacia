@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Jupiter et au Génie des Pomarenses</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000490</idno>
+                
+                
+               <idno type="localID">ip00000490</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Sarmizegetusa</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>81</height>
+                                         <width>25</width>
+                                         <depth>50</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">1.73.1</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvaille fortuite, à 200 m environ au nord du rempart de la ville, probablement dans le local de culte d'un collège.
+                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison de l'absence d'Aurelii, plutôt du IIème que du IIIème siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1997</date>
+                                <placeName>Sarmizegetusa</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I.Piso, dans: ΕΠΙΓΡΑΦΑΙ. Miscellanea epigraphica in onore de Lidio Gasperini (éd. G. Paci) II, Roma 2000, p. 737-744, fig. 1-2 (photo, dessin)</bibl><bibl> AE 2000, 1253.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan></supplied> <expan><abbr>m</abbr><ex>aximo</ex></expan> e<supplied reason="lost">t</supplied> Genio <expan><abbr>collegi</abbr><ex>i</ex></expan> <expan><abbr>Pomarens</abbr><ex>ium</ex></expan> <lb n="2"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Ianuarius pater et Flavia <lb n="3"/>Crescentina mater pro salute <lb n="4"/>filiorum suorum cultores <lb n="5"/>5 Iovis Optimi Maximi ex <lb n="6"/>promisso fecerunt Numini aeterno <lb n="7"/><expan><abbr>I</abbr><ex>ovis</ex></expan> <expan><abbr>O</abbr><ex>ptimi</ex></expan> <expan><abbr>M</abbr><ex>aximi</ex></expan> cultores <lb n="8"/>Pomarensium <lb n="9"/>10 <expan><abbr>Val</abbr><ex>erius</ex></expan> Valerianus I<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="10"/>Octavius Cassianus <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="11"/><expan><abbr>Iul</abbr><ex>ius</ex></expan> Silvanus <expan><abbr>Iul</abbr><ex>ius</ex></expan> Dig<supplied reason="lost">nus<certainty locus="name" match="preceding-sibling::text()" cert="low"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="12"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Ianuarius IARSIA<certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>(À Jupiter très bon et) très grand et au Génie du collège des Pomarenses. Valerius Ianuarius, père, et Flavia Crescentina, mère, pour la santé de leurs enfants; les fidèles de Jupiter très bon (et) très grand ont érigé à la suite d'une promesse à la divinité éternelle de Jupiter très bon (et) très grand; les fidèles parmi les Pomarenses: Valerius Valerianus, I..., Octavius Cassianus, ..., Iulius Silvanus, Iulius Dignus(?), ..., Valerius Ianuarius, ....</p>
+            </div>
+
+            
+
+            <div type="commentary">
+                <p>Le collège était inconnu jusqu'ici. Les Pomarenses (= pomarii) cultivent probablement des pommiers et vendent en même temps leur production. Les divinités qui les patronnaiaent étaient Jupiter, probablement dans sa variante orientale I. O. M. Aeternus, bien connu à Sarmizegetusa, et le genius collegii. Les collegiati semblent avoir été au nombre de 32 au moins (deux par ligne).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>honorific inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000046</idno>
+
+                <idno type="localID">rv00000046</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Museum of Sarmizegetusa</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">statue base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>7; 8</height>
+                                         <width>1; 1</width>
+                                         <depth>7; 1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution">carving</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">4,55,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">198-211, due to the term. Auggg.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1990</date>
+                                <placeName>forum vetus</placeName> 
+                            <placeName type="modernRegion">Hunedoara</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">honorific inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="UTS_44" url="https://commons.wikimedia.org/wiki/File:UTS_44.png">
+       <desc> UTS_44
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I.Piso, ZPE 120, 1998, p. 272-273, no 2, fig.</bibl><bibl> AE 1998, 1086</bibl><bibl>C. C. Petolescu, Cronica epigrafică a României(XVIII), SCIVA 50 / 3-4, 1999, 793</bibl><bibl> ILD 280</bibl><bibl> I. Piso, Le vorum vetus de Sarmizegetusa, Bucuresti, 2006, p.271-273.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>P</abbr><ex>ublio</ex></expan>.</supplied>el<supplied reason="lost">...</supplied> <expan><abbr>P</abbr><ex>ublii</ex></expan> f<supplied reason="lost"><expan><abbr>il</abbr><ex>io</ex></expan>........</supplied> <lb n="2"/><supplied reason="lost">..T</supplied>er<supplied reason="lost">t</supplied>ull<supplied reason="lost">o ......</supplied> <lb n="3"/><supplied reason="lost">...</supplied>RO <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">..</supplied>LCO<supplied reason="lost">.......</supplied> <lb n="4"/><expan><abbr><supplied reason="lost">pr</supplied>oc</abbr><ex>uratori</ex></expan> p<supplied reason="lost">ro</supplied>uin<supplied reason="lost"><expan><abbr>c</abbr><ex>iae</ex></expan>...</supplied>D<supplied reason="lost">.</supplied> <lb n="5"/><expan><abbr><supplied reason="lost">pr</supplied>oc</abbr><ex>uratori</ex></expan> <expan><abbr><supplied reason="lost">pr</supplied>ou</abbr><ex>inciae</ex></expan> <supplied reason="lost">Daciae</supplied><certainty match="preceding-sibling::node()" locus="value"/>A<supplied reason="lost"><expan><abbr>pul</abbr><ex>ensis</ex></expan></supplied><certainty match="preceding-sibling::node()" locus="value"/> <lb n="6"/><expan><abbr><supplied reason="lost">pr</supplied>oc</abbr><ex>uratori</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>M<supplied reason="lost">.</supplied>NE<supplied reason="lost">...adl</supplied>e<supplied reason="lost"><expan><abbr>ct</abbr><ex>o</ex></expan></supplied><certainty match="preceding-sibling::node()" locus="value"/> <lb n="7"/><supplied reason="lost">Aug</supplied>gg(ustorum‚<supplied reason="lost">..</supplied>OC <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">.........</supplied>LV<certainty match="preceding-sibling::node()" locus="value"/> <lb n="8"/><supplied reason="lost">...</supplied>IV<supplied reason="lost">...</supplied>A<supplied reason="lost">....</supplied>CI <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">..</supplied> <lb n="9"/><supplied reason="lost">...</supplied>DO<supplied reason="lost">..t</supplied>r<supplied reason="lost">ibuno<certainty locus="name" match="preceding-sibling::text()" cert="low"/> c</supplied><expan><abbr>oh</abbr><ex>ortis</ex></expan> <supplied reason="lost">..</supplied> <lb n="10"/><supplied reason="lost">...</supplied>VR<supplied reason="lost">........</supplied>C <certainty match="preceding-sibling::node()" locus="value"/>R<supplied reason="lost">..</supplied> <lb n="11"/><supplied reason="lost">...</supplied>RI<supplied reason="lost">....</supplied>CR <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">...</supplied>O <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">.</supplied> O <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">..</supplied> <lb n="12"/><supplied reason="lost">....</supplied>I <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost">....</supplied>R<supplied reason="lost">pat</supplied>ron<supplied reason="lost">o</supplied> <lb n="13"/><supplied reason="lost"><expan><abbr>l</abbr><ex>oco</ex></expan></supplied> <expan><abbr>d</abbr><ex>ato</ex></expan> <supplied reason="lost">( decurionum)</supplied> <expan><abbr>d</abbr><ex>ecreto</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To Publius Aelius tertullus, son of Publius,...procurator of the province..., procurator of the province Dacia Apulensis ?, procurator... chosen?by the three Augusts....tribun?of the cohors....., to the patron, the place being given by a decurions' decree.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

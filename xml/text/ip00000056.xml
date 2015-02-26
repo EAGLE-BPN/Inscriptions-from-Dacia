@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000056</idno>
+                
+                
+               <idno type="localID">ip00000056</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>27</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1904 à Turda par I. Téglás lors d’une démolition dans l’ancienne rue Jósika.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de l'octroi du rang municipal à Potaissa, au début du règne de Septime Sévère.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1904</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_7" url="https://commons.wikimedia.org/wiki/File:PO_7.jpg">
+       <desc> PO_7
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Téglás, AÉrt 28, 1908, p. 360-361 </bibl><bibl> Al. Popa, I. Berciu, Le culte de Jupiter Dolichenus dans la Dacie romaine, Leiden 1978, p. 30, no 29 </bibl><bibl> M. Hörig, E. Schwertheim, CCID, p. 0, no 144 </bibl><bibl> R. Ardevan, Viața muicipală, p. 427, no 433 </bibl><bibl> ILD 479 </bibl><bibl> S. Nemeti, Sincretismul, p. 364, no 244.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>D</abbr><ex cert="low">olicheno </ex></expan> <expan><abbr>M</abbr><ex cert="low">arcus </ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> <lb n="3"/><expan><abbr>Anton</abbr><ex cert="low">inus </ex></expan> <expan><abbr>dec</abbr><ex>urio</ex></expan> <lb n="4"/><expan><abbr>col</abbr><ex>oniae</ex></expan> <expan><abbr>N</abbr><ex>apocensis</ex></expan> <lb n="5"/><supplied reason="lost"> I</supplied>Iv <supplied reason="lost"> i</supplied>r <expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>P</abbr><ex>otaissensis</ex></expan> <lb n="6"/><supplied reason="lost" cert="low"> - - - </supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon(et) très grand Dolichenus(?). Marcus(?) Aelius Antoninus(?), décurion de la colonie de Napoca, duumvir du municipe de Potaissa, … ?</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Téglás : I(ovi) o(ptimo) m(aximo) / D(olicheno) M(arcus) Ael(ius) / Anton(inus) d / ec(urio) col(oniae) N(apocae) / iur(idicus)?m(unicipii) P(orolissensis), lecture qui, sauf pour le dernier mot, a été acceptée par la plupart des auteurs. Pourtant, dans la l. 2 D(olicheno) est loin d’être sûr et M(arcus) est, comme praenomen pour un Aelius, douteux. L. : Téglás, HD : iur(idicus), solution improbable ; cf. Ardevan, Nemeti : I [ I]vir m(unicipii) P(otaissensis). Aelius Antoninus était donc décurion de la colonie de Napoca et duumvir du municipe de Potaissa. Le duumvirat apparaît à Potaissa aussi dans AE 190, 14.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive pour Minerve</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000591</idno>
+                
+                
+               <idno type="localID">ip00000591</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Caraș-Severin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Jupa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Jupa/Caransebeș</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Base de statue votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>80</height>
+                                         <width>34</width>
+                                         <depth>46</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée pendant les fouilles de M. Moga dans les principia du camp de Tibiscum.
+                                <placeName ref="www.trismegistos.org/place/030131">Tibiscum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">L'épithète impériale de la troupe, qui se rapportait à deux empereurs, a été érasé. Il s'agit probablement de Maximinus Thrax et Maximus (235-238).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers 1967</date>
+                                <placeName>Jupa</placeName> 
+                            <placeName type="modernRegion">Jud. Caraș-Severin</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="TB_2" url="https://commons.wikimedia.org/wiki/File:TB_2.jpg">
+       <desc> TB_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>IDR III/1, 184</bibl><bibl> I. Piso, AMN 20, 1983, p. 110–111, no 7 (le inférieur gauche)</bibl><bibl> D. Benea, dans: Civilizația romană în Dacia, Cluj-Napoca 1997, p. 109–112, no 2, p. 118, fig. 2 (tous les s)</bibl><bibl> AE 1997, 1296</bibl><bibl> H. W. Müller, I. Piso, B. Schwaighofer, M. Benea, Der Marmor im römischen Dakien, Cluj-Napoca 2012, p. 103, TI 2.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Minervae <expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> <lb n="2"/>nostrorum <lb n="3"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Can<lb break="no" n="4"/>didianus <lb n="5"/><expan><abbr>actar</abbr><ex>ius</ex></expan> <supplied reason="lost"><expan><abbr>coh</abbr><ex>ortis</ex></expan></supplied> <lb n="6"/>I Vin[<expan><abbr>d</abbr><ex>elicorum</ex></expan> (milliariae) <expan><abbr>eq</abbr><ex>uitatae</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> R(omanorum <lb n="7"/><del rend="erasure">[Maximiana<certainty locus="name" match="preceding-sibling::text()" cert="low"/></del>] <lb n="8"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan> (solvit).
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Minerve, (pour le salut) de nos deux Augustes. Aurelius Candidianus, secrétaire de la (cohors) I Vindelicorum milliaria, montée, de citoyens Romains, (Maximiana?), s'est acquitté de (son) voeu de bon gré (et) à bon droit.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Après le nom de la divinité l'expression pro salute est sous-entendue. Pour la charte d'actarius cohortis voir A. v. Domaszewski, Rangordnung2, p. 58-59.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

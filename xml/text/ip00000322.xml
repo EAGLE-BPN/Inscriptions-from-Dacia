@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription pour le dieu palmyrénien Bel</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000322</idno>
+                
+                
+               <idno type="localID">ip00000322</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>45</height>
+                                         <width>16</width>
+                                         <depth>60</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1937 dans le temple situé au nord du camp de Pomet.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0215" notAfter-custom="0217" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des années 215 ?-217 ?, en raison de la carrière du gouverneur C. Iulius Septimius Castinus.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1937</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_3" url="https://commons.wikimedia.org/wiki/File:POR_3.jpg">
+       <desc> POR_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>A. Stein, Bruderkrieg, p. 3-4, fig. 1 (photo) </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 11-12, no 7 (photo) </bibl><bibl> C. C. Petolescu, dans : Epigraphica-Travaux, p. 162-163, fig. 2 (photo) </bibl><bibl> AE 1977, 666 </bibl><bibl> E. Tóth, Porolissum, p. 38, no 48 </bibl><bibl> I. Piso, ZPE 40, 1980, p. 277-280 (dessin), pl. 18 e (photo) </bibl><bibl> AE 1980, 755 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 762, no 10, p. 1131, pl. CCLXVIII/10 </bibl><bibl> I. Piso, Fasti I, p. 179, no 10 </bibl><bibl> ILD 663 </bibl><bibl> I. Piso, Fasti II, p. 269, no 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Pro salute <expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>eratoris</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> Aur<supplied reason="lost"><expan><abbr>eli</abbr><ex>i</ex></expan></supplied> <lb n="2"/>Antonini <expan><abbr>Aug</abbr><ex>usti</ex></expan> pii <expan><abbr>fel</abbr><ex>icis</ex></expan> deo <lb n="3"/>patrio Belo <expan><abbr>n</abbr><ex>umerus</ex></expan> <expan><abbr>Pal</abbr><ex>myrenorum</ex></expan> <expan><abbr>sagit</abbr><ex>tariorum</ex></expan> tem <lb n="4"/>plum vi ignis consumptum <lb n="5"/>5 pecunia sua <expan><abbr>restituer</abbr><ex>unt</ex></expan> dedi <lb n="6"/>cante <del rend="erasure"><supplied reason="lost"><expan><abbr>C</abbr><ex>aio</ex></expan> ?</supplied><supplied reason="lost"/> I<supplied reason="lost"><expan><abbr>ul</abbr><ex>io</ex></expan> <expan><abbr>Sept</abbr><ex>imio</ex></expan> Cast ?</supplied><supplied reason="lost"/>ino</del> <lb n="7"/>co<expan><ex>n</ex><abbr>s</abbr><ex>ulari</ex></expan> III Daci<supplied reason="lost" cert="low">ar(um) M(arco) </supplied> Ulpio Victore <lb n="8"/><expan><abbr>proc</abbr><ex>uratore</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> prov<supplied reason="lost"><expan><abbr>inc</abbr><ex>iae</ex></expan> Por</supplied><expan><abbr>ol</abbr><ex>issensis</ex></expan> cura agen <lb n="9"/>te <expan><abbr>T</abbr><ex>ito</ex></expan> <expan><abbr>Fl</abbr><ex>avio</ex></expan> Saturn<supplied reason="lost">ino (centurione) le</supplied><expan><abbr>g</abbr><ex>ionis</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>c</abbr><ex>onstantis</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Pour le salut de l’empereur Marc Aurèle Antonin Auguste, pieux (et) heureux, le numerus Palmyrenorum sagittariorum a refait au dieu national Bel le temple consumé par le feu, de son argent, dédicant étant (Caius Iulius Septimius Castinus ?), consulaire des trois Dacies, procurateur impérial de la province de (Dacie) Porolissensis étant (Marcus ?) Ulpius Victor, (des travaux) s’occupant Titus Flavius Saturninus, centurion de la Vème légion la pieuse (et) la constante.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Bêl est le principal dieu de la triade palmyrénienne qui comprend aussi Yarhibôl et Aglibôl ; voir J. Starcky, M. Gawlikowski, Palmyre, Paris 1985, p. 90-97; M. Gawlikowski, ANRW III 18/4, Berlin-New York 1990, 1606-2625; T. Kaiser, The Religious Life of Palmyra, Stuttgart 2002, 67-78; S. Nemeti, Sincretismul, p. 169-172. Le temple semble avoir appartenu au IIe siècle à Liber Pater. Pour le consulaire C. Iulius Septimius Castinus voir I. Piso, Fasti I, p. 178-180 ; pour le procurateur Ulpius Victor voir I. Piso, Fasti II, p. 269-270.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000364</idno>
+
+                <idno type="localID">rv00000364</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>National museum of Berlin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>8</width>
+                                         <depth>16</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">28th of March 167</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1855</date>
+                                <placeName>Sf. Ecaterina mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AM_15" url="https://commons.wikimedia.org/wiki/File:AM_15.png">
+       <desc> AM_15
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    Inter Cassium Frontinum et Iulium <lb n="2"/>Alexandrum societas dani<supplied reason="lost">st</supplied>ariae ex <lb n="3"/>X <expan><abbr>kal</abbr><ex>endas</ex></expan> ianuarias <expan><abbr>q</abbr><ex>uae</ex></expan> <expan><abbr>p</abbr><ex>roximae</ex></expan> <expan><abbr>f</abbr><ex>uerunt</ex></expan> Pudente e<supplied reason="lost">t</supplied>Polione <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan> in <lb n="4"/>prid<supplied reason="lost">i</supplied>e idus Apriles proximas venturas ita conve <lb n="5"/>n<supplied reason="lost">i</supplied>t ut quidq<supplied reason="lost">ui</supplied>d in ea societati ab re <lb n="6"/>natum fuerit lucrum damnumve acciderit, <lb n="7"/>aequis portionibus s<supplied reason="lost">uscip</supplied>ere debebunt. <lb n="8"/>In qua societate intuli<supplied reason="lost">t Iuli</supplied>us Alexander nume <lb n="9"/>ratos sive in fructo x<supplied reason="lost">qu</supplied>ingentos et Secundus <lb n="10"/>Cassi Palumbi servus a<supplied reason="lost">ctor</supplied>intuluit<gap reason="lost" extent="unknown" unit="character"/>ducentos <lb n="11"/>pr<gap reason="lost" extent="unknown" unit="character"/>tin<gap reason="lost" extent="unknown" unit="character"/> <lb n="12"/>sexaginta septem<gap reason="lost" extent="unknown" unit="character"/>s<gap reason="lost" extent="unknown" unit="character"/>c<gap reason="lost" extent="unknown" unit="character"/>um<gap reason="lost" extent="unknown" unit="character"/>s 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     <gap reason="lost" extent="unknown" unit="character"/>ssum Alburno<gap reason="lost" extent="unknown" unit="character"/>d<supplied reason="lost">ebe</supplied>bit. <lb n="2"/>In qua societ<supplied reason="lost">ate</supplied>si quis d<supplied reason="lost">olo ma</supplied>lo fraudem fec<supplied reason="lost">isse de</supplied> <lb n="3"/>prehensus fue<supplied reason="lost">rit</supplied>, in a<supplied reason="lost">sse</supplied>uno x unum<gap reason="lost" extent="unknown" unit="character"/> <lb n="4"/><supplied reason="lost">denarium</supplied>unum x XX<gap reason="lost" extent="unknown" unit="character"/>alio inferred deb<supplied reason="lost">ebi</supplied>t <lb n="5"/>et tempore perac<supplied reason="lost">t</supplied>o de<supplied reason="lost">duc</supplied>to aere alieno sive <lb n="6"/>summam <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptam</ex></expan> s<supplied reason="lost">ibi recipere sive</supplied>si quod superfuerit, <lb n="7"/>divider d<supplied reason="lost">ebebunt</supplied>. Id <expan><abbr>d</abbr><ex>ari</ex></expan> <expan><abbr>f</abbr><ex>ieri</ex></expan> <expan><abbr>p</abbr><ex>raestari</ex></expan> que stipulates est <lb n="8"/>Cassius Frontin<supplied reason="lost">us, spopon</supplied>dit <expan><abbr>Iul</abbr><ex>ius</ex></expan> Alexander. <lb n="9"/>De qua re dua paria<supplied reason="lost">ta</supplied>bularum signatae sunt <lb n="10"/><supplied reason="lost">Item</supplied>debenture Lossae x L, quos a socis <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptis</ex></expan> accipere debebit. <lb n="11"/><supplied reason="lost">actum Deusa</supplied>re V <expan><abbr>kal</abbr><ex>endas</ex></expan> <expan><abbr>April</abbr><ex>es</ex></expan> Vero III et Quadrato <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan>. 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     …<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied>
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Between Cassius Frontinus and Iulius Alexander an partnership is sealed, for lending moeny with interest, from the 19th of January of the year when Pudens and Polio were consuls until the 14th of next April; any gain or loss registered during the given period will be equally divided between the two. Iulius Alexander brought, as cash and interests, 500 denarii and Secundus, slave and administrator of Cassius Palumbus brought 227...Frontinus?sent to Alburnus...? If in this association any of the involved parts will make any fraud, he will have to pay....1 as....1 denarius...20 denarii ?....and after the passing of the term and after subtracting the debts, they will have to get back the initial sums and if there will be an excedent, they will divide it between them. Cassisus Frontinus asked through stipulatio and Iulius Alexander promised by spontio. two identical sets of tablets were signed. As well, Lossa must receive 50 denarii from the associates aforementioned. Sealed at Deusara, on the 28th of March, when Verus for the third time and Quadratus were consuls.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

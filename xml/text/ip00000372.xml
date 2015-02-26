@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour l'empereur Philippus Arabs</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000372</idno>
+                
+                
+               <idno type="localID">ip00000372</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 1042</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Dé d’une base de statue pédestre</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>120.5</height>
+                                         <width>43</width>
+                                         <depth>69</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Selon E. Tóth la pièce aurait été trouvée en 1934 devant la porta decumana du camp de Pomet, en position secondaire ; d’ici elle a été transportée dans la cour du château de Jibou, où elle a été vue par C. Daicoviciu ; elle parvint enfin au musée de Zalău.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">en principe de 244-249 ; en raison de AE 1944, 53 probablement de 244-247. Al. Diaconescu a tort de dater le monument de 244.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1934</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_53" url="https://commons.wikimedia.org/wiki/File:POR_53.jpg">
+       <desc> POR_53
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Dacia 7-8, 1937-1940, p. 328, no 7 e </bibl><bibl> AE 1944, 55 </bibl><bibl> E. Tóth, Porolissum, p. 38, no 47 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 763-764, no 16 = p. 764-765, no 19, p. 1135, pl. CCLXXII </bibl><bibl> ILD 668.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">[Ịṃ<expan><abbr>p</abbr><ex>eratori</ex></expan> Cạ[<expan><abbr>es</abbr><ex>ari</ex></expan></supplied> Ṃ(arco) <lb n="2"/><supplied reason="lost">Iuli</supplied>ọ Pḥịḷịp <lb n="3"/><supplied reason="lost">p</supplied>ọ <supplied reason="lost">pi</supplied>ọ <supplied reason="lost">f</supplied>ẹlici <lb n="4"/><supplied reason="lost">i</supplied>nṿ<supplied reason="lost">ic</supplied>ṭọ Ạ<expan><abbr>ug</abbr><ex>usto</ex></expan> <lb n="5"/>5 ponṭị<expan><abbr>f</abbr><ex>ici</ex></expan> maxi]] <lb n="6"/>mo [[<expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>potes</abbr><ex>tate</ex></expan> <lb n="7"/>patri patria]]e <lb n="8"/>c<del rend="erasure"><expan><abbr>o</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> p</del>roco<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <lb n="9"/><expan><abbr>coh</abbr><ex>ors</ex></expan> V Lingo <lb n="10"/>10 [[ṇum Philippi <lb n="11"/>ạṇ<supplied reason="lost">a</supplied>]].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À l’empereur César Marcus Iulius Philippus, pieux, heureux (et) invincible Auguste, grand pontife, investi avec la puissance tribunicienne, père de la patrie, consul, proconsul. La cohors V Lingonum Antoniniana (érigea ceci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La statue aura été érigée dans les principia du camp de Pomet.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>honorific inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000009</idno>
+
+                <idno type="localID">rv00000009</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Museum of Sarmizegetusa(some fragments are lost)</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">plaque</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>2; 1</height>
+                                         <width>1; 1</width>
+                                         <depth>3</depth>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution">carving</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">172</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>16th century and 1992</date>
+                                <placeName>forum vetus</placeName> 
+                            <placeName type="modernRegion">Hunedoara</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">honorific inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="UTS_9" url="https://commons.wikimedia.org/wiki/File:UTS_9.png">
+       <desc> UTS_9
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Th. Mommsen, EphemerisEpigraphica. Corporis inscriptionum Latinarum supplementum4, 1881, no 188</bibl><bibl> CIL III,7969</bibl><bibl> H. Daicoviciu, I. Piso, AMN 12, 1975, p. 162 = Revue roumaine d’histoire 16 / 1, 1977, p. 158 = Piso 2005,p. 64</bibl><bibl> IDR III / 2, 76</bibl><bibl>R. Étienne-I. Piso-A. Diaconescu, Les fouilles du forum vetus de Sarmizegetusa. Rapport général, in AMN 39-40, 2002-2003, p. 132, n. 127</bibl><bibl> AE 2003, 1516</bibl><bibl> I. Piso, Le vorum vetus de Sarmizegetusa, Bucuresti, 2006, p. 226-227.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Im<supplied reason="lost"><expan><abbr>p</abbr><ex>eratori</ex></expan> Caesari <expan><abbr>M</abbr><ex>arco</ex></expan> Aurelio Anto</supplied>nin<supplied reason="lost">o <expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied> <lb n="2"/><supplied reason="lost">p</supplied>o<supplied reason="lost">ntifici <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> XXVI i</supplied><expan><abbr>mp</abbr><ex>eratori</ex></expan> <supplied reason="lost">V</supplied> <lb n="3"/><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <supplied reason="lost"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> III proc</supplied>o<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <expan><abbr>Armen</abbr><ex>iaco</ex></expan> <expan><abbr>Med</abbr><ex>ico</ex></expan> <expan><abbr>Parth</abbr><ex>ico</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <lb n="4"/><supplied reason="lost">Diui</supplied> Antonini <expan><abbr>fil</abbr><ex>io</ex></expan> Diui <supplied reason="lost">Veri <expan><abbr>Parth</abbr><ex>ici</ex></expan> <expan><abbr>Max</abbr><ex>imi</ex></expan></supplied> <lb n="5"/><supplied reason="lost">frat</supplied>ri Diui <expan><abbr>Hadr</abbr><ex>iani</ex></expan> <expan><abbr>nep</abbr><ex>oti</ex></expan> Diui Neruae <supplied reason="lost"><expan><abbr>abnep</abbr><ex>oti</ex></expan></supplied> <lb n="6"/><supplied reason="lost">co</supplied>lonia <expan><abbr>Ulp</abbr><ex>ia</ex></expan> <expan><abbr>Traian</abbr><ex>a</ex></expan> <expan><abbr>Aug</abbr><ex>usta</ex></expan> <expan><abbr>Dac</abbr><ex>ica</ex></expan> <lb n="7"/><supplied reason="lost">Sarmizegetusa</supplied> sancipiti periculo uirtu<lb break="no" n="8"/><expan><abbr>tib</abbr><ex>us</ex></expan> restituta.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the the emperor Caesar Marcus Aurelius Antoninus Augustus, pontifex maximus, holding the tribun's power for the 26th time, proclaimed imperator for the 5th time, father of the empire, consul for the 3rd time, proconsul, Armenicus, Medicus, Parthicus maximus, son of the divine Antoninus, brother of the divine Verus Parthicus maximus, grandson of the divine Hadrian, grand-grandson of the divine Nerva, the colonia Ulpia Traiana Augusta Dacica Sarmizegetusa, restored after a grave peril by his virtues (?) .</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

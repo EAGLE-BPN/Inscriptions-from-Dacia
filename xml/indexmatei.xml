@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inscriptions of DACIA</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Babes-Bolyai University of Cluj Napoca (EAGLE)</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Babes-Bolyai University of Cluj Napoca</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2015-02-25+01:00" who="pietroliuzzo"> Created from files provided</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="index">
+            <ab>
+               <title>Inscriptions</title>
+               <list>
+                  <item xml:id="fm00000001" corresp="text/fm00000001"/>
+                  <item xml:id="fm00000002" corresp="text/fm00000002"/>
+                  <item xml:id="fm00000003" corresp="text/fm00000003"/>
+                  <item xml:id="fm00000004" corresp="text/fm00000004"/>
+                  <item xml:id="fm00000005" corresp="text/fm00000005"/>
+                  <item xml:id="fm00000006" corresp="text/fm00000006"/>
+                  <item xml:id="fm00000007" corresp="text/fm00000007"/>
+                  <item xml:id="fm00000008" corresp="text/fm00000008"/>
+                  <item xml:id="fm00000009" corresp="text/fm00000009"/>
+                  <item xml:id="fm00000010" corresp="text/fm00000010"/>
+                  <item xml:id="fm00000011" corresp="text/fm00000011"/>
+                  <item xml:id="fm00000012" corresp="text/fm00000012"/>
+                  <item xml:id="fm00000013" corresp="text/fm00000013"/>
+                  <item xml:id="fm00000014" corresp="text/fm00000014"/>
+                  <item xml:id="fm00000015" corresp="text/fm00000015"/>
+                  <item xml:id="fm00000016" corresp="text/fm00000016"/>
+                  <item xml:id="fm00000017" corresp="text/fm00000017"/>
+                  <item xml:id="fm00000018" corresp="text/fm00000018"/>
+                  <item xml:id="fm00000019" corresp="text/fm00000019"/>
+                  <item xml:id="fm00000020" corresp="text/fm00000020"/>
+                  <item xml:id="fm00000021" corresp="text/fm00000021"/>
+                  <item xml:id="fm00000022" corresp="text/fm00000022"/>
+                  <item xml:id="fm00000023" corresp="text/fm00000023"/>
+                  <item xml:id="fm00000024" corresp="text/fm00000024"/>
+                  <item xml:id="fm00000025" corresp="text/fm00000025"/>
+                  <item xml:id="fm00000026" corresp="text/fm00000026"/>
+                  <item xml:id="fm00000027" corresp="text/fm00000027"/>
+                  <item xml:id="fm00000028" corresp="text/fm00000028"/>
+                  <item xml:id="fm00000029" corresp="text/fm00000029"/>
+                  <item xml:id="fm00000030" corresp="text/fm00000030"/>
+                  <item xml:id="fm00000031" corresp="text/fm00000031"/>
+                  <item xml:id="fm00000032" corresp="text/fm00000032"/>
+                  <item xml:id="fm00000033" corresp="text/fm00000033"/>
+                  <item xml:id="fm00000034" corresp="text/fm00000034"/>
+                  <item xml:id="fm00000035" corresp="text/fm00000035"/>
+                  <item xml:id="fm00000036" corresp="text/fm00000036"/>
+                  <item xml:id="fm00000037" corresp="text/fm00000037"/>
+                  <item xml:id="fm00000038" corresp="text/fm00000038"/>
+                  <item xml:id="fm00000039" corresp="text/fm00000039"/>
+                  <item xml:id="fm00000040" corresp="text/fm00000040"/>
+                  <item xml:id="fm00000041" corresp="text/fm00000041"/>
+                  <item xml:id="fm00000042" corresp="text/fm00000042"/>
+                  <item xml:id="fm00000043" corresp="text/fm00000043"/>
+                  <item xml:id="fm00000044" corresp="text/fm00000044"/>
+                  <item xml:id="fm00000045" corresp="text/fm00000045"/>
+                  <item xml:id="fm00000046" corresp="text/fm00000046"/>
+                  <item xml:id="fm00000047" corresp="text/fm00000047"/>
+                  <item xml:id="fm00000048" corresp="text/fm00000048"/>
+                  <item xml:id="fm00000049" corresp="text/fm00000049"/>
+                  <item xml:id="fm00000050" corresp="text/fm00000050"/>
+                  <item xml:id="fm00000051" corresp="text/fm00000051"/>
+                  <item xml:id="fm00000052" corresp="text/fm00000052"/>
+                  <item xml:id="fm00000053" corresp="text/fm00000053"/>
+                  <item xml:id="fm00000054" corresp="text/fm00000054"/>
+                  <item xml:id="fm00000055" corresp="text/fm00000055"/>
+                  <item xml:id="fm00000056" corresp="text/fm00000056"/>
+                  <item xml:id="fm00000057" corresp="text/fm00000057"/>
+                  <item xml:id="fm00000058" corresp="text/fm00000058"/>
+                  <item xml:id="fm00000059" corresp="text/fm00000059"/>
+                  <item xml:id="fm00000060" corresp="text/fm00000060"/>
+                  <item xml:id="fm00000061" corresp="text/fm00000061"/>
+                  <item xml:id="fm00000062" corresp="text/fm00000062"/>
+                  <item xml:id="fm00000063" corresp="text/fm00000063"/>
+                  <item xml:id="fm00000064" corresp="text/fm00000064"/>
+                  <item xml:id="fm00000065" corresp="text/fm00000065"/>
+                  <item xml:id="fm00000066" corresp="text/fm00000066"/>
+                  <item xml:id="fm00000067" corresp="text/fm00000067"/>
+                  <item xml:id="fm00000068" corresp="text/fm00000068"/>
+                  <item xml:id="fm00000069" corresp="text/fm00000069"/>
+                  <item xml:id="fm00000070" corresp="text/fm00000070"/>
+                  <item xml:id="fm00000071" corresp="text/fm00000071"/>
+                  <item xml:id="fm00000072" corresp="text/fm00000072"/>
+                  <item xml:id="fm00000073" corresp="text/fm00000073"/>
+                  <item xml:id="fm00000074" corresp="text/fm00000074"/>
+                  <item xml:id="fm00000075" corresp="text/fm00000075"/>
+                  <item xml:id="fm00000076" corresp="text/fm00000076"/>
+                  <item xml:id="fm00000077" corresp="text/fm00000077"/>
+                  <item xml:id="fm00000078" corresp="text/fm00000078"/>
+                  <item xml:id="fm00000079" corresp="text/fm00000079"/>
+                  <item xml:id="fm00000080" corresp="text/fm00000080"/>
+                  <item xml:id="fm00000081" corresp="text/fm00000081"/>
+                  <item xml:id="fm00000082" corresp="text/fm00000082"/>
+                  <item xml:id="fm00000083" corresp="text/fm00000083"/>
+                  <item xml:id="fm00000084" corresp="text/fm00000084"/>
+                  <item xml:id="fm00000085" corresp="text/fm00000085"/>
+                  <item xml:id="fm00000086" corresp="text/fm00000086"/>
+                  <item xml:id="fm00000087" corresp="text/fm00000087"/>
+                  <item xml:id="fm00000088" corresp="text/fm00000088"/>
+                  <item xml:id="fm00000089" corresp="text/fm00000089"/>
+                  <item xml:id="fm00000090" corresp="text/fm00000090"/>
+                  <item xml:id="fm00000091" corresp="text/fm00000091"/>
+                  <item xml:id="fm00000092" corresp="text/fm00000092"/>
+                  <item xml:id="fm00000093" corresp="text/fm00000093"/>
+                  <item xml:id="fm00000094" corresp="text/fm00000094"/>
+                  <item xml:id="fm00000095" corresp="text/fm00000095"/>
+                  <item xml:id="fm00000096" corresp="text/fm00000096"/>
+                  <item xml:id="fm00000097" corresp="text/fm00000097"/>
+                  <item xml:id="fm00000098" corresp="text/fm00000098"/>
+                  <item xml:id="fm00000099" corresp="text/fm00000099"/>
+                  <item xml:id="fm00000100" corresp="text/fm00000100"/>
+                  <item xml:id="fm00000101" corresp="text/fm00000101"/>
+                  <item xml:id="fm00000102" corresp="text/fm00000102"/>
+                  <item xml:id="fm00000103" corresp="text/fm00000103"/>
+                  <item xml:id="fm00000104" corresp="text/fm00000104"/>
+                  <item xml:id="fm00000105" corresp="text/fm00000105"/>
+                  <item xml:id="fm00000106" corresp="text/fm00000106"/>
+                  <item xml:id="fm00000107" corresp="text/fm00000107"/>
+                  <item xml:id="fm00000108" corresp="text/fm00000108"/>
+                  <item xml:id="fm00000109" corresp="text/fm00000109"/>
+                  <item xml:id="fm00000110" corresp="text/fm00000110"/>
+                  <item xml:id="fm00000111" corresp="text/fm00000111"/>
+                  <item xml:id="fm00000112" corresp="text/fm00000112"/>
+                  <item xml:id="fm00000113" corresp="text/fm00000113"/>
+                  <item xml:id="fm00000114" corresp="text/fm00000114"/>
+                  <item xml:id="fm00000115" corresp="text/fm00000115"/>
+                  <item xml:id="fm00000116" corresp="text/fm00000116"/>
+                  <item xml:id="fm00000117" corresp="text/fm00000117"/>
+                  <item xml:id="fm00000118" corresp="text/fm00000118"/>
+                  <item xml:id="fm00000119" corresp="text/fm00000119"/>
+                  <item xml:id="fm00000120" corresp="text/fm00000120"/>
+                  <item xml:id="fm00000121" corresp="text/fm00000121"/>
+                  <item xml:id="fm00000122" corresp="text/fm00000122"/>
+                  <item xml:id="fm00000123" corresp="text/fm00000123"/>
+                  <item xml:id="fm00000124" corresp="text/fm00000124"/>
+                  <item xml:id="fm00000125" corresp="text/fm00000125"/>
+                  <item xml:id="fm00000126" corresp="text/fm00000126"/>
+                  <item xml:id="fm00000127" corresp="text/fm00000127"/>
+                  <item xml:id="fm00000128" corresp="text/fm00000128"/>
+                  <item xml:id="fm00000129" corresp="text/fm00000129"/>
+                  <item xml:id="fm00000130" corresp="text/fm00000130"/>
+                  <item xml:id="fm00000131" corresp="text/fm00000131"/>
+                  <item xml:id="fm00000132" corresp="text/fm00000132"/>
+                  <item xml:id="fm00000133" corresp="text/fm00000133"/>
+                  <item xml:id="fm00000134" corresp="text/fm00000134"/>
+                  <item xml:id="fm00000135" corresp="text/fm00000135"/>
+                  <item xml:id="fm00000136" corresp="text/fm00000136"/>
+                  <item xml:id="fm00000137" corresp="text/fm00000137"/>
+                  <item xml:id="fm00000138" corresp="text/fm00000138"/>
+                  <item xml:id="fm00000139" corresp="text/fm00000139"/>
+                  <item xml:id="fm00000140" corresp="text/fm00000140"/>
+                  <item xml:id="fm00000141" corresp="text/fm00000141"/>
+                  <item xml:id="fm00000142" corresp="text/fm00000142"/>
+                  <item xml:id="fm00000143" corresp="text/fm00000143"/>
+                  <item xml:id="fm00000144" corresp="text/fm00000144"/>
+                  <item xml:id="fm00000145" corresp="text/fm00000145"/>
+                  <item xml:id="fm00000146" corresp="text/fm00000146"/>
+                  <item xml:id="fm00000147" corresp="text/fm00000147"/>
+                  <item xml:id="fm00000148" corresp="text/fm00000148"/>
+                  <item xml:id="fm00000149" corresp="text/fm00000149"/>
+                  <item xml:id="fm00000150" corresp="text/fm00000150"/>
+                  <item xml:id="fm00000151" corresp="text/fm00000151"/>
+                  <item xml:id="fm00000152" corresp="text/fm00000152"/>
+                  <item xml:id="fm00000153" corresp="text/fm00000153"/>
+                  <item xml:id="fm00000154" corresp="text/fm00000154"/>
+                  <item xml:id="fm00000155" corresp="text/fm00000155"/>
+                  <item xml:id="fm00000156" corresp="text/fm00000156"/>
+                  <item xml:id="fm00000157" corresp="text/fm00000157"/>
+                  <item xml:id="fm00000158" corresp="text/fm00000158"/>
+                  <item xml:id="fm00000159" corresp="text/fm00000159"/>
+                  <item xml:id="fm00000160" corresp="text/fm00000160"/>
+                  <item xml:id="fm00000161" corresp="text/fm00000161"/>
+                  <item xml:id="fm00000162" corresp="text/fm00000162"/>
+                  <item xml:id="fm00000163" corresp="text/fm00000163"/>
+                  <item xml:id="fm00000164" corresp="text/fm00000164"/>
+                  <item xml:id="fm00000165" corresp="text/fm00000165"/>
+                  <item xml:id="fm00000166" corresp="text/fm00000166"/>
+                  <item xml:id="fm00000167" corresp="text/fm00000167"/>
+                  <item xml:id="fm00000168" corresp="text/fm00000168"/>
+                  <item xml:id="fm00000169" corresp="text/fm00000169"/>
+                  <item xml:id="fm00000170" corresp="text/fm00000170"/>
+                  <item xml:id="fm00000171" corresp="text/fm00000171"/>
+                  <item xml:id="fm00000172" corresp="text/fm00000172"/>
+                  <item xml:id="fm00000173" corresp="text/fm00000173"/>
+                  <item xml:id="fm00000174" corresp="text/fm00000174"/>
+                  <item xml:id="fm00000175" corresp="text/fm00000175"/>
+                  <item xml:id="fm00000176" corresp="text/fm00000176"/>
+                  <item xml:id="fm00000177" corresp="text/fm00000177"/>
+                  <item xml:id="fm00000178" corresp="text/fm00000178"/>
+                  <item xml:id="fm00000179" corresp="text/fm00000179"/>
+                  <item xml:id="fm00000180" corresp="text/fm00000180"/>
+                  <item xml:id="fm00000181" corresp="text/fm00000181"/>
+                  <item xml:id="fm00000182" corresp="text/fm00000182"/>
+                  <item xml:id="fm00000183" corresp="text/fm00000183"/>
+               </list>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

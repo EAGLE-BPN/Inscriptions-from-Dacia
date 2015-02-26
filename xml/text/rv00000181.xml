@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>epitaph</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000181</idno>
+
+                <idno type="localID">rv00000181</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cluj-Napoca</placeName>                     
+                        </settlement>
+                        <repository>lost</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">plaque / stela</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">limestone</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width/>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               yes
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/030145">Napoca</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">due to the fact that Napoca is a municipium, during the period Hadrian-Marcus Aureliu / Commodus</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1867</date>
+                                <placeName>Zigeunergasse</placeName> 
+                            <placeName type="modernRegion">Cluj</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">epitaph</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="NA_53" url="https://commons.wikimedia.org/wiki/File:NA_53.png">
+       <desc> NA_53
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 7664</bibl><bibl> ILD 564</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>ann</abbr><ex>is</ex></expan></supplied> XXXV Aelia Proba <expan><abbr>vix</abbr><ex>it</ex></expan> an<supplied reason="lost"><expan><abbr>n</abbr><ex>is</ex></expan>..</supplied> <lb n="3"/><supplied reason="lost" cert="low">m(ensibus).. d(iebus) </supplied> XI <expan><abbr>P</abbr><ex>ublius</ex></expan> Aelius <expan><abbr>Ingenu</abbr><ex>u</ex></expan> s <expan><abbr>vix</abbr><ex>it</ex></expan> <supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan>..</supplied> <lb n="4"/><supplied reason="lost"><expan><abbr>P</abbr><ex>ublius</ex></expan> Ae</supplied>lius Probus <expan><abbr>flamem</abbr><ex>sic!</ex></expan> muni<supplied reason="lost">cipii</supplied> <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> pientissimis et sibi viv<supplied reason="lost">o fecit</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    ...lived 35 years...AeliaProba lived...and 11 days...P.Aelius Ingenuus lived...(Publius) Aelius Probus, flamen of the municipium, dedicated the monument to his very pious...and for himself, while still alive.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

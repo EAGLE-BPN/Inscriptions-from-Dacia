@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription d'une base de statue?</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000319</idno>
+                
+                
+               <idno type="localID">ip00000319</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 1834</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique encastrée dans une base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>40</height>
+                                         <width>12</width>
+                                         <depth>53</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">3.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Ttrouvée vers 1948 dans le camp de Buciumi à environ 40 m de la porte de ouest, probablement réutilisée ; a appartenu à la collection de S. Pop-Papiriu.
+                                <placeName ref="www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0212" notAfter-custom="0213" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Ccomme l’épithète triomphale Germanicus maximus manque, l’inscription est datable des années 212-213 ; voir D. Kienast, Kaisertabelle, p. 162-163. L’inscription semble avoir un rapport avec les préparatifs en vue de la visite de Caracalla en Dacie.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Ves 1948</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term>Inscription honorifique de Caracalla</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-25" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. I. Russu, SCIV 10/2, 1959, p. 311-312, fig. 3-4 (photo et dessin) </bibl><bibl> AE 1960, 361 </bibl><bibl> E. Chirilă, N. Gudea, V. Lucăcel, C. Pop, Buciumi, p. 115, pl. CXXXV (photo) </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 23-24, no 38 </bibl><bibl> ILS 634.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Imp</abbr><ex>erator</ex></expan> <expan><abbr>Caes</abbr><ex>ar</ex></expan> <expan><abbr>M</abbr><ex>arcus</ex></expan> <supplied reason="lost"><expan><abbr>Aurel</abbr><ex>ius</ex></expan></supplied> <lb n="2"/><expan><abbr>Anton</abbr><ex>inus</ex></expan> pius <supplied reason="lost">felix</supplied> <lb n="3"/><expan><abbr>Aug</abbr><ex>ustus</ex></expan> <expan><abbr>Part</abbr><ex>hicus</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <supplied reason="lost"><expan><abbr>Brit</abbr><ex>annicus</ex></expan> ma</supplied> <lb n="4"/><expan><abbr>xim</abbr><ex>us</ex></expan> <expan><abbr>pontif</abbr><ex>ex</ex></expan> m<supplied reason="lost"><expan><abbr>ax</abbr><ex>imus</ex></expan> <expan><abbr>coh</abbr><ex>ors</ex></expan></supplied> <lb n="5"/>5 II <expan><abbr>Nerv</abbr><ex>ia</ex></expan> <expan><abbr>Britt</abbr><ex>onum</ex></expan> Ạ<supplied reason="lost">nto</supplied> <lb n="6"/>niniana <expan><abbr>p</abbr><ex>ia</ex></expan> <expan><abbr>f</abbr><ex>idelis</ex></expan> statu<supplied reason="lost">am <expan><abbr>pos</abbr><ex>uit</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 5, I. I. Russu et tous les autres : II Nerv(ia) Brittonum [∞ Anto]-, mais on distingue après le T la haste gauche du A.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L’empereur César Marc (Aurèle) Antonin, pieux (et heureux) Auguste, grand vainqueur des Parthes, grand (vainqueur des Bretons), grand pontife. la (cohors) II Nervia Brittonum Antoniniana pieuse (et) fidèle, (érigea) la statue.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le caractère du monument n’et pas très clair. Même si le nom de l’empereur se trouve au nominatif et pas au datif, l’explication la plus plausible reste que nous avons affaire à une statue impériale. Pourtant, la largeur totale de la plaque ne dépassait pas 75, ce qui est peu pour une telle statue. Il n’est donc pas exclu qu’il s’agisse d’une statue d’une divinité quelconque, érigée pour le salut de Caracalla. Pour la cohors II Nervia Brittonum ∞ voir J. E. H. Spaul, Cohors2, p. 201; C. C. Petolescu, Auxilia, p. 90-91.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>
