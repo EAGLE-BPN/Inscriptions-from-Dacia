@@ -24,10 +24,17 @@
                 <link rel="stylesheet" href="graficagenerale.css" type="text/css"/>
                 
                 <!--java for select and go to url-->
-                <SCRIPT TYPE="text/javascript"> function dropdown(mySel) { var myWin, myVal; myVal =
-                    mySel.options[mySel.selectedIndex].value; if(myVal) { if(mySel.form.target)myWin =
-                    parent[mySel.form.target]; else myWin = window; if (! myWin) return true; myWin.location =
-                    myVal; } return false; } // </SCRIPT>
+                
+                <script type="text/javascript">
+                    <!--
+function go(){
+location=
+list.inscriptions.
+options[list.inscriptions.selectedIndex].value
+}
+//-->
+                </script>
+                
             </head>
             <body>
                 <div id="header">
@@ -35,7 +42,9 @@
                 </div>
 
                 <div id="nav">
-                    <a href="Indice.html">Browse Inscriptions</a>
+                    <a href="index.html">Home</a>
+                    <br/>
+                    <a href="browseinscriptions.html">Browse Inscriptions</a>
                     <br/>
                     <a href="Bibliografia.html">Bibliography</a>
                     <br/>
@@ -64,77 +73,79 @@
                         supported.</p>
 
 
-                    <div id="section" class="material list">
+                    <div id="material" class="material list">
                         <h1>Material</h1>
-                        <ul class="col3">
+                        <table>
                             <xsl:for-each-group select="$inscription//tei:material" group-by="@ref">
                                
                                 <xsl:sort order="ascending" select="lower-case(.)"/>
-                                <li>
-                                    <a>
+                                <tr>
+                                    <td><a>
                                     <xsl:attribute name="href">
                                         <xsl:value-of select="@ref"/>
                                     </xsl:attribute>
                                         <xsl:value-of select="."/>
-                                </a>
-                                    <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text>
-                                    <FORM ACTION="../cgi-bin/redirect.pl" METHOD="POST" onSubmit="return dropdown(this.inscriptions)">
+                                </a></td>
+<td>                                    <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text>
+                                    </td>
                                         
-                                    <select class="insriptions"><xsl:for-each select="current-group()"><option><a href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/></a></option></xsl:for-each>
-                                        <INPUT TYPE="SUBMIT" VALUE="Go"/></select></FORM>
+                                        <td>
+                                            <xsl:for-each select="current-group()"><a href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                        </td>
 
-                               </li>
+                               </tr>
                             </xsl:for-each-group>
-                        </ul>
+                        </table>
                     </div>
                     
                     
-                    <div id="section" class="instyp list">
+                    <div id="instyp" class="instyp list">
                         <h1>Type of Inscription</h1>
-                        <ul class="col3">
+                        <table>
                             <xsl:for-each-group select="$inscription//tei:TEI//tei:term" group-by="@ref">
                                 
                                 <xsl:sort order="ascending" select="lower-case(.)"/>
-                                <li>
-                                    <a>
+                                <tr>
+<td>                                    <a>
                                         <xsl:attribute name="href">
                                             <xsl:value-of select="@ref"/>
                                         </xsl:attribute>
                                         <xsl:value-of select="."/>
                                     </a>
-                                    <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text>
-                                    <FORM ACTION="../cgi-bin/redirect.pl" METHOD="POST" onSubmit="return dropdown(this.inscriptions)">
-                                        
-                                        <select class="insriptions"><xsl:for-each select="current-group()"><option><a href="{concat('/text/',../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID']"/></a></option></xsl:for-each>
-                                            <INPUT TYPE="SUBMIT" VALUE="Go"/></select></FORM>
+</td>                                  <td>  <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text></td>
+                                    <td>
+                                        <xsl:for-each select="current-group()"><a href="{concat('/text/',../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../tei:fileDesc/tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../tei:fileDesc/tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                    </td>
                                     
-                                </li>
+                                </tr>
                             </xsl:for-each-group>
-                        </ul>
+                        </table>
                     </div>
                     
-                    <div id="section" class="objtyp list">
+                    <div id="objtyp" class="objtyp list">
                         <h1>Object Types</h1>
-                        <ul class="col3">
+                        <table>
                             <xsl:for-each-group select="$inscription//tei:TEI//tei:objectType" group-by="@ref">
                                 
                                 <xsl:sort order="ascending" select="lower-case(.)"/>
-                                <li>
-                                    <a>
+                                <tr>
+<td>                                    <a>
                                         <xsl:attribute name="href">
                                             <xsl:value-of select="@ref"/>
                                         </xsl:attribute>
                                         <xsl:value-of select="."/>
-                                    </a>
-                                    <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text>
-                                    <FORM ACTION="../cgi-bin/redirect.pl" METHOD="POST" onSubmit="return dropdown(this.inscriptions)">
-                                        
-                                        <select class="insriptions"><xsl:for-each select="current-group()"><option><a href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/></a></option></xsl:for-each>
-                                            <INPUT TYPE="SUBMIT" VALUE="Go"/></select></FORM>
+                                    </a></td>
+<td>                                    <xsl:text> (total: </xsl:text><xsl:value-of select="count(current-group())"/><xsl:text>)</xsl:text>
+</td>                                 
                                     
-                                </li>
+                                    
+                                    
+                                    <td>
+                                        <xsl:for-each select="current-group()"><a href="{concat('/text/',../../../../../../../tei:publicationStmt/tei:idno[@type='localID'],'.html')}"><xsl:value-of select="../../../../../../../tei:titleStmt/tei:title"/><xsl:text> (</xsl:text><xsl:value-of select="../../../../../../../tei:publicationStmt/tei:idno[@type='localID']"/><xsl:text>)</xsl:text></a><br/></xsl:for-each>
+                                    </td>                                    
+                                </tr>
                             </xsl:for-each-group>
-                        </ul>
+                        </table>
                     </div>
                     </div>
                 <div id="footer">UNIVERSITATEA BABES BOLYAI - This file is licensed under the
