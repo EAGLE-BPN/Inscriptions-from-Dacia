@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000011.html</idno>
+                
+                
+               <idno type="localID">ip00000011</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul Național de Antichități, București, inv. L 203.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>66</height>
+                                         <width/>
+                                         <depth>29</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1906 au sud du camp, sur le versant vers Valea Sândului.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne d’Hadrien, en raison du nomen Aelius; pourtant,(A)elius sans A et la forme erronée [ T]heubropes suggèrent plutôt le IIIe siècle ap. J.-C.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1906</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_12" url="https://commons.wikimedia.org/wiki/File:PO_12.jpg">
+       <desc> PO_12
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Téglás, AÉrt 3, 191, p. 4, fig. 7, p. 48 </bibl><bibl> I. I. Russu, Materiale 6, 199, p. 878-879, no, fig. 11(desen) </bibl><bibl> AE 1960, 228 </bibl><bibl> E. Bujor, Apulum 6, 199, p. 18-186, no 2, fig. 1 / 2(photo) </bibl><bibl> AE 1967, 397 </bibl><bibl> ILD 467.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><ex>A</ex><abbr>el</abbr><ex>ius</ex></expan> <supplied reason="lost"> T</supplied>he <lb n="3"/><expan><abbr>ubropes</abbr><ex cert="low"/></expan> <lb n="4"/><expan><abbr>v</abbr><ex>oto</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 2-4 ; Russu, Petolescu(ILD), AE 1960 : The / ubro / pes ; Bujor, AE 1967, HD : He / upro / pes. La première solution est préférable ; cf. AE 1933, 20 : Theupropi, tandis que la seconde solution se heurte à un nom incorrect(Εὑπρέπης, donc Heuprepes) et à une division incorrecte en syllabes dans les l. 2-3 ; or, nous avons ici Theubropes à la place de Theopropus ou Theoprepes(Θεόπροπος); l., tous les auteurs : v(otum) l(ibens) p(osuit).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon(et) très grand. Aelius Theupropes érigea(ceci) de bon gré à la suite d’un vœu.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

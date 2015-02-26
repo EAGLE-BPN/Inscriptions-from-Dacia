@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000037.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000037.html</idno>
 
   <idno type="localID">fm00000037</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="AE 1957, 266_1" url="https://commons.wikimedia.org/wiki/File:AE 1957, 266_1.jpg">
+    <graphic n="AE 1957, 266_1" sameAs="https://commons.wikimedia.org/wiki/File:AE 1957, 266_1.JPG" url="https://upload.wikimedia.org/wikipedia/commons/a/ae/AE_1957%2C_266_1.JPG">
        <desc> AE 1957, 266_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" AE 1957, 266_2" url="https://commons.wikimedia.org/wiki/File:AE 1957, 266_2.jpg">
+    <graphic n=" AE 1957, 266_2" url="https://upload.wikimedia.org/wikipedia/commons/1/17/AE_1957%2C_266_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1957, 266_2.jpg">
        <desc>  AE 1957, 266_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

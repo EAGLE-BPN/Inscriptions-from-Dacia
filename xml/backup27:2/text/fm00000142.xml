@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000142.html</idno>
+
+  <idno type="localID">fm00000142</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Iglita</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>75</height>
+                                         <width>17</width>
+                                         <depth>90</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029965">Troesmis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0201" notAfter-custom="0250" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">First half of the third century AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>?</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="CIL III 12484_1" url="https://upload.wikimedia.org/wikipedia/commons/d/d6/CIL_III_12484_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 12484_1.JPG">
+       <desc> CIL III 12484_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 12484_2" url="https://upload.wikimedia.org/wikipedia/commons/e/ed/CIL_III_12484_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 12484_2.jpg">
+       <desc>  CIL III 12484_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, AEM 14, 1891, p. 19, no. 44 </bibl><bibl> CIL III 12484 </bibl><bibl> ISM V 208</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Quisque henc <lb n="2"/>memoriam le<lb break="no" n="3"/>xerit sit illo <lb n="4"/>semper bene <lb n="5"/>sit t<expan><ex>i</ex><abbr>b</abbr><ex>i</ex></expan> semper <lb n="6"/>b<expan><ex>e</ex><abbr>ne</abbr></expan>! <expan><abbr>D</abbr><ex>is</ex></expan> Manibus <lb n="7"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Whoever this funeral inscription read, may him be well; be well Thou! To the Manes Gods...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>quisque = quisquis; henc = hanc; lexerit = legerit; illo = illi; memoria = funerary inscription/monument in the Danubian Latin</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Valeria Maximilla</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000167.html</idno>
+                
+                
+               <idno type="localID">ip00000167</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul Natinal de Istorie a Transilvaniei, inv. IN 8241 = V 187</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/230">Dé d'une base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>13</height>
+                                         <width>68</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation; hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1904 dans la partie supérieure de Valea Sândului, dans la nécropole romaine.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison de l’excès de ligatures, probablement de l’époque des Sévères.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1904</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_168" url="https://commons.wikimedia.org/wiki/File:PO_168.jpg">
+       <desc> PO_168
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G. Téglás, Klio 11, 1911, p. 01 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 169, no 36 </bibl><bibl> E. Schallmayer et alii, Osterburken I, p. 42-426, no 7 </bibl><bibl> ILD 11.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Valeria Maximil <lb n="3"/>la <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXIX <expan><abbr>m</abbr><ex>ensibus</ex></expan> VII <lb n="4"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Maximus <expan><abbr>vet</abbr><ex>eranus</ex></expan> <lb n="5"/><expan><abbr>ex</abbr><ex>centurione</ex></expan> pater et Valeria <lb n="6"/>Marcelliṇa mater <lb n="7"/><expan><abbr>fil</abbr><ex>iae</ex></expan> pientissimae et <lb n="8"/><expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Tertius <expan><abbr>vet</abbr><ex>eranus</ex></expan> ex <expan><abbr>dec</abbr><ex>urione</ex></expan> <lb n="9"/>coniugi optimae <lb n="10"/>et pientissimae <lb n="11"/>et Terentius et Valeria <lb n="12"/>et Maximianus <expan><abbr>fil</abbr><ex>ii</ex></expan> <lb n="13"/>matri carissimae <lb n="14"/><expan><abbr>fec</abbr><ex>erunt</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L., Kerényi : ex [ b(ene)f(iciario)] ; Schallmayer : ex ḅ(eneficiario) ; Țeposu Marinescu : ex [ centurione] ; Petolescu(ILD) : ex [ 7 ?] ; tous les auteurs : Valer(i)a ; l. 6, Schallmayer, Petolescu, HD : Marcell [ in]a ; Țeposu Marinescu : Marcellina ; l., Kerényi, Petolescu : pie(n)tissimae ; Țeposu Marinescu : pie [ n]tissimae ; HD : pientissimae.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Valeria Maximilla a vécu 29 ans(et) sept mois. Valerius Maximus, vétéran, ancien centurion, en tant que père, et Valeria Marcellina en tant que mère firent(le monument) à la fille très pieuse et Publius Aelius Tertius, vétéran, ancien décurion, à la meilleure et à la très pieuse épouse et Terentius et Valeria et Maximianus, en tant qu’enfants, à la très chère mère.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Valerius Maximus était ancien centurion, probablement de la legio V Macedonica. Son gendre, P. Aelius Tertius, avait été décurion dans une troupe inconnue de cavalerie.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

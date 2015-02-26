@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000016.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000016.html</idno>
 
   <idno type="localID">fm00000016</idno>
 <availability>
@@ -119,22 +119,22 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="CIL III 749_1" url="https://commons.wikimedia.org/wiki/File:CIL III 749_1.jpg">
+    <graphic n="CIL III 749_1" url="https://upload.wikimedia.org/wikipedia/commons/7/77/CIL_III_749_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 749_1.JPG">
        <desc> CIL III 749_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 749_2" url="https://commons.wikimedia.org/wiki/File:CIL III 749_2.jpg">
+    <graphic n=" CIL III 749_2" url="https://upload.wikimedia.org/wikipedia/commons/3/3f/CIL_III_749_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 749_2.JPG">
        <desc>  CIL III 749_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 749_3" url="https://commons.wikimedia.org/wiki/File:CIL III 749_3.jpg">
+    <graphic n=" CIL III 749_3" url="https://upload.wikimedia.org/wikipedia/commons/4/40/CIL_III_749_3.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 749_3.jpg">
        <desc>  CIL III 749_3
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 749_4" url="https://commons.wikimedia.org/wiki/File:CIL III 749_4.jpg">
+    <graphic n=" CIL III 749_4" url="https://upload.wikimedia.org/wikipedia/commons/3/31/CIL_III_749_4.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 749_4.JPG">
        <desc>  CIL III 749_4
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

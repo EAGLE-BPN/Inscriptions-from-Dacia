@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique?</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000383.html</idno>
+                
+                
+               <idno type="localID">ip00000383</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. CC 286/81.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque honorifique ou votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>16</height>
+                                         <width/>
+                                         <depth>12</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               point de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée à Porolissum en 1981.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du martelage du nom impérial.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1981</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique?</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_64" url="https://commons.wikimedia.org/wiki/File:POR_64.jpg">
+       <desc> POR_64
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, R. Zăgreanu, D. Deac, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [- - - - - - <lb n="2"/><del rend="erasure"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> Au]gu[sti ?</del> <lb n="3"/>ala I A]<expan><abbr>stur</abbr><ex>um</ex></expan> <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+            <div type="commentary">
+                <p>Les noms d’un empereur ou d’empereurs a été érasé dans les lignes précédentes. Il est donc normal de supposer das la derniére ligne le nom d’une unité militaire. La surprise est qu’il semble s’agir de l’ala I Asturum, connue jusqu’ici au IIème siècle dans la Dacie inférieure ; voir pour cette troupe et sa garnison à Boroșneul Mare J. E. H. Spaul, Ala2, p. 37-38 ; C. C. Petolescu, Auxilia, p. 62-63.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

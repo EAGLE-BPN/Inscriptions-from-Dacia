@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de construction pour Jupiter Dolichenus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000437.html</idno>
+                
+                
+               <idno type="localID">ip00000437</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1511">Architrave</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>20</height>
+                                         <width>54</width>
+                                         <depth>160</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée à Samum dans des conditions inconnues; vue vers 1858 à Coplean (Kapjoni) chez le comte M. Eszterházy par C. Torma, qui envoya le texte à Th. Mommsen.
+                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de Septime Sévère, en raison du statut municipal de Porolissum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1858</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 828 </bibl><bibl> Fr. Cumont, TextMon II, p. 137, no 296 </bibl><bibl> I. Piso, AIIACluj 19, 1976, p. 262, no 3, fig. 3 a-b (photo, dessin) </bibl><bibl> idem, AMN 38, 2001, p. 221, n. 2 </bibl><bibl> L. Balla, ACD 17-18, 1981-1982, p. 195-197 = idem, Studia Dacica. Collected Papers, Debrecen 2000, p. 173-174 </bibl><bibl> AE 1982, 835 </bibl><bibl> S. Sanie, Cultele orientale I, p. 268, no 68 </bibl><bibl> R. Ardevan, Viața municipală, p. 437, no 479 </bibl><bibl> A. Rusu-Pescaru, D. Alicu, Templele romane din Dacia, Deva 2000, p. 154 </bibl><bibl> ILD 770.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan>?D</supplied><expan><abbr>ol</abbr><ex>icheno</ex></expan> pro <expan><abbr>sal</abbr><ex>ute</ex></expan> <expan><abbr>d</abbr><ex>omini</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <lb n="2"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <expan><abbr>pont</abbr><ex>ifex</ex></expan> <expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>S</abbr><ex>eptimii</ex></expan> <expan><abbr>P</abbr><ex>orolissensis</ex></expan> et Antiochianus <lb n="3"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>P <certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>sae.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Th. Mommsen : [S]ol(i) pro sal(ute) d(omini) n(ostri) Aug(usti) pont(ificis) m(aximi) S[e]pt[imius] Antiochian(us) ….. ; pourtant, une abréviation [S]ol(i) est improbable ; la lecture d’en haut chez I. Piso.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À Jupiter très bon (et) très grand ?) Dolichenus, pour le salut de notre Auguste seigneur. …, pontifex du municipe Septimium Porolissense et Antiochianus ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Théoriquement le P de la l. 2 peut être développé tout aussi bien P(otaissensis). Pour Porolissum plaide la moindre distance de Samum. L’inscription prouve l’existence d’un temple de Iupiter Dolichenus à Samum. Du point de vue de cette religion Samum semble se trouver sous l’influence de Porolissum. On note qu’Antiochianus, probablement prêtre de Dolichenus, ne porte ici que le cognomen ou le nom personnel ; cf. L. Ruscu, AMN 35, 1998, p. 152 : S[e]ptimius Antiochianus, lecture erronée.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

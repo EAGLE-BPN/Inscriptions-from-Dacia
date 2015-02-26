@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000094.html</idno>
+                
+                
+               <idno type="localID">ip00000094</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ilișua</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vu en 1776 par Elek Makrai dans un édifice avec abside aux dimensions de 29 x 14 m.
+                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du du début du règne d’Hadrien, quand l’aile est venue en Dacie.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1776</date>
+                                <placeName>Ilișua</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AR_9" url="https://commons.wikimedia.org/wiki/File:AR_9.jpg">
+       <desc> AR_9
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>K. Torma, ArchÉrt 14, 1880, p. 60-62 </bibl><bibl> idem, AEM 4, 1880, p. 12 </bibl><bibl> CIL III 7626 </bibl><bibl> S. Nemeti, Classica et Christiana / 2, 20, p. 409, no 8 </bibl><bibl> C. Gaiu, R. Zăgreanu, Inscripții și piese sculpturale din castrul roman de la Ilișua, Cluj-Napoca 2011, p. 76, no I.2.14, p. 123, pl. V.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Pauli <lb n="2"/>n <supplied reason="lost"> u</supplied>s <expan><abbr>templ</abbr><ex>um</ex></expan> <lb n="3"/>instituit <lb n="4"/>pro se suo <lb n="5"/>r <supplied reason="lost"> u</supplied>mque <lb n="6"/>salute <lb n="7"/>Genio <lb n="8"/>sanc <lb n="9"/>to sc<expan><ex>h</ex><abbr>olae</abbr></expan> de <lb n="10"/>curionum.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Publius Aelius Paulinus institua le temple pour soi-même(pour sa santé) et pour les siens au saint génie(protecteur) de la schola decurionum.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>On a affaire à un local des décurions de l’ala Frontoniana, qui ne pouvait être érigé que dans le camp. P. Aelius Paulinus était probablement décurion lui-même. Qu’il l’appelle templum est dû à la méconnaissance des termes ; un temple doit être orienté et inauguré ; pour la schola decurionum de Ilișua voir Hug, RE IIA / 1,(1921), 621) ; d’autre part, le seul sanctuaire proprement dit dans l’intérieur d’un camp était l’aedes principiorum. L. 9 : scolae à la place de scholae.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

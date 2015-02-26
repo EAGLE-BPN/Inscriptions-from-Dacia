@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de la famille d'un centurion</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000389.html</idno>
+                
+                
+               <idno type="localID">ip00000389</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj, inv. IV 258 = V 15891.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>40</height>
+                                         <width>19</width>
+                                         <depth>50</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1914 dans les ruines d’un grand édifice situé au sud-est du camp de Pomet, probablement en position secondaire.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIème siècle et à partir du règne d’Hadrien, en raison du nomen Aelius.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1914</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_70" url="https://commons.wikimedia.org/wiki/File:POR_70.jpg">
+       <desc> POR_70
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>A. Buday, Dolgozatok 6, 1915, p. 71, no 1, fig. 13 (photo) </bibl><bibl> N. Gudea, AMP 13, 1989, p. 770, no 47 </bibl><bibl> ILD 697.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [Aeliae … <lb n="2"/>..]ạẹ <supplied reason="lost">vi</supplied>x<supplied reason="lost">it</supplied> <lb n="3"/><expan><abbr>an</abbr><ex>nis</ex></expan> X Aelius <lb n="4"/>Firmus (centurio) <lb n="5"/>5 <expan><abbr>coh</abbr><ex>ortis</ex></expan> I Brit <lb n="6"/>tonum fili <lb n="7"/>ạe piis<supplied reason="lost">s</supplied>ịma[e <lb n="8"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>l. 2 ; A. Buday : [Firmae?vix(it)] ; C. C. Petolescu (ILD) : […… vix(it)].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Aelia… a, (qui) a vécu dix ans. Aelius Firmus, centurion de la cohors I Brittonum, (érigea ceci) à la fille très pieuse.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La cohors I Brittonum ∞ a stationné dans le camp de Pomet depuis les débuts de la province (106) jusqu’au règne de Septime Sévère ou de Caracalla.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

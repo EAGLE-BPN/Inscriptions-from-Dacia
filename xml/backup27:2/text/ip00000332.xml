@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription à Liber Pater</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000332.html</idno>
+                
+                
+               <idno type="localID">ip00000332</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>131</height>
+                                         <width>44</width>
+                                         <depth>74</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1939 par C. Daicoviciu dans le temple situé au nord-ouest du camp de Pomet, avec un relief dionysiaque.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Malgré l’opinion qu’au début du IIIème siècle le temple du Liber pater aurait déjà été remplacé par celui de Bel, l’inscription ne peut pas être datée d’avant la fin du IIème siècle et du début du IIIème siècle, en raison de l’épithète deus portée par la divinité.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1939</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_13" url="https://commons.wikimedia.org/wiki/File:POR_13.jpg">
+       <desc> POR_13
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>A. Stein, Bruderkrieg, p. 4, fig. 2 (photo) </bibl><bibl> A. Bodor, Dacia 7, 1963, p. 217, n. 40 </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 14, no 12 (photo) </bibl><bibl> N. Gudea, AMP 13, 1989, p. 767, no 32, p. 1138, pl. CCLXXV </bibl><bibl> ILD 687 </bibl><bibl> E. Schallmayer et alii, Osterburken I, p. 415, no 540 (photo).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Deo Libero <lb n="2"/>patri Titus <lb n="3"/>Flavius <lb n="4"/>Valentianus <lb n="5"/>5 b<expan><ex>ene</ex><abbr>f</abbr><ex>iciarius</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 4, A. Stein, C. C. Petolescu (ILD) : Valentinus.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au dieu Liber le père. Titus Flavius Valentianus, beneficiarius du consulaire.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le dédicant exerçait la charge de beneficiarius dans l’état major du consulaire d’Apulum, étant détaché d’une légion ; pour les beneficiarii consularis voir A. v. Domaszewski, Rangordnung2, p. 32-35.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

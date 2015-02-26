@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire du vétéran C. Valerius Septimius</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000257.html</idno>
+                <idno type="EDH">HD048896</idno>
+                <idno type="Lupa">
+				1 / 20 / 2014 7:48:48
+				Inscription funéraire du vétéran C. Valerius Septimius
+				PO_28
+				C. Torma, AEM 4, 1880, p. 132, no 13 </idno>
+               <idno type="localID">ip00000257</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul Unirii Alba Iulia</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>19</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1800-1812 près de l’église réformée de Turda, dans le jardin du prêtre.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de Commode, en raison des l’épithètes p(ia) c(onstans) de la légion ; voir E. Ritterling, RE XII / 2(1925), 180 ; à partir de Septime Sévère, en raison du cognomen Septimius.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1800-1812</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_28" url="https://commons.wikimedia.org/wiki/File:PO_28.jpg">
+       <desc> PO_28
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Torma, AEM 4, 1880, p. 132, no 13 </bibl><bibl> G. Téglás, AÉrt 30, 1911, p. 77.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>C</abbr><ex>aio</ex></expan> <expan><abbr>Valer</abbr><ex>io</ex></expan> Septi <lb n="3"/>mio <expan><abbr>vet</abbr><ex>erano</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="4"/>V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>c</abbr><ex>onstantis</ex></expan> <lb n="5"/>vixit <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> LVIII <lb n="6"/>Aelia Iulia con-iux et heres pio <lb n="7"/>virginio bene <lb n="8"/>de se merito <expan><abbr>p</abbr><ex>osuit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Caius Valerius Septimius, vétéran de la legio V Macedonica, la pieuse(et) la constante, a vécu 58 ans. Aelia Iulia, épouse et héritière, érigea(ceci)(à l’époux) pieux, pur(qui n’avait pas connu une autre femme)(et) qui a bien mérité d’elle.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Dans le nom de l’épouse Iulia joue le rôle de cognomen. Pour le terme virginius(ἀνὴρ παρθένιος) on a des parallèles dans CIL III 2217, 1424(Lupo virginio meo) et CIL XI 4483 ; voir Oxford Latin Dictionary, Oxford 1968, s. v. virgineus(-ius).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

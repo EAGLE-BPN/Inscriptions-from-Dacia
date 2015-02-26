@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'une famille d'Aelii</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000393.html</idno>
+                
+                
+               <idno type="localID">ip00000393</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 1024</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>74</height>
+                                         <width>20</width>
+                                         <depth>133</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Se trouvait dans la cour du château Teleki de Jibou ; apportée au musée de Zalău.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de Septime Sévère, en raison du rang municipal de Porolissum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1940</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_74" url="https://commons.wikimedia.org/wiki/File:POR_74.jpg">
+       <desc> POR_74
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Dacia 7-8, 1937-1940, p. 324, no 4 </bibl><bibl> AE 1944, 48 </bibl><bibl> Gudea, V. Lucăcel, Inscripții, p. 16-17, no 17 (photo) </bibl><bibl> I. I. Russu, AIIACluj 18, 1975, p. 61, no 2, fig. 6 a-b (photo et dessin) </bibl><bibl> AE 1977, 663 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 769, no 39, p. 1139, pl. CCLXXVI </bibl><bibl> R. Ardevan, Viața municipală, p. 440, no 491</bibl><bibl> ILD 700.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Aelia Nice <supplied reason="lost">v</supplied>ị<expan><abbr>x</abbr><ex>it</ex></expan> annis XC <expan><abbr>Ael</abbr><ex>ius</ex></expan> <lb n="2"/>Victor <expan><abbr>vix</abbr><ex>it</ex></expan> <supplied reason="lost">a</supplied>nnis IIII Aelia M<supplied reason="lost">a</supplied>m <lb n="3"/>mutio <expan><abbr>vix</abbr><ex>it</ex></expan> a<supplied reason="lost">n</supplied>ṇịs XXII <expan><abbr>Ael</abbr><ex>ius</ex></expan> Vitalia <lb n="4"/>nus augur ẹṭ q<expan><ex>uin</ex><abbr>q</abbr><ex>uennalis</ex></expan> matṛi fiḷ(io) ẹṭ <lb n="5"/>nept<supplied reason="lost">i</supplied>ae <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erentibus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>C. Daicoviciu : lecture incomplète ; I. Russu : Aelia Nice [vi]x(it) annis XC Ael(ius) /Victor v[ix(it) a]nnis IIII Aelia Mam/mutio vix(it) annis XXII Ael(ius) Vitalia/nus augur […]NMOO matri et fili(o) / neptiae b(ene) m(erentibus) ; l. 4, AE 1977 : q(uin)q(uennalis)? ; R. Ardevan : augur [po]ntif(ex) qq( ?).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aelia Nice a vécu 90 ans. Aelius Victor a vécu 4 ans. Aelia Mammutio a vécu 22 ans. Aelius Vitalianus, augur et quinquennalis (érigea ceci) à (sa) mère, à (son) fils et à (sa) nièce, qui ont bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Pour le nom grec Nice (Νίκη) voir L. Ruscu, AMN 35, 1998, p. 170-171. L. 2 ; on ne peut pas distinguer une ligature MA, mais elle doit être sous-entendue. Le nom Mammutio peut être dérivé de mamma. L. 5 : neptia ou nepta à la place de neptis. Aelius Vitalianus est dignitaire du municipe Septimium Porolissense.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

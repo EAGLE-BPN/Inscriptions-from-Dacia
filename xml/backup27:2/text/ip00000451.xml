@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique impériale?</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000451.html</idno>
+                
+                
+               <idno type="localID">ip00000451</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base de statue?</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire?</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>63</height>
+                                         <width/>
+                                         <depth>42</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée à Samum et transportée vers 1858 à Cristeștii Ciceului chez C. Torma, qui a publié l’inscription et envoya une copie du texte à Th. Mommsen.
+                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison des épithètes impériales probables.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1858</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique?</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 829.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>F <lb n="2"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> Caesa</supplied>ri <lb n="3"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> pio</supplied> <expan><abbr>fel</abbr><ex>ici</ex></expan> <lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>I 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    5 lignes vides
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     5 <supplied reason="lost" cert="low">cohortis prima</supplied>e <expan><abbr>Brit</abbr><ex>annicae</ex></expan> <lb n="2"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>rensis <lb n="3"/><supplied reason="lost" cert="low">- - - Aure</supplied>li Bithi <lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>IVNCT<supplied reason="lost">..</supplied>.
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+
+            <div type="commentary">
+                <p>Selon I. I. Russu (fiche de travail), il s’agirait de deux s sans aucun rapport entre eux : le premier appartenant à une inscription impériale, le second à une inscription funéraire. Or, C. Torma affirme seulement que cinq lignes manquent et non qu’il s’agit de deux inscriptions. Dans les l. 2-3 pourrait s’agir du nom d’un empereur du IIIème siècle. L. 5 : [cohortis prima?]e Brit(annicae) ou bien [ala]e Brit(annicae). L. 6 : [- - -]rensis semble être dérivé d’un toponyme. L. 7 : probablement un nom au génitif, où Bithus trahit une origine thrace ; voir D. Detschew, Sprachreste, p. 66-68.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

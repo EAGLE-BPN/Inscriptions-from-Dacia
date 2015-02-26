@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000099.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000099.html</idno>
 
   <idno type="localID">fm00000099</idno>
 <availability>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="Dacia 2, 1925, p. 221" url="https://commons.wikimedia.org/wiki/File:Dacia 2, 1925, p. 221.jpg">
+   <graphic n="Dacia 2, 1925, p. 221" url="https://upload.wikimedia.org/wikipedia/commons/d/df/Dacia_2%2C_1925%2C_p._221.JPG" sameAs="https://commons.wikimedia.org/wiki/File:Dacia 2, 1925, p. 221.JPG">
        <desc> Dacia 2, 1925, p. 221
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

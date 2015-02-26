@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000095.html</idno>
+                <idno type="EDH">HD04467</idno>
+                
+               <idno type="localID">ip00000095</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ilișua</placeName>                     
+                        </settlement>
+                        <repository>MJBN, inv. 1993</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/30">tuf volcanique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>28</width>
+                                         <depth>29</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1989 dans le vicus.
+                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">a. 246, sous le consulat de C. Bruttius Praesens et C. Allius Albinus ; voir M. M. Roxan, RMD III, 199.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1989</date>
+                                <placeName>Ilișua</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AR_96" url="https://commons.wikimedia.org/wiki/File:AR_96.jpg">
+       <desc> AR_96
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>D. Protase, C. Gaiu, G. Marinescu, Castrul roman de la Ilişua, Bistrița 1997, p. 7 </bibl><bibl> ILD 800 </bibl><bibl> V. Wollmann, R. Ardevan, dans : Fontes historiae, p. 673-67, no 7, p. 678, fig. 13-14(photo et dessin) </bibl><bibl> R. Ardevan, V. Wollmann, RevBistr 21 / 1, 2007, p. 246-247, no, fig. 11 </bibl><bibl> S. Nemeti, M. Bărbulescu, EN 16-17, 2006-2007, p. 6-117(photo et dessin) </bibl><bibl> AE 2006, 1130 </bibl><bibl> C. C. Petolescu, CEpR XXVI, 2006, no 1191 </bibl><bibl> I. Piso, AMN 43-44, 2006-2007, p. 163-166(dessin) </bibl><bibl> AE 2007, 1190 </bibl><bibl> C. C. Petolescu, CEpR XXVII-XXVIII, 2007-2008, no 1272 </bibl><bibl> S. Nemeti, Classica et Christiana / 2, 20, p. 4, no 9 </bibl><bibl> S. Nemeti, M. Bărbulescu, Latomus 69 / 1, 20, p. 446-4, pl. VII / 1-2(photo et dessin) </bibl><bibl> C. Gaiu, R. Zăgreanu, Inscripții și piese sculpturale din castrul roman de la Ilișua, Cluj-Napoca 2011, p. 70-71, no I.2.1., p. 122, pl. IV</bibl><bibl> D. Dana, S. Nemeti, Classica et Christiana 7 / 2, 2012, p. 431-437.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> Geni</supplied>o terri <lb n="2"/><supplied reason="lost"> <expan><abbr>tor</abbr><ex>ii</ex></expan> A</supplied>rcoba <lb n="3"/><supplied reason="lost"> <expan><abbr>rens</abbr><ex>is</ex></expan>? A</supplied>ụ<expan><abbr>r</abbr><ex>elius</ex></expan> Sal <lb n="4"/><supplied reason="lost"> ….. et</supplied> Ạ<expan><abbr>el</abbr><ex>ius</ex></expan> No <lb n="5"/><supplied reason="lost"> …..</supplied>s <expan><abbr>magg</abbr><ex>istri</ex></expan> <lb n="6"/><supplied reason="lost"> Praes</supplied>ente et Al <lb n="7"/><supplied reason="lost"> bino</supplied> co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Protase, Gaiu, Marinescu, ILD : [ - - -]O TERRI / [ - - -]ROCBA / [ - - -]R SAL / [ - - -]AEL NO / [ - - -]S MAGG / [ - - -]AET TAEL / [ - - -] COS ; Wollmann, Ardevan : [ De]o Terri / [ …]rcoba(e) / [ Au]r(elius) Sal(vius) / [ et A]el(ius) No / [ mu]s magg(istri) / [ Pude]nte et Ael / [ ian(o)] co(n)s(ulibus) ; Nemeti, Bărbulescu(2006-2007), Petolescu(2006) : [ Geni]o terri / t(orii) A]rcoba(darensis) / [ Au]r(elius) Sal(vius) / [ et A]el(ius) No / [ mu?]s magg(istri) / [ Pude]nte et Ael / [ ian(o)] co(n)s(ulibus) ; Piso, AE 2007, Petolescu(2007-2008), Nemeti(20) : [ Geni]o terri / [ tor(ii) A]rcoba(darensis) / [ M(arcus)? A]ụr(elius) Sal(- - -) / [ et P(ublius)? A]el(ius) No / [ ..]s magg(istri) / [ Praese]nte et Al / [ bin(o)] co(n)s(ulibus). Nemeti et Bărbulescu(20) maintiennent sans aucune explication la lecture erronée [ Pude]nte et Ael / [ ian(o)] co(n)s(ulibus) dans les l. 6-7 ; cf. Dana, Nemeti : [ Geni]o terri / [ tor(ii) A]rcoba(rensis?) / [ - - - Au]r(elius) Sal / [ - - - et] Ạel(ius) No / [ - - -]s magg(istri) / [ Praes]ente et Al / [ bino] co(n)s(ulibus).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au génie du territoire d’Arcobara(?). Aurelius Sal… et Aelius No…s, magistri, sous le consulat de Praesens et Albinus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Nemeti et Bărbulescu ont reconnu dans les l. 1-2 la localité Ἀρκοβάδαρα de Ptol. 3, 8, 6. Dana et Nemeti, en se servant surtout de l’analogie Ζουρόβαρα(Ptol. 3, 8, 9), ont émendé Ἀρκοβάδαρα en Ἀρκόβαρα, une solution que nous avons suivie avec précaution. Le territorium est une entité quasi-municipale ayant à sa tête deux magistri ; voir W. Langhammer, Die rechtliche und soziale Stellung der Magistratus Municipales und der Decuriones, Wiesbaden 1973, p. . Dans notre cas il s’agit probablement du vicus militaire près du camp de l’ala Frontoniana.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

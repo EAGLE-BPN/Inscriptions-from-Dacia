@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000023.html</idno>
+
+  <idno type="localID">fm00000023</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanta</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanta</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marble</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>105</height>
+                                         <width>30</width>
+                                         <depth>85</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">2-2</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/007773">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0101" notAfter-custom="0200" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probably second century AD.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Cumpana</placeName> 
+                            <placeName type="modernRegion">Constanta</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="CIL III 7523_1" url="https://upload.wikimedia.org/wikipedia/commons/a/af/CIL_III_7523_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7523_1.JPG">
+       <desc> CIL III 7523_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 7523_2" url="https://upload.wikimedia.org/wikipedia/commons/8/81/CIL_III_7523_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7523_2.jpg">
+       <desc>  CIL III 7523_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 7523_3" url="https://upload.wikimedia.org/wikipedia/commons/0/0d/CIL_III_7523_3.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7523_3.JPG">
+       <desc>  CIL III 7523_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, Neue Inschriften aus der Dobrudscha und Rumänien, AEM 8, 1884, p. 3-4, no. 7 </bibl><bibl> CIL III 7523 </bibl><bibl> ILS 4069 </bibl><bibl> ISM II 129</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Ero et D<supplied reason="lost">omno</supplied> <lb n="2"/>Matrem Romanorum subscriptorum <lb n="3"/>Menia Iuliane Tiana <lb n="4"/>Lucius Antonius Capito Nicomedia <lb n="5"/>Caius Licinius Clemens <expan><abbr>n</abbr><ex>atus</ex></expan> Abonutichu <lb n="6"/>Caius Aurelius Alexandrus <expan><abbr>n</abbr><ex>atus</ex></expan> Heraclia (sic!) <lb n="7"/>Cludius (sic!) Secundus <expan><abbr>n</abbr><ex>atus</ex></expan> Abonutichus (sic!) <lb n="8"/><expan><abbr>C</abbr><ex>aius</ex></expan> Gabinius Modestus <expan><abbr>n</abbr><ex>atus</ex></expan> Perintho <lb n="9"/><supplied reason="lost" cert="low">T(itus)</supplied> Ailius Barbario <expan><abbr>n</abbr><ex>atus</ex></expan> Nicomedia <lb n="10"/>Aurelius Vitus <expan><abbr>n</abbr><ex>atus</ex></expan> Caesaria <lb n="11"/>Vettius Ponticus <expan><abbr>n</abbr><ex>atus</ex></expan> Tio <lb n="12"/>Fabius Paulinus <expan><abbr>n</abbr><ex>atus</ex></expan> Mazaca <lb n="13"/><expan><abbr>T</abbr><ex>itus</ex></expan> Ailius Pompeius <expan><abbr>n</abbr><ex>atus</ex></expan> Tio <lb n="14"/>Papirius Celer <expan><abbr>n</abbr><ex>atus</ex></expan> <supplied reason="lost"> ... </supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un Thrace(?)</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000224.html</idno>
+                
+                
+               <idno type="localID">ip00000224</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moldovenești / Várfalva</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque, stèle ou base de monument funéraire</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vue par A. Steinbüchel vers le début du XIXe siècle à Moldovenești.
+                                <placeName ref="www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Impossible de dater exactement.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers le début du XIXe siècle</date>
+                                <placeName>Moldovenești / Várfalva</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_22" url="https://commons.wikimedia.org/wiki/File:PO_22.jpg">
+       <desc> PO_22
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 937.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>M O S <lb n="3"/><supplied reason="lost" cert="low"> Aul</supplied>upor <lb n="4"/>L V X <lb n="5"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> I</supplied>usti <supplied reason="lost"> nus, <gap reason="lost" quantity="1" unit="character"/>a</supplied> <lb n="6"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+            <div type="commentary">
+                <p>L. 2 : possible est le nom thrace Aulupor ; voir pour celui-ci D. Detschew, Sprachreste, p. 3. L. 3 : v [ i]x(it) ?; dans ce cas Iustinus ou Iustina serait la personne qui érigea le monument.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

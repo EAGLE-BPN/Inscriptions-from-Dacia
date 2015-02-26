@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000118.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000118.html</idno>
 
   <idno type="localID">fm00000118</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="CIL III 14214,19_1" url="https://commons.wikimedia.org/wiki/File:CIL III 14214,19_1.jpg">
+    <graphic n="CIL III 14214,19_1" url="https://upload.wikimedia.org/wikipedia/commons/d/de/CIL_III_14214%2C19_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 14214,19_1.JPG">
        <desc> CIL III 14214,19_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 14214,19_2" url="https://commons.wikimedia.org/wiki/File:CIL III 14214,19_2.jpg">
+    <graphic n=" CIL III 14214,19_2" url="https://upload.wikimedia.org/wikipedia/commons/a/a7/CIL_III_14214%2C19_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 14214,19_2.JPG">
        <desc>  CIL III 14214,19_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

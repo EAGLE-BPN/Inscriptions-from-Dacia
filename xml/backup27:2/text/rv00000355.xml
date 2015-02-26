@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000355.html</idno>
+
+                <idno type="localID">rv00000355</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>National Museum of Budapest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>1</width>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">17th of March 139</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1855</date>
+                                <placeName>Sf. Ecaterina mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AM_6" url="https://commons.wikimedia.org/wiki/File:AM_6.png">
+       <desc> AM_6
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    Maximus Batonis puellam nomine <lb n="2"/>Passiam, sive ea quo alio nomine est, <expan><abbr>an</abbr><ex>circiter p(lus</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> empta sportellaria) <lb n="3"/>norum sex emit mancipioque accepit <lb n="4"/>de Dasio Verzonis Pirusta ex Kaviereti<supplied reason="lost">o</supplied> <lb n="5"/>x ducentis quinque. <lb n="6"/>Iam puellam sanam esse a furtis noxique <lb n="7"/>salutam, fugitivam erronrm non esse <lb n="8"/>praestari. Quot si qui seam puellam <lb n="9"/>partemve quam ex eo quis evicerit, <lb n="10"/>quominus Maximus Batonis quo <lb n="11"/>ve ea res pertinebit habere possi <lb n="12"/>dereque recte liceat, tum quanti <lb n="13"/>ea puella empta est, tam pecuniam <lb n="14"/>et alterum tantum dari fide rogavit <lb n="15"/>Maximus Batonis, fide promisit Dasius <lb n="16"/>Verzonis Pirusta ex Kaviereti. <lb n="17"/>Proque ea puella, quae <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripta</ex></expan> este, x ducen <lb n="18"/>tos quinque accepisse et habere <lb n="19"/>se dixit Dasisu Verzonis a Maximi Batonis. <lb n="20"/>Actum Karto XVI <expan><abbr>k</abbr><ex>alendas</ex></expan> Apriles <lb n="21"/>Tito Aelio Caesare Antonino Pio II et Bruttio <lb n="22"/>Praesente II <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan>. 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … Maximi Veneti principis <lb n="2"/>Masuri Messi <expan><abbr>dec</abbr><ex>urionis</ex></expan> <lb n="3"/>Anneses Andunocnetis <lb n="4"/>Plani Verzonis Sclaietis <lb n="5"/>Liccai Epicadi Marciniesi <lb n="6"/>Epicadi Plarentis qui et Mico <lb n="7"/>Dasi Verzonis ipsius Venditoris.
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Maximus son of Bato bought from Dasius son of Verzo the Pirust from Kavieretium a child slave named Passia, aged around 6, who was found abandoned as a baby (sportellaria), for the price of 250 denarii. It is waranteed that the child is healthy, is not a thief, does no damages and is not a runaway. If anyone else whould want the child, he would have to pay to Maximus son of Bato the same amount that he is going to pay to Dasius son of Verzo the Pirust from Kavieretium. Dasius son of Verzo testifies that he received 250 denarii from the buyer. Sealed in Kartum, on the 17th of March, when Titus Aelius Caesar Antoninus Pius for the 2nd time and Bruttius Praesens for the 2nd time, were consuls.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

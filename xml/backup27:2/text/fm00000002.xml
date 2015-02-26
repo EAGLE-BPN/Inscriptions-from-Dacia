@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Slab</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000002.html</idno>
+
+  <idno type="localID">fm00000002</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Bulgaria</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Vidin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Archar</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Slab</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>58</height>
+                                         <width>54</width>
+                                         <depth>92</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Between words
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029790">Ratiaria</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029481">Moesia superior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0198" notAfter-custom="0209" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">198-209, the joint reign of Septimius Severus and Caracalla</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Roman Town</placeName> 
+                            <placeName type="modernRegion">Vidin</placeName>
+                            <placeName type="modernCountry">Bulgaria</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="CIL III 8086_1" sameAs="https://commons.wikimedia.org/wiki/File%3ACIL_III_8086_1.JPG" url="https://upload.wikimedia.org/wikipedia/commons/e/ee/CIL_III_8086_1.JPG">
+       <desc> CIL III 8086_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 8086_2" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 8086_2.jpg" url="https://upload.wikimedia.org/wikipedia/commons/e/e5/CIL_III_8086_2.jpg">
+       <desc>  CIL III 8086_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 8086</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Sedato <expan><abbr>Aug</abbr><ex>usto</ex></expan> pro <expan><abbr>sal</abbr><ex>ute</ex></expan> <lb n="2"/><expan><abbr>Impp</abbr><ex>eratorum</ex></expan> Severi et <expan><abbr>Antonin</abbr><ex>i</ex></expan> <lb n="3"/><expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> et genio col(legii <lb n="4"/><expan><abbr>fabr</abbr><ex>um</ex></expan> <expan><abbr>Q</abbr><ex>uintus</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Antoninus <lb n="5"/><expan><abbr>dec</abbr><ex>urio</ex></expan> primus <expan><abbr>bis</abbr><ex>elliarius</ex></expan> <expan><abbr>magist</abbr><ex>er</ex></expan> <lb n="6"/><expan><abbr>coll</abbr><ex>egii</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripti</ex></expan> <expan><abbr>d</abbr><ex>onum</ex></expan> <expan><abbr>d</abbr><ex>edit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

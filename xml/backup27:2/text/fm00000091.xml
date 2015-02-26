@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000091.html</idno>
+
+  <idno type="localID">fm00000091</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Istria</placeName>                     
+                        </settlement>
+                        <repository>Museum of Histria</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marble</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>45</height>
+                                         <width>18</width>
+                                         <depth>32</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1.21.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/012228">Histria</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0125" notAfter-custom="0161" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">First half of the second century AD, either 129-131, or 159-160, subsequently different identifications of the consular named in the l. 3.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1923-1924</date>
+                                <placeName>In the southern part of the Late Roman city</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ISM I 137" url="https://upload.wikimedia.org/wikipedia/commons/8/86/ISM_I_137.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 137.JPG">
+       <desc> ISM I 137
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>V. Pârvan, Dacia 2, 1925, p. 318, no. 31 </bibl><bibl> CIMRM II 2296 </bibl><bibl> ISM I 137</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Τύχηι Ἀγαθῆι <lb n="2"/>Ἡλίωι Μίθρᾳ ἀνεικήτῳ <lb n="3"/>ἐπὶ ἱέ<supplied reason="lost">ρ</supplied>εω Ἰουλίου Σεουήρου <lb n="4"/>ὑπατικοῦ <lb n="5"/>οἵδε συνεισήνεγ<supplied reason="lost">κα</supplied>ν εἰς τ<supplied reason="lost">ὴν</supplied> <lb n="6"/><supplied reason="lost">ο</supplied>ἰκοδομίαν τοῦ ἱεροῦ <lb n="7"/>σπηλέου καὶ <supplied reason="lost">θεο</supplied>σέβει<lb break="no" n="8"/>αν ὑπη<supplied reason="lost">ρ</supplied>ετοῦ<supplied reason="lost">ντ</supplied>ος πατρὸς <lb n="9"/><supplied reason="lost">ε</supplied>ὐσεβοῦς Μ<supplied reason="lost">εν</supplied>ίσκου Νουμηνί<supplied reason="lost">ου</supplied>˙ <lb n="10"/><supplied reason="lost">Μ(άρκος)</supplied> Οὔλπ(ιος) Ἀρτεμίδωρος ποντάρ<supplied reason="lost">χης</supplied> <lb n="11"/><supplied reason="lost">Ἱ</supplied>ππόλοχος Πυθίωνος <lb n="12"/><supplied reason="lost">Κ</supplied>άρπος Ἀ<supplied reason="lost">π</supplied>ολλοδώρου <lb n="13"/><supplied reason="lost">Κ</supplied>αλλίστρατος Ἀπολλοδώρου <lb n="14"/><supplied reason="lost">Α</supplied>ἴλ(ιος) Διονύσιος Δημοκράτου<supplied reason="lost">ς</supplied> <lb n="15"/><supplied reason="lost">Ἰ</supplied>ούλ(ιος) Βάσσος β(ενεφικιάριος) ὑπατικοῦ <lb n="16"/><supplied reason="lost">Α</supplied>ὐρήλιος Αἰμιλιανὸς <lb n="17"/><supplied reason="lost">Αἴ</supplied>λ(ιος) Φίρμος, Διονύσιος Διονυσοδ<supplied reason="lost">ώρου</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour le préfet du prétoire Q. Marcius Turbo</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000580.html</idno>
+                
+                
+               <idno type="localID">ip00000580</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Caraș-Severin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Caransebeș</placeName>                     
+                        </settlement>
+                        <repository>Musée de Timișoara</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique encastrée dans une base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>102</height>
+                                         <width>20</width>
+                                         <depth>100</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">5.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée dans un mur d'une maison de Caransebeș
+                                <placeName ref="www.trismegistos.org/place/NaN">Territoire de Tibiscum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison du titre pater patriae de l'empereur Hadrien, à partir de 128; probablement de 132, lors d'une visite de l'empereur en Dacie; voir I. Piso, Fasti provinciae Daciae II. Die ritterlichen Amtsträger, Bonn 2013, p. 104.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1873</date>
+                                <placeName>Caransebeș</placeName> 
+                            <placeName type="modernRegion">Jud. Caraș-Severin</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="SA_3" url="https://commons.wikimedia.org/wiki/File:SA_3.jpg">
+       <desc> SA_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 1551</bibl><bibl> IDR III/1, 131</bibl><bibl> I. Piso, Fasti provinciae Daciae II, p. 71-72, no 19</bibl><bibl> H. W. Müller, I. Piso, B. Schwaighofer, M. Benea, Der Marmor im römischen Dakien, Cluj-Napoca 2012, p. 94, SA 24.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Q</abbr><ex>uinto</ex></expan> Marcio Turb<supplied reason="lost">oni</supplied> <lb n="2"/>Frontoni Publicio <lb n="3"/>Severo <expan><abbr>praef</abbr><ex>ecto</ex></expan> <expan><abbr>praet</abbr><ex>orio</ex></expan> <lb n="4"/><expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>Caes</abbr><ex>aris</ex></expan> Aelii Traiani <lb n="5"/>Hadriani Augusti <lb n="6"/><expan><abbr>p</abbr><ex>atris</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <lb n="7"/><expan><abbr>colon</abbr><ex>ia</ex></expan> <expan><abbr>Ulp</abbr><ex>ia</ex></expan> <expan><abbr>Traian</abbr><ex>a</ex></expan> <expan><abbr>Aug</abbr><ex>usta</ex></expan> <lb n="8"/><expan><abbr>Dacic</abbr><ex>a</ex></expan> <expan><abbr>Sarmizegetus</abbr><ex>a</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Quintus Marcius Turbo Fronto Publicius Severus, préfet du prétoire de l'empereur César Aelius Traianus Hadrianus Augustus, père de la patrie. La colonie Ulpia Traiana Augusta Dacica Sarmizegetusa.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Q. Marcius Turbo s'était illustré pendant la guerre de 117-118 pour la défense de Dacie. L'inscription peut provenir de Tibiscum, qui appartenait encore au territoire de la colonie de Sarmizegetusa. Pour la carrière de Turbo voir récemment I. Piso, Fasti provinciae Daciae II, p. 67-109.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

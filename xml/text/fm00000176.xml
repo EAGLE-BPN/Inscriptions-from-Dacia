@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000176.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000176.html</idno>
 <idno type="lupa">MNA L 1802 foto noua.JPG</idno>
   <idno type="localID">fm00000176</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="AE 1960, 356_1" url="https://commons.wikimedia.org/wiki/File:AE 1960, 356_1.jpg">
+    <graphic n="AE 1960, 356_1" url="https://upload.wikimedia.org/wikipedia/commons/f/f3/AE_1960%2C_356_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:AE 1960, 356_1.JPG">
        <desc> AE 1960, 356_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" AE 1960, 356_2" url="https://commons.wikimedia.org/wiki/File:AE 1960, 356_2.jpg">
+    <graphic n=" AE 1960, 356_2" url="https://upload.wikimedia.org/wikipedia/commons/2/2f/AE_1960%2C_356_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1960, 356_2.jpg">
        <desc>  AE 1960, 356_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

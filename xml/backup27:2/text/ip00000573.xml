@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Onscription votive pour Turmasgada</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000573.html</idno>
+                
+                
+               <idno type="localID">ip00000573</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Olt</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Reșca</placeName>                     
+                        </settlement>
+                        <repository>Musée National de Roumanie, Bucarest, inv. 18822</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Statue votive avec sa base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>50</height>
+                                         <width>14</width>
+                                         <depth>20</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1870 à Reșca dans des conditions inconnues.
+                                <placeName ref="www.trismegistos.org/place/029109">Romula</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1870</date>
+                                <placeName>Reșca</placeName> 
+                            <placeName type="modernRegion">Jud. Olt</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="RO_1" url="https://commons.wikimedia.org/wiki/File:RO_1.jpg">
+       <desc> RO_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 8027</bibl><bibl> ILS 4074</bibl><bibl> D. Tudor, Dacia 9-10, 1941-1944, p. 412</bibl><bibl> idem, Dacia 11-12, 1945-1947, p. 271-272</bibl><bibl> G. Bordenache, RömRum, p. 204-205, F 59</bibl><bibl> eadem, CivRom, p. 220, F 109</bibl><bibl> IDR II 340</bibl><bibl> H. W. Müller, I. Piso, B. Schwaighofer, M. Benea, Der Marmor im römischen Dakien, Cluj-Napoca 2012, p. 79, RO 5.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Turmasgada</abbr><ex>e</ex></expan> <lb n="2"/><expan><abbr>Max</abbr><ex>imii</ex></expan> Maximinus et <lb n="3"/>Iulianus Maximinus <lb n="4"/>ex voto <expan><abbr>pos</abbr><ex>uerunt</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Turmasgada. Maximius Maximinus et (Maximius) Iulianus Maximinus érigèrent (ceci) à la suite d'un voeu.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La statue représente un aigle aux ailes déployées, tenant dans ses griffes un cerf. Turmasgada était un dieu des montagnes de Commagene, région située entre l'Asie Mineure et la Syrie. C. C. Petolescu (IDR), l. 2: M(aximus) Maximinus. Il 'agit probablement de deux Maximii, le premier ayant le cognomen Maximinus et le second deux cognomina, Iulianus Maximinus.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

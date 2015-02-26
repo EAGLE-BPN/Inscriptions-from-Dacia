@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de la fille de Nice</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000394.html</idno>
+                
+                
+               <idno type="localID">ip00000394</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 235</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire,</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>57</height>
+                                         <width>17</width>
+                                         <depth>34</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">6.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>?
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison du style de la stèle et de AE 1944, 48 = AE 1977, 663, du IIème siècle ; cf. L. Țeposu Marinescu : IIème-IIIème siècles.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_75" url="https://commons.wikimedia.org/wiki/File:POR_75.jpg">
+       <desc> POR_75
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Macrea, ActMuz 2, 1956, p. 112, no 12, fig. 8 (dessin) </bibl><bibl> AE 1958, 288 </bibl><bibl> I. I. Russu, AMN 5, 1968, p. 456-457, no 4, fig. 4 (photo et dessin) </bibl><bibl> AE 1971, 390 </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 17-18, no 19 (photo), p. 22, no 35 </bibl><bibl> L. Țeposu Marinescu, Funerary monuments, p. 152, no 219 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 769, no 41, p. 1139, pl. CCLXXVI, p. 774, no 63 </bibl><bibl> ILD 702, 725.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><supplied reason="lost">…….</supplied>a <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="3"/><supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan> …..</supplied> Nice <lb n="4"/><supplied reason="lost">mater<certainty locus="name" match="preceding-sibling::text()" cert="low"/>fi</supplied>liae <lb n="5"/><supplied reason="lost">bene mer</supplied>ịtae <lb n="6"/><supplied reason="lost" cert="low">f(aciendum) c(uravit)</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Aux dieux) Mânes. …a a vécu (… ans). … Nice, (en tant que mère), (prit le soin d’ériger ceci ?) à (sa) fille, qui a (bien) mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>M. Macrea n’a offert aucune lecture ; la lecture ci-dessus appartient à I. I. Russu. N. Gudea, V. Lucăcel, N. Gudea, C. C. Petolescu (ILD), EDH ne se sont pas rendu compte que l’inscription publiée par I. I. Russu est identiqeue à celle publiée par M. Macrea et ont fabriqué une nouvelle pièce avec une lecture propre. La mère de la l. 3 pourrait être identique à Aelia Nice de AE 1944, 48 = AE 1977, 663, qui a vécu 90 ans. Pour le nom grec Nice (Νίκη) L. Ruscu, AMN 35, 1998, p. 170-171.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

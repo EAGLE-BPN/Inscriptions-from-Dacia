@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000141.html</idno>
+                
+                
+               <idno type="localID">ip00000141</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ilișua</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle ou base funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/30">tuf volcanique?</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>96</height>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1862 par K. Torma près du mur nord du camp.
+                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement à partir de la fin du IIème siècle, en raison de la formule finale.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1862</date>
+                                <placeName>Ilișua</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AR_142" url="https://commons.wikimedia.org/wiki/File:AR_142.jpg">
+       <desc> AR_142
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>K. Torma, ErdMúz 3-4, 1866, p. 0, no 32 </bibl><bibl> CIL III 819 </bibl><bibl> S. Nemeti, Classica et Christiana / 2, 20, p. 417, no 43 </bibl><bibl> C. Gaiu, R. Zăgreanu, Inscripții și piese sculpturale din castrul roman de la Ilișua, Cluj-Napoca 2011, p. 86-87, no I.3.b.14, p. 127, pl. IX.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <supplied reason="lost"> <expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <lb n="2"/>Pompe <supplied reason="lost"> ius, <gap reason="lost" quantity="1" unit="character"/>a <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> a <supplied reason="lost"> <expan><abbr>nn</abbr><ex>is</ex></expan> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="4"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>N <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="5"/><supplied reason="lost"> A</supplied><expan><abbr>el</abbr><ex>ia</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>][) Fronime v <supplied reason="lost" cert="low"> ix(it) ann(is) .. </supplied><supplied reason="lost"/> <lb n="6"/>et <expan><abbr>Iul</abbr><ex>ia</ex></expan> Ammia v <supplied reason="lost" cert="low"> ix(it) ann(is) .. </supplied> <lb n="7"/>Antonius Mem <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="8"/><expan><abbr>s</abbr><ex>uis</ex></expan> <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erentibus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux(Mânes). Pompeius(Pompeia … ?) a vécu … ans, … Aelia(?) Fronime a vécu …(ans) et Iulia Ammia a vécu …(ans). Antonius Mem…(érigea ceci) à ses …, qui ont bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le cognomen Fronime(Φρονίμη) est d’origine grecque ; voir W. Pape II, P. 1648 ; L. Ruscu, AMN 3, 1998, p. 16. On peut dire la même chose sur le cognomen Ammia(Ἀμμία) ; voir W. Pape I, p. 74 ; L. Ruscu, p. 12. Pour le personnage de la l. 7, son cognomen peut être toujours d’origine grecque, Mem [ non](Μέμνων), voir pour celui-ci W. Pape I, p. 893-894, mais aussi Mem [ or] ou quelque chose de semblable, voir H. Solin, O. Salomies, Repertorium, p. 362 ; pour l’ensemble des noms de la famille voir Nemeti, ad 48. Il est difficile d’établir des rapports dans une famille dont quatre membres semblent porter des nomina différents. Le doute est permis dans le cas de [ A]el(ia) Fronime, dont le nomen pourrait être [ Iu]l(ia).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'Aurelius Victor</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000235.html</idno>
+                
+                
+               <idno type="localID">ip00000235</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1955">Stèle ou base de monument funéraire</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation; hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé avant 1774 dans la place publique de Turda.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIe siècle, en raison du nomen Aurelius pas accompagné par praenomen ; en tout cas à partir de l’arrivée de la légion en Dacie.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1774</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_236" url="https://commons.wikimedia.org/wiki/File:PO_236.jpg">
+       <desc> PO_236
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 909.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Aureli <supplied reason="lost"> us</supplied> Vic <supplied reason="lost"> t</supplied> <lb n="3"/>or libra <lb n="4"/>rius <supplied reason="lost"> l</supplied><expan><abbr>eg</abbr><ex>ionis</ex></expan> V <lb n="5"/>Ma <supplied reason="lost"> <expan><abbr>c</abbr><ex>edonicae</ex></expan></supplied> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> <lb n="6"/>XXXIIII et Valeri <supplied reason="lost"> a</supplied> <lb n="7"/>Valentina PO <lb n="8"/>I <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>no</ex></expan> U <supplied reason="lost"> l</supplied><expan><abbr>pia</abbr><ex cert="low"/></expan> F <lb n="9"/>laviana <expan><abbr>coni</abbr><ex>ugi</ex></expan> po <lb n="10"/><expan><abbr>s</abbr><ex>uit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 7-, Mommsen : Valeri Valenti nepoti vix. an(num) Ulpia Flaviana coni(ugi) pos(uit) ; Kerényi : Valeri. / Valentina po / i(?) vix. an. V Pia F / laviana coni. po / s. ; HD : Valeri(a) / Valentina PO / I vix(it) an(num ?) U [ l ?]pia F / laviana coni(ugi) po / s(uit). Dans la reconstitution de Mommsen dérange le fait que les noms des défunts se trouvent dans des cas différents.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Aurelius Victor, librarius de la legio V Macedonica, a vécu 34 ans et Valeria Valentina(?) … a vécu 1 an(?). Ulpia(?) Flaviana érigea(ceci ) à l’époux.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Pour la charge de librarius legionis voir A. v. Domaszewski, Rangordnung2, p. 39, 48. L. 2-3, 8-9 : on remarque la division incorrecte en syllabes.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

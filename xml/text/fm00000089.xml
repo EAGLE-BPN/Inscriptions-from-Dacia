@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000089.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000089.html</idno>
 
   <idno type="localID">fm00000089</idno>
 <availability>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="Dacia, NS 51, 2007" url="https://commons.wikimedia.org/wiki/File:Dacia, NS 51, 2007.jpg">
+   <graphic n="Dacia, NS 51, 2007" url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Dacia%2C_NS_51%2C_2007.JPG" sameAs="https://commons.wikimedia.org/wiki/File:Dacia, NS 51, 2007.JPG">
        <desc> Dacia, NS 51, 2007
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

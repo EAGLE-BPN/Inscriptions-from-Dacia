@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votive on Votive plate</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000173.html</idno>
+
+  <idno type="localID">fm00000173</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Nifon</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>Votive plate</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>154</height>
+                                         <width>20</width>
+                                         <depth>54</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               yes
+                                <height unit="cm">5.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/000425">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0223" notAfter-custom="0223" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">223 AD, consular pair</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1868</date>
+                                <placeName>In the ruins of a Byzantine fortification</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">Votive</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="ISM V 246_1" url="https://upload.wikimedia.org/wikipedia/commons/c/c4/ISM_V_246_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 246_1.JPG">
+       <desc> ISM V 246_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" ISM V 246_2" url="https://upload.wikimedia.org/wikipedia/commons/0/04/ISM_V_246_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 246_2.JPG">
+       <desc>  ISM V 246_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 6160 </bibl><bibl> 7497 </bibl><bibl> Gr. Tocilescu, AEM 6, 1882, p. 45 </bibl><bibl> ISM V 246</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Dianae <expan><abbr>Regin</abbr><ex>ae</ex></expan> <lb n="2"/>sacrum pro <lb n="3"/><expan><abbr>salut</abbr><ex>e</ex></expan> <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <supplied reason="lost"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied> <lb n="4"/><del rend="erasure">Au</del><expan><abbr>r</abbr><ex>elii</ex></expan> S<del rend="erasure">ev</del>eri <del rend="erasure">Al</del> <lb n="5"/><del rend="erasure">exandri</del> <expan><abbr>P</abbr><ex>ii</ex></expan> <expan><abbr>F</abbr><ex>elicis</ex></expan> <expan><abbr>A</abbr><ex>ugusti</ex></expan> <lb n="6"/><del rend="erasure"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></del>C <lb n="7"/><del rend="erasure"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><expan><abbr>Mae</abbr><ex cert="low"/></expan></del> <lb n="8"/>sianus si<del rend="erasure">ng(ularis <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan></del> <lb n="9"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan> Max<supplied reason="lost">i</supplied> <lb n="10"/>mo et Aelia<supplied reason="lost">n</supplied>o <lb n="11"/>co<expan><ex>n</ex><abbr>sulibus</abbr></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Consacrated to Diana the Queen, for the good health of the Emperor Marcus Aurelius Severus Alexander Pius Felix Augustus raised by [Mae(?)]sianus, member of governor's guard, accomplishing the vow in the year of the consuls Maximus and Aelianus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

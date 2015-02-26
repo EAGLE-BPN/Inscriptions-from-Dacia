@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>votive inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000133.html</idno>
+<idno type="EDH">HD011719</idno>
+    <idno type="TM">178652</idno>
+                <idno type="localID">rv00000133</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cluj-Napoca</placeName>                     
+                        </settlement>
+                        <repository>MNIT</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>altar / statue base ?</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">limestone</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>6</height>
+                                         <width>3</width>
+                                         <depth>2</depth>
+                                   </dimensions>
+                                    <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">3-4</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/030145">Napoca</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">after the reign of Severus Alexander, if the reading of "metropolis" is correct</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1943</date>
+                                <placeName>in the courtyard of a house from P-ta Unirii</placeName> 
+                            <placeName type="modernRegion">Cluj</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">votive inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="NA_5" url="https://commons.wikimedia.org/wiki/File:NA_5.png">
+       <desc> NA_5
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>AE 1969-1970, 548</bibl><bibl> AE 1971, 395</bibl><bibl> AE 1999, 1279</bibl><bibl> ILD554</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">Gesah</supplied>enis pro <lb n="2"/><supplied reason="lost">se et suis <expan><abbr>P</abbr><ex>ublius</ex></expan> A</supplied><expan><abbr>el</abbr><ex>ius</ex></expan> Maxi<lb break="no" n="3"/><supplied reason="lost">mus (duum) vir <expan><abbr>q</abbr><ex>uin</ex></expan></supplied><expan><abbr>q</abbr><ex>uennalis</ex></expan> et fla<lb break="no" n="4"/><supplied reason="lost">men <expan><abbr>col</abbr><ex>oniae</ex></expan> <expan><abbr>Nap</abbr><ex>ocensis</ex></expan></supplied> a <lb n="5"/>militi<expan><ex>i</ex><abbr>s</abbr></expan> <lb n="6"/><supplied reason="lost">sacerdos a</supplied>ṛae <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> <lb n="7"/><supplied reason="lost"><expan><abbr>coronat</abbr><ex>us</ex></expan> <expan><abbr>Dac</abbr><ex>iarum</ex></expan> I</supplied>II <expan><abbr>dec</abbr><ex>urio</ex></expan> <lb n="8"/><expan><abbr>col</abbr><ex>oniae</ex></expan> <lb n="9"/><supplied reason="lost" cert="low">metropoli</supplied>s <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the godesses Gesahenae. For him self and his(family),(Publius) Aelius Maximus,(duumvir) quinquennalis and flamen(of the colonia) Napoca, he who went through the equestrian militias, priest of the altar of our emperor, crowned with the tiara?of the 3 Dacias, decurion of the colonia metropolis(of Sarmizegetusa)?...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

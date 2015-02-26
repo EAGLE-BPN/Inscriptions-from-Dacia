@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000053.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000053.html</idno>
 
   <idno type="localID">fm00000053</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="IDRE II 338_1" url="https://commons.wikimedia.org/wiki/File:IDRE II 338_1.jpg">
+    <graphic n="IDRE II 338_1" url="https://upload.wikimedia.org/wikipedia/commons/0/07/IDRE_II_338_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:IDRE II 338_1.jpg">
        <desc> IDRE II 338_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" IDRE II 338_2" url="https://commons.wikimedia.org/wiki/File:IDRE II 338_2.jpg">
+    <graphic n=" IDRE II 338_2" url="https://upload.wikimedia.org/wikipedia/commons/5/51/IDRE_II_338_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:IDRE II 338_2.jpg">
        <desc>  IDRE II 338_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000058.html</idno>
+
+  <idno type="localID">fm00000058</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanta</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marble</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>30</height>
+                                         <width>8.5</width>
+                                         <depth>33</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1.2</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/007773">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0051" notAfter-custom="0100" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">The second half of the first century AD, due to the presence of the hic situs est formula and the missing of the DM.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1906</date>
+                                <placeName>In the modern harbour</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="AE 1957, 191_1" url="https://upload.wikimedia.org/wikipedia/commons/7/7d/AE_1957%2C_191_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:AE 1957, 191_1.JPG">
+       <desc> AE 1957, 191_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" AE 1957, 191_2" url="https://upload.wikimedia.org/wikipedia/commons/4/41/AE_1957%2C_191_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1957, 191_2.jpg">
+       <desc>  AE 1957, 191_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>D. Tudor, MCA 2, 1956, p. 581, no. 49 </bibl><bibl> AE 1957, 191 </bibl><bibl> ISM II 192</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>M</abbr><ex>arco</ex></expan> Sufena <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>Pal</abbr><ex>atina</ex></expan> Titiano <lb n="2"/><expan><abbr>mil</abbr><ex>iti</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> b<expan><ex>ene</ex><abbr>f</abbr><ex>iciario</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXV <lb n="3"/><expan><abbr>mil</abbr><ex>itavit</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> VII parentes <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>p</abbr><ex>ientissimo</ex></expan> <expan><abbr>f</abbr><ex>ecerunt</ex></expan> <expan><abbr>h</abbr><ex>ic</ex></expan> <expan><abbr>s</abbr><ex>itus</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

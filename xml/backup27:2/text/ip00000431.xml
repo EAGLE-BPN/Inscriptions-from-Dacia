@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription dédiée à Jupiter par un beneficiarius consularis</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000431.html</idno>
+                
+                
+               <idno type="localID">ip00000431</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>72</height>
+                                         <width/>
+                                         <depth>43</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé à Samum dans des conditions inconnues et vu en 1860 par C. Torma dans le château de Coplean (Kapjoni) chez la baronesse Huszár.
+                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement à partir de Sévère Alexandre, comme toutes les autres inscriptions de beneficiarii consularis de Samum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1860</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 822 </bibl><bibl> C. Daicoviciu, AMN 3, 1966, p. 166 </bibl><bibl> D. Isac, dans : Osterburken II, p. 212, no 2.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Aurel</abbr><ex>ius</ex></expan> <lb n="3"/>Moenenus <lb n="4"/><supplied reason="lost"><expan><abbr>b</abbr><ex>ene</ex><abbr>f</abbr><ex>iciarius</ex></expan></supplied> co<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <supplied reason="lost"><expan><abbr>M</abbr><ex>acedonicae</ex></expan></supplied> pi<expan><ex>a</ex><abbr>e</abbr></expan> <certainty match="preceding-sibling::node()" locus="value"/> <lb n="5"/>5 a<surplus>u</surplus>g<supplied reason="lost">ens sub sign</supplied>is r<supplied reason="lost" cert="low">eg(ione) </supplied><supplied reason="lost"/> <lb n="6"/><expan><abbr>Ans</abbr><ex cert="low">amensium ][</ex></expan> pro <expan><abbr>sal</abbr><ex>ute</ex></expan> <lb n="7"/>sua <expan><abbr>suorumq</abbr><ex>ue</ex></expan> <lb n="8"/>omnium <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <lb n="9"/><expan><abbr>m</abbr><ex>erito</ex></expan> <supplied reason="lost" cert="low">s(olvit) </supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 4-5, Th. Mommsen : co(n)s(ulari) leg(ionis) VIII Aug(ustae) [min]is[t]rans.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand. Marcus Aurelius Moenenus, (bénéficiaire) du consulaire, provenant de la legio V (Macedonica) la pieuse( ?), se trouvant en mission sous les étendards dans la regio Ansamensium( ?), (s’est acquitté) de (son) vœu de bon gré (et) à bon droit pour sa santé et pour celle de tous les siens.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La lecture d’en haut, avec beacoup de signes d’interrogation, d’après C. Daicoviciu ; voir aussi D. Isac. Pour la regio Ansamensium voir AE 1957, 326. Moenenus a une résonance grecque, mais le nom a été probablement mal copié ; il s’agit peut-être de Monimus (Μόνιμος) ; voir W. Pape, Wörterbuch II, p. 943.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

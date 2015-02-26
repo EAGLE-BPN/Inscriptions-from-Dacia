@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de construction pour le local des signiferi</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000198.html</idno>
+                
+                
+               <idno type="localID">ip00000198</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Un dansle musée de Cluj, les autres dans le musée de Turda</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>70</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Les s ont été trouvés dans les principia du camp légionnaire, notamment dans la chambre 14, dans le portique devant les chambres 13 et 14 et dans la basilique.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0238" notAfter-custom="0238" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 238, l'année du consulat de C. Fulvius Pius et de Pontius Proculus Pontianus.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Un au XIXe siècle, les autres entre 1971-20.</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_199" url="https://commons.wikimedia.org/wiki/File:PO_199.jpg">
+       <desc> PO_199
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Un : CIL III 927, I. Piso, Potaissa 2, 1980, p. 129-130</bibl><bibl> tous les s: M. Bărbulescu, Inscriptions, p. 6-86, no 6.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost" cert="low"> Pro sal(ute) Imp(eratoris) Gordiani p(ii) f(elicis)</supplied> Ạụ <supplied reason="lost"> <expan><abbr>g</abbr><ex>usti</ex></expan>(?) <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> sig</supplied>ṇiferum <lb n="2"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex</supplied>edṛ <supplied reason="lost"> am s</supplied>c<expan><ex>h</ex><abbr>olae</abbr></expan> <lb n="3"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <expan><abbr>quor</abbr><ex>um</ex></expan> <expan><abbr>nom</abbr><ex>ina</ex></expan> infra</supplied> sç <supplied reason="lost"> ripta sunt</supplied> <lb n="4"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="5"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Cṛ(escens <certainty match="preceding-sibling::node()" locus="value"/> <lb n="6"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Teṛ <supplied reason="lost" cert="low"> entianus </supplied> <lb n="7"/>Iulius Valeṇ <supplied reason="lost"> s</supplied> <lb n="8"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Valens <lb n="9"/>Ạ<expan><abbr>urel</abbr><ex>ius</ex></expan> Marcelḷ <supplied reason="lost" cert="low"> us </supplied> <lb n="10"/><supplied reason="lost"> A</supplied>ụ<expan><abbr>rel</abbr><ex>ius</ex></expan> Valen <supplied reason="lost" cert="low"> s </supplied> <lb n="11"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Iulị <supplied reason="lost"> anus</supplied> <lb n="12"/>- - - - - - <lb n="13"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> S</supplied>eptimin <supplied reason="lost"> us</supplied> <lb n="14"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Titus <lb n="15"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Severu <supplied reason="lost"> s</supplied> <lb n="16"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Aurelị <supplied reason="lost"> anus</supplied> <lb n="17"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Respe <supplied reason="lost"> ctus</supplied> <lb n="18"/>- - - - - - <lb n="19"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>an<certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="20"/>- - - - - - <lb n="21"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>ote <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="22"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>atinia <supplied reason="lost"> nus</supplied> <lb n="23"/>- - - - - - <lb n="24"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>so<certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost"> .</supplied> <lb n="25"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>anus <lb n="26"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>anus <lb n="27"/><supplied reason="lost" cert="low"> - - - Quin </supplied>tilianus <lb n="28"/><supplied reason="lost" cert="low"> - - - Cas </supplied><supplied reason="lost"/>sianu <supplied reason="lost"> s</supplied> <lb n="29"/>- - - - - - <lb n="30"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> Ma</supplied>ṛcẹḷ <supplied reason="lost" cert="low"> lus</supplied><supplied reason="lost"/> <lb n="31"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Maximu <supplied reason="lost"> s</supplied> <lb n="32"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> H</supplied>erculaṇ <supplied reason="lost"> us</supplied> <lb n="33"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>p <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="34"/>- - - - - - <lb n="35"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> Va</supplied>ḷẹn <supplied reason="lost" cert="low"> s </supplied> <lb n="36"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>to <supplied reason="lost"> .</supplied> <lb n="37"/><supplied reason="lost"> ded</supplied>icat <supplied reason="lost"> a pr</supplied>ịdie K <supplied reason="lost"> <expan><abbr>al</abbr><ex>endas</ex></expan> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="38"/><supplied reason="lost"> Pi</supplied>o e <supplied reason="lost"> t Pro</supplied>culo <supplied reason="lost"> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Pour la santé de l’empereur Gordien, pieux, heureux(?)), Auguste(?), ... des signiferi, ...(ont fait) l’exèdre du local, ...(ceux dont les noms sont) écrits(en bas) : ..., Aurelius Crescens(?), Aurelius Terentianus(?), Iulius Valens, Aurelius Valens, ... Iulianus, ..., ... Septiminus, ... Titus, ... Severus, ... Aurelianus, ... Respectus, ..., ...an..., ..., ...ote..., ...atinianus, ..., ...so..., ...anus, ...anus, ...Quintilianus(?), ... Cassianus(?), ..., ... Maarcellus(?), ... Maximus, ... Herculanus, ..., ... Valens(?), ...to..., dédiée un jour avant les Calendes de ...,(sous le consulat) de Pius et de Proculus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il s'agit probablement de la construction d'une exèdre(espace ouvert utilisé pour des réunions) pour le local(schola) des signiferi, les 60 porte-enseignes de la legio V Macedonica. La plaque aura été mise pour le salut de l'empereur Gordien III.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

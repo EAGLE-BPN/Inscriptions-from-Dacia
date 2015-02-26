@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Ceres Augusta</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000484.html</idno>
+                
+                
+               <idno type="localID">ip00000484</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Zlatna</placeName>                     
+                        </settlement>
+                        <repository>Église de Negraia</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>100</height>
+                                         <width>50</width>
+                                         <depth>58</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">5.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vu en 1957 par I. I. Russu dans l'église de Negraia, près de Zlatna, servant comme support d'autel.
+                                <placeName ref="www.trismegistos.org/place/030199">Ampelum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Datée de 3 janvier 215.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1957</date>
+                                <placeName>Zlatna</placeName> 
+                            <placeName type="modernRegion">Jud. Alba</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. I. Russu, MatArh 6, 1959, p. 887-889, no 25</bibl><bibl> D. Tudor, Istoria sclavajului în Dacia Romană, București 1957, p. 277, no 152</bibl><bibl> AE 1959, 308</bibl><bibl> H.-Chr. Noeske, BJ 177, 1977, p. 351, no 8</bibl><bibl> IDR III/3, 292</bibl><bibl> I. Piso, AMN 39-40, 2002-2003, p. 208-211, no 12, fig. 1 a-b (photo, dessin)</bibl><bibl> AE 2003, 1512</bibl><bibl> ILD 331</bibl><bibl> I. Piso, Fasti II, p. 344, no 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Cereri <expan><abbr>Aug</abbr><ex>ustae</ex></expan> <lb n="2"/><expan><abbr>sacr</abbr><ex>um</ex></expan> <lb n="3"/><supplied reason="lost">S</supplied>uriacus <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> <lb n="4"/><expan><abbr>disp</abbr><ex>ensator</ex></expan> <expan><abbr>aura</abbr><ex>riarum</ex></expan> cum suis <lb n="5"/>5 <expan><abbr>dedica</abbr><ex>ta</ex></expan> a Senec<supplied reason="lost">io</supplied> <lb n="6"/>ne Contiano <expan><abbr>v</abbr><ex>iro</ex></expan> <expan><abbr>e</abbr><ex>gregio</ex></expan> <lb n="7"/><expan><abbr>proc</abbr><ex>uratore</ex></expan> <lb n="8"/><supplied reason="lost">I</supplied>II <expan><abbr>Non</abbr><ex>as</ex></expan> <expan><abbr>Ian</abbr><ex>uarias</ex></expan> Laeto II <lb n="9"/>et Ceriale co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Consacré à Ceres Augusta. Suriacus, caissier des mines d'or de notre empereur (érigea ceci) avec les siens. A été dédié par Senecio Contianus, homme de mérite (chevalier Romain), procurateur, trois jours avant les Nones de janvier, sous le consulat de Laetus pour la seconde fois et de Cerialis.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La lecture ci-dessous d'après I. Piso. Le procurateur des mines d'or ne porte ici que les deux cognomina.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

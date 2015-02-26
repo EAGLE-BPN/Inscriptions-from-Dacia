@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000102.html</idno>
+
+  <idno type="localID">fm00000102</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Mehedinți</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Drobeta Turnu-Severin</placeName>                     
+                        </settlement>
+                        <repository>Museum of Drobeta Turnu-Severin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>143</height>
+                                         <width>63</width>
+                                         <depth>75</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               yes
+                                <height unit="cm">7.8</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029680">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/042767">Dacia superior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0106" notAfter-custom="0200" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probably second century AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Reused in the Late Roman fort, in the so-called tower of Justinian</placeName> 
+                            <placeName type="modernRegion">Mehedinți</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="CIL III 14216,10" url="https://upload.wikimedia.org/wikipedia/commons/b/bc/CIL_III_14216%2C10.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 14216,10.JPG">
+       <desc> CIL III 14216,10
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, AEM 19, 1896, p. 217, no. 77 </bibl><bibl> CIL III 14216,10 </bibl><bibl> Gr. Florescu, Mon. Fun., p. 17, no. 8 </bibl><bibl> IDR II 44</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Valeria <lb n="3"/>Gemina <lb n="4"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> <lb n="5"/>XVII <expan><abbr>d</abbr><ex>iebus</ex></expan> X. <lb n="6"/><expan><abbr>H</abbr><ex>ic</ex></expan> <expan><abbr>s</abbr><ex>ita</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>. <lb n="7"/><expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Papi<lb break="no" n="8"/>rianus <expan><abbr>7</abbr><ex>centurio</ex></expan> <lb n="9"/><expan><abbr>coh</abbr><ex>ortis</ex></expan> III <expan><abbr>Cam</abbr><ex>pestris</ex></expan> <lb n="10"/>coniugi <lb n="11"/>b<expan><ex>ene</ex><abbr>m</abbr><ex>erenti</ex></expan> <lb n="12"/>posuit.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

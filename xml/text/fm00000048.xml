@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000048.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000048.html</idno>
 
   <idno type="localID">fm00000048</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="CIL III 1626 a_1" url="https://commons.wikimedia.org/wiki/File:CIL III 1626 a_1.jpg">
+    <graphic n="CIL III 1626 a_1" url="https://upload.wikimedia.org/wikipedia/commons/1/11/CIL_III_1626_a_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 1626 a_1.jpg">
        <desc> CIL III 1626 a_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 1626 a_2" url="https://commons.wikimedia.org/wiki/File:CIL III 1626 a_2.jpg">
+    <graphic n=" CIL III 1626 a_2" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 1626 a_2.JPG" url="https://upload.wikimedia.org/wikipedia/commons/7/7a/CIL_III_1626_a_2.JPG">
        <desc>  CIL III 1626 a_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

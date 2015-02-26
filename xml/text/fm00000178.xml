@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000178.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000178.html</idno>
 <idno type="lupa">http://www.ubi-erat-lupa.org/monument.php?id=20994</idno>
   <idno type="localID">fm00000178</idno>
 <availability>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="CIL III 12463" url="https://commons.wikimedia.org/wiki/File:CIL III 12463.jpg">
+   <graphic n="CIL III 12463" url="https://upload.wikimedia.org/wikipedia/commons/9/99/CIL_III_12463.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 12463.JPG">
        <desc> CIL III 12463
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

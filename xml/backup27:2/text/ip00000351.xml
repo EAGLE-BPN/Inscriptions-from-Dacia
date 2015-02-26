@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de construction de l'empereur Hadrien.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000351.html</idno>
+                
+                
+               <idno type="localID">ip00000351</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>90</height>
+                                         <width>26</width>
+                                         <depth>85</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée pendant les fouilles de 1943 dans la zone de la porta principalis sinistra du camp de Pomet.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0129" notAfter-custom="0129" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">129, en raison de la puissance tribunicienne de l’empereur.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1943</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_32" url="https://commons.wikimedia.org/wiki/File:POR_32.jpg">
+       <desc> POR_32
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>E. Tóth, Porolissum, p. 17-18, no 4 (dessin, 4 a, et reconstruction graphique, 4 b), pl. IV, no 4 (photo) </bibl><bibl> AE 1979, 489 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 760, no 2 </bibl><bibl> ILD 656 </bibl><bibl> I. Piso, AMP 35, 2013.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Divi Tr</supplied>a <lb n="2"/><supplied reason="lost">iani Parthici <expan><abbr>f</abbr><ex>ilius</ex></expan> Di</supplied>vi <lb n="3"/><supplied reason="lost">Nervae nepos</supplied> Ṭraia <lb n="4"/><supplied reason="lost">nus Hadri</supplied>anus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> <lb n="5"/>5 <supplied reason="lost"><expan><abbr>p</abbr><ex>ontifex</ex></expan> <expan><abbr>m</abbr><ex>aximus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> pot</supplied><expan><abbr>est</abbr><ex>ate</ex></expan> XIII co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> <lb n="6"/><supplied reason="lost" cert="low">III p(ater) p(atriae) portam</supplied> per <expan><abbr>coh</abbr><ex>ortem</ex></expan> <lb n="7"/><supplied reason="lost">I <expan><abbr>Ulp</abbr><ex>iam</ex></expan> Brittonu</supplied>ṃ f<supplied reason="lost">ec</supplied>it.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 7, Tóth, AE : [I Ulp(iam) Brittonum fec]it.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (L’empereur César) Traianus Hadrianus Augustus, (fils) du divin Trajan (vainqueur des Parthes, petit-fils) du divin (Nerva, grand pontife, investi avec la puissance) tribunicienne pour la XIIIe fois, consul (trois fois, père de la patrie), a construit (la porte?) par l’intermédiaire de la cohors (I Ulpia Brittonum).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L’inscription contredit l’opinion représentée, par exemple, par N. Gudea, AMP 13, 1989, p. 80-82, idem, Moigrad – Pomet, p. 35, que la construction en pierre du grand camp de Pomet aurait eu lieu à peine sous Caracalla ; voir E. Tóth, Porolissum, p. 8-10 ; la dernière discussion chez F. Marcu, Roman Forts, p. 88 sqq. Dans la l. 6 la place de la cohors I Ulpia Brittonum ∞ semble être assurée. Elle s’est trouvée à Porolissum depuis le début et durant tout le IIe siècle.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

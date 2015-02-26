@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un militaire thrace</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000229.html</idno>
+                
+                
+               <idno type="localID">ip00000229</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1957">Stèle ou plaque funéraire</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vue par Mezerzius au début du XVIe siècle dans le cimetière près de la demeure de Nagy Péter.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIe siècle, en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_230" url="https://commons.wikimedia.org/wiki/File:PO_230.jpg">
+       <desc> PO_230
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Mezerzius, Cod. Vat., no 91 </bibl><bibl> CIL III 918 </bibl><bibl> I. I. Russu, AISC 4, 1941-1943(1944), p. 201, no 32, p. 209, no 2 </bibl><bibl> idem, AMN 4, 1967, p. 89.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>Aur</abbr><ex>elius</ex></expan> Auluc<supplied reason="omitted">e</supplied>n <lb n="2"/><supplied reason="lost"> t</supplied><expan><abbr>us</abbr><ex cert="low"/></expan> <expan><abbr>v</abbr><ex>ixit</ex></expan> <expan><abbr>d</abbr><ex>ie</ex></expan> I <expan><abbr>m</abbr><ex>ense</ex></expan> VI <expan><abbr>an</abbr><ex>nis</ex></expan> XXXV <lb n="3"/><expan><abbr>Aur</abbr><ex>elii</ex></expan> Bas<expan><ex>s</ex><abbr>ianus</abbr></expan> et D <lb n="4"/>a<surplus>e</surplus>sius <supplied reason="omitted">b</supplied> <supplied reason="lost"> e</supplied>ne <expan><abbr>m</abbr><ex>erenti</ex></expan> e <supplied reason="lost"> t</supplied> <lb n="5"/><expan><abbr>s</abbr><ex>ibi</ex></expan> <expan><abbr>m</abbr><ex>emoriam</ex></expan> <expan><abbr>fa</abbr><ex>ciendam</ex></expan> curarunt.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Mezerzius : D. M. Aur. Aulucinus v. d. m. VI. an. XXXV. Aur. Basianus et D. AEsius D.NE.M.EI S.M. FA. curarunt. L. 1-2 : Mezerzius avait donc noté les noms Aulucinus et D / aesius, avec la ligature AE, et pas Aulucmus et D / asius, transmis par Mommsen ; cf. Kerényi : Aulucentius, Aulutralis, Auluzanus ou Aulupor.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Aurelius Aulucentus(?) a vécu 1 jour, 6 mois(et) 3 ans. Aurelius Bassianus et Aurelius Dasius prirent le soin de faire(ceci) à celui qui a bien mérité et pour leur propre mémoire.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>En raison du texte de Mezerzius, le nom Auluc [ en]tus(?) devient plus probable ; pour ce nom thrace voir encore D. Detschew, Sprachreste, p. 37. En revanche, Dasius est un nom illyrien ; voir Russu(1944) ; A. Mayer, Illyrier, p. 113. Aurelii Bassianus et Dassius ne semblent pas être apparentés au défunt. Ils pourraient, par exemple, être ses camarades, si celui-ci avait été, comme beaucoup d’autres Thraces au IIIe siècle, cavalier dans une troupe auxiliaire.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

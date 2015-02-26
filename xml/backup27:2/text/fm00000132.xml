@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Statue base</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000132.html</idno>
+<idno type="lupa">http://www.ubi-erat-lupa.org/monument.php?id=21027</idno>
+  <idno type="localID">fm00000132</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Capidava</placeName>                     
+                        </settlement>
+                        <repository>Museum of Constanta</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statue base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>140</height>
+                                         <width>46</width>
+                                         <depth>62</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               No
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029996">Capidava</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0157" notAfter-custom="0161" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">157-161 AD. Around 157 AD he became conductor of the publicum portorii Illyrici.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1927-1932</date>
+                                <placeName>Reused in the Late Roman fort</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>AE 1934, 107 </bibl><bibl> Gr. Florescu,Capidava, p. 89-90, no. 12 </bibl><bibl> ISM V 10 </bibl><bibl> Lupa 21027</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>T</abbr><ex>itus</ex></expan> <expan><abbr>Iul</abbr><ex>ius</ex></expan> <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>fil</abbr><ex>ius</ex></expan> <expan><abbr>Fab</abbr><ex>ia tribu</ex></expan> Sat<supplied reason="lost">ur</supplied><lb break="no" n="2"/>ninus <expan><abbr>praef</abbr><ex>ectus</ex></expan> veh<supplied reason="lost">i</supplied><lb break="no" n="3"/><expan><abbr>cul</abbr><ex>orum</ex></expan>, <expan><abbr>trib</abbr><ex>unus</ex></expan> <expan><abbr>mil</abbr><ex>itum</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> I <expan><abbr>Ital</abbr><ex>icae</ex></expan>, p<supplied reason="lost">r</supplied><lb break="no" n="4"/><expan><abbr>aef</abbr><ex>ectus</ex></expan> <expan><abbr>coh</abbr><ex>ortis</ex></expan> I <expan><abbr>Cl</abbr><ex>audiae</ex></expan> equitatae <lb n="5"/>scriba <expan><abbr>tribunic</abbr><ex>ius</ex></expan>, ap<lb break="no" n="6"/>paritor <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>Caes</abbr><ex>aris</ex></expan> Ti<lb break="no" n="7"/>ti Aelii Hadriani <lb n="8"/><supplied reason="lost">A</supplied>ntonini <expan><abbr>Aug</abbr><ex>usti</ex></expan> Pii <lb n="9"/><supplied reason="lost"><expan><abbr>p</abbr><ex>atris</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></supplied>, <expan><abbr>cond</abbr><ex>uctor</ex></expan> Illyrici <lb n="10"/><expan><abbr><supplied reason="lost">u</supplied>triusqu</abbr><ex>e</ex></expan> et ripae <lb n="11"/>Thracicae
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Titus Iulius, the son of Titus, from the Fabia tribe, Saturninus, prefect of the imperial supply service, military tribune of the first Italic legion, prefect of the first mounted Claudia cohort, secretary of the tribune of the plebs, apparitor of the Emperor Titus Aelius Antoninus Augustus Pius, the father of the fatherland, contractor of the custom of the two parts of Illyricum and of the Ripa Thraciae.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

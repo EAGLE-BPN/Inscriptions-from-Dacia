@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000097.html</idno>
+                
+                
+               <idno type="localID">ip00000097</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ilișua</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/30">tuf volcanique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>73</height>
+                                         <width/>
+                                         <depth>30</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouv=e en 1863 par K. Torma dans le vicus.
+                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du règne de Caracalla ou de Sévère Alexandre, en raison du nomen Aurellius écrit avec double L, porté quelquefois par ces empereurs. Gaiu et Zăgreanu ont tort de croire qu’il s’agit d’une erreur.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1863</date>
+                                <placeName>Ilișua</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AR_98" url="https://commons.wikimedia.org/wiki/File:AR_98.jpg">
+       <desc> AR_98
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>K. Torma, ErdMúz 3-4, 1866, p. 36, no 1 </bibl><bibl> CIL III 791 </bibl><bibl> S. Nemeti, Classica et Christiana / 2, 20, p. 409-4, no </bibl><bibl> C. Gaiu, R. Zăgreanu, Inscripții și piese sculpturale din castrul roman de la Ilișua, Cluj-Napoca 2011 p. 73-74, no I.2.7, p. 122, pl. IV.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>Aurell</abbr><ex>ius</ex></expan> <lb n="3"/>Vitell <lb n="4"/>ianus <lb n="5"/><expan><abbr>sesq</abbr><ex>uiplicarius</ex></expan> <expan><abbr>p</abbr><ex>ro</ex></expan> <supplied reason="lost"> <expan><abbr>s</abbr><ex>e</ex></expan></supplied> <lb n="6"/>et <expan><abbr>sor</abbr><ex>ore</ex></expan> <expan><abbr>s</abbr><ex>ua</ex></expan> <lb n="7"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon(et) très grand. Aurellius Vitellianus, sesquiplicarius, s’est acquitté de(son) vœu de bon gré(et) à bon droit pour soi-même et pour sa sœur.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le cognomen Vitellianus est dérivé du nomen Vitellius ; voir pour celui-ci W. Schulze, Eigennamen, p. 13, 27, 44 ; H. Solin, O. Salomies, Repertorium, p. 211. Un sesquiplicarius est un militaire qui reçoit une solde et demie ; voir A. v. Domaszewski, Rangordnung2, 4, 6, 62. L. 3-4 : division incorrecte en syllabes. Le militaire servait sans doute dans l’ala I Tungrorum Frontoniana.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

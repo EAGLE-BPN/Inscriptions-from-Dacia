@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000047.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000047.html</idno>
 
   <idno type="localID">fm00000047</idno>
 <availability>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="CIL III 7503" url="https://commons.wikimedia.org/wiki/File:CIL III 7503.jpg">
+   <graphic n="CIL III 7503" url="https://upload.wikimedia.org/wikipedia/commons/c/cf/CIL_III_7503.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7503.jpg">
        <desc> CIL III 7503
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

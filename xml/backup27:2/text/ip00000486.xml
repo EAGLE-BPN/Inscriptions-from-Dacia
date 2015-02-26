@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique de M. Opellius Adiutor</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000486.html</idno>
+                
+                
+               <idno type="localID">ip00000486</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Sarmizegetusa</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Base de statue aire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>80</height>
+                                         <width>56</width>
+                                         <depth>60</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">4.7</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Six s ont été trouvés par C. Daicoviciu dans le cryptoportique nord du forum novum de Sarmizegetusa; d'autres cinq s ont été trouvés là-même par I. Piso.
+                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de 150, date probable de construction du forum novum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1924/1938 et 1995</date>
+                                <placeName>Sarmizegetusa</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, StCl 16, 1974, p. 235-237, no 1 (photo et dessin)</bibl><bibl> IDR III/2, 116 (photo et dessin)</bibl><bibl> I. Piso, AMN 39-40, 2002-2003, p. 215-218, no 15, fig. 4 a-b (photo et dessin)</bibl><bibl> AE 2003, 1514.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>M</abbr><ex>arco</ex></expan> Ọ<supplied reason="lost">pe</supplied>llio Ṃ(arci) <expan><abbr>f</abbr><ex>ilio</ex></expan> <lb n="2"/>Pạ<expan><abbr>p</abbr><ex>iria</ex></expan> <supplied reason="lost">A</supplied>ḍiuto<supplied reason="lost">ri</supplied> <lb n="3"/>ḍ<supplied reason="lost"><expan><abbr>ec</abbr><ex>urioni</ex></expan> co</supplied><expan><abbr>l</abbr><ex>oniae</ex></expan> IIṿ<expan><abbr>ir</abbr><ex>o</ex></expan> <lb n="4"/><supplied reason="lost">iuris di</supplied>c<supplied reason="lost">undi</supplied> <lb n="5"/>5 p<supplied reason="lost"><expan><abbr>raef</abbr><ex>ecto</ex></expan> c</supplied><expan><abbr>oll</abbr><ex>egii</ex></expan> <expan><abbr>f<supplied reason="lost">a</supplied>br</abbr><ex>um</ex></expan> <lb n="6"/>plebs <lb n="7"/>ạ<supplied reason="lost">e</supplied>re conlato <lb n="8"/>ḷ(oco) <expan><abbr>d</abbr><ex>ato</ex></expan> <expan><abbr>d</abbr><ex>ecreto</ex></expan> <expan><abbr>d</abbr><ex>ecurionum</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    zoilianus</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>M. Opellius Adiutor est connu aussi à Ampelum en qualité de IIvir col(oniae) (CIL III 942 = IDR III/3, 317), en tant que IIvir col(oniae) Daci(cae), auprès d'un P. Celsenius Constans, dec(urio) col(oniae) Delmatiae Cl(audia) Aequo (CIL III 1323 = IDR III/3, 350) et par l'estampille tégulaire M. O. AD (IDR III/3, 377). L. 4: iuris dicundi à la place de iure dicundo.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

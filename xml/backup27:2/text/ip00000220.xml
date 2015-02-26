@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de la famille du Palmyrénien Aelius Bolhas</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000220.html</idno>
+                
+                
+               <idno type="localID">ip00000220</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul de Istorie Târgu-Mureș, inv. 7904.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>140</height>
+                                         <width>30</width>
+                                         <depth>71</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vue le 26 mars 1847 par J. F. Neigebaur sur la propriété de la comtesse Rhedei à Pănet(Mezö-Panit) avec d’autres 18 monuments; provient de Potaissa.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Ccomme les numeri Palmyrenorum ont été organisé vers la fin du règne d’Antonin le Pieux(19-161), l’inscription est datable à partir de cette période.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1847</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_221" url="https://commons.wikimedia.org/wiki/File:PO_221.jpg">
+       <desc> PO_221
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 907 = 7693 </bibl><bibl> C. Torma, AEM 4, 1880, p. 130-131, no </bibl><bibl> I. I. Russu, AISC 4, 1941-1943(1944) p. 228, no 3 </bibl><bibl> idem, AMN 6, 1969, p. 173-174 </bibl><bibl> D. Tudor, Istoria sclavajului în Dacia romană, București 197, p. 263, no 4 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 130, no 11, pl. X(photo) </bibl><bibl> L. Bianchi, Le stele funerarie della Dacia. Un’espressione di arte romana periferica, Roma 198, p. 274, no 11.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>Ael</abbr><ex>ia</ex></expan> Tiiadmes Palmura <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> VIII Surillio <lb n="4"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXV Rufina <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="5"/><expan><abbr>an</abbr><ex>nis</ex></expan> XX <expan><abbr>Ael</abbr><ex>ius</ex></expan> Bolhas Ban <lb n="6"/>naei <expan><abbr>vet</abbr><ex>eranus</ex></expan> ex <expan><abbr>n</abbr><ex>umero</ex></expan> <expan><abbr>Palmur</abbr><ex>enorum</ex></expan> <lb n="7"/>et <expan><abbr>Ael</abbr><ex>ia</ex></expan> Domestica co <lb n="8"/>niux <surplus>a</surplus>eius posuerant <lb n="9"/>filiae pientissim<expan><ex>a</ex><abbr>e</abbr></expan> et <supplied reason="omitted">d</supplied>u <lb n="10"/>lc<expan><ex>issi</ex><abbr>m</abbr><ex>a</ex><abbr>e</abbr></expan> et liberto et men <lb n="11"/>esteriis <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erentibus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aus dieux Mânes. Aelia Tiiadmes,(originaire) de Palmyre, a vécu 8 ans, Surillio a vécu 2 ans, Rufina a vécu 20 ans. Aelius Bolhas, fils de Bannaeus, vétéran du numerus Palmyrenorum, et Aelia Domestica, son épouse avaient érigé(ceci) à(leur) fille très pieuse et très douce et à l’affranchi et aux domestiques qui ont bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le registre supérieur consiste d’une niche rectangulaire, dans laquelle est représentée la scène du banquet funéraire. Un homme est assis dans la partie droite sur une cathedra. Trois autres personnages sont assises sur la kliné et tiennent dans les mains des coupes. Una camilla se tient dans la partie gauche et tient quelque chose, probablement un urceus, dans la main. Au milieu se trouve une mensa tripes avec de vivres. Aussi bien la scène du banquet que le champ épigraphique sont encadrés d’un bord simple. La l. 1 de l’inscription se trouve sur le bord qui sépare les deux registres.Le monument a été érigé pour la fille Aelia Tiiadmes, pour l’affranchi Surillio et pour les domestiques, dont on ne fait mention que de Rufina, qui ne porte pas de nomen. C’est ce qui indique que les menesteria(pour ministeria), synonymes aux ministri, sont en réalité des esclaves. Aelius Bolhas Bannaei a servi très probablement dans le numerus Palmyenorum Porolissensium, beaucoup plus proche de Potaissa que le numerus Palmyrenorum Tibiscensium ou le numerus Palmyrenorum O(- - -). Son cognomen et le nom de son père sont d’origine palmyrénienne; voir pour Tiiadmes(Thadmes ?) J. K. Stark, Personal names, p. 6 : T‛YD / R. On remarque les formes Palmura pour Palmyra(l. 2), Palmur(enorum) pour Palmyr(enorum)(l. 6), aeius pour eius(l. 8), pientissime pour pientissimae(l. 8-9), cu / lcme pour du / lcissimae et menesteriis pour ministeriis(l. 9-). On remarque aussi les divisions incorrectes en syllabes dans les l. 7-8, 9- et -11.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

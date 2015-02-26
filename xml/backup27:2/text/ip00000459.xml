@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Iulius Crescens</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000459.html</idno>
+                
+                
+               <idno type="localID">ip00000459</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>Mus. National de Bucarest, inv. 75669</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire aire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>110</height>
+                                         <width>15</width>
+                                         <depth>90</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1928/1929 lors des fouilles de Em. Panaitescu dans le camp de Samum, en position secondaire.
+                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">On ne dispose pas de critères sûrs de datation. La structure compliquée du relief, les génies et les demi-colonnettes en torsade plaident pourtant plutôt pour le IIème siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1928/1929?</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Em. Panaitescu, ACMIT 1929, p. 329-337, fig. 8 (photo) </bibl><bibl> V. Christescu, RIR 2, 1932, p. 267-287 </bibl><bibl> AE 1932, 74 </bibl><bibl> S. Ferri, Arte romana sul Danubio, Milano 1933, p. 314-316, fig. 412-414 </bibl><bibl> A. Kerényi, Personennamen, p. 76, no 873 </bibl><bibl> L. Nagy, ArchÉrt 5-6, 1944-1945, p. 132, pl. 61/1-2 (photo) </bibl><bibl> L. David-Țeposu, RömRum, p. 135-136, D 59 </bibl><bibl> I. I. Russu, SCIVA 31/2, 1980, p. 307-309, no 2, fig 2 (photo, dessin) </bibl><bibl> AE 1980, 759 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 127, no 101, pl. X (photo) </bibl><bibl> E. Schallmayer et alii, Osterburken I, p. 412-413, no 536 (photo) </bibl><bibl> ILD 781.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <lb n="2"/><expan><abbr>Iul</abbr><ex>ius</ex></expan> Cre<supplied reason="lost">scens</supplied> <lb n="3"/><expan><abbr>vet</abbr><ex>eranus</ex></expan> ex <supplied reason="lost">… <expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <lb n="4"/><expan><abbr>an</abbr><ex>nis</ex></expan> LX[…… <lb n="5"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux (Mânes). Iulius Crescens, vétéran, ancien …, (a vécu) 60( ?) ans. ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L’attique, la scène du banquet funéraire et le champ épigraphique sont séparés par des bords minces. Tous les registres sont encadrés par de bordes semblables, partiellement détruits. Dans l’attique deux génies nus tiennent une guirlande, qui soutient deux paons, entre lesquels se trouvent des raisins. Dans l’extrémité gauche, en bas, on distingue une tête de taureau. Dans la partie droite du scène du banquet funéraire un homme gît sur une kliné. Dans la partie gauche de la scène se trouve une femme assise. Les deux tiennent une couronne, qui a dans son centre une rosette. L’homme tient dans sa main gauche et la femme dans sa main droite une coupe. L’homme est vêtu d’une tunique, au-dessus de laquelle il porte un manteau en fourrure. La femme porte un turban. Selon Em. Panaitescu les deux personnages porteraient des vêtements locaux. Devant eux se trouve une mensa tripes, exécutée sans aucune idée de perspective, avec des vivres et dans l’éxtrémité droite de la scène on distingue un serf. Au-dessus de la scène trois génies tiennent des rideaux. Le champ épigraphique est encadré par des demi-colonnes en torsade, portant des chapiteaux végétaux. L. 1, Russu, EDH : Cresce(n)s ; L. 3, Panaitescu, Kerényi, Russu, Schallmayer et alii : vet(eranus) ex [b(ene)f(iciario)] ; cf. AE 1980 : « on préférerait ex [(centurione)], car b(ene)f(iciario) exigerait cos. ou trib., restitution impossible, faute de place », remarque pas très convaincante. L’ancien rang du vétéran reste incertain. L. 4, RömRum : Au… Sujette à caution reste aussi l’hypothèse (Panaitescu, RömRum) que les deux personnages porteraient des vêtements de tradition locale.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

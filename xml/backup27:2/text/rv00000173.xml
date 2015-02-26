@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>list</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000173.html</idno>
+
+                <idno type="localID">rv00000173</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cluj-Napoca</placeName>                     
+                        </settlement>
+                        <repository>MNIT</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1483">plaque</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">limestone</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>13</height>
+                                         <width>9</width>
+                                         <depth>7</depth>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm">1,7</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/030145">Napoca</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">235 - Claudius Severus and Ti. Claudius Aurelius Quintianus were consuls(A.Degrassi, Fasti, p. 65)</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1801</date>
+                                <placeName>in the wall of the church from the present-day Str. Bisericii</placeName> 
+                            <placeName type="modernRegion">Cluj</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/108">list</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="NA_45" url="https://commons.wikimedia.org/wiki/File:NA_45.png">
+       <desc> NA_45
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Neigebaur, Dacien, p. 225</bibl><bibl>CIL III 870</bibl><bibl> ILS4061</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Severo et Quintiano co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="2"/>nomina Asianorum <lb n="3"/>Germanus <lb n="4"/>spirar<supplied reason="omitted">c</supplied>haes <lb n="5"/>Tattario <lb n="6"/>Epipodia mater <lb n="7"/><expan><ex>H</ex><abbr>ermes</abbr></expan> <lb n="8"/>Valentina <lb n="9"/>Dizo <lb n="10"/>Augusta <lb n="11"/>Gaius <lb n="12"/>Hyius <lb n="13"/>Asclepiodote <lb n="14"/>Tiberina <lb n="15"/>Zoilus <lb n="16"/>Maximina <lb n="17"/>Valerius <lb n="18"/>Tzinta <lb n="19"/>Zoilianus <lb n="20"/>Iustina <lb n="21"/>Crescens <lb n="22"/>Cornificia <lb n="23"/>Eptala <lb n="24"/>Longina <lb n="25"/>Ulpius <lb n="26"/>Cornelia <lb n="27"/>Mucianus <lb n="28"/>Vera <lb n="29"/>Carus M <lb n="30"/>Hilara <lb n="31"/>Suri <lb n="32"/><expan><abbr>Gr</abbr><ex>a</ex></expan> eca <lb n="33"/>Tzinto <lb n="34"/>Rufina <lb n="35"/>Longinianus <lb n="36"/>Victorina <lb n="37"/>Ulpianus <lb n="38"/>Paula <lb n="39"/><expan><ex>H</ex><abbr>ermescus</abbr></expan> <lb n="40"/>Nepos <lb n="41"/>Agrippinus <lb n="42"/>Valerianụ<supplied reason="lost">s</supplied> <lb n="43"/>Curinu<supplied reason="lost">s</supplied> <lb n="44"/>Rev<supplied reason="lost" cert="low">ocatus </supplied> <lb n="45"/>Ce<gap reason="lost" extent="unknown" unit="character"/> <lb n="46"/>O<gap reason="lost" extent="unknown" unit="character"/> <lb n="47"/><gap reason="lost" extent="unknown" unit="character"/> <lb n="48"/>Zoilianus scripsit.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Severus and Quintianus consuls. The names of the Asians.Germanus, cheief of the spira(the association), Tattario, Hermes, Dizo, Gaius, Hyius, Zoilus, Valerius, Zoilianus, Crescens, Eptala, Ulpius, Mucianus, Carus, Surus, Tzinto, Longinianus, Ulpianus, Hermescus, Nepos, Agrippinus, Valerianus, Quirinus, Revocatus, ..., Epipodia, mother, Valentina, Augusta, Asclepiodote, Tiberina, Maximina, Tzinta, Iustina, Cornificia, Longina, Cornelia, Vera, Hilara, Graeca, Rufina, Victorina, Paula. Written by Zoilianus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

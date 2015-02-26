@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000008.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000008.html</idno>
 
   <idno type="localID">fm00000008</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="ISM V 59_1" url="https://commons.wikimedia.org/wiki/File:ISM V 59_1.jpg">
+    <graphic n="ISM V 59_1" url="https://upload.wikimedia.org/wikipedia/commons/0/0f/ISM_V_59_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 59_1.jpg">
        <desc> ISM V 59_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" ISM V 59_2" url="https://commons.wikimedia.org/wiki/File:ISM V 59_2.jpg">
+    <graphic n=" ISM V 59_2" url="https://upload.wikimedia.org/wikipedia/commons/2/26/ISM_V_59_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 59_2.jpg">
        <desc>  ISM V 59_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

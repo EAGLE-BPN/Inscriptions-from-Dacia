@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000183.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000183.html</idno>
 
   <idno type="localID">fm00000183</idno>
 <availability>
@@ -119,17 +119,17 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="ISM II 345_1" url="https://commons.wikimedia.org/wiki/File:ISM II 345_1.jpg">
+    <graphic n="ISM II 345_1" url="https://upload.wikimedia.org/wikipedia/commons/b/b3/ISM_II_345_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM II 345_1.JPG">
        <desc> ISM II 345_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" ISM II 345_2" url="https://commons.wikimedia.org/wiki/File:ISM II 345_2.jpg">
+    <graphic n=" ISM II 345_2" url="https://upload.wikimedia.org/wikipedia/commons/d/d3/ISM_II_345_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM II 345_2.JPG">
        <desc>  ISM II 345_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" ISM II 345_3" url="https://commons.wikimedia.org/wiki/File:ISM II 345_3.jpg">
+    <graphic n=" ISM II 345_3" url="https://commons.wikimedia.org/wiki/File:ISM II 345_3.jpg" sameAs="https://commons.wikimedia.org/wiki/File:ISM II 345_3.jpg">
        <desc>  ISM II 345_3
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

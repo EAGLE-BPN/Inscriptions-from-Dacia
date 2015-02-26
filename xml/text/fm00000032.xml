@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000032.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000032.html</idno>
 
   <idno type="localID">fm00000032</idno>
 <availability>
@@ -119,12 +119,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="ISM II 452_1" url="https://commons.wikimedia.org/wiki/File:ISM II 452_1.jpg">
+    <graphic n="ISM II 452_1" url="https://upload.wikimedia.org/wikipedia/commons/e/e9/ISM_II_452_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM II 452_1.jpg">
        <desc> ISM II 452_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" ISM II 452_2" url="https://commons.wikimedia.org/wiki/File:ISM II 452_2.jpg">
+    <graphic n=" ISM II 452_2" url="https://upload.wikimedia.org/wikipedia/commons/c/ce/ISM_II_452_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:ISM II 452_2.jpg">
        <desc>  ISM II 452_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

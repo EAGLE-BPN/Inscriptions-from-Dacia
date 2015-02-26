@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Block</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000093.html</idno>
+
+  <idno type="localID">fm00000093</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Istria</placeName>                     
+                        </settlement>
+                        <repository>Museum of Histria</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">Block</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marble</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>162</height>
+                                         <width>22</width>
+                                         <depth>62</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/012228">Histria</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0215" notAfter-custom="0215" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">The reign of Caracalla</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1954</date>
+                                <placeName>In the southern tower of the Late Roman main gate of the city</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ISM I 90" url="https://upload.wikimedia.org/wikipedia/commons/b/b3/ISM_I_90.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 90.JPG">
+       <desc> ISM I 90
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>D. M. Pippidi, Histria I, p. 530, no. 16 </bibl><bibl> ISM I 90</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Ἀγαθῆι Τύχηι <lb n="2"/><supplied reason="lost">Τ</supplied>ὸν γῆς θαλἀσσης δεσπότην ἀυτοκράτορα <lb n="3"/><supplied reason="lost">Κ</supplied>αίσαρα Μ(άρκον) Αὐρ(ήλιον) Ἀντωνεῖνον Εὐσεβῆ Σεβ(αστὸν) Ἀραβικ<supplied reason="lost">ὸν</supplied> <lb n="4"/>Ἀδιαβηνικὸν Παρθικὸν Βρεταννικὸν μέγιστον <lb n="5"/>Γερμανικὸν μέγιστον ἀρχιερέα μέγιστον <lb n="6"/>δημαρχικῆς ἐξουσίας τὸ θι΄ ὕπατον τὸ δ΄ π(ατέρα) π(ατρίδος) <lb n="7"/>άνθ<supplied reason="lost">ύπα</supplied>τον βουλὴ δῆμος τῆς λαμπροτά<lb break="no" n="8"/>τῆς Ἱστριανῶν πόλεως.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

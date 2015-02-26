@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000145.html</idno>
+
+  <idno type="localID">fm00000145</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Isaccea</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>110</height>
+                                         <width>12</width>
+                                         <depth>67</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">yes</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               No
+                                <height unit="cm">2.33.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/019874">Noviodunum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Third century AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1956</date>
+                                <placeName>Reused in the Late Roman fort</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ISM V 281" url="https://upload.wikimedia.org/wikipedia/commons/6/67/ISM_V_281.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 281.JPG">
+       <desc> ISM V 281
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Al. Barnea, Dacia, NS 19, 1975, p. 258-261 </bibl><bibl> ISM V 281</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/>...av ...iuv ...a... <lb n="3"/><supplied reason="lost">K</supplied>rystallus alumnus <lb n="4"/>Postumi <expan><abbr>praef</abbr><ex>ecti</ex></expan> <expan><abbr>class</abbr><ex>is</ex></expan> <lb n="5"/>aput fluentem I<supplied reason="lost">b</supplied><expan><abbr>e<supplied reason="lost">r</supplied>ic</abbr><ex>um</ex></expan> <lb n="6"/>Romanus infans editus <lb n="7"/>alumnus castris mari<supplied reason="lost">que</supplied> <lb n="8"/>Hibera postquam videri <lb n="9"/>et Maura longe moenia <lb n="10"/>facta quiescit Moesica <lb n="11"/>primaevae pubis indigus <lb n="12"/>ut verna florum germina <lb n="13"/>vento feruntur Thracico <lb n="14"/>Achelous alumnus <lb n="15"/>Postum <expan><abbr>praef</abbr><ex>ecti</ex></expan> <expan><abbr>c</abbr><ex>lassis</ex></expan> <lb n="16"/>extima Cappadocum Ponti <lb n="17"/>qua iungitur orae me genuit <lb n="18"/>tellus moenia sunt Tyan<supplied reason="lost">ae</supplied> <lb n="19"/>Hermogenes genitor nom<supplied reason="lost">ine</supplied> <lb n="20"/>c ........Acheloo artibus <lb n="21"/><supplied reason="lost">Romanus infan</supplied>s editus ingen<lb break="no" n="22"/><supplied reason="lost">........</supplied>oram a homine <lb n="23"/><supplied reason="lost">.........</supplied>mge <supplied reason="lost">....</supplied> <lb n="24"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Krystallus, a child nourished by Postumus, the prefect of the fleet; his origins are where the Iberus flows, Roman by birth he was educated in the military camps and on the see; after he saw the lands of Iberia and the old Moorish fortifications, he rests in the Moesia. He died young, just like the seeds of the spring-flowers are carried by the cold Thracian wind. Achelous, a child nourished by Postumus, the prefect of the fleet; I was born in the far land of the Pontic Cappadocia, on the shore, where the walls of Tyana are; my father was Hermogenes, Achelous a skillful boy, raised on the shore by a man...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>First twelve verses are written in diameter iambic, the next (15-20) in the elegiac couplet</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

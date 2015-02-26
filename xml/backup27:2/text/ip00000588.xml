@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive pour les dieux palmyréniens</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000588.html</idno>
+                
+                
+               <idno type="localID">ip00000588</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Sarmizegetusa</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque votive de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>60</height>
+                                         <width>4.5</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Les 13 s ont été trouvés pendant une longue période de temps dans la zone du temple palmyrénien situé à l'ouest du forum vetus.
+                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0222" notAfter-custom="0235" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du règne de Sévère Alexandre (222-235.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>202-2011</date>
+                                <placeName>Sarmizegetusa</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="SA_11" url="https://commons.wikimedia.org/wiki/File:SA_11.jpg">
+       <desc> SA_11
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, O. Țentea, Dacia 55, 2011, p. 116-117, no 2, fig. 4-5 (photo et dessin)</bibl><bibl> AE 2011, - - -</bibl><bibl> I. Piso, O. Țentea, dans: Öffentlichkeit - Monument - Text. XIV Congressus Internationalis Epigraphiae Graecae et Latinae 27.-31. Augusti MMXII. Akten, Leyden 2004, p. 480.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">Deo So</supplied>li inv<supplied reason="lost">icto Belo<certainty locus="name" match="preceding-sibling::text()" cert="low"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/><expan><abbr>Mal<supplied reason="lost">a</supplied>gbel</abbr><ex>i</ex></expan> Hie<supplied reason="lost" cert="low">ribolo deis Palmyrenis</supplied> <lb n="3"/><supplied reason="lost">p</supplied>ro salute <expan><abbr>d</abbr><ex>omini</ex></expan> [<expan><abbr>n</abbr><ex>ostri</ex></expan> Imperatoris Caesaris <lb n="4"/><expan><abbr>M</abbr><ex>arci</ex></expan> A]urelli<supplied reason="lost">i</supplied> S<supplied reason="lost">everi Alexandri P</supplied>ii Fel<supplied reason="lost">i</supplied>cis <lb n="5"/><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usti</ex></expan> I</supplied>ụḷ<supplied reason="lost">iae Mameae <expan><abbr>Aug</abbr><ex>ustae</ex></expan> totiusque d</supplied>omus eius <lb n="6"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> sacerdos eorun</supplied>dem | <supplied reason="lost">numinum <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> pec<supplied reason="lost">unia</supplied> sua fe<supplied reason="lost"><expan><abbr>c</abbr><ex>it</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Au dieu) Soleil invaincu (Bel?), Malagbel, Hieribolus, (dieux palmyréniens), pour le salut de (notre) seigneur, l'empereur César Marc) Aurèle Sévère (Alexandre), pieux (et) heureux (Auguste), de Iulia (Mamea Auguste et de toute) sa famille. ..., (prêtre) des mêmes (divinités), érigea ... de son argent.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les dieux nommés ici appartiennent à une nouvelle triade palmyrénienne, composée de Bêl, Malagbel et Yarhibôl, les deux derniers étant des dieux solaires.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

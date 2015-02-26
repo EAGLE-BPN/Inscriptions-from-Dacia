@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000008.html</idno>
+                
+                
+               <idno type="localID">ip00000008</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul de Istorie Turda, inv. 3160.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>112</height>
+                                         <width>30</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>vu vers 1847 par Chishull près des salines de Turda.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0182" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne de Commode, en raison des l’épithètes p(ia) c(onstans) de la légion.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1847</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_9" url="https://commons.wikimedia.org/wiki/File:PO_9.jpg">
+       <desc> PO_9
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 881 </bibl><bibl> W. Drexler, Der Cultus der ägyptischen Gottheiten in den Donauländern, Leipzig 1890, p. 2 II a </bibl><bibl> D. O. Popescu, Mélanges de l’École roumaine en France 6, 1927, p. 200 </bibl><bibl> L. Vidman, SIRIS, no 697 </bibl><bibl> I. I. Russu, AIIA Cluj 18, 197, p. 418 </bibl><bibl> L. Bricault, RICIS, p. 72, no 616 / 01.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Isidi <lb n="2"/>et Serapi <lb n="3"/><expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>Iul</abbr><ex>ius</ex></expan> Anti <lb n="4"/><expan><abbr>gonus</abbr><ex>centurio</ex></expan> <lb n="5"/><expan><abbr>leg</abbr><ex>ionis</ex></expan> V <expan><abbr>M</abbr><ex>acedonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>c</abbr><ex>onstantis</ex></expan> <lb n="6"/>et <expan><abbr>Fl</abbr><ex>avia</ex></expan> <expan><abbr>Apo</abbr><ex>l</ex></expan> <lb n="7"/>linaria <lb n="8"/>eius <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>l</abbr><ex>ibentes</ex></expan> <expan><abbr>s</abbr><ex>olverunt</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Mommsen, l. 3-4 : Ant / igonus ; l. 6-7 : Apol / linaria, erreurs qui se sont perpétuées chez d’autres auteurs.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Isis et à Serapis. Caius Iulius Antigonus, centurion de la Ve légion, pieuse(et) constante, et Flavia Apollinaria, sa(femme), se sont acquittés de(leur) vœu de bon gré.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les deux dédicants portent des cognomina d’origine grecque : Antigonus(Ἀντίγονος) et Apollinaria(Ἀπολλιναρία). Pour le centurion voir encore M. Bărbulescu, Din istoria militară a Daciei romane. Legiunea V Macedonica, p. 70, no 13.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

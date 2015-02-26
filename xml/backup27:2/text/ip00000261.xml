@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un vétéran</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000261.html</idno>
+                
+                
+               <idno type="localID">ip00000261</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul National de Antichitati Bucuresti, inv. L 207</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire aire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>36</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hedera; points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1873 près de l’église réformée, dans le jardin du prêtre et vue là-même par O. Hirschfeld et par A. v. Domaszewski.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne d’Hadrien, quand l’ala I Gallorum et Bosporanorum arriva en Dacie, où elle eut sa garnison à Cristești.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1873</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_262" url="https://commons.wikimedia.org/wiki/File:PO_262.jpg">
+       <desc> PO_262
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>O. Hirschfeld, SAWW 77, 1873, p. 380, no </bibl><bibl> Th. Mommsen, EphEp II, 384 </bibl><bibl> CIL III 7696 </bibl><bibl> E. Bujor, Apulum 6, 1967, p. 190, no 6, 196, fig. / 1</bibl><bibl> ILD 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> <expan><abbr>D</abbr><ex>is</ex></expan></supplied> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><supplied reason="lost"> …</supplied>us T <supplied reason="lost"> ..</supplied>a <supplied reason="lost"> ..</supplied> <lb n="3"/><supplied reason="lost"> …</supplied> ala I Bo <supplied reason="lost" cert="low"> sp(oranorum) </supplied> <lb n="4"/><supplied reason="lost"> vi</supplied>xit <expan><abbr>an</abbr><ex>nis</ex></expan> LXX <supplied reason="lost"> .</supplied> <lb n="5"/><supplied reason="lost"> p</supplied>arenti bẹ(ne) <lb n="6"/><supplied reason="lost" cert="low"> mer(enti)</supplied> coniux pii <supplied reason="lost" cert="low"> ss(ima)</supplied> <lb n="7"/><supplied reason="lost"> cum<certainty locus="name" match="preceding-sibling::text()" cert="low"/>f</supplied>ili<expan><ex>i</ex><abbr>s</abbr></expan> Vibiu <supplied reason="lost"> s</supplied> <lb n="8"/><supplied reason="lost"> …</supplied>us pro pi <supplied reason="lost"> etate</supplied> <lb n="9"/><supplied reason="lost"> <expan><abbr>f</abbr><ex>aciendum</ex></expan></supplied> <expan><abbr>c</abbr><ex>uraverunt</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Aux dieux) Mânes. …us T…,(militaire ?) dans l’ala I Bosporanorum(?), a vécu 70(?) ans. Au père qui a bien mérité. L’épouse très pieuse(avec ses) fils, Vibius …us prirent le soin(de faire ceci) en signe de piété. Dasn les l. -9 le texte est peu clair.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. 3 : Mommsen : ala Thracum Britannica miliaria ; v. Domaszewski : ala I Bo [ sporanorum] ou ala I B(atavorum)(miliaria). La bonne solution semble être ala I Bo [ sp(oranorum)](C. C. Petolescu, Auxilia, p. 6, n. 4), car entre B et O il n’y a aucun point de séparation et dans l’O a été incisée pas seulement une ligne verticale, qui pourrait faire penser au signe pour(miliaria), mais aussi une ligne horizontale. Il est possible qu’il s’y agisse d’une croix chrétienne(voir aussi Petolescu) et que le monument ait été christianisée au IVe siècle, comme AE 1976, 77 = 1988, 94 de Napoca.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000093.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000093.html</idno>
 
   <idno type="localID">fm00000093</idno>
 <availability>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="ISM I 90" url="https://commons.wikimedia.org/wiki/File:ISM I 90.jpg">
+   <graphic n="ISM I 90" url="https://upload.wikimedia.org/wikipedia/commons/b/b3/ISM_I_90.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 90.JPG">
        <desc> ISM I 90
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

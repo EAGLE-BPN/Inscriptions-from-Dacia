@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>votive inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000144.html</idno>
+
+                <idno type="localID">rv00000144</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cluj-Napoca</placeName>                     
+                        </settlement>
+                        <repository>MNIT</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/30">altar / statue base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">limestone</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width/>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/030145">Napoca</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">118-reign of Marcus Aurelius</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1898</date>
+                                <placeName>P-ta Unirii</placeName> 
+                            <placeName type="modernRegion">Cluj</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">votive inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="NA_16" url="https://commons.wikimedia.org/wiki/File:NA_16.png">
+       <desc> NA_16
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 14465</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>I</abbr><ex>ovi</ex></expan></supplied> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>cons</abbr><ex>ervatori</ex></expan> mu<lb break="no" n="3"/><expan><abbr>nic</abbr><ex>ipium</ex></expan> <expan><abbr>Aeli</abbr><ex>um</ex></expan> <expan><abbr>Hadr</abbr><ex>ianum</ex></expan> <expan><abbr>Napoc</abbr><ex>a</ex></expan> <lb n="4"/><expan><abbr>cura</abbr><ex>duum</ex></expan> <expan><abbr>vir</abbr><ex>orum</ex></expan> q<expan><ex>uin</ex><abbr>q</abbr><ex>uennalium</ex></expan> <lb n="5"/><expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>Numeri</abbr><ex>i</ex></expan> Deci<lb break="no" n="6"/>ani et <expan><abbr>Iuli</abbr><ex>i</ex></expan> Ingenui <lb n="7"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To Iupiter the best and the greatest, the saviour, the municipality of AeliumHadrianum Napoca fullfilled its promise with joy and for merit, through the care of its duumviri quinquennalis, Caiusnumerius Decianus and(Caius) Iulius Ingenuus</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

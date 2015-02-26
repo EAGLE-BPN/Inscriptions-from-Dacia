@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'une Curtia</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000458.html</idno>
+                
+                
+               <idno type="localID">ip00000458</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>Mus. Dej</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire, aire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>85</height>
+                                         <width>25</width>
+                                         <depth>55</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée à Samum dans des conditions inconnues et vue en 1944 par A. Kerényi et en 1956 dans le musée de Dej par I. I. Russu, qui ne donna pas d’autres détails.
+                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il n'y a pas des critères de datation.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1928/1929?</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>A. Kerényi, Personennamen, p. 202, no 2354 </bibl><bibl> I. I. Russu, ActMuz 2, 1956, p. 131, no 18 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 127, no 104, pl. X (photo) </bibl><bibl> ILD 788.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Curtiae <expan><abbr>T</abbr><ex cert="low"> </ex></expan>[- - - <lb n="3"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Curtia T….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Sont conservées le registre supérieur, sans les marges supérieure et droite, et la partie supérieure gauche du champ épigraphique. Les deux registres ne sont séparés par aucun élément, en revanche ils présentent un bord extérieur simple. Dans la partie droite de la scène est assis un homme barbu tenant sa main droite sur la poitrine. À sa droite se tient un personnage de petites dimensions, debout, et tient dans ses mains un objet. À sa gauche deux personnages féminins (fillettes ?) avec les têtes cassées se trouvent sur un postament et tiennent leurs mains droites environ à l’endroit du cœur et leurs mains gauches au-dessous. Elles portent des robes plissées et. au-dessus, des manteaux. Dans l’extrémité gauche on distingue un personnage debout, qui tient au-dessus de sa tête un plateau. Au-dessous de ces personnages on a représenté un urceus, un kantharos et une amphore. L. 1, tous les auteurs : D(is) [M(anibus)], mais on distingue la haste gauche du M ; l. 3 : on distingue les traces de deux lettres rondes. Voir pour le nomen Curtius W. Schulze, Eigennamen, p. 78 ; H. Solin, O. Salomies, Repertorium, p. 65.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

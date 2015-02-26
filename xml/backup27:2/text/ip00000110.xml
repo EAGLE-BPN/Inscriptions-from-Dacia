@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000110.html</idno>
+                
+                
+               <idno type="localID">ip00000110</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ilișua</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/30">tuf volcanique?</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1830 dans la zone de la porte d’ouest du camp, en position secondaire.
+                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0022" notAfter-custom="0230" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De la période 22-230, quand Iasdius Domitianus s'est trouvé à la tête de Dacie ; voir I. Piso, Fasti provinciae Daciae I, Bonn 1993, p. 192-196I; idem, Fasti provinciae Daciae II, Bonn 2013, p. 40-42 ; cf. L. Petersen, PIR2 J, 12 ; I. Piso, .</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1830</date>
+                                <placeName>Ilișua</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AR_111" url="https://commons.wikimedia.org/wiki/File:AR_111.jpg">
+       <desc> AR_111
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>K. Torma, ErdMúz 3-4, 1866, p. 43, no 14 </bibl><bibl> CIL III 797 </bibl><bibl> I. Piso, Fasti I, p. 192, no 3 </bibl><bibl> S. Nemeti, Classica et Christiana / 2, 20, p. 42, no 88 </bibl><bibl> C. Gaiu, R. Zăgreanu, Inscripții și piese sculpturale din castrul roman de la Ilișua, Cluj-Napoca 2011, p. 69-70, no I.1., p. 121, pl. III.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [ <expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <expan><abbr>M</abbr><ex>arco</ex></expan> Aurellio <lb n="2"/>Severo Alexandro <lb n="3"/>Pio Felici <expan><abbr>Aug</abbr><ex>usto</ex></expan> optimo] <lb n="4"/><supplied reason="lost"> maxi</supplied>moque princi <supplied reason="lost"> pi</supplied> <lb n="5"/><supplied reason="lost"> indul</supplied>gentiis eius aucta <supplied reason="lost"> libe</supplied>ralitatibusque di <lb n="6"/><supplied reason="lost"> tat</supplied>a ala Frontoniana <lb n="7"/><supplied reason="lost"> Alex</supplied>andriana ex quaestura <lb n="8"/><supplied reason="lost"> sua</supplied> dedicante Iasdio <lb n="9"/><supplied reason="lost"> Domi</supplied>tiano <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À l’empereur César Marc Aurèle Sévère Alexandre, pieux, heureux Auguste, au meilleur) et au plus grand prince. L’ala Frontoniana Alexandriana, augmentée par sa bienveillance et enrichie par sa générosité,(érigea ceci) de(sa) caisse, le dédicant étant Iasdius Domitianus, légat de l’empereur en tant que pro praetore(gouverneur).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le texte a été reproduit par Mommsen d’après la copie exacte de Torma. La largeur initiale de la base était de 70-80, ce qui suggère une statue pédestre, érigée dans la cour des principia.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

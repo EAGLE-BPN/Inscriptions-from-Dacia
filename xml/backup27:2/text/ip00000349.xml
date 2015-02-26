@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de la famille du signifer Aurelius Bassus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000349.html</idno>
+                
+                
+               <idno type="localID">ip00000349</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sutor</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj, inv. IN 14 = V 15778</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/230">Dé d'une base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>116</height>
+                                         <width>54</width>
+                                         <depth>81</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               signes de séparation de forme triangulaire et en angle ; hederae.
+                                <height unit="cm">3.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1904 dans les ruines du camp, probablement en position secondaire.
+                                <placeName ref="www.trismegistos.org/place/030231">Optatiana</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du milieu du IIIème siècle, en raison de la forme tardive du A.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1904</date>
+                                <placeName>Sutor</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_30" url="https://commons.wikimedia.org/wiki/File:POR_30.jpg">
+       <desc> POR_30
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G. Finály, ArchAnz 1905, p. 102 </bibl><bibl> E. Panaitescu, ACMIT 3, 1930-1931 (1932), p. 85-90, no I, fig. 2 (dessin), pl. I (photo) </bibl><bibl> idem, Monumente inedite din Largiana, Cluj 1932, p. 6-13, no I, fig. 2 (dessin), fig. 4 (photo) </bibl><bibl> AE 1932, 81 </bibl><bibl> I. I. Russu, AMN 4, 1967, p. 90, 92 </bibl><bibl> idem, AMN 5, 1968, p. 90 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 167, no 28, pl. XIX (photo) </bibl><bibl> ILD 757.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Aelia Prisosta vi <lb n="3"/>xịṭ <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XXXIII Au <lb n="4"/>r<supplied reason="lost">el</supplied>ia Bassina <lb n="5"/>5 filia <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> VII <lb n="6"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Denzi <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="7"/><expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> LXXX <expan><abbr>Aurel</abbr><ex>ius</ex></expan> <lb n="8"/>Bassus <expan><abbr>sign</abbr><ex>ifer</ex></expan> <expan><abbr>n</abbr><ex>umeri</ex></expan> <lb n="9"/><expan><abbr>M</abbr><ex>aurorum</ex></expan> <expan><abbr>O</abbr><ex>ptatianensium</ex></expan> coniugi et <lb n="10"/>10 fili<expan><ex>i</ex><abbr>s</abbr></expan> <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erentibus</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Aelia Prisosta a vécu 33 ans. Aurelia Bassina, (sa) fille, a vécu 7 ans. Aurelius Denzi a vécu 80 ans. Aurelius Bassus, signifer du numerus Maurorum Optatianensium, érigea (ceci) à (son) épouse et à (ses) enfants qui ont bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les noms Prisosta et Denzi (Denzus?) sont thraces, D. Detschew, Die thrakischen Sprachreste, p. 125, 380 ; I. I. Russu (AMN 4, 1967, p. 92; dans: L’onomastique latine, Paris 1977, p. 360). L. 8-9, A. Kerényi : n(umeri) M(aurorum) O(ptatianorum) ; C. Daicoviciu (ACMIT 1, 1930, p. 88, n. 5 ; AISC 1/2, 1933, p. 52), I. I. Russu : n(umeri) M(aurorum) O(ptatianensium) ; C. C. Petolescu (ILD), EDH : n(umeri) M(- - -) O(- - -). Il est pourtant évident que le nom de la localité était Optatiana. Le texte de l’inscription soulève un problème. Aurelius Bassus aurait érigé le monument à son épouse et à ses enfants. Les décédés sont Aelia Prisosta, âgée de 33 ans, Aurelia Bassina, âgée de 7 ans et Aurelius Denzi, âgé de 80 ans. Il est évident que Aelia Prisosta était l’épouse et Aurelia Bassina la fille. Quant à Aurelius Denzi, I. I. Russu supposa que son âge serait erroné. Il est pourtant préférable de croire que, bien que ceci ne soit pas spécifié, Aurelius Denzi ait été le père de Aurelius Bassus. Pour le pluriel fili(i)s, le monument et le mausolée étaient peut-être préparés aussi pour les autres membres de la famille. Pour la charge de signifer numeri voir A. v. Domaszewski, Rangordnung2, p. 60-61.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

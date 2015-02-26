@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votive on Small altar</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000038.html</idno>
+
+  <idno type="localID">fm00000038</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Isaccea</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Small altar</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>28</height>
+                                         <width>11</width>
+                                         <depth>13</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1-2</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/019874">Noviodunum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0150" notAfter-custom="0280" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Second - third century</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1940</date>
+                                <placeName>Into a stone quarry</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">Votive</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="AE 1950, 175_1" sameAs="https://commons.wikimedia.org/wiki/File:AE 1950, 175_1.JPG" url="https://upload.wikimedia.org/wikipedia/commons/d/db/AE_1950%2C_175_1.JPG">
+       <desc> AE 1950, 175_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" AE 1950, 175_2" sameAs="https://commons.wikimedia.org/wiki/File:AE 1950, 175_2.JPG" url="https://upload.wikimedia.org/wikipedia/commons/9/9c/AE_1950%2C_175_2.JPG">
+       <desc>  AE 1950, 175_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" AE 1950, 175_3" sameAs="https://commons.wikimedia.org/wiki/File:AE 1950, 175_3.JPG" url="https://upload.wikimedia.org/wikipedia/commons/3/30/AE_1950%2C_175_3.JPG">
+       <desc>  AE 1950, 175_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gh. Ştefan, Dacia 9-10, 1941-1944, p. 475-478, nr.2 </bibl><bibl> Gr. Florescu, RIR 16, 1946, 1, p. 11-17 = AE 1950, 175 = ISM V 273</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Domino <lb n="2"/>et Dominae <lb n="3"/><expan><abbr>l</abbr><ex>ibente</ex></expan> <expan><abbr>a</abbr><ex>nimo</ex></expan> posuit <lb n="4"/>liburna <lb n="5"/>Armata <lb n="6"/>(centuriae) Q. <expan><abbr>Iul</abbr><ex>i</ex></expan> Heliodori.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+            <div type="commentary">
+                <p>Written continuously on three faces of the altar.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

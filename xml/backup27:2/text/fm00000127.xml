@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Plate</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000127.html</idno>
+<idno type="lupa">http://www.ubi-erat-lupa.org/monument.php?id=15214</idno>
+  <idno type="localID">fm00000127</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Capidava</placeName>                     
+                        </settlement>
+                        <repository>Museum of Constanta</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/260">Plate</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>27</height>
+                                         <width>11</width>
+                                         <depth>56</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1.72.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029996">Capidava</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0119" notAfter-custom="0122" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Trajan-Hadrian</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1930-1940</date>
+                                <placeName>In the Late Roman fort</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="AE 1950, 46" url="https://upload.wikimedia.org/wikipedia/commons/b/b4/AE_1950%2C_46.JPG" sameAs="https://commons.wikimedia.org/wiki/File:AE 1950, 46.JPG">
+       <desc> AE 1950, 46
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>AE 1950, 46 </bibl><bibl> Florescu, Capidava, p. 73-74, no. 1 </bibl><bibl> ISM V 24</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>M</abbr><ex>arcus</ex></expan> Cocceius Vitlus <expan><abbr>vet</abbr><ex>eranus</ex></expan> co<supplied reason="lost"><expan><abbr>h</abbr><ex>ortis</ex></expan></supplied> <lb n="3"/><expan><abbr>Ubio</abbr><ex>rum</ex></expan> <expan><abbr>sig</abbr><ex>nifer</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> LXX <expan><abbr>mili</abbr><ex>tavit</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XXVIII <lb n="4"/>Claudia coniunx et Cocceius Veturius <lb n="5"/>et Cocceius Nardus <expan><abbr>f</abbr><ex>ilii</ex></expan> <expan><abbr>h</abbr><ex>eredes</ex></expan> <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uraverunt</ex></expan> <lb n="6"/><expan><abbr>M</abbr><ex>arcus</ex></expan> Coc<expan><ex>c</ex><abbr>eius</abbr></expan> <expan><abbr>Ti</abbr><ex cert="low"/></expan>•tio pi<expan><ex>i</ex><abbr>s</abbr><ex>imo</ex></expan> <expan><abbr>par</abbr><ex>enti</ex></expan> <lb n="7"/><expan><abbr>fec</abbr><ex>it</ex></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>l. 2: ISM V: co[h(ortis) I] - nevertheless the unit always appear in Moesia inferior without numeral; l. 6: on the stone: A vel N•TIO</p>
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the Manes Gods, Marcus Cocceius Vitlus, veteran of the Ubii cohort, standard-bearer, who lived 70 years and served 28 years. His wife Claudia, together with his sons, Cocceius Veturius and Cocceius Nardus, all being his heirs, took care to erect the monument. Marcus Cocceius Titio (?) made for the most pious parent.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>The last two lines were later added into a very bad manner. The relationship between The veteran was released from duty during Nerva's short reigns in AD 97, after 28 years of military service. Being recruited in his 18 or 20, he was 46 or 48 years old in 97. Since he lived 70 years old, he died around AD 119-122, in Hadrian's first years of reign.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

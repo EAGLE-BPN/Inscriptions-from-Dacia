@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de P. Aelius Malachus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000325.html</idno>
+                
+                
+               <idno type="localID">ip00000325</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>82</height>
+                                         <width>25</width>
+                                         <depth>37</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation; couleur rouge.
+                                <height unit="cm">3.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1979 encastré dans le mur d’enceinte du camp de Pomet.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0193" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du rang municipal de Porolissum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1979</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_6" url="https://commons.wikimedia.org/wiki/File:POR_6.jpg">
+       <desc> POR_6
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 4, 1980, p. 89-90, no 3, fig. 3 (photo) </bibl><bibl> S. Sanie, Cultele orientale I, p. 218, no 1, 292, no 1 </bibl><bibl> R. Ardevan, Viața municipală, p. 440, no 489 </bibl><bibl> ILD 680</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>P</abbr><ex>ublius</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> M <lb n="3"/>alachus <lb n="4"/>flamen <lb n="5"/>5 q<expan><ex>uin</ex><abbr>q</abbr><ex>uennalis</ex></expan> <expan><abbr>mun</abbr><ex>icipii</ex></expan> <lb n="6"/><expan><abbr>S</abbr><ex>eptimii</ex></expan> <expan><abbr>Por</abbr><ex>olissensis</ex></expan> et sa <lb n="7"/>cerdo<surplus>t</surplus>s <expan><abbr>iu</abbr><ex>ssu</ex></expan><certainty match="preceding-sibling::node()" locus="value"/> <lb n="8"/>dei <expan><abbr>n</abbr><ex>umeri</ex></expan> <expan><abbr>P</abbr><ex>almyrenorum</ex></expan> <expan><abbr>P</abbr><ex>orolissensium</ex></expan> <lb n="9"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>N. Gudea et les autres, l. 3 : M/alachu(s). L. 7 : on a probablement voulu écrire sacerdoti, mais on a changé d’avis et on a écrit sur le T un S (N. Gudea). Personne n’a remarqué à la fin de la l. 7 les lettres IV, qui sont pourtant bien visibles.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand. Publius Aelius Malachus, flamen (et) quinquennalis du municipe Septimium Porolissense et prêtre, sur l’ordre(?) du dieu du n(umerus) P(almyrenorum) P(orolissensium) s’est acquitté de (son) vœu de bon gré (et) à bon droit.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Pour le nom palmyrénien Malachus ou Malchus voir S. Sanie, Cultele orientale I, p. 218. Le prénom et le nom du dédicant ont leurs origines dans l’octroi généreux de cité romaine par Hadrien. Par le deus n(umeri) P(almyrenorum) P(orolissensium) il faut comprendre Bel.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

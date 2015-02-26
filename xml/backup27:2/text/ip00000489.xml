@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Diane pour le salut de l'empereur Caracalla et de sa mère</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000489.html</idno>
+                
+                
+               <idno type="localID">ip00000489</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Geoagiu</placeName>                     
+                        </settlement>
+                        <repository>Musée de Deva</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>88</height>
+                                         <width>42</width>
+                                         <depth>51</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1989 par A. Rusu et E. Pescaru dans l'aire sacrée liée aux eaux thermales.
+                                <placeName ref="www.trismegistos.org/place/030085">Germisara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0211" notAfter-custom="0217" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 211-217, années de règne de Caracalla.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1989</date>
+                                <placeName>Geoagiu</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, A. Pescaru, E. Pescaru, AMN 39-40, 2002-2003, p. 197-200, fig. 1-2 (photo et dessin)</bibl><bibl> AE 2003, 1513.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    Dian<supplied reason="lost">a</supplied>ẹ <lb n="2"/><expan><abbr>Aug</abbr><ex>ustae</ex></expan> s<supplied reason="lost">acru</supplied>m <lb n="3"/>pro ṣa<supplied reason="lost"><expan><abbr>l</abbr><ex>ute</ex></expan></supplied> ẹṭ <expan><abbr><supplied reason="lost">i</supplied>nc</abbr><ex>olumitate</ex></expan> <lb n="4"/><expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>Aur</abbr><ex>elii</ex></expan> Anṭon<supplied reason="lost">i</supplied>ṇi <lb n="5"/>5 Pii <expan><abbr>Aug</abbr><ex>usti</ex></expan> et Ịụ<supplied reason="lost">lia</supplied>e <lb n="6"/><expan><abbr>Aug</abbr><ex>ustae</ex></expan> maṭriṣ <supplied reason="lost"><expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>castr</abbr><ex>orum</ex></expan></supplied> <lb n="7"/><expan><abbr>senat</abbr><ex>us</ex></expan> ac patṛ<supplied reason="lost">iae</supplied> <lb n="8"/><expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> Valent<supplied reason="lost">inus</supplied> <lb n="9"/><expan><abbr>trib</abbr><ex>ununs</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> XIIII <expan><abbr>G</abbr><ex>eminae</ex></expan> An<supplied reason="lost"><expan><abbr>t</abbr><ex>oninianae</ex></expan></supplied> 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     item <expan><abbr>trib</abbr><ex>unus</ex></expan> <expan><abbr>n</abbr><ex>umeri</ex></expan> <expan><abbr>sing</abbr><ex>ularium</ex></expan> <lb n="2"/>Brittạṇ<supplied reason="lost">icianorum <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Consacré à Diane Auguste pour le salut et la conservation de Marc Aurèle Antonin le Pieux, Auguste, et de Iulia Augusta, mère (d'Auguste, des camps/patronne des soldats), du sénat et de la patrie. Caius Valerius Valentinus, tribun de la legio XIV Gemina Antoniniana et aussi tribun du numerus singularium Britannicianorum ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>C. Valerius Valentinus a été tribun de la legio XIV Gemina à Carnuntum (Pannonie Supérieure) avant de commander le nmerus singularium Britannicianorum à Cigmău (à 5 km de Germisara), troupe qui équivalait á une cohors milliaria.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

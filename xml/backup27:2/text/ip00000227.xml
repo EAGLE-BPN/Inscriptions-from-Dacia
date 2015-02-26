@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un militaire nord-africain</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000227.html</idno>
+                
+                
+               <idno type="localID">ip00000227</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire aire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>160</height>
+                                         <width>17</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1889 dans les vignobles au sud du camp légionnaire.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIe siècle, en raison du nomen Aurelius pas accompagné par praenomen et de l’écriture excessivement primitive.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1889</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_228" url="https://commons.wikimedia.org/wiki/File:PO_228.jpg">
+       <desc> PO_228
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Fr. Cumont, AEM 17, 1894, p. 19-20, no 8-9 </bibl><bibl> CIL III 13766 + 13767 </bibl><bibl> R. Münsterberg, J. Oehler, JÖAI, 1902, Bbl. 7-8, no 1, fig. 22(photo) </bibl><bibl> I. I. Russu, SCIV 18 / 1, 1967, p. 178-180, no 12, fig. 12(dessin).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Au<supplied reason="omitted">r</supplied><expan><abbr>e</abbr><ex>lio</ex></expan><certainty match="preceding-sibling::node()" locus="value"/><expan><abbr>Atino</abbr><ex cert="low"/></expan> Birsi militi c <lb n="2"/><supplied reason="lost"> o</supplied><expan><abbr>h</abbr><ex>ortis</ex></expan> I <expan><abbr>Ba</abbr><ex>tavorum</ex></expan> <supplied reason="lost"> v</supplied><expan><abbr>ix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXX <expan><abbr>Aur</abbr><ex>elii</ex></expan> <lb n="3"/>Sataras <expan><abbr>et</abbr><ex cert="low"/></expan> A <supplied reason="lost"> ..</supplied>ṿa <lb n="4"/>soror <expan><abbr>p</abbr><ex>onendum</ex></expan> <expan><abbr>c</abbr><ex>uraverunt</ex></expan> fratr <supplied reason="lost"> i</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Münsterberg, Oehler : Au(relio) Reatino Birsi militi co / h(ortis) I B(atavorum) &lt;v&gt;ix(it) an(nis) XXX Mar / cia Tavias et Latasa / soror(es) p(onendum) c(uraverunt) fratri s(uo) p(ientissimo), lecture acceptée encore par Russu en 1944(AISC 4, 1941-1943(1944), p. 231) ; cf. Russu(1967) : [ D(is)] M(anibus) / Meatino(?) Birsi militi c / [ o]h(ortis) I Ba(tavorum)(v)ix(it) an(nos) XXX Aur(?) / Sataras et(?) Atasa / soror p(onendum) c(uraverunt) fratri.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Aurelius(?) Atinus(?), fils de Birsi, militaire de la cohors I Batavorum, a vécu 30 ans. Aurelius Sataras et A..va,(sa) sœur, prirent le soin d’ériger à(leur) frère.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le relief et le champ d’inscription étaient encadrés par un bord. Les éléments qui surmontent la stèle ne se distinguent pas. Du relief s’est conservée la moitié droite et la partie supérieure de la moitié gauche. On distingue sur la photo un personnage masculin sur une kliné, devant lequel se trouve une mensa tripes. Auprès du même personnage se tient un camillus avec un objet dans sa main droite, probablement un urceus, et avec la main droite étendue vers le haut et reposant sur la table. Dans la partie gauche on distingue les pieds d’un personnage, probablement féminin, assis. Le champ de l’inscription est encadré par un bord mouluré. La première ligne a été écrite dans le registre supérieur. La partie inférieure de la stèle manque.Selon Russu(1967) les noms Birsi(Birsil, Birzil) et Sataras seraient nord-africains ; cf. C. C. Petolescu, Auxilia, p. 84, n. 4, qui regarde Birsi comme illyrien, apparenté à Bersius. Évidemment, Meatino est une solution impossible, mais, si le frère et la sœur du défunt portent le nomen Aurelius, dans la même situation devrait se trouver le défunt lui-même. Dans ce cas dans les premiers deux signes de la l. 2 se cache la ligature AVR. Un cognomen comme Atinus, Atinius doit, lui aussi, être regardé avec prudence ; il existe, mais dans des zones celtiques(OPEL IV, p. 202). La cohors I Batavorum avait sa garnison à Certia(Românași) ; voir Petolescu, Auxilia, p. 83-84.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

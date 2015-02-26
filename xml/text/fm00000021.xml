@@ -7,7 +7,7 @@
             </titleStmt>  
             <publicationStmt>
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
-<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000021.html</idno>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000021.html</idno>
 
   <idno type="localID">fm00000021</idno>
 <availability>
@@ -119,17 +119,17 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-    <graphic n="CIL III 7533_1" url="https://commons.wikimedia.org/wiki/File:CIL III 7533_1.jpg">
+    <graphic n="CIL III 7533_1" url="https://upload.wikimedia.org/wikipedia/commons/f/fb/CIL_III_7533_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7533_1.JPG">
        <desc> CIL III 7533_1
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 7533_2" url="https://commons.wikimedia.org/wiki/File:CIL III 7533_2.jpg">
+    <graphic n=" CIL III 7533_2" url="https://upload.wikimedia.org/wikipedia/commons/f/fc/CIL_III_7533_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7533_2.jpg">
        <desc>  CIL III 7533_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
-    <graphic n=" CIL III 7533_3" url="https://commons.wikimedia.org/wiki/File:CIL III 7533_3.jpg">
+    <graphic n=" CIL III 7533_3" url="https://upload.wikimedia.org/wikipedia/commons/6/64/CIL_III_7533_3.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7533_3.jpg">
        <desc>  CIL III 7533_3
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
@@ -158,7 +158,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         
                         
                             
-                            [<expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan> <lb n="2"/>e]t Iunone <expan><abbr>Reg</abbr><ex>inae</ex></expan> <lb n="3"/><supplied reason="lost">ci</supplied>ves Roman[i <lb n="4"/>e]t Lae consi[s<lb break="no" n="5"/>t]entes vico <supplied reason="lost">t</supplied>urre Muca<supplied reason="lost">…</supplied> <lb n="6"/>posuerunt <lb n="7"/><supplied reason="lost">pro</supplied> salutem <lb n="8"/><expan><abbr><supplied reason="lost">Im</supplied>peratorr</abbr><ex>um</ex></expan> <lb n="9"/>[[……………..<lb break="no" n="10"/>…..]] Au[<expan><abbr>gg</abbr><ex>ustorum</ex></expan> <lb n="11"/>p]er magistro<supplied reason="lost">s</supplied> <lb n="12"/><supplied reason="lost">…</supplied>um er Ianua<supplied reason="lost">r</supplied>iu[m <lb n="13"/>et] Herculanu<supplied reason="lost">m</supplied>.
+                            <supplied reason="lost"><expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan></supplied><lb n="2"/><supplied reason="lost">e</supplied>t Iunone <expan><abbr>Reg</abbr><ex>inae</ex></expan> <lb n="3"/><supplied reason="lost">ci</supplied>ves Roman<supplied reason="lost">i</supplied> <lb n="4"/><supplied reason="lost">e</supplied>t Lae consi<supplied reason="lost">s</supplied><lb break="no" n="5"/><supplied reason="lost">t</supplied>entes vico <supplied reason="lost">t</supplied>urre Muca<supplied reason="lost">…</supplied> <lb n="6"/>posuerunt <lb n="7"/><supplied reason="lost">pro</supplied> salutem <lb n="8"/><expan><abbr><supplied reason="lost">Im</supplied>peratorr</abbr><ex>um</ex></expan> <lb n="9"/><del rend="erasure">……………..</del><lb break="no" n="10"/><del rend="erasure">…..</del> Au<supplied reason="lost"><expan><abbr>gg</abbr><ex>ustorum</ex></expan></supplied> <lb n="11"/><supplied reason="lost">p</supplied>er magistro<supplied reason="lost">s</supplied> <lb n="12"/><supplied reason="lost">…</supplied>um er Ianua<supplied reason="lost">r</supplied>iu<supplied reason="lost">m</supplied> <lb n="13"/><supplied reason="lost">et</supplied> Herculanu<supplied reason="lost">m</supplied>.
                         
                         
                     </ab>
