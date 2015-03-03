@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1943 in situ sous le blocage gauche de la porta principalis sinistra du camp de Pomet, la face en bas.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0236" notAfter-custom="0238" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">236-238, en raison des épithètes triomphales ; pour celles-ci voir D. Kienast, Kaisertabelle, p. 184-185.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="POR_51" url="https://commons.wikimedia.org/wiki/File:POR_51.jpg">
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+        -->
     
     <text>
         <body>

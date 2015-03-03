@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription du procurateur Pompeius Longus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000327.html</idno>
+                
+                
+               <idno type="localID">ip00000327</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>129</height>
+                                         <width>60</width>
+                                         <depth>71</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">2.53.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1986 avec le no - - - sur une hauteur appellée « Ferice », à l’extérieur d’une petite fortification (« fortlet ») mesurant 45,50 x 35 m et ayant dans son intérieur deux barraques.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement des années 175-177. Commode, qui portait le titre de César depuis 166, est devenu active sur la scène publique au début de l’année 175 et fut proclamé Auguste au milieu de l’année 177 ; voir D. Kienast, Kaisertabelle, p. 147. La dédicace de l’autel de Porolissum eut lieu peu de temps après la réforme qui remplaça à la tête du publicum portorium Illyrici les fermiers avec des procurateurs ; voir I. Piso, Fasti II, p. 298, 310.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1986</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="POR_8" url="https://commons.wikimedia.org/wiki/File:POR_8.jpg">
+       <desc> POR_8
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    -->
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 12, 1988, 178–179, 189, fig. 7 (dessin) </bibl><bibl> AE 1988, 978 </bibl><bibl> J. Fitz, in: Archäologie in Gebirgen. Elmar Vonbank zum 70. Geburtstag (éd. H. Swozilek), Bregenz 1992, 201 </bibl><bibl> AE 1993, 1326 </bibl><bibl> idem, Pannonien II, p. 733, no 415/2 </bibl><bibl> C. C. Petolescu, SCIVA 40/4, 1989, p. 397-398, no 508 </bibl><bibl> N. Gudea, Vama, p. 277–278, no 1 </bibl><bibl> AE 1996, 1274 </bibl><bibl> ILD 678 </bibl><bibl> I. Piso, AMN 41–42, 2004–2005, p. 183–185, no I, fig. 1 (photo) </bibl><bibl> idem, Fasti II, p. 309, no 1</bibl><bibl> Studia epigraphica in memoriam Géza Alföldy (éd. W. Eck, B. Fehér, P. Kovács), Bonn 2013, p. 275-277 </bibl><bibl> AE 2005, 1289.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/>pro salute <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> <lb n="3"/><expan><abbr>Aurel</abbr><ex>ii</ex></expan> Antonini <lb n="4"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> <supplied reason="lost">[[et Commod</supplied>ị <lb n="5"/>5 <supplied reason="lost"><expan><abbr>Caes</abbr><ex>aris</ex></expan></supplied>]] et Genio <expan><abbr>p</abbr><ex>ublici</ex></expan> <expan><abbr>p</abbr><ex>ortorii</ex></expan> <lb n="6"/><expan><abbr>vectigal</abbr><ex>is</ex></expan> <expan><abbr>Illyr</abbr><ex>ici</ex></expan> <lb n="7"/>procurante Pompẹ <lb n="8"/>io Longo <expan><abbr>proc</abbr><ex>uratore</ex></expan> <lb n="9"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> Felix ẹius ṿ<expan><abbr>il</abbr><ex>icus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>N. Gudea et les auteurs suivants, l. 4-5 : Aug(usti) [[Commodi / pii fel(icis)]] et Genio p(ublici) p(ortorii) ; l. 9 : Aug(usti) Felix et Luc(ius) vil(ici) ; I. Piso, l. 4-5 : Aug(usti) [[[et Commod]ị / [Caes(aris)]]] et Genio p(ublici) p(ortorii) ; l. 9 : Aug(usti) Felix ẹius ṿil(icus). La reconstitution par N. Gudea du nom de Commodus est erronée. Aussi, il s’agit d’un seul vilicus, Felix.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand pour le salut de l’empereur Marc Aurèle Antonin Auguste et du (César) Commode et au génie (protecteur) de la douane publique, compartiment d’Illyricum, par les soins de Pompeius Longus, procurateur impérial. Felix, son intendant, (érigea ceci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. Pompeius Longus est originaire de Savaria, L. Borhy, O. Sosztarics, Savaria 23, 1996-1997, p. 116, no 2. J. Fitz l’avait identifié à tort avec le personnage de l’inscription d’Albertirsa ; voir I. Piso, Fasti II, p. 306-308 ; idem, dans : Studia epigraphica, p. 275-277, 281-282.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

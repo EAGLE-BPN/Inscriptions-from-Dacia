@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée par D. Benea derrière le blocage de la porta praetoria du camp de Tibiscum
-                                <placeName ref="www.trismegistos.org/place/030131">Tibiscum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030131">Tibiscum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement à partir de 174-176, quand eut lieu la réforme de la douane de l'Illyricum.</origDate>
                         </origin>

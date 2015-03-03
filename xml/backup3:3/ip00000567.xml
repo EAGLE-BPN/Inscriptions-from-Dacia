@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un médecin légionnaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000567.html</idno>
+                
+                
+               <idno type="localID">ip00000567</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mehedinți</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turnu Severin</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turnu Severin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1773">Base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>102</height>
+                                         <width>57</width>
+                                         <depth>57</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée encastrée dans la tour attribuée à Justinien.
+                                <placeName ref="www.trismegistos.org/place/029680">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Drobeta est devenue municipe sous Hadrien (117/138) et colonie sous Septime Sévère.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1896</date>
+                                <placeName>Turnu Severin</placeName> 
+                            <placeName type="modernRegion">Jud. Mehedinți</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="DR_13" url="https://upload.wikimedia.org/wikipedia/commons/4/42/DR_13.jpg" sameAs="https://commons.wikimedia.org/wiki/File:DR_13.jpg">
+       <desc> DR_13
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. G. Tocilescu, AEM 19, 1896, p. 216, no 76</bibl><bibl> CIL III 14216, 9</bibl><bibl> ILS 7159</bibl><bibl> IDR II 42.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> <lb n="3"/>Longinu<supplied reason="lost">s</supplied> <lb n="4"/><expan><abbr>med</abbr><ex>icus</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="5"/>VII <expan><abbr>Cl</abbr><ex>audiae</ex></expan> <lb n="6"/><expan><abbr>ornat</abbr><ex>us</ex></expan> orna <lb n="7"/><expan><abbr>ment</abbr><ex>is</ex></expan> decu<supplied reason="lost"><expan><abbr>r</abbr><ex>ionalibus</ex></expan></supplied> <lb n="8"/>a <expan><abbr>splendid</abbr><ex>issimo</ex></expan> <lb n="9"/><expan><abbr>ordin</abbr><ex>e</ex></expan> <expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>H</abbr><ex>adriani</ex></expan> <expan><abbr>D</abbr><ex>robetensium</ex></expan> <lb n="10"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXIII <expan><abbr>M</abbr><ex>arcus</ex></expan> Victorius <lb n="11"/>Anio et Victoria <lb n="12"/><supplied reason="lost">Ge</supplied>mina <expan><abbr>fil</abbr><ex>io</ex></expan> pien<supplied reason="lost"><expan><abbr>t</abbr><ex>issimo</ex></expan></supplied> <lb n="13"/><expan><abbr>p</abbr><ex>osuerunt</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Marcus Valerius Longinus, fils de Marcus, médecin de la legio VII Claudia, décoré avec les ornamenta decurionalia (les signes extérieurs de la qualité de décurion) par l'ordre (des décurions) du municipe Hadrianum Drobeta, a vécu 23 ans. Marcus Victorius Anio et Victoria Gemina érigèrent (ceci) au fils très pieux.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>On remarque que les parents portent le nomen Victorius et le fils le nomen Valerius. M. Valerius Longinus n'était pas inscrit dans la liste des militaires de la légion. La legio VII Claudia stationnait à Viminacium dans la Mésie Supérieure.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

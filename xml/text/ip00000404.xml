@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1877/1878 à Porolissum par C. Torma, qui la publia et l’envoya au musée de Cluj.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison de la pierre et de l’écriture, au plus tard que possible, dans les dernières années de la province ou même après.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_85" url="https://commons.wikimedia.org/wiki/File:POR_85.jpg">
+   <graphic n="POR_85" url="https://upload.wikimedia.org/wikipedia/commons/7/77/POR_85.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_85.jpg">
        <desc> POR_85
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

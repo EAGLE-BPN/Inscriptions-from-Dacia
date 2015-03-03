@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1904 dans les ruines du camp, probablement en position secondaire.
-                                <placeName ref="www.trismegistos.org/place/030231">Optatiana</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030231">Optatiana</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du milieu du IIIème siècle, en raison de la forme tardive du A.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="POR_30" url="https://commons.wikimedia.org/wiki/File:POR_30.jpg">
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+        -->
     
     <text>
         <body>

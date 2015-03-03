@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé à Samum ; vu vers 1858 par C. Torma et vers 1880 par A. v. Domaszewski dans le château de Coplean (Kapjoni) chez la baronne Huszár.
-                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIème siècle, en raison du terme ordinati.</origDate>
                         </origin>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Vue en 2001 par I. Piso encastrée dans le mur extérieur de l'église catholique de Bărăbanți, village aujourd'hui englobé dans la ville d'Alba Iulia.
-                                <placeName ref="www.trismegistos.org/place/014481">Apulum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement à partir de la réorganisation, en 168, des trois Dacies, éventuellement de l'époque des derniers Antonins ou de Septime Sévère.</origDate>
                         </origin>

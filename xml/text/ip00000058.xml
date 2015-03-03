@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1978 à environ 1 km sud du camp légionnaire, entre la vallée Pardei et la rivière Arieș, au pied de la colline Șuia.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, à partir de l’arrivée de la légion en Dacie, vers 168. Pourtant, les épithètes p(ia) f(idelis) de la légion pourraient indiquer le règne de Septime Sévère, car dans CIL III 90 de 19 la légion porte les épithétes officielles P P - p(ia) [ f(idelis)] et dans CIL III 1264 porte, sous les trois Augustes(198-211), les épithètes p(ia) f(idelis).</origDate>
                         </origin>
@@ -119,18 +119,6 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
-
-   <graphic n="PO_9" url="https://commons.wikimedia.org/wiki/File:PO_9.jpg">
-       <desc> PO_9
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
-      </desc>
-   </graphic>    
-   
-            
-        </facsimile>
-        
-    
     <text>
         <body>
                        

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000007.html</idno>
+                
+                
+               <idno type="localID">ip00000007</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Cluj-Napoca, encastrée dans la masion de rue 21 Decembrie, 39.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Base de statue, le dé</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>48</width>
+                                         <depth>87</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>vue en 1737 à Luna de Sus chez la comtesse Jósika
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Par analogie avec CIL III 881, probablement à partir de l'empereur Commode.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>avant 1737</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_8" url="https://commons.wikimedia.org/wiki/File:PO_8.jpg">
+       <desc> PO_8
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>-->
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 882 </bibl><bibl> W. Drexler, Der Cultus der ägyptischen Gottheiten in den Donauländern, Leipzig 1890, p. 2, II b </bibl><bibl> ILS 4361 </bibl><bibl> D. O. Popescu, Mélanges de l’École roumaine en France 6, 1927, p. 199 </bibl><bibl> I. I. Russu, AIIA Cluj 18, 197, p. 418-419 </bibl><bibl> L. Bricault, dans : Hommage à Jean Leclant 3. Études isiaqes(IFAO 6 / 3), Paris 1994, p. 84, no 3.8.2 </bibl><bibl> L. Bricault, RICIS, p. 72-726, no 616 / 02, pl. CXXV(photo) </bibl><bibl> M.-Ch. Budischovsky, dans : Nile into Tiber. Egypt in the Roman World. Proceedings of the IIIrd International Conference of Isis studies(Leiden, May 11-14, 200, éd. L. Bricault et alii), Leiden - Boston 2007, p. 27, fig. 1(photo) .</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Isidi myrioni <lb n="2"/>mae <expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>Iul</abbr><ex>ius</ex></expan> Mar <lb n="3"/>tialis pater et <lb n="4"/>L. Livius Victori <lb n="5"/>nus quaestor <lb n="6"/>collegio Isidis <lb n="7"/><expan><abbr>d</abbr><ex>ono</ex></expan> <expan><abbr>d</abbr><ex>edit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Isis celle aux dix mille noms. Caius Iulius Martialis, père, et Lucius Livius Victorinus, questeur, ont offert(ceci) comme don pour le collège d’Isis.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. 1-2 : myrionimae à la place de myrionymae(μυριώνυμος, ον) ; voir pour cette épithète L. Bricault, dans : Hommage, p. 67-78 ; elle apparaît en Dacie aussi dans L. Vidman, SIRIS, no 692 = IDR III /, 4. Les deux dédicants remplissent des attributions dans le collège d’Isis ; pour le culte des divinités égyptiennes en Dacie voir S. Sanie, Arheoogia Moldovei 27, 2004, p. 61-82 ; idem, dans : Assaph -11, 200-2006(ΚΑΛΑΘΟΣ. Studies in Honor of Asher Ovadiah, éd. S. Mucznik), p. 1-124 ; M.-Ch. Budischovsky, dans : Isis en occident. Actes du IIème Colloque international sur les études isiaques, Lyon III, 16-17 mai 2002(éd. L. Bricault), Leiden – Boston 2004, p. 17-176 ; eadem, dans : Nile into Tiber, p. 26-288</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1987 lors des fouilles de D. Alicu, S. Cociș et A. Paki dans un édifice romain de Micești (iidem, AMN 26-30, 1989-1993, p. 495-512), mais la pièce provient sans doute de Potaissa.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">L'épithète pia fut accordée à la legio V Macedonica probablement sous Commode (180-192), sinon pendant les guerres civiles de Septime Sévère; cf. E. Ritterling, RE XII/2 (1925), 1580; I. Piso, dans: Légions, p. 215 = Nordgrenze, p. 415.</origDate>
                         </origin>

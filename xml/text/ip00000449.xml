@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Provient probablement de Samum ; se trouvait en 1956 dans le musée de Dej.
-                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0106" notAfter-custom="0117" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">a. 106-117.</origDate>
                         </origin>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé à Turda à la suite de l’incendie de 1778.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement de la fin du IIe siècle ou du IIIe siècle, en raison du nomen Aurelius.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="PO_23" url="https://commons.wikimedia.org/wiki/File:PO_23.jpg">
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+        -->
     
     <text>
         <body>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1986 avec le no - - - sur une hauteur appellée « Ferice », à l’extérieur d’une petite fortification (« fortlet ») mesurant 45,50 x 35 m et ayant dans son intérieur deux barraques.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement des années 175-177. Commode, qui portait le titre de César depuis 166, est devenu active sur la scène publique au début de l’année 175 et fut proclamé Auguste au milieu de l’année 177 ; voir D. Kienast, Kaisertabelle, p. 147. La dédicace de l’autel de Porolissum eut lieu peu de temps après la réforme qui remplaça à la tête du publicum portorium Illyrici les fermiers avec des procurateurs ; voir I. Piso, Fasti II, p. 298, 310.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="POR_8" url="https://commons.wikimedia.org/wiki/File:POR_8.jpg">
@@ -130,7 +130,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             
         </facsimile>
         
-    
+    -->
     <text>
         <body>
                        

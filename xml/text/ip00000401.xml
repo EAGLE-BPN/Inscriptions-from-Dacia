@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé lors des fouilles dans le cimetière de la colline Ursoieș, du côté du village Jac.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Le texte n’offre pas des éléments de datation. Les premiers éditeurs ont daté le monument du IIème siècle en raison d’éléments stylistiques.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_82" url="https://commons.wikimedia.org/wiki/File:POR_82.jpg">
+   <graphic n="POR_82" url="https://upload.wikimedia.org/wikipedia/commons/0/01/POR_82.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_82.jpg">
        <desc> POR_82
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

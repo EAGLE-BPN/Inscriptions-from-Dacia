@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>vue vers 188 par G. Téglás à Moldovenești devant la maison de Balthasar Vargyasi.
-                                <placeName ref="www.trismegistos.org/place/002036"/>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il n'y a pas des critères de datation</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="PO_240" url="https://commons.wikimedia.org/wiki/File:PO_240.jpg">
@@ -128,7 +128,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    </graphic>    
    
             
-        </facsimile>
+        </facsimile>-->
         
     
     <text>

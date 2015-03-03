@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée à Samum et transportée vers 1858 à Cristeștii Ciceului chez C. Torma, qui a publié l’inscription et envoya une copie du texte à Th. Mommsen.
-                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison des épithètes impériales probables.</origDate>
                         </origin>

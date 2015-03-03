@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de construction de la legio IV Flavia Felix</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000493.html</idno>
+                
+                
+               <idno type="localID">ip00000493</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Grădiștea Muncelului</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Bloc de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>95</height>
+                                         <width>22</width>
+                                         <depth>60</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1962 dans les ruines dela forteresse de Sarmizegetusa Regia
+                                <placeName ref="www.trismegistos.org/place/030073">Sarmizegetusa Regia</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0106" notAfter-custom="0117" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 106-117, quand une vexillation de la legio IV Flavia Felix se trouvait en garnison dans l'ancienne capitale des Daces.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1962</date>
+                                <placeName>Grădiștea Muncelului</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Glodariu, AMN 2, 1965, p. 130, no 8</bibl><bibl> H. Daicoviciu, dans: Hommages à Marcel Renard II, Bruxelles 1969, p. 167-172</bibl><bibl> idem, dans: Römer in Rumänien, Köln 1969, p. 107, B 11</bibl><bibl> idem, Civiltà romana in Romania, Roma 1970, p. 131-132, B 2</bibl><bibl> IDR III/3, 271</bibl><bibl> H. Daicoviciu, I. Ferenczi, A. Rusu, Sargetia 21-24, 1988-1991, p. 47, ad no 3</bibl><bibl> I. Piso, dans: Dacia felix. Studia Michaeli Bărbulescu oblata, Cluj/Napoca 2007, p. 279-283</bibl><bibl> AE 2007, 1202..</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Le<supplied reason="lost"><expan><abbr>g</abbr><ex>ionis</ex></expan></supplied> IIII <supplied reason="lost"><expan><abbr>F</abbr><ex>laviae</ex></expan> <expan><abbr>F</abbr><ex>elicis</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Appartenant à la legio IV (Flavia Felix).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Deux capricornes y sont représentés tenant un disque ou une sphère surmontée d'un objet oblong, difficile à interpréter, peut-être une palme. On distingue des traces de lettres dans le coin supérieur gauche et sur le disque. On avait mal compris ces lettres et les capricornes ont été mis en rapport avec la legio I Italica, mais ils peuvent être mis en rapport aussi avec l'idée de victoire. Les blocs de construction avec les noms des légions IV Flavia Felix, II Adiutrix et VI Ferrata prouvent des réparations faites par des vexillations légionnaires romaines à l'ancienne fortresse dace en vue de sa réutilisation.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

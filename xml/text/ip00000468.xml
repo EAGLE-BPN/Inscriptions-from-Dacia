@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en septembre 1993 lors du creusement de fondations au 10 de l'ancienne rue du 9 Mai, au nord-ouest du camp, dans la direction de Micești.
-                                <placeName ref="www.trismegistos.org/place/014481">Apulum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne d'Hadrien (117/138), en raison de la suite P. Aelius.</origDate>
                         </origin>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1987 dans la basilique des principia de la légion, devant les chambres B et C.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">La pièce est datable du règne de Septime Sévère(193-211) ou, plus probablement, du règne de Caracalla(212-217).</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PO_209" url="https://commons.wikimedia.org/wiki/File:PO_209.jpg">
+   <graphic n="PO_209" url="https://upload.wikimedia.org/wikipedia/commons/1/1c/PO_209.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_209.jpg">
        <desc> PO_209
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

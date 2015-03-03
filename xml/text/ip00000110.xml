@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1830 dans la zone de la porte d’ouest du camp, en position secondaire.
-                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0022" notAfter-custom="0230" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De la période 22-230, quand Iasdius Domitianus s'est trouvé à la tête de Dacie ; voir I. Piso, Fasti provinciae Daciae I, Bonn 1993, p. 192-196I; idem, Fasti provinciae Daciae II, Bonn 2013, p. 40-42 ; cf. L. Petersen, PIR2 J, 12 ; I. Piso, .</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="AR_111" url="https://commons.wikimedia.org/wiki/File:AR_111.jpg">
@@ -128,7 +128,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    </graphic>    
    
             
-        </facsimile>
+        </facsimile>-->
         
     
     <text>

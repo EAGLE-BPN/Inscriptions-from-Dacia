@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Provient de la colline Pomet; acheté en 1957 par S. Papiriu-Pop dans le village Jac ; vers 1960 la pièce parvint au musée de Zalău.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle ap. J.-Chr., en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
                         </origin>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
+<!--         <facsimile>
 
    <graphic n="POR_1" url="https://commons.wikimedia.org/wiki/File:POR_1.jpg">
        <desc> POR_1
@@ -130,7 +130,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             
         </facsimile>
         
-    
+-->    
     <text>
         <body>
                        

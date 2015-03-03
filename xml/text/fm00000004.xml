@@ -68,8 +68,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                           <placeName ref="www.trismegistos.org/place/029790">Ratiaria</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029481">Moesia superior</placeName>
+                           <placeName ref="http://www.trismegistos.org/place/029790">Ratiaria</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029481">Moesia superior</placeName>
                                 </origPlace>
                               <origDate notBefore-custom="0212" notAfter-custom="0280" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">After 212 AD</origDate>
                         </origin>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Les deux s ont été trouvés pendant les fouilles dans le camp.
-                                <placeName ref="www.trismegistos.org/place/030131">Tibiscum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030131">Tibiscum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0198" notAfter-custom="0211" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des années 198-211 du règne commun de Septime Sévère, Caracalla et Geta.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="TB_17" url="https://commons.wikimedia.org/wiki/File:TB_17.jpg">
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+        -->
     
     <text>
         <body>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée probablement lors des fouilles de Em. Panaitescu de 1928/1929 dans le camp de Samum. Selon la description de I. I. Russu, en 1956 le conservait encore le début du relief et la l. 1 de l’inscription. En 2000 I. Piso ne trouva plus le morceau supérieur et en 2013 il trouva le reste cassé en trois morceaux.
-                                <placeName ref="www.trismegistos.org/place/030137">Samum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIème siècle, en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
                         </origin>

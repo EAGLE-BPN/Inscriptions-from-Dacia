@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive, pour le salut de Septime Sévère et Caracalla</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000288.html</idno>
+                
+                
+               <idno type="localID">ip00000288</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda/Torda</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turda, inv. 17094.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/100">Colonne votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>70</height>
+                                         <width>48</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 2008 dans la cour des rincipia du camp légionnaire.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0198" notAfter-custom="0209" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">198-209, en raison du titre d'Auguste porté par Septime Sévère et Caracalla.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>2008</date>
+                                <placeName>Turda/Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, Inscriptions, p. 56-59, no 2, fig. 13 </bibl><bibl> I. Piso, RevBistr 27, 2013, p. 43, no 7, fig. a-b (photo et dessin).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [- - - <lb n="2"/>pro <expan><abbr>sal</abbr><ex>ute</ex></expan> <expan><abbr>Impp</abbr><ex>eratorum</ex></expan>] <lb n="3"/>Sevẹ<supplied reason="lost">ri et</supplied> <lb n="4"/>Antọ<supplied reason="lost">nini</supplied> <lb n="5"/><expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> <supplied reason="lost"><expan><abbr>nn</abbr><ex>ostrorum</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    ..., (pour le salut de nos empereurs) Sévère (et) Antonin, (nos) deux Augustes.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Bărbulescu : [PRO SAL(ute) IMPP(eratorum)] / [L(ucii) SEPTIMI] / SEV(eri) [ET M(arci) AVR(eli)] / ANTO[NINI] / AVGG(ustorum). Selon cette reconstitution le texte aurait occupé presque toute la circonférence du fût, ce qui est impossible. D’ailleurs, la modalité de désigner les deux empereurs uniquement par les cognomina Severus et Antoninus est courante et en Dacie fréquemment utilisée (AE 1944, 74 = IDR III/3, 47 (Micia) ; CIL III 1343 = IDR III/3, 77 = AE 1978, 705 (Micia) ; CIL III 1564 = IDR III/1, 57 ; IDR III/1, 271 (Voislova); AE 1987, 848 = ILD 199 (Tibiscum) ; CIL III 14479 = IDR III/5, 426 (Apulum) ; CIL III 1127 = IDR III/5, 427 (Apulum) ; CIL III 1439 = IDR III/2, 328 (Sarmizegetusa)). Pour la l. 4 voir CIL VI 29844, 23 : [Cli]vus Victoria[e] Severi et Antonini Aug[g(ustorum)] nn(ostrorum). Le premier éditeur suppose qu’il s’y agisse d’un monument honorifique ou d’un édifice dans les principia, en remarquant aussi que cette colonne est beaucoup plus épaisse que les colonnes du portique. Dans ce cas les choses sont claires : il s’agit d’une base en forme de colonne probablement pour Jupiter, sinon pour la Victoire. Le dédicant n’est pas nommé. Dans ce cas la dédicace aura été faite par le primus pilus, qui veillait sur l’édifice du commandement.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Vu en 1847 par J. F. Neigebaur et en 197 par Th. Mommsne à Turda, chez G. Papos.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0218" notAfter-custom="0222" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 218-222, en raison de l'épithète impériale martelée.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="PO_71" url="https://commons.wikimedia.org/wiki/File:PO_71.jpg">
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+        -->
     
     <text>
         <body>

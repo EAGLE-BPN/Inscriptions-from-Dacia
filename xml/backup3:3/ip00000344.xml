@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription pour le salut de P. Aelius Marius</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000344.html</idno>
+                
+                
+               <idno type="localID">ip00000344</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>33</height>
+                                         <width>14</width>
+                                         <depth>35</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en position secondaire dans le secteur de la porta praetoria, lors des fouilles de 1982.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">La datation dépend de la manière dont on interprète la charge de fl(amen) col(oniae) dans AE 1930, 10 = AE 1957, 273 = AE 1967, 388 = ILD 804 (Domnești). S’il s’agit de Sarmizegetusa, nous nous trouvons avant le règne de Commode ; si la colonie est la colonia Aurelia Apulensis, il faut dater P. Aelius Marius de la période à partir de Commode, mais, en raison de la bonne écriture, pas après les Sévères.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1982</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_25" url="https://upload.wikimedia.org/wikipedia/commons/4/41/POR_25.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_25.jpg">
+       <desc> POR_25
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>D. Dana, R. Zăgreanu, Tyche 28, 2013, p. 28-32, no 1, pl. 3, fig. 1 (photo).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> deae</supplied> <lb n="2"/><supplied reason="lost">p</supplied>aṭrịaẹ pṛ<supplied reason="lost" cert="low">o salute </supplied> <lb n="3"/><expan><abbr>P</abbr><ex>ublii</ex></expan> <expan><abbr>Aeli</abbr><ex>i</ex></expan> Ma<supplied reason="lost"><expan><abbr>ri</abbr><ex>i</ex></expan> <expan><abbr>conduct</abbr><ex>oris</ex></expan></supplied> <lb n="4"/>ṣalinaru[m …… <lb n="5"/>5 .]tati Fe[lix <expan><abbr>act</abbr><ex>or</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>… <lb n="6"/>.]uum eṭ <supplied reason="lost">……</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>D. Dana, R. Zăgreanu : [- - - - - - / - - -]A.R…[- - - / - - - ?] P(ublii) Ael(ii) Ma[ri cond(uctoris) (pascui et ?)] / ṣalinaru[m - - -] / - - -]tati FẸ[- - -] / [- - -].um e[- - -]. À l’extrémité gauche des l. 2, 5 et 6 manque une seule lettre. L. 2 : les traces de PR sont incertaines ; l. 6 : le premier V est certain, pas aussi le T.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    …, (à la déesse) de la patrie (nationale), pour le salut de Publius Aelius Marius, (fermier) des salines … Felix, (intendant ?), ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Dans les l. 1-2 il s’agit probablement d’une déesse probablement orientale ; pour la dea patria voir AE 1954, 145 = AE 1972, 701 (Thamugadi) ; CIL III 1075 = IDR III/5, 107 (Apulum) ; ILAfr 28 = AE 1909, 152 (Bezereos) ; AE 2008, 1696 (Thamugadi. P. Aelius Marius apparaît dans CIL III 1363 = ILR III/3, 119 (Micia) et dans AE 1930, 10 = AE 1957, 273 = AE 1967, 388 = ILD 804)en tant que conductor pascui et salinarum. Cette formule semble pourtant être trop longue pour notre inscription. L’affermage des pâturages, lié à celui des salines dans le but de l’élevage du bétail, peut être sous-entendu, comme probablement dans les cas de C. Iulius Valentinus (CIMRM II, no 2011 = IDR III/4, 248 - Sânpaul) ou de [- - -]tilius Rufinus (AE 2005, 1296 – Micia). Les deux inscriptions citées et aussi une troisième (CIL III 1549 = IDR III/1, 145 - Tibiscum) sont dédiées pour le salut de P. Aelius Marius par des personnes subordonnées, parmi lesquelles deux actores. C’est probablement aussi le cas de notre inscription, où le dédicant pourrait être un Fe[lix act(or)]. La dea patria se rapporte au dédicant et pas à P. Aelius Marius. Les l. 5-6 restent peu claires.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

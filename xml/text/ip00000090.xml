@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé par hasard dans l’intérieur du camp, à la la surface, près du coin de nord-est.
-                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIe siècle, si le dédicant avait un nom de facture pérégrine.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="AR_91" url="https://commons.wikimedia.org/wiki/File:AR_91.jpg">
+   <graphic n="AR_91" url="https://upload.wikimedia.org/wikipedia/commons/7/78/AR_91.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AR_91.jpg">
        <desc> AR_91
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

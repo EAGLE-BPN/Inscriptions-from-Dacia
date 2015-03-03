@@ -26,11 +26,12 @@
 				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 				<title>Inscriptions from Dacia</title>
 				<link rel="stylesheet" href="graficagenerale.css" type="text/css"/>
-				
-				
+				<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+					<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+					<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 			</head>
 			<body>
-				<div id="header">
+				<div data-role="header" id="header">
 					<h1>Inscriptions by place</h1>
 				</div>
 				
@@ -41,30 +42,16 @@
 					<br/>
 					<a href="browsebytype.html">Inscriptions by Type</a>
 					<br/>
-					<a href="BIBLIOGRAPHY.html">Inscriptions by provenance</a>
+					<a href="Bibliografia.html">Inscriptions by provenance</a>
 					<br/>
 					
-            <br />
-					<script>
-						(function() {
-						var cx = '004934001066682767631:o6msemn59ww';
-						var gcse = document.createElement('script');
-						gcse.type = 'text/javascript';
-						gcse.async = true;
-						gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-						'//www.google.com/cse/cse.js?cx=' + cx;
-						var s = document.getElementsByTagName('script')[0];
-						s.parentNode.insertBefore(gcse, s);
-						})();
-					</script>
-					<gcse:search></gcse:search>
 				</div>
 				
 				<div id="section">
 					
-					<div id="palcelistorigin">
+					<div id="placelistorigin">
 						<h1>Ancient Places of provenance of the inscriptions</h1>
-						<ul>
+						
 							<xsl:for-each-group select="$inscription//tei:origPlace" group-by="tei:placeName[@type='provincItalicRegion']/@ref">
 								
 								<xsl:sort order="ascending" select="lower-case(tei:placeName[@type='provincItalicRegion'])"/>
@@ -72,26 +59,26 @@
 									<a target="_blank" href="{tei:placeName[@type='provincItalicRegion']/@ref}"><xsl:value-of select="tei:placeName[@type='provincItalicRegion']"/></a></h2>
 								<xsl:for-each-group select="current-group()" group-by="tei:placeName[not(@type)]/@ref">
 									
-								<ul>
-									<li> <a target="_blank" href="{tei:placeName[not(@type)]/@ref}"><xsl:value-of select="tei:placeName[not(@type)]"/></a>
-										<ul><xsl:for-each select="current-group()"><li><a target="_blank"
+								
+									<div data-role="collapsible"><h3><a target="_blank" href="{tei:placeName[not(@type)]/@ref}"><xsl:value-of select="tei:placeName[not(@type)]"/></a></h3>
+										<ul data-role="listview"><xsl:for-each select="current-group()"><li><a target="_blank"
 													href="{concat('/text/',ancestor::tei:TEI//tei:idno[@type='localID'],'.html')}">
 													<xsl:text> (</xsl:text>
 													<xsl:value-of
 														select="ancestor::tei:TEI//tei:idno[@type='localID']"/>
 													<xsl:text>) </xsl:text>
 												</a></li></xsl:for-each></ul>
-											</li>
-									</ul>
+											</div>
+									
 										</xsl:for-each-group>
 								
 							</xsl:for-each-group>
-						</ul>
+						
 					</div>
 					
 					<div id="palcelistfound">
 						<h1>Inscriptions by findspot</h1>
-						<ul>
+						
 							<xsl:for-each-group select="$inscription//tei:provenance[@type='found']" group-by="tei:placeName[@type='modernCountry']">
 								
 								<xsl:sort order="descending" select="lower-case(tei:placeName[@type='modernCountry'])"/>
@@ -102,22 +89,22 @@
 										<xsl:sort order="ascending" select="lower-case(tei:placeName[@type='modernRegion'])"/>
 										<h3><xsl:value-of select="tei:placeName[@type='modernRegion']"/></h3>
 										
-									<ul>
+									
 										<xsl:for-each-group select="current-group()" group-by="tei:placeName[not(@type)]">
-											<li> <xsl:value-of select="tei:placeName[not(@type)]"/>
-												<ul><xsl:for-each select="current-group()"><li><a target="_blank"
+											<div data-role="collapsible"><h4><xsl:value-of select="tei:placeName[not(@type)]"/></h4>
+												<ul data-role="listview"><xsl:for-each select="current-group()"><li><a target="_blank"
 													href="{concat('/text/',ancestor::tei:TEI//tei:idno[@type='localID'],'.html')}">
 													<xsl:text> (</xsl:text>
 													<xsl:value-of
 														select="ancestor::tei:TEI//tei:idno[@type='localID']"/>
 													<xsl:text>) </xsl:text>
 												</a></li></xsl:for-each></ul>
-											</li>
+											</div>
 										</xsl:for-each-group>
-									</ul></xsl:for-each-group>
+									</xsl:for-each-group>
 								
 							</xsl:for-each-group>
-						</ul>
+						
 					</div>
 				</div>
 			</body>

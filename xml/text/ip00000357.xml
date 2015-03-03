@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée par A. Radnóti en 1943 devant la porta praetoria, d’où elle provenait.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Le chiffre de la puissance tribunicienne est XVI et pas XV, comme on a écrit par erreur, et l’inscription date donc de 213 ; d’avant octobre, en raison de l’absence de l’épithète Germanicus maximus.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_38" url="https://commons.wikimedia.org/wiki/File:POR_38.jpg">
+   <graphic n="POR_38" url="https://upload.wikimedia.org/wikipedia/commons/b/ba/POR_38.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_38.jpg">
        <desc> POR_38
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

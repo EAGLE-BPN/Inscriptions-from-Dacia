@@ -68,8 +68,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                           <placeName ref="www.trismegistos.org/place/030006">Cius</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                           <placeName ref="http://www.trismegistos.org/place/030006">Cius</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029480">Moesia inferior</placeName>
                                 </origPlace>
                               <origDate notBefore-custom="0151" notAfter-custom="0190" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probably in the second half of the second century, since the V Macedonica legions was transferred to Dacia by 168 AD. Being a veteranus, the inscription could have been raised after that date too, but not to late, perhaps before Severan period.</origDate>
                         </origin>

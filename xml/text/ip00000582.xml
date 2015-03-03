@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1833 dans un des forums de Sarmizegetusa
-                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0235" notAfter-custom="0238" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Q. Axius Aelianus a été procurateur financier de Dacie Apulensis sous le règne de Maximin le Thrace (235-238) et au début du règne de Gordien III (238).</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="SA_5" url="https://commons.wikimedia.org/wiki/File:SA_5.jpg">
+   <graphic n="SA_5" url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SA_5.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SA_5.jpg">
        <desc> SA_5
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

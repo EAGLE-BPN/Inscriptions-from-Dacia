@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en position secondaire dans le secteur de la porta praetoria, lors des fouilles de 1982.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">La datation dépend de la manière dont on interprète la charge de fl(amen) col(oniae) dans AE 1930, 10 = AE 1957, 273 = AE 1967, 388 = ILD 804 (Domnești). S’il s’agit de Sarmizegetusa, nous nous trouvons avant le règne de Commode ; si la colonie est la colonia Aurelia Apulensis, il faut dater P. Aelius Marius de la période à partir de Commode, mais, en raison de la bonne écriture, pas après les Sévères.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_25" url="https://commons.wikimedia.org/wiki/File:POR_25.jpg">
+   <graphic n="POR_25" url="https://upload.wikimedia.org/wikipedia/commons/4/41/POR_25.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_25.jpg">
        <desc> POR_25
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

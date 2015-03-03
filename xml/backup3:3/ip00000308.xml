@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire du centurion C. Campanius Vitalis</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000308.html</idno>
+                
+                
+               <idno type="localID">ip00000308</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Romita</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj, inv. D 901</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/230">Dé d'une base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>115</height>
+                                         <width>55</width>
+                                         <depth>80</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hederae et points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1810 dans le camp ; vue en 1890 par A. v. Domaszewski dans le musée de Cluj.
+                                <placeName ref="www.trismegistos.org/place/030229">Certia</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il est difficile de dater l’inscription sur la base de l’écriture. Le A, le P et le R sont assez étroits, mais le le O est parfaitement rond. Nous nous trouvons probablement dans l’époque des Sévères.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1810</date>
+                                <placeName>Romita</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="ROM_9" url="https://commons.wikimedia.org/wiki/File:ROM_9.jpg">
+       <desc> ROM_9
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Torma, Acta Arch. Acad. Hung. 11/2, 1863, p. 14 </bibl><bibl> M. J. Ackner, F. Müller, Inschriften, p. 159, no 758 </bibl><bibl> CIL III 839 + p. 1378 </bibl><bibl> ILS 2598 </bibl><bibl> Gr. Florescu, EDR 4, 1930, p. 108, no 55, fig. 47 (photo) </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 168-169, no 34.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>Campani</abbr><ex>i</ex></expan> Vita <lb n="3"/>lis (centurionis) <expan><abbr>coh</abbr><ex>ortis</ex></expan> I <expan><abbr>Bat</abbr><ex>avorum</ex></expan> <lb n="4"/>(miliariae) <expan><abbr>stip</abbr><ex>endiorum</ex></expan> VIIII <lb n="5"/>5 <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXVII <lb n="6"/>Florius Viri <lb n="7"/>lis <expan><abbr>vet</abbr><ex>eranus</ex></expan> ex <expan><abbr>dec</abbr><ex>urione</ex></expan> <lb n="8"/>nepoti <expan><abbr>p</abbr><ex>ientissimo</ex></expan> <expan><abbr>p</abbr><ex>onendum</ex></expan> <expan><abbr>c</abbr><ex>uravit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes de Caius Campanius Vitalis, centurion de la cohors I Batavorum miliaria, après un service militaire de 9 ans ; a vécu 27 ans. Florius Virilis, vétéran, ancien décurion, pris le soin d’ériger (ceci) au neveu très pieux.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le nom du défunt se trouve au génitif. Pour le nomen Campanius voir W. Schulze, Eigennamen, p. 352, 525, 532 ; H. Solin, O. Salomies, Repertorium, p. 44 ; pour Florius voir W. Schulze, Eigennamen, p. 480 ; H. Solin, O. Salomies, Repertorium, p. 80. Voir pour la troupe de Bataves J. E. H. Spaul, Cohors2, p. 88-90 ; C. C. Petolescu, Auxilia, p. 83-84. La charge de décurion de Florius Virilis prouve que la cohorte était equitata.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1979 encastré dans le mur d’enceinte du camp de Pomet.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0193" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du rang municipal de Porolissum.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_6" url="https://commons.wikimedia.org/wiki/File:POR_6.jpg">
+   <graphic n="POR_6" url="https://upload.wikimedia.org/wikipedia/commons/a/a9/POR_6.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_6.jpg">
        <desc> POR_6
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

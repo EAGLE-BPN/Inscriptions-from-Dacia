@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Ttrouvée vers 188 dans un vigne près du camp légionnaire et vue par A. v. Domaszewski chez le directeur du lycée.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIe siècle, en raison du nom Aurelia, qui joue ici le rôle de cognomen.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="PO_222" url="https://commons.wikimedia.org/wiki/File:PO_222.jpg">
@@ -128,7 +128,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    </graphic>    
    
             
-        </facsimile>
+        </facsimile>-->
         
     
     <text>

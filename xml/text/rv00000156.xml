@@ -71,8 +71,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName ref="www.trismegistos.org/place/030145">Napoca</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030145">Napoca</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">the end of the 2nd century-the beginning of the 3rd century, due to the spreading of the mentioned cult</origDate>
                         </origin>
@@ -123,7 +123,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="NA_28" url="https://commons.wikimedia.org/wiki/File:NA_28.png">
+   <graphic n="NA_28" url="https://upload.wikimedia.org/wikipedia/commons/a/a3/NA_28.jpg" sameAs="https://commons.wikimedia.org/wiki/File:NA_28.jpg">
        <desc> NA_28
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

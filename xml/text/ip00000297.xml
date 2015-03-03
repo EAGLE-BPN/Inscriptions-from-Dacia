@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 2000 dans la chambre E des thermes du camp légionnaire.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0253" notAfter-custom="0253" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Juillet/août - septembre/octobre 253, en raison du nom érasé de l'empereur Aemilianus</origDate>
                         </origin>

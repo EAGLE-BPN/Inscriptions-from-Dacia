@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>se trouvait chez Árpád Kendeffy, où il a été vu par J. Torma, J. F. Neigebaur et K. Torma ; vu en 187 par Mommsen dans le jardin de Horváth et en 1940 par C. Daicoviciu dans le jardin de Hye.
-                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIème siècle, en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="AR_128" url="https://commons.wikimedia.org/wiki/File:AR_128.jpg">
+   <graphic n="AR_128" url="https://upload.wikimedia.org/wikipedia/commons/9/9f/AR_128.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AR_128.jpg">
        <desc> AR_128
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

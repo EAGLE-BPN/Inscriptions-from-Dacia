@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votive on Plate</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000163.html</idno>
+
+  <idno type="localID">fm00000163</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Iglita</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/260">Plate</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>133</height>
+                                         <width>15</width>
+                                         <depth>60</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               yes
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029965">Troesmis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0171" notAfter-custom="0180" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">170 - 180 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>By the end of the 19th century</date>
+                                <placeName>in one of the two late Roman forts from Troesmis, in the eastern one</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">Votive</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="CIL III 7505_1" url="https://upload.wikimedia.org/wikipedia/commons/3/34/CIL_III_7505_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7505_1.JPG">
+       <desc> CIL III 7505_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 7505_2" url="https://commons.wikimedia.org/wiki/File:CIL III 7505_2.jpg">
+       <desc>  CIL III 7505_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 7505_3" url="https://commons.wikimedia.org/wiki/File:CIL III 7505_3.jpg">
+       <desc>  CIL III 7505_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, AEM 11, 1887, p. 30, no. 27 </bibl><bibl> CIL III 7505 </bibl><bibl> ILS 2311 </bibl><bibl> ISM V 160</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/><supplied reason="lost"><expan><abbr>T</abbr><ex>itus</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan></supplied> <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> Pol<expan><ex>l</ex><abbr>lia</abbr></expan> (tribu) Marci<lb break="no" n="3"/><supplied reason="lost">anus</supplied> <expan><abbr>cas</abbr><ex>tris</ex></expan>, <expan><abbr>vet</abbr><ex>eranus</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> ex <lb n="4"/><supplied reason="lost"><expan><abbr>b</abbr><ex>ene</ex><abbr>f</abbr><ex>iciario</ex></expan> c</supplied>o<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan>, <expan><abbr>milit</abbr><ex>are</ex></expan> <expan><abbr>coep</abbr><ex>it</ex></expan> <expan><abbr>Imp</abbr><ex>eratore</ex></expan> <lb n="5"/><supplied reason="lost">Antoni</supplied>no IIII co<expan><ex>n</ex><abbr>s</abbr><ex>ule</ex></expan>, <expan><abbr>funct</abbr><ex>us</ex></expan> ex<lb break="no" n="6"/><expan><abbr><supplied reason="lost">pedi</supplied>t</abbr><ex>ione</ex></expan> Orientali sub St<lb break="no" n="7"/><supplied reason="lost"><expan><abbr>at</abbr><ex>io</ex></expan> Pri</supplied>sco, <expan><abbr>Iul</abbr><ex>io</ex></expan> Severo, M<supplied reason="lost"><expan><abbr>art</abbr><ex>io</ex></expan></supplied> <lb n="8"/><supplied reason="lost">Vero</supplied> <expan><abbr>c</abbr><ex>larissimis</ex></expan> <expan><abbr>v</abbr><ex>iris</ex></expan> item <expan><abbr>Germ</abbr><ex>anica</ex></expan> sub <lb n="9"/><expan><abbr><supplied reason="lost">Cal</supplied>pur</abbr><ex>nio</ex></expan> Agricola, <expan><abbr>Cl</abbr><ex>audio</ex></expan> Fronto<lb break="no" n="10"/><supplied reason="lost">ne</supplied> <expan><abbr>c</abbr><ex>larissimis</ex></expan> <expan><abbr>v</abbr><ex>iris</ex></expan>, <expan><abbr>m</abbr><ex>issus</ex></expan> <expan><abbr>h</abbr><ex>onesta</ex></expan> <expan><abbr>m</abbr><ex>issione</ex></expan> in Da<lb break="no" n="11"/>cia <expan><abbr>Cethe</abbr><ex>go</ex></expan> et Claro co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="12"/>sub <expan><abbr>Corne</abbr><ex>lio</ex></expan> Clemente <expan><abbr>c</abbr><ex>larissimo</ex></expan> <expan><abbr>v</abbr><ex>iro</ex></expan> r<lb break="no" n="13"/><expan><abbr>evers</abbr><ex>us</ex></expan> at lares suos et <lb n="14"/>Marcia <expan><abbr>Basiliss</abbr><ex>a</ex></expan> matre <lb n="15"/><expan><abbr>dend</abbr><ex>rophorum</ex></expan>, <expan><abbr>enupt</abbr><ex>a</ex></expan> sibi, <expan><abbr>Val</abbr><ex>eria</ex></expan> Lon<lb break="no" n="16"/>ga sorore, pro <expan><abbr>sal</abbr><ex>ute</ex></expan> sua suor<expan><ex>um</ex><abbr>q</abbr><ex>ue</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    [- - -] Titus Valerius, the sone of Titus, from the Pollia tribe, Marcianus, born in the canabae of the legion, veteran of the Fifth Macedonian legion, former beneficiarius of the governor, he began his career in the legion while Emperor Antoninus (Pius) was for consul for the fourth time (145 AD), he served in the Eastern military expedition under the highly regarded men, Statius Priscus, Iulius Severus and Martius Verus (162-166 AD); he served also in the Germanic military expedition under the highly regarded men, Calpurnius Agricola and Claudius Fronto (166-169 AD); he was thereafter honorably released from duty when the legion was in Dacia, in the year of the consuls Cethegus and Clarus (170 AD), under the highly regarded ma Cornelius Clemens; he came back at his home gods; he dedicated this together with Marcia Basilissa, his wife, the priestess (in the text "mother") of the club of the dendrophori (worshipers of Cybele) and with Valeria Longa, his sister, for his and for his fellows good health.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

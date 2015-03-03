@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1962 dans les ruines dela forteresse de Sarmizegetusa Regia
-                                <placeName ref="www.trismegistos.org/place/030073">Sarmizegetusa Regia</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030073">Sarmizegetusa Regia</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0106" notAfter-custom="0117" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 106-117, quand une vexillation de la legio IV Flavia Felix se trouvait en garnison dans l'ancienne capitale des Daces.</origDate>
                         </origin>

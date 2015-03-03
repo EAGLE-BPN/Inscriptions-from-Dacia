@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Boundary inscription on Boundary Stone</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000053.html</idno>
+
+  <idno type="localID">fm00000053</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cetatea</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/92">Boundary Stone</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>160</height>
+                                         <width>30</width>
+                                         <depth>62</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">2-6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/NaN">civitas Ausdecensium</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0177" notAfter-custom="0180" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Around 179 AD, when Helvius Pertinax is attested govenor of the Lower Moesia</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1900</date>
+                                <placeName>?</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/96">Boundary inscription</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="IDRE II 338_1" url="https://upload.wikimedia.org/wikipedia/commons/0/07/IDRE_II_338_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:IDRE II 338_1.jpg">
+       <desc> IDRE II 338_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" IDRE II 338_2" url="https://upload.wikimedia.org/wikipedia/commons/5/51/IDRE_II_338_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:IDRE II 338_2.jpg">
+       <desc>  IDRE II 338_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>IDRE II 338 </bibl><bibl> ISM IV 82</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Termin</abbr><ex>i</ex></expan> <expan><abbr>pos</abbr><ex>iti</ex></expan> <lb n="2"/><expan><abbr>t</abbr><ex>erritorii</ex></expan> <expan><abbr>C</abbr><ex>ivitatis</ex></expan> <expan><abbr>Ausdec</abbr><ex>ensium</ex></expan> adve<lb break="no" n="3"/><expan><abbr>r</abbr><ex>sus</ex></expan> <expan><abbr>Dac</abbr><ex>os</ex></expan> <expan><abbr>secun</abbr><ex>dum</ex></expan> <expan><abbr>c</abbr><ex>ivitatis</ex></expan> <lb n="4"/><expan><abbr>act</abbr><ex>a</ex></expan>.<expan><abbr>C</abbr><ex>aius</ex></expan> Vexarus <expan><abbr>t</abbr><ex>erminavit</ex></expan> vel <expan><abbr>f</abbr><ex>ecit</ex></expan> <lb n="5"/>opus. <expan><abbr>H</abbr><ex>inc</ex></expan> excessent <lb n="6"/><expan><abbr>Dac</abbr><ex>i</ex></expan>. <expan><abbr>Term</abbr><ex>ini</ex></expan> <expan><abbr>t</abbr><ex>erritorii</ex></expan> <expan><abbr>c</abbr><ex>ivitatis</ex></expan> obli<lb break="no" n="7"/>[<expan><abbr>g</abbr><ex>ati</ex></expan> sint. <expan><abbr>M<supplied reason="lost">es</supplied>sal</abbr><ex>la</ex></expan> P<supplied reason="lost">i</supplied><lb break="no" n="8"/><supplied reason="lost" cert="low">e</supplied>ror <expan><abbr>term</abbr><ex>inos</ex></expan> <expan><abbr>pos</abbr><ex>uit</ex></expan> <expan><abbr>t</abbr><ex>erritorii</ex></expan> <lb n="9"/>iussu <expan><abbr>Helv</abbr><ex>i</ex></expan> Per<lb break="no" n="10"/>tinacis co<expan><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> per <lb n="11"/>Anternium An<lb break="no" n="12"/><supplied reason="lost">to</supplied>ninum <expan><abbr>trib</abbr><ex>unum</ex></expan> <lb n="13"/><expan><abbr>coh</abbr><ex>ortis</ex></expan> <expan><abbr>Cilic</abbr><ex>um</ex></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

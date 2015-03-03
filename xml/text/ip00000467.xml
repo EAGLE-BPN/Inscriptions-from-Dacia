@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée par hasard en 1998 sur la rive droite de Mureș, près du village de Limba, mais provient avec certitude d'Apulum.
-                                <placeName ref="www.trismegistos.org/place/014481">Apulum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0115" notAfter-custom="0117" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">M. Herennius Faustus a commandé la legio XIII Gemina vers 115-117 (I. Piso, Fasti I, p. 214-217).</origDate>
                         </origin>

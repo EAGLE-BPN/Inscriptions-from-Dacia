@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>De nombreux exemplaires ont été trouvés dans le prétoire du gouverneur, dans le camp légionnaire et dans la zone nord du Platoul Romanilor. Les exemplaires d’Ampelum, Cenat et Micia ont été apportées d’Apulum.
-                                <placeName ref="www.trismegistos.org/place/014481">Apulum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Datée par C. L. Băluță à partir de Marc Aurèle, selon le contexte archéologique; probablement du IIème siècle.</origDate>
                         </origin>

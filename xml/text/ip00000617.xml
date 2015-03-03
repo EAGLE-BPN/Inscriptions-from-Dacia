@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1922 lors des travaux agricoles au sud de la localité Pojejena, entre la route et le Danube.
-                                <placeName ref="www.trismegistos.org/place/002036">-</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/002036">-</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIème siècle, en raison du nom de facture pérégrine.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="TB_24" url="https://commons.wikimedia.org/wiki/File:TB_24.jpg">
+   <graphic n="TB_24" url="https://upload.wikimedia.org/wikipedia/commons/6/6a/TB_24.jpg" sameAs="https://commons.wikimedia.org/wiki/File:TB_24.jpg">
        <desc> TB_24
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

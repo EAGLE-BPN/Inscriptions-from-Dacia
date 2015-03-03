@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000063.html</idno>
+                
+                
+               <idno type="localID">ip00000063</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>22</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation; hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1972 lors des fouilles du camp légionnaire, dans la retentura sinistra.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0213" notAfter-custom="0217" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des vexillations de la legio VII Gemina ont probablement remplacé à Potaissa et à Porolissum des troupes qui ont participé à la guerre parthique de Caracalla de 214-217(Piso). Une telle vexillation aura eu sa garnison dans le camp légionnaire de Potaissa.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1972</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_64" url="https://commons.wikimedia.org/wiki/File:PO_64.jpg">
+       <desc> PO_64
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>-->
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, Z. Milea, SCIVA 26 / 4, 197, p. 71-76, fig. 1-2(photo et dessin) </bibl><bibl> AE 1976, 74 </bibl><bibl> I. I. Russu, SCIVA 28 / 2, 1977, p. 217-223 </bibl><bibl> P. Le Roux, ZPE 43, 1981, p. 199-203 </bibl><bibl> AE 1981, 722 </bibl><bibl> I. Piso, dans : Les légions de Rome sous le Haut-Empire(Actes du Congrès de Lyon, 17-19 septembre 1998, éd. Yann Le Bohec, Catherine Wolff), Lyon 2000, p. 218-220 = Nordgrenze, p. 420-422 </bibl><bibl> ILD 499</bibl><bibl> M. Bărbulescu, The Inscriptions of the Legionary Fortress at Potaissa, București 2012, p. 174-18, no 21, fig. 84(photo et dessin).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>L</abbr><ex>egionis</ex></expan> V <expan><abbr>M</abbr><ex>acedonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>c</abbr><ex>onstantis</ex></expan> <lb n="2"/><expan><abbr>l</abbr><ex>egionis</ex></expan> VII <expan><abbr>G</abbr><ex>eminae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <supplied reason="lost"> <expan><abbr>f</abbr><ex>elicis</ex></expan></supplied> <lb n="3"/><expan><abbr>G</abbr><ex>aius</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> Lu <supplied reason="lost"> …</supplied> <lb n="4"/><expan><abbr>G</abbr><ex>aius</ex></expan> <expan><abbr>Tib</abbr><ex>erius</ex></expan> Cṛ <supplied reason="lost"> es</supplied> <lb n="5"/><expan><abbr>cen</abbr><ex>s</ex></expan> co <supplied reason="lost"> m</supplied> <lb n="6"/>manucu <lb n="7"/>lis posu <lb n="8"/>erun <lb n="9"/>t.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Gaius Valerius Lu…, Gaius Tiberius Crescens, appartenant à la Ve légion Macedonica, la pieuse(et) la constante, et à la VIIe légion Gemina, la pieuse(et)(l’heureuse), érigèrent(ceci)(au nom, pour la santé) de leurs camarades(appartenant aux mêmes manipuli).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le G de la l. 2 ne fait pas de doute ; il s’agit donc avec certitude de la legio VII Gemina, qui a laissé des tuiles aussi à Porolissum(AE 1979, 01 b). Il faut noter que les épithètes portées par cette légion à partir de 197 sont p(ia) f(elix) et pas p(ia) f(idelis) ; voir déjà E. Ritterling, RE XII / 2(192), 1369-1371, 1637. Une dédicace faite directement à des légions serait quelque chose d’insolite et les séparerait du pont de vue idéologique des empereurs. C’est pourquoi le génitif, qui exprime l’appartenance à un corps de troupe, est préférable(récemment Bărbulescu, Inscriptions, p. 183). Dans ce cas la divinité reste inconnue. L. 3 : le cognomen est bref, donc Lu [ pus] ou quelque chose de semblable(Russu, Piso, HD) ; voir H. Solin, O. Salomies, Repertorium, p. 3. L. : l’abréviation CEN pour cen(turiones) serait insolite ; le cognomen Cr [ es] / cen(s) est plus probable(Russu, Piso, HD). Commanuculi est une forme populaire pour commanipulares(cf. CIL III 120 = IDR III /, 406 et, plus haut, le no - - -) ; voir récemment E. Beu Dachin, dans : Caiete ARA. Arhitectură. Restaurare. Arheologie 2, 2011, p. 79-8.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

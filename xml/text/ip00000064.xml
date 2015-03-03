@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé dans les ruines d'un temple sur le plateau Cetate, près du camp légionnaire.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0002" notAfter-custom="0026" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Un premier élément en est la présence de Valerianus iunior, qui fut nommé César en 2 et mourut en 27 / 28(voir pour celui-ci D. Kienast, Kaisertabelle, p. 221). On sait encore que la legio V Macedonica a reçu les épithètes VI p(ia) VI f(idelis) en 28 RIC V / 1, p. 9, no 34). Par conséquent, ll'épithète III pia fid(elis) peut être datée des années 2-26(Piso).</origDate>
                         </origin>
@@ -119,17 +119,6 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
-
-   <graphic n="PO_6" url="https://commons.wikimedia.org/wiki/File:PO_6.jpg">
-       <desc> PO_6
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
-      </desc>
-   </graphic>    
-   
-            
-        </facsimile>
-        
     
     <text>
         <body>

@@ -71,8 +71,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName ref="www.trismegistos.org/place/NaN">Ulpia Traiana Sarmizegetusa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/30060">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0116" notAfter-custom="0117" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">116-117, due to the epithet Parthicus</origDate>
                         </origin>
@@ -120,7 +120,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="UTS_1" url="https://commons.wikimedia.org/wiki/File:UTS_1.png">
@@ -131,7 +131,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+        -->
     
     <text>
         <body>
@@ -154,7 +154,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         
                         
                             
-                            <expan><abbr><supplied reason="lost">Im</supplied>p</abbr><ex>erator</ex></expan> C&#x8d;a<supplied reason="lost"><expan><abbr>es</abbr><ex>ar</ex></expan></supplied> Div<supplied reason="lost">i</supplied> Ne<supplied reason="lost">r</supplied>v<supplied reason="lost">a</supplied>e <expan><abbr>f</abbr><ex>ilius</ex></expan> Nerva Trai<supplied reason="lost">anus <expan><abbr>Opt</abbr><ex>imus</ex></expan> <expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied> <lb n="2"/><expan><abbr><supplied reason="lost">Ger</supplied>m</abbr><ex>anicus</ex></expan> <supplied reason="lost">Dacicus Parthicus p</supplied><expan><abbr>ontif</abbr><ex>ex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> pot[<expan><abbr>est</abbr><ex>ate</ex></expan> <expan><abbr>XX</abbr><ex cert="low">XXI</ex></expan> <expan><abbr>imp</abbr><ex>erator</ex></expan> XIII <lb n="3"/>co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> VII <supplied reason="lost">pater patriae coloniae Ulpiae T</supplied>ra<supplied reason="lost">i</supplied>ana e <expan><abbr>Dacic</abbr><ex>ae</ex></expan> <supplied reason="lost">Sar</supplied>m&#x8d;iz<supplied reason="lost">egetusae</supplied> forum <certainty match="preceding-sibling::node()" locus="value"/> cum <certainty match="preceding-sibling::node()" locus="value"/> ...... <certainty match="preceding-sibling::node()" locus="value"/> dedit <certainty match="preceding-sibling::node()" locus="value"/>
+                            <expan><abbr><supplied reason="lost">Im</supplied>p</abbr><ex>erator</ex></expan> Ca<supplied reason="lost"><expan><abbr>es</abbr><ex>ar</ex></expan></supplied> Div<supplied reason="lost">i</supplied> Ne<supplied reason="lost">r</supplied>v<supplied reason="lost">a</supplied>e <expan><abbr>f</abbr><ex>ilius</ex></expan> Nerva Trai<supplied reason="lost">anus <expan><abbr>Opt</abbr><ex>imus</ex></expan> <expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied> <lb n="2"/><expan><abbr><supplied reason="lost">Ger</supplied>m</abbr><ex>anicus</ex></expan> <supplied reason="lost">Dacicus Parthicus p</supplied><expan><abbr>ontif</abbr><ex>ex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> pot[<expan><abbr>est</abbr><ex>ate</ex></expan> <expan><abbr>XX</abbr><ex cert="low">XXI</ex></expan> <expan><abbr>imp</abbr><ex>erator</ex></expan> XIII <lb n="3"/>co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> VII <supplied reason="lost">pater patriae coloniae Ulpiae T</supplied>ra<supplied reason="lost">i</supplied>ana e <expan><abbr>Dacic</abbr><ex>ae</ex></expan> <supplied reason="lost">Sar</supplied>miz<supplied reason="lost">egetusae</supplied> forum <certainty match="preceding-sibling::node()" locus="value"/> cum <certainty match="preceding-sibling::node()" locus="value"/> ...... <certainty match="preceding-sibling::node()" locus="value"/> dedit <certainty match="preceding-sibling::node()" locus="value"/>
                         
                         
                     </ab>

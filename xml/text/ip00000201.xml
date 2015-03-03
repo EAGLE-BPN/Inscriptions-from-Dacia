@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1987 dans les principia du camp légionnaire.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">D'après le contexte archéologique, du IIIe siècle. Si dans les lignes 1-2 se trouve vraiment C. Asinius Praetextatus en tant que légat de légion, la plaque pourrait être datée des années 238-240.</origDate>
                         </origin>
@@ -121,8 +121,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PO_201" url="https://commons.wikimedia.org/wiki/File:PO_201.jpg">
-       <desc> PO_201
+   <graphic n="PO_202" url="https://upload.wikimedia.org/wikipedia/commons/6/6d/PO_202.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_202.jpg">
+       <desc> PO_202
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    

@@ -68,8 +68,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                           <placeName ref="www.trismegistos.org/place/007773">Tomis</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                           <placeName ref="http://www.trismegistos.org/place/007773">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029480">Moesia inferior</placeName>
                                 </origPlace>
                               <origDate notBefore-custom="0161" notAfter-custom="0180" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Second century AD, before the Severan period, when the Hexapolis transformed into a Pentapolis. Probably the joint reign of Marcus Aurelius and Lucius Verus, or Marcus Aurelius and Commodus, since two emperors are named on the inscription.</origDate>
                         </origin>

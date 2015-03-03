@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé vers 1888 dans les vignobles au sud du camp légionnaire.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de l’arrivée de la cohors I Batavorum, sous Hadrien, en Dacie; en raison des nombreuses ligatures, probablement à partir du milieu du IIe siècle.</origDate>
                         </origin>
@@ -121,8 +121,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PO_2" url="https://commons.wikimedia.org/wiki/File:PO_2.jpg">
-       <desc> PO_2
+   <graphic n="PO_25" url="https://upload.wikimedia.org/wikipedia/commons/8/8c/PO_25.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_25.jpg">
+       <desc> PO_25
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    

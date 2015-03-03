@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1912 au pied de la colline Corobăi, près d'une construction circulaire.
-                                <placeName ref="www.trismegistos.org/place/002036"/>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0216" notAfter-custom="0216" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">P. Catius Sabinus II et P. Cornelius Anullinus exercèrent le consulat en 216.</origDate>
                         </origin>
@@ -119,18 +119,6 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
-
-   <graphic n="PO_2" url="https://commons.wikimedia.org/wiki/File:PO_2.jpg">
-       <desc> PO_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
-      </desc>
-   </graphic>    
-   
-            
-        </facsimile>
-        
-    
     <text>
         <body>
                        

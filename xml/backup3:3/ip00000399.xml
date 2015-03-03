@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de la famille d'Aelius Passer, signifer.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000399.html</idno>
+                
+                
+               <idno type="localID">ip00000399</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Le inférieur, Mus. Zalău, inv. 219.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire, 2 s</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>32</height>
+                                         <width>22</width>
+                                         <depth>42</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1939, pendant les fouilles de C. Daicoviciu à l’ouest de la chambre à abside collée aux principia, dans le point C, en position secondaire.
+                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1939</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_80" url="https://upload.wikimedia.org/wikipedia/commons/a/ad/POR_80.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_80.jpg">
+       <desc> POR_80
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Cahier de fouilles, p. 2 (dessin) </bibl><bibl> I. Szilágyi, Ziegelstempel, p. 13, n. 60 </bibl><bibl> M. Macrea, ActMuz 2, 1956, p. 112-114, fig. 9 (dessin, fragm. inf.) </bibl><bibl> I. I. Russu, AMN 5, 1968, p. 454-456, no 3, fig. 3 (photo, dessin, les deux s) </bibl><bibl> AE 1971, 389 </bibl><bibl> Gudea, V. Lucăcel, Inscripții, p. 18, no 20 (photo, fragm. inf.) </bibl><bibl> E. Tóth, Porolissum, p. 39, no 52, pl. VIII (photo des deux s) </bibl><bibl> N. Gudea, AMP 13, 1989, p. 770, no 48, p. 1140, pl. CCLXXVII (photo, fragm. inf.) </bibl><bibl> ILD 704.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [- - - - - - <lb n="2"/><expan><abbr>Aur</abbr><ex>elius</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>…]us ve<supplied reason="lost"><expan><abbr>t</abbr><ex>eranus</ex></expan></supplied> ex <lb n="3"/><supplied reason="lost">… <expan><abbr>vix</abbr><ex>it</ex></expan> a</supplied><expan><abbr>n</abbr><ex>nis</ex></expan> LXXXV <expan><abbr>mil</abbr><ex>itavit</ex></expan> <lb n="4"/><supplied reason="lost"><expan><abbr>an</abbr><ex>nis</ex></expan> … <expan><abbr>Aur</abbr><ex>elius</ex></expan> P</supplied>ạsser <expan><abbr>sig</abbr><ex>nifer</ex></expan> <lb n="5"/><supplied reason="lost"><expan><abbr>n</abbr><ex>umeri</ex></expan> <expan><abbr>P</abbr><ex>almyrenorum</ex></expan> <expan><abbr>P</abbr><ex>orolissensium</ex></expan> vi</supplied><expan><abbr>x</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXXIII <expan><abbr>Ael</abbr><ex>ia</ex></expan> <lb n="6"/>5 <supplied reason="lost">…. <expan><abbr>vix</abbr><ex>it</ex></expan> a</supplied><expan><abbr>n</abbr><ex>nis</ex></expan> XVII <expan><abbr>Aur</abbr><ex>elius</ex></expan> <lb n="7"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><expan><abbr>mil</abbr><ex>es</ex></expan> <expan><abbr>n</abbr><ex>umeri</ex></expan> <expan><abbr>P</abbr><ex>almyrenorum</ex></expan> <expan><abbr>P</abbr><ex>orolissensium</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="8"/><supplied reason="lost" cert="low">an(nis) …. Aur(elia) </supplied><supplied reason="lost"/> Sabina et Au <lb n="9"/><supplied reason="lost"><expan><abbr>rel</abbr><ex>ius</ex></expan> …</supplied>ụs actarius <lb n="10"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><expan><abbr>P</abbr><ex cert="low"> ][</ex></expan>[- - - <lb n="11"/>- - - - - - <certainty match="preceding-sibling::node()" locus="value"/>].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>I. Szilágyi : […]VS. VET / …VL. XXXV. MIL / … ASSER. SIG / …X AN. XXXIV. AEL / …XVII. AVR. / … MIL. N. P. P. VIX / … SABINA. ET. AV. / …S. ACTARIVS …( ?). La reconstitution du texte appartient à C. Daicoviciu et on la retrouve chez I. I. Russu. Pourtant, C. Daicoviciu, I. I.Russu, début de la l. 2 : [dec(urio)] ; I. I. Russu, début de la l. 5 : [Sura], sans justification.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Aurelius?…us, vétéran, ancien …, (a vécu) 85 ans (et) a servi en armée … (ans). (Aurelius) Passer, porte-étendard (du numerus Palmyrenorum Porolissensium), a vécu 33 ans. Aelia …, (a vécu) 17 ans. Aurelius …, militaire du numerus Palmyrenorum Porolissensium, a vécu … (ans). (Aurelia ?) Sabina et Aurelius …us, actarius du ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il s’agit d’une famille de militaires liés au numerus Palmyrenorum Porolissensium. Le père, Aurelius […]us, avait probablement servi dans cette unité comme officier. Ses enfants étaient [Aurelius] Passer (C. Daicoviciu), signifer, Aurelius [- - -], miles, [Aurelia] Sabina et Aurelius [….]us, actarius, tandis que Aelia [- - -] était probablement la jeune épouse de [Aurelius] Passer. Ce sont [Aurelia] Sabina et Aurelius [….]us, qui auront érigé le monument. Pour la charge de signifer numeri voir A. v. Domaszewski, Rangordnung2, p. 60-61 ; pour celle d’actarius voir Rangordnung2 55-56, 61.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

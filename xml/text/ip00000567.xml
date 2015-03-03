@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée encastrée dans la tour attribuée à Justinien.
-                                <placeName ref="www.trismegistos.org/place/029680">Drobeta</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/029680">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Drobeta est devenue municipe sous Hadrien (117/138) et colonie sous Septime Sévère.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="DR_13" url="https://commons.wikimedia.org/wiki/File:DR_13.jpg">
+   <graphic n="DR_13" url="https://upload.wikimedia.org/wikipedia/commons/4/42/DR_13.jpg" sameAs="https://commons.wikimedia.org/wiki/File:DR_13.jpg">
        <desc> DR_13
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

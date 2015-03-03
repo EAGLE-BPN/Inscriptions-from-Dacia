@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Ttrouvée vers 1948 dans le camp de Buciumi à environ 40 m de la porte de ouest, probablement réutilisée ; a appartenu à la collection de S. Pop-Papiriu.
-                                <placeName ref="www.trismegistos.org/place/002036"/>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0212" notAfter-custom="0213" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Ccomme l’épithète triomphale Germanicus maximus manque, l’inscription est datable des années 212-213 ; voir D. Kienast, Kaisertabelle, p. 162-163. L’inscription semble avoir un rapport avec les préparatifs en vue de la visite de Caracalla en Dacie.</origDate>
                         </origin>

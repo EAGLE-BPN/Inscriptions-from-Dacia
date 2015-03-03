@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1939 par C. Daicoviciu dans le temple situé au nord-ouest du camp de Pomet, avec un relief dionysiaque.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Malgré l’opinion qu’au début du IIIème siècle le temple du Liber pater aurait déjà été remplacé par celui de Bel, l’inscription ne peut pas être datée d’avant la fin du IIème siècle et du début du IIIème siècle, en raison de l’épithète deus portée par la divinité.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_13" url="https://commons.wikimedia.org/wiki/File:POR_13.jpg">
+   <graphic n="POR_13" url="https://upload.wikimedia.org/wikipedia/commons/9/94/POR_13.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_13.jpg">
        <desc> POR_13
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

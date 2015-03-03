@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000073.html</idno>
+                
+                
+               <idno type="localID">ip00000073</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé à Turda vers 180 et acheté par Michael Pap Szathmár, qui l’a placé dans son jardin de Cluj. A été vu par Th. Mommsen en 187, quand propriétaire du jardin était devenu un certain Szabó. Selon le contenu, semble provenir de l’aedes principiorum ou d’un Capitole près du camp légionnaire.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Si le tribun militaire était vraiment le fils du gouverneur C. Iulius Maximinus, l’inscription serait datable des années 208-2 et pourrait faire allusion à la guerre britannique de Septime Sévère.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>vers 180</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_74" url="https://commons.wikimedia.org/wiki/File:PO_74.jpg">
+       <desc> PO_74
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    -->
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 89 </bibl><bibl> ILS 3023 </bibl><bibl> S. Nemeti, Sincretismul, p. 372, no 290.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> <expan><abbr>I</abbr><ex>ovi</ex></expan></supplied> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> statori <lb n="2"/><supplied reason="lost"> i</supplied>tem <expan><abbr>depulsor</abbr><ex>i</ex></expan> <lb n="3"/><supplied reason="lost" cert="low"> C(aius)</supplied><expan><abbr><supplied reason="lost">I</supplied>ul</abbr><ex>ius</ex></expan> Maximi <lb n="4"/><supplied reason="lost" cert="low"> a </supplied><supplied reason="lost"/>nus <expan><abbr>trib</abbr><ex>unus</ex></expan> <expan><abbr>mil</abbr><ex>itum</ex></expan> <lb n="5"/><supplied reason="lost" cert="low"> lat(iclavius) </supplied> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> pro sua su <lb n="6"/><supplied reason="lost"> or</supplied><expan><abbr>umq</abbr><ex>ue</ex></expan> salute.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À(Iupiter) très bon(et) très grand, qui arrête les fuyards(qui confère résistance à l’armée) et repousse les attaques.(Caius ?) Iulius Maximianus, tribun militaire, s’est acquitté de(son) vœu pour sa santé et pour celle des siens.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il s’agit d’une dédicace officielle, faite par un tribun militaire de la légion à Iupiter dans deux hypostases de la divinité : stator et depulsor. Iupiter depulsor est originaire d’une zone de contact entre le Norique et la Pannonie. Le dédicant pourrait être le fils de C. Iulius Maximinus, gouverneur des trois Dacies en 208-2 ; voir I. Piso, Fasti I, p. 166-168. Le jeune tribun laticlave aurait donc exercé sa première charge militaire sous les ordres de son père, ce qui n’était pas insolite. Pour C. Iulius Maximianus voir encore L. Petersen, PIR2 J 416 ; H. Devijver, PME, J 82 ; M. Bărbulescu, Legiunea V Macedonica, p. 66, no . L. : dans la lacune est possible le mot [ lat(iclavius].</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

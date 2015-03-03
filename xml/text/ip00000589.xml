@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée au XIXème siècle dans le mur d'une maison de Slatina.
-                                <placeName ref="www.trismegistos.org/place/002036"/>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne de Septime Sévère (193-211), quand Dierna est devenue municipe.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="CS_2" url="https://commons.wikimedia.org/wiki/File:CS_2.jpg">
+   <graphic n="CS_2" url="https://upload.wikimedia.org/wikipedia/commons/a/a3/CS_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CS_2.jpg">
        <desc> CS_2
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

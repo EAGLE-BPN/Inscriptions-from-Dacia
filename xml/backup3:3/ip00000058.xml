@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000058.html</idno>
+                
+                
+               <idno type="localID">ip00000058</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul de Istorie Turda</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/30">Statue avec sa base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>42</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1978 à environ 1 km sud du camp légionnaire, entre la vallée Pardei et la rivière Arieș, au pied de la colline Șuia.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, à partir de l’arrivée de la légion en Dacie, vers 168. Pourtant, les épithètes p(ia) f(idelis) de la légion pourraient indiquer le règne de Septime Sévère, car dans CIL III 90 de 19 la légion porte les épithétes officielles P P - p(ia) [ f(idelis)] et dans CIL III 1264 porte, sous les trois Augustes(198-211), les épithètes p(ia) f(idelis).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1978</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, A. Cătinaș, Apulum 17, 1979, p. 21-223, fig. 1-2(photo et dessin) </bibl><bibl> AE 1984, 739 </bibl><bibl> E. Schallmayer et alii, Osterburken I, p. 424-42, no 6(photo) </bibl><bibl> M. Bărbulescu, L’Africa romana (1992), 1994, p. 1327-1334 </bibl><bibl> M. Le Glay, dans : Studia in honorem Georgii Mihailov(éd. A. Fol), Sofia 199, p. 211-217, fig. 1-2(dessin) </bibl><bibl> AE 199, 1286 </bibl><bibl> ILD 463 </bibl><bibl> S. Nemeti, Sincretismul, p. 337, no 81.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Ṇụmini Saturno <lb n="2"/><expan><abbr>reg</abbr><ex>i</ex></expan> patri deo <lb n="3"/>rum <lb n="4"/>et Latonae <lb n="5"/><expan><abbr>P</abbr><ex>ublius</ex></expan> Recius <lb n="6"/>Primus ben <lb n="7"/><expan><abbr>ef</abbr><ex>iciarius</ex></expan> <expan><abbr>leg</abbr><ex>ati</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="8"/>V <expan><abbr>M</abbr><ex>acedonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>f</abbr><ex>idelis</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan> ex <lb n="9"/><expan><abbr>v</abbr><ex>oto</ex></expan> domo Zigalli <lb n="10"/>Afer.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au dieu Saturne le roi, père des dieux, et à Latona. Publius Recius Primus, bénéficiaire du légat de la Ve légion Macedonica, pieuse et fidèle, érigea(ceci) à la suite d’un vœu, originaire de Zigalli, africain.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. 1-3 : pour la bien connue divinité africaine l’épithète rex est très rare(AE 199, 169), tandis que l’appellation pater deorum est inconnue. L. 4 : Latona, mieux connue en Dacie, prend ici la place de Caelestis, Ops ou Nutrix(Le Glay). L. : tous les auteurs R(a)ecius, mais le nomen Recius est également connu(H. Solin, O. Salomies, Repertorium, p. 18) ; pour Raecius voir W. Schulze, Eigennamen, p. 44, 217 ; H. Solin, O. Salomies, Repertorium, p. 13. L. 6-7 : division erronée en syllabes ; l. 8-9 : ex v(oto) ou ex v(isu)(Schallmayer). L. 8-9 : tous les auteurs : domo Zigali, mais la ligature AL est sûre. Il est difficile de localiser Zigalli(s) avec certitude ; voir la discussion chez Bărbulescu et Le Glay ; selon le dernier auteur la localité serait à identifier avec le castellum Zugal de Numidie ; voir aussi F. Bertrandy, Latomus 1, 1992, p. 6-8 ; AE 1930, ; 1984, 739 ; 1992, 1882.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

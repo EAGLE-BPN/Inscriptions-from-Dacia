@@ -71,8 +71,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName ref="www.trismegistos.org/place/002036"/>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/002036"/>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Severan period, due to the son's career</origDate>
                         </origin>
@@ -123,7 +123,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="NAA_7" url="https://commons.wikimedia.org/wiki/File:NAA_7.png">
+   <graphic n="NAA_7" url="https://upload.wikimedia.org/wikipedia/commons/b/b3/NAA_7.JPG" sameAs="https://commons.wikimedia.org/wiki/File:NAA_7.JPG">
        <desc> NAA_7
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

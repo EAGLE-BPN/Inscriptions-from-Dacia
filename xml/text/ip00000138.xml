@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1830 près de la porte est du camp.
-                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, à partir de l’arrivée, vers le début du règne d’Hadrien, de l'ala I Tungrorum Frontoniana en Dacie.</origDate>
                         </origin>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
+<!--         <facsimile>
 
    <graphic n="AR_139" url="https://commons.wikimedia.org/wiki/File:AR_139.jpg">
        <desc> AR_139
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+-->        
     
     <text>
         <body>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000362.html</idno>
+
+                <idno type="localID">rv00000362</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>National Museum of Budapest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>8</width>
+                                         <depth>17</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar"/>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName/> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="AM_13" url="https://commons.wikimedia.org/wiki/File:AM_13.png">
+       <desc> AM_13
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Actum cor<gap reason="lost" extent="unknown" unit="character"/>m<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/>qu<gap reason="lost" extent="unknown" unit="character"/>est in m<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied><supplied reason="lost">int</supplied>ulerunt <lb n="3"/>partes<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied><supplied reason="lost">Bra</supplied>dua Beusantis<supplied reason="lost">spopondit </supplied><gap reason="lost" extent="unknown" unit="character"/>anum<gap reason="lost" extent="unknown" unit="character"/>erit <lb n="4"/>ab <expan><abbr>Ael</abbr><ex>io</ex></expan> Fortunato et socis<gap reason="lost" extent="unknown" unit="character"/>quae<gap reason="lost" extent="unknown" unit="character"/> <lb n="5"/>debeb<supplied reason="lost">it </supplied><gap reason="lost" extent="unknown" unit="character"/>Plarentis<gap reason="lost" extent="unknown" unit="character"/>nem<gap reason="lost" extent="unknown" unit="character"/>p<supplied reason="lost">unci</supplied>am <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>semiunciam <lb n="7"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied><supplied reason="lost">B</supplied>ato Liani <certainty match="preceding-sibling::node()" locus="value"/> p. unciam qu<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied><supplied reason="lost">p. u</supplied>unciam <lb n="8"/><expan><abbr>Aurel</abbr><ex>i-</ex></expan> Sil<gap reason="lost" extent="unknown" unit="character"/>Flavius<gap reason="lost" extent="unknown" unit="character"/> <lb n="9"/><supplied reason="lost">Qu</supplied>as<gap reason="lost" extent="unknown" unit="character"/> <lb n="10"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied><supplied reason="lost">de</supplied>bebunt pr<gap reason="lost" extent="unknown" unit="character"/> <lb n="11"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

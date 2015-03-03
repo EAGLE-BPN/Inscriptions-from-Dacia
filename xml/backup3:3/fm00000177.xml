@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votive on Plate</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000177.html</idno>
+
+  <idno type="localID">fm00000177</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Bulgaria</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Silistra</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Silistra</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/260">Plate</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marble</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>107</height>
+                                         <width/>
+                                         <depth>29</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               yes
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029831">Durostorum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0144" notAfter-custom="0147" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">144-147 AD, when Ti. Claudius Saturninus was governor of the Lower Moesia province</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>By the end of the 19th century</date>
+                                <placeName>in the ruins of a Roman fortification in the nearby of Ostrov, Romania</placeName> 
+                            <placeName type="modernRegion">Silistra</placeName>
+                            <placeName type="modernCountry">Bulgaria</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/83">Votive</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="CIL III 7474" url="https://upload.wikimedia.org/wikipedia/commons/0/08/CIL_III_7474.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7474.jpg">
+       <desc> CIL III 7474
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, AEM 6, 1882, p. 3-4, no. 1 </bibl><bibl> CIL III 7474 </bibl><bibl> ILS 2475</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan> <lb n="2"/>pro salute <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>Caes</abbr><ex>aris</ex></expan> <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>Ael</abbr><ex>i</ex></expan> Ha<lb break="no" n="3"/>driani Antonini <expan><abbr>Aug</abbr><ex>usti</ex></expan> Pii et Ve<lb break="no" n="4"/>ri <expan><abbr>Caes</abbr><ex>aris</ex></expan> templum et statuam <lb n="5"/><expan><abbr>c</abbr><ex>ivibus</ex></expan> <expan><abbr>R</abbr><ex>omanis</ex></expan> et consisstentibus (sic!) in <lb n="6"/>canabis Aelis <expan><abbr>leg</abbr><ex>ionis</ex></expan> XI <expan><abbr>Cl</abbr><ex>audiae</ex></expan> <lb n="7"/><expan><abbr>Cn</abbr><ex>aeus</ex></expan> Oppius Soterichus et <lb n="8"/>Oppius Severus, <expan><abbr>fil</abbr><ex>ius</ex></expan> eius, <lb n="9"/>de suo fecerunt. Dedica<lb break="no" n="10"/>tum est per <expan><abbr>Tib</abbr><ex>erium</ex></expan> <expan><abbr>Cl</abbr><ex>audium</ex></expan> Saturni<lb break="no" n="11"/>num, <expan><abbr>leg</abbr><ex>atum</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>p</abbr><ex>raetore</ex></expan>, <expan><abbr>Tib</abbr><ex>erio</ex></expan> <expan><abbr>Cl</abbr><ex>audio</ex></expan> Iuliano, <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To Jupiter the Good and the Greatest, for the good health of the Emperor Caesar Titus Aelius Hadrianus Antoninus Augustus Pius and Verus Caesar, Cnaeus Oppius Soterichus and Oppius Severus, his son, made the temple and the statue for the Roman citizen who have their residence in the canabae Aeliae of the eleventh Claudia legion. This is dedicated by Tiberius Claudius Saturninus, imperial legate of the province, and by Tiberius Claudius Iulianus, the imperial legate of the legion.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

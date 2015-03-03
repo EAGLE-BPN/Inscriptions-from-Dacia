@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Six s ont été trouvés par C. Daicoviciu dans le cryptoportique nord du forum novum de Sarmizegetusa; d'autres cinq s ont été trouvés là-même par I. Piso.
-                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de 150, date probable de construction du forum novum.</origDate>
                         </origin>

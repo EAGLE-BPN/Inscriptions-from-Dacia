@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1912 par I. Téglás au sud du camp légionnaire, dans la Valea Sândului(Szindivölgy), donc dans la zone des anciennes canabae.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Peut-être du milieu du IIIe siècle ap. J.-C., en raison du statut colonial de la ville.</origDate>
                         </origin>
@@ -120,12 +120,12 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         </revisionDesc>
     </teiHeader>
          <facsimile>
-
+<!--
    <graphic n="PO_60" url="https://commons.wikimedia.org/wiki/File:PO_60.jpg">
        <desc> PO_60
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
-   </graphic>    
+   </graphic>    -->
    
             
         </facsimile>

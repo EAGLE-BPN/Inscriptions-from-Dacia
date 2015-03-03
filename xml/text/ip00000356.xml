@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1934 par des paysans dans le coin de sud-ouest du camp, près de la porta decumana, dont elle provient.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 213, en raison du chiffre de la puissance tribunicienne de l’empereur ; d’avant octobre, en raison de l’absence de l’épithète Germanicus maximus ; voir D. Kienast, Kaisertabelle, p. 162-163 ; voir aussi AE 1944, ad 51 ; M. Macrea, ActMuz 1956, p. 103. Les préparations étaient terminées en vue de la visite impériale, qui a eu lieu en automne 213.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_37" url="https://commons.wikimedia.org/wiki/File:POR_37.jpg">
+   <graphic n="POR_37" url="https://upload.wikimedia.org/wikipedia/commons/d/d8/POR_37.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_37.jpg">
        <desc> POR_37
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

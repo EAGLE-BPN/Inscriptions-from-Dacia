@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Se trouvait vers 1940 dans l’édifice de l’École pédagogique de Carei ; selon C. Daicoviciu le monument provient de Porolissum.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, de la période d’après la réforme de 173-175, qui apporta à la tête du portorium publicum per Illyricum un procurateur ; voir I. Piso, Fasti II, p. 297-298. D’autre part, indique la formule Aug. n. plutôt le IIIème siècle.</origDate>
                         </origin>
@@ -119,7 +119,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
+<!--         <facsimile>
 
    <graphic n="POR_4" url="https://commons.wikimedia.org/wiki/File:POR_4.jpg">
        <desc> POR_4
@@ -129,7 +129,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+-->        
     
     <text>
         <body>

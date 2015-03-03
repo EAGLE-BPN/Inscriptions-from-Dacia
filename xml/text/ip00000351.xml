@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée pendant les fouilles de 1943 dans la zone de la porta principalis sinistra du camp de Pomet.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0129" notAfter-custom="0129" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">129, en raison de la puissance tribunicienne de l’empereur.</origDate>
                         </origin>
@@ -118,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
         <revisionDesc>
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader><!--
          <facsimile>
 
    <graphic n="POR_32" url="https://commons.wikimedia.org/wiki/File:POR_32.jpg">
@@ -130,7 +130,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             
         </facsimile>
         
-    
+    -->
     <text>
         <body>
                        

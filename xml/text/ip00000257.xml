@@ -9,12 +9,7 @@
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
                 <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000257.html</idno>
                 <idno type="EDH">HD048896</idno>
-                <idno type="Lupa">
-				1 / 20 / 2014 7:48:48
-				Inscription funéraire du vétéran C. Valerius Septimius
-				PO_28
-				C. Torma, AEM 4, 1880, p. 132, no 13 </idno>
-               <idno type="localID">ip00000257</idno>
+                <idno type="localID">ip00000257</idno>
   
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -73,8 +68,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1800-1812 près de l’église réformée de Turda, dans le jardin du prêtre.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de Commode, en raison des l’épithètes p(ia) c(onstans) de la légion ; voir E. Ritterling, RE XII / 2(1925), 180 ; à partir de Septime Sévère, en raison du cognomen Septimius.</origDate>
                         </origin>
@@ -125,7 +120,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PO_28" url="https://commons.wikimedia.org/wiki/File:PO_28.jpg">
+   <graphic n="PO_28" url="https://upload.wikimedia.org/wikipedia/commons/1/15/PO_28.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_28.jpg">
        <desc> PO_28
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvaille fortuite, à 200 m environ au nord du rempart de la ville, probablement dans le local de culte d'un collège.
-                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison de l'absence d'Aurelii, plutôt du IIème que du IIIème siècle.</origDate>
                         </origin>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Ttrouvée à Tihău dans des conditions inconnues.
-                                <placeName ref="www.trismegistos.org/place/000425">?</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/000425">?</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0211" notAfter-custom="0212" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des années 211-212, sous le règne commun de Caracalla et Geta. Les deux N martelés se trouvent en rapport avec la damnatio memoriae de Geta.</origDate>
                         </origin>

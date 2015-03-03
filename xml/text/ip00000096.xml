@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé lors du labour en 2006 à l’est du camp.
-                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du milieu du IIIe siècle, en raison de la ressemblance à l'AE 2006, 1130 = 2007, 1190.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="AR_97" url="https://commons.wikimedia.org/wiki/File:AR_97.jpg">
+   <graphic n="AR_97" url="https://upload.wikimedia.org/wikipedia/commons/b/bc/AR_97.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AR_97.jpg">
        <desc> AR_97
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

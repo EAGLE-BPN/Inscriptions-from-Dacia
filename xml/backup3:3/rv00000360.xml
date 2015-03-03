@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000360.html</idno>
+
+                <idno type="localID">rv00000360</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>8</width>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">20th of October 162</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1855</date>
+                                <placeName>Sf. Ecaterina mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="AM_11" url="https://commons.wikimedia.org/wiki/File:AM_11.png">
+       <desc> AM_11
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    x LX <expan><abbr>q</abbr><ex>ua</ex></expan> <expan><abbr>d</abbr><ex>ie</ex></expan> <expan><abbr>p</abbr><ex>etierit</ex></expan>, <expan><abbr>p</abbr><ex>robos</ex></expan> <expan><abbr>r</abbr><ex>ecte</ex></expan> <expan><abbr>d</abbr><ex>ari</ex></expan> <expan><abbr>f</abbr><ex>ide</ex></expan> rogavit <expan><abbr>Iul</abbr><ex>ius</ex></expan> Alexander, dari <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>p</abbr><ex>romisit</ex></expan> <lb n="2"/>Alexander Cari, et se eos x LX, qui <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripsi</ex></expan> <expan><abbr>s</abbr><ex>unt</ex></expan>, mutuos <lb n="3"/>numeratos accepisse et debere se dixit. <lb n="4"/>Et eorum usuras ex hac die in dies XXXƆI <lb n="5"/>dari <expan><abbr>Iul</abbr><ex>io</ex></expan> Alexandro <expan><abbr>e</abbr><ex>ive</ex></expan> <expan><abbr>a</abbr><ex>d</ex></expan> <expan><abbr>q</abbr><ex>uem</ex></expan> <expan><abbr>e</abbr><ex>a</ex></expan> <expan><abbr>r</abbr><ex>es</ex></expan> <expan><abbr>p</abbr><ex>ertinebit</ex></expan> <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>r</abbr><ex>ogavit</ex></expan> <expan><abbr>Iul</abbr><ex>ius</ex></expan> Alexander <lb n="6"/>dari <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>p</abbr><ex>romisit</ex></expan> Alexander Caricci 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     Id fide sua esse iussit Titius Primitius <expan><abbr>d</abbr><ex>ie</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripta</ex></expan> <expan><abbr>s</abbr><ex>ortem</ex></expan> <lb n="2"/>cum <expan><abbr>u</abbr><ex>suris</ex></expan> <expan><abbr>r</abbr><ex>ecte</ex></expan> <expan><abbr>p</abbr><ex>robe</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <lb n="3"/><expan><abbr>Act</abbr><ex>um</ex></expan> <expan><abbr>Alb</abbr><ex>urno</ex></expan> maiori XIII <expan><abbr>k</abbr><ex>alendas</ex></expan> <expan><abbr>Novembr</abbr><ex>es</ex></expan> <lb n="4"/><expan><abbr>Rustic</abbr><ex>o</ex></expan> II et Aquilino <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan> 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … <lb n="2"/><expan><abbr>L</abbr><ex>uci</ex></expan> Vasidi Vi<supplied reason="lost">c</supplied>toris <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ctati<gap reason="lost" extent="unknown" unit="character"/>as <lb n="4"/>Batonis Pr<gap reason="lost" extent="unknown" unit="character"/>vi Tovetis <lb n="5"/>Titius Primitius <lb n="6"/>Alexander Caricci i<supplied reason="lost">p</supplied> <lb n="7"/>sius debitori<supplied reason="lost">s </supplied>
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Iulius Alexander lended, in good faith, the sum 0f 60 denarii to Alexander son of Carus. The latter admited that he received the money in cash and that he will return them, with an interest of 1 denarius per day for the first 30 days. Titius Primitus guaranteed in good faith this transaction and the fact that the sum will be returned and the interest paid in the established day. Sealed in Alburnus Maior, on the 20th October, when Rusticus for the 2nd time and Aquilinus were consuls.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

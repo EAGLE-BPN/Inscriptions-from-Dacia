@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>De tels exemplaires dans le prétoire du gouverneur, dans les ruines d’un édifice au nord du camp, dans la colonie Aurelia et sur le Platoul Romanilor. La même estampille a été trouvée à Cenad (IDR III/1, 277 e) et à Inlăceni (IDR III/4, 298, 1-3), où elle a été apportée d’Apulum.
-                                <placeName ref="www.trismegistos.org/place/014481">Apulum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIème siècle, en raison du manque du magister figlinae.</origDate>
                         </origin>

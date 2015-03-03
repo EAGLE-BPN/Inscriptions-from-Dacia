@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Iulius Scenobarbus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000243.html</idno>
+                
+                
+               <idno type="localID">ip00000243</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Dé(?) d'un monument funéraire,</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>84</height>
+                                         <width/>
+                                         <depth>34</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé vers 1888 dans les vignobles au sud du camp légionnaire.
+                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il n'y a pas des critères de datation.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers1888</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_244" url="https://commons.wikimedia.org/wiki/File:PO_244.jpg">
+       <desc> PO_244
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>-->
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Fr. Cumont, AEM 17, 1894, p. 18, no 3 </bibl><bibl> CIL III 13761 </bibl><bibl> I. I. Russu, Illirii, p. 244.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> <expan><abbr>D</abbr><ex>is</ex></expan></supplied> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><supplied reason="lost"> <expan><abbr>Iul</abbr><ex>ius</ex></expan> S</supplied>ceno <lb n="3"/><supplied reason="lost"> barb</supplied>us <expan><abbr>vixi</abbr><ex>t</ex></expan> <lb n="4"/><supplied reason="lost"> <expan><abbr>an</abbr><ex>nis</ex></expan> …</supplied> <expan><abbr>Iul</abbr><ex>ius</ex></expan> Ze <lb n="5"/><supplied reason="lost"> <expan><abbr>no</abbr><ex cert="low"/></expan> <expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <expan><abbr>an</abbr><ex>nis</ex></expan> XI <lb n="6"/><supplied reason="lost"> <expan><abbr>Iul</abbr><ex>ius</ex></expan> ….</supplied> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> <lb n="7"/><supplied reason="lost"> … <expan><abbr>Iul</abbr><ex>ius</ex></expan></supplied> <expan><abbr>Ioas</abbr><ex cert="low"/></expan> <lb n="8"/><supplied reason="lost"> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> ..</supplied> <expan><abbr>Iul</abbr><ex>ius</ex></expan> Gai <lb n="9"/><supplied reason="lost"> us <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> .</supplied>I <expan><abbr>Iul</abbr><ex>ius</ex></expan> M <lb n="10"/><supplied reason="lost"> ….. vi</supplied><expan><abbr>x</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>no</ex></expan> I <lb n="11"/><supplied reason="lost"> <expan><abbr>Iul</abbr><ex>ia</ex></expan> <expan><abbr>Olym</abbr><ex cert="low"/></expan></supplied>pias <lb n="12"/><supplied reason="lost"> ……</supplied> co<expan><ex>n</ex><abbr>i</abbr></expan> <lb n="13"/><supplied reason="lost"> ugi <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="14"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Aux dieux) Mânes.(Iulius) Scenobarbus a vécu … ans. Iulius Zeno(?)a vécu 11 ans.(Iulius) … a vécu … ans.(Iulius) Ioas(?)(a vécu … ans. Iulius Gaius(a vécu … ans). Iulius M… a vécu 1 an.(Iulia) Olympias(?)(a fait ceci) à l’époux(et à) ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Iulia Olympias, si elle s’appelle vraiment ainsi(voir pour Ὀλυμπιάς W. Pape II, p. 1-2 ; L. Ruscu, AMN 3, 1998, p. 172), érigea le monument pour son époux et pour ses cinq enfants. Tous semblent être morts à la suite d’une épidémie. Le cognomen Scenobarbus est d’origine illyre(A. Mayer, Illyrier, p. 312, Russu), Zeno(Ζήνων ; voir W. Pape I, 44 ; Ruscu, p. 177) et Ioas(Ἰωάς ; voir W. Pape I, p. 83) sont de noms grecs.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

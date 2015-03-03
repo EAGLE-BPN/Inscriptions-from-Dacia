@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Derrière l'église réformée, en position secondaire. Provient sans doute du camp légionnaire.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0200" notAfter-custom="0203" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Le gouvernement de Dacie par L. Octavius Iulianus est daté des années 200-202 / 203; voir I. Piso, Fasti provinciae Daciae I. Die senatorischen Amtsträger, Bonn 1993, p. 19-161, no 33.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PO_18" url="https://commons.wikimedia.org/wiki/File:PO_18.jpg">
+   <graphic n="PO_18" url="https://upload.wikimedia.org/wikipedia/commons/7/71/PO_18.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_18.jpg">
        <desc> PO_18
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

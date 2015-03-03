@@ -9,11 +9,6 @@
                 <authority>UNIVERSITATEA BABES BOLYAI</authority>
                 <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000042.html</idno>
                 
-                <idno type="Lupa">
-				8 / 14 / 2013 16:1:48
-				Inscription votive
-				PO_43
-				G. Ariosti, ms., no 39 </idno>
                <idno type="localID">ip00000042</idno>
   
                 <availability>
@@ -73,8 +68,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Vu à Luna(Aranyoslóna) chez le comte Andreas Jósika par Ariosti, qui en 1723 l’expédia à Vienne.
-                                <placeName ref="www.trismegistos.org/place/030193">Potaissa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement de l’époque de Commode ou des Sévères, en raison de l’excès de ligatures.</origDate>
                         </origin>
@@ -123,7 +118,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
          <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
-         <facsimile>
+<!--         <facsimile>
 
    <graphic n="PO_43" url="https://commons.wikimedia.org/wiki/File:PO_43.jpg">
        <desc> PO_43
@@ -133,7 +128,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
    
             
         </facsimile>
-        
+-->        
     
     <text>
         <body>

@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée en 1823 dans les ruines du forum vetus de Sarmizegetusa
-                                <placeName ref="www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">M. Claudius Fronto est tombé dans la guerre contre les Marcomannes en 170, mais la statue aura été érigée dans le forum vetus en 172, en même temps que celle pour Marc Aurèle (CIL III 7969 = IDR III/2, 76 = AE 2003, 1516) et Lucius Verus (CIL III 1450 = ILS 370 = IDR III/2, 74).</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="SA_4" url="https://commons.wikimedia.org/wiki/File:SA_4.jpg">
+   <graphic n="SA_4" url="https://upload.wikimedia.org/wikipedia/commons/2/25/SA_4.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SA_4.jpg">
        <desc> SA_4
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

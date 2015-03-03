@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée dans la tour attribuée à Justinien.
-                                <placeName ref="www.trismegistos.org/place/029680">Drobeta</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/029680">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne de Commode (180-192), en raison des épithètes pia constans portées par la legio V Macedonica.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="DR_9" url="https://commons.wikimedia.org/wiki/File:DR_9.jpg">
+   <graphic n="DR_9" url="https://upload.wikimedia.org/wikipedia/commons/a/a0/DR_9.jpg" sameAs="https://commons.wikimedia.org/wiki/File:DR_9.jpg">
        <desc> DR_9
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

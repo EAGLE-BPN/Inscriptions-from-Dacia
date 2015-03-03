@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000143.html</idno>
+                
+                
+               <idno type="localID">ip00000143</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ilișua</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1773">Base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/30">tuf volcanique?</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>243</height>
+                                         <width/>
+                                         <depth>42</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1830 dans la zone de la porte est du camp.
+                                <placeName ref="www.trismegistos.org/place/030262">Arcobadara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, à partir de l’arrivée, au début du règne d’Hadrien, de l’ala I Tungrorum Frontoniana en Dacie ; en raison de l’excès de ligatures, plutôt de l’époque Antonine tardive ou des Sevères.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1830</date>
+                                <placeName>Ilișua</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+<!--         <facsimile>
+
+   <graphic n="AR_144" url="https://commons.wikimedia.org/wiki/File:AR_144.jpg">
+       <desc> AR_144
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+-->    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>K. Torma, ErdMúz 3-4, 1866, p. 43-44, no 1 </bibl><bibl>CIL III 811 </bibl><bibl> C. Daicoviciu, Dacia 7-8, 1937-1940, p. 322 </bibl><bibl> S. Nemeti, Classica et Christiana / 2, 20, p. 39-434, p. 416, no 40 </bibl><bibl> C. Gaiu, R. Zăgreanu, Inscripții și piese sculpturale din castrul roman de la Ilișua, Cluj-Napoca 2011, p. 80, no I.3.a.4, p. 124, pl. VI.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <supplied reason="lost"> <expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <lb n="2"/><expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> V <supplied reason="lost"> ita</supplied>lis <lb n="3"/><expan><abbr>vet</abbr><ex>eranus</ex></expan> ex <supplied reason="lost"> <expan><abbr>dec</abbr><ex>urione</ex></expan></supplied> alae <lb n="4"/><expan><abbr>Front</abbr><ex>onianae</ex></expan> <supplied reason="lost"> vi</supplied><expan><abbr>x</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> <lb n="5"/>L et <expan><abbr>Val</abbr><ex>erius</ex></expan> V <supplied reason="lost"> itali</supplied>an <supplied reason="lost"> us</supplied> <lb n="6"/><expan><abbr>fil</abbr><ex>ius</ex></expan> huiu <supplied reason="lost"> s vi</supplied><expan><abbr>x</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> <lb n="7"/>II et me<expan><ex>n</ex><abbr>si</abbr></expan> <supplied reason="lost"> bus</supplied> VII <lb n="8"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Laet <supplied reason="lost"> ill</supplied>us <lb n="9"/><expan><abbr>dec</abbr><ex>urio</ex></expan> <expan><abbr>a</abbr><ex>lae</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <supplied reason="lost"> <expan><abbr>s</abbr><ex>criptae</ex></expan> V</supplied><expan><abbr>al</abbr><ex>erius</ex></expan> Sa <lb n="10"/>turni <supplied reason="lost"> nu</supplied>s <expan><abbr>dupl</abbr><ex>icarius</ex></expan> <lb n="11"/><expan><abbr>d</abbr><ex>ecuriae</ex></expan> <expan><abbr>e</abbr><ex>iusdem</ex></expan> pa <supplied reason="lost"> re</supplied>ntibus <lb n="12"/>fratr <supplied reason="lost"> <expan><abbr>iq</abbr><ex>ue</ex></expan> pie</supplied>ntis <lb n="13"/>si <supplied reason="lost"> mi</supplied>s <lb n="14"/><expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erentibus</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux Dieus(Mânes). Caius Valerius Vitalis, vétéran ancien(décurion) de l’ala Frontoniana, a vécu 0 ans, et Valerius Vitalianus, le fils de celui-ci, a vécu 2 ans et 7 mois. Valerius Laetillus, décurion de l’aile ci-dessus mentionnée,(et) Valerius Saturninus, duplicarius de la même décurie, érigèrent(ceci) aux très pieux parents et frère, qui ont bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>On a suivi la lecture de Mommsen. Il y a pourtant des choses étranges dans ce texte. Valerius Laetillus et Valerius Saturninus s’adressent parentibus, mais on ne fait mention que du père. Ensuite, Valerius Laetillus, décurion d’aile, et Valerius Saturninus, duplicarius, semble avoir été les frères d’un enfant de deux ans et sept mois. Le duplicarius, qui recevait une double solde, compte parmi les principales d’une aile ; voir A. v. Domaszewski, Rangordnung2, p. 3-4.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

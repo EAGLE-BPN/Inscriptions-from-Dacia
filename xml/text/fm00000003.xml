@@ -68,8 +68,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                           <placeName ref="www.trismegistos.org/place/029865">Tropaeum Traiani</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                           <placeName ref="http://www.trismegistos.org/place/029865">Tropaeum Traiani</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029480">Moesia inferior</placeName>
                                 </origPlace>
                               <origDate notBefore-custom="0201" notAfter-custom="0240" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">The first decades of the third century</origDate>
                         </origin>

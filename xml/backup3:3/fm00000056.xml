@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Altar</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000056.html</idno>
+
+  <idno type="localID">fm00000056</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanta</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>138</height>
+                                         <width>34</width>
+                                         <depth>59</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/007773">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0223" notAfter-custom="0225" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Around 224 AD, when L. Annius Italicus Honoratus is attested governor of the Lower Moesia</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1865</date>
+                                <placeName>In the so-called Trajan's wall</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="CIL III 6154" url="https://upload.wikimedia.org/wikipedia/commons/0/0c/CIL_III_6154.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 6154.JPG">
+       <desc> CIL III 6154
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 6154 </bibl><bibl> ILS 1174 </bibl><bibl> ISM II 93</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>L</abbr><ex>ucio</ex></expan> Annio <expan><abbr>L</abbr><ex>uci</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>Quir</abbr><ex>ina tribu</ex></expan> Italico <lb n="2"/>Honorato co<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> sodali <lb n="3"/>Hadrianali <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usto</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan> <lb n="4"/><expan><abbr>prov</abbr><ex>inciae</ex></expan> Moesiae <expan><abbr>inf</abbr><ex>erioris</ex></expan> <expan><abbr>cur</abbr><ex>atori</ex></expan> <expan><abbr>oper</abbr><ex>um</ex></expan> <lb n="5"/><expan><abbr>pub</abbr><ex>licorum</ex></expan> <expan><abbr>cur</abbr><ex>atori</ex></expan> <expan><abbr>Neap</abbr><ex>olis</ex></expan> et <expan><abbr>Atell</abbr><ex>ae</ex></expan> <expan><abbr>praef</abbr><ex>ecto</ex></expan> <lb n="6"/>aerarii <expan><abbr>milit</abbr><ex>aris</ex></expan> <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>Gem</abbr><ex>inae</ex></expan> <lb n="7"/><expan><abbr>iurid</abbr><ex>ico</ex></expan> per <expan><abbr>Fl</abbr><ex>aminiam</ex></expan> et Umbriam <lb n="8"/>curatori viae <expan><abbr>Lavic</abbr><ex>anae</ex></expan> et <expan><abbr>Lat</abbr><ex>inae</ex></expan> <expan><abbr>veter</abbr><ex>is</ex></expan> <lb n="9"/>praetori qui ius dixit <expan><abbr>inte</abbr><ex>r</ex></expan> <lb n="10"/>civi<supplied reason="lost">s</supplied> et civis et <expan><abbr>pereg</abbr><ex>rinos</ex></expan> <expan><abbr>trib</abbr><ex>uno</ex></expan> <lb n="11"/><expan><abbr>pl</abbr><ex>ebis</ex></expan> <expan><abbr>q</abbr><ex>uaestori</ex></expan> provinciae Achaiae <expan><abbr>sevir</abbr><ex>o</ex></expan> <lb n="12"/><expan><abbr>turmar</abbr><ex>um</ex></expan> <expan><abbr>equ</abbr><ex>itum</ex></expan> <expan><abbr>quatorvir</abbr><ex>o</ex></expan> (sic!) <expan><abbr>viar</abbr><ex>um</ex></expan> <lb n="13"/>curandarum <lb n="14"/><expan><abbr>Fl</abbr><ex>avius</ex></expan> Severianus <expan><abbr>dec</abbr><ex>urio</ex></expan> alae <lb n="15"/>I Atectorum Severianae <lb n="16"/>candidatus eius.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

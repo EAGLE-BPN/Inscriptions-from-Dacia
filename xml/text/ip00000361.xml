@@ -69,8 +69,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>6 s trouvés en 1939 par C. Daicoviciu dansd les principia du camp de Pomet; 2 s trouvés en 1943 par A. Radnóti.
-                                <placeName ref="www.trismegistos.org/place/030156">Porolissum</placeName>
-                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/004366">Dacia</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Dans la reconstitution graphique l’épithète Germanicus maximus n’a pas de place. L’inscription date probablement de 213, en raison des autres inscriptions posées pour Caracalla et sa mère à Porolissum; d’avant octobre, en raison de l’absence de l’épithète Germanicus maximus. La statue aura été érigée lors de la visite de l’empereur en automne de 213. Les préparations pour la visite auront été terminées déjà en août/septembre.</origDate>
                         </origin>
@@ -121,7 +121,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="POR_42" url="https://commons.wikimedia.org/wiki/File:POR_42.jpg">
+   <graphic n="POR_42" url="https://upload.wikimedia.org/wikipedia/commons/2/25/POR_42.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_42.jpg">
        <desc> POR_42
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>

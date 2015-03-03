@@ -8,6 +8,11 @@
     float:left;
     padding:5px;
 }
+#search{
+    width:150px;
+    float:left;
+    padding:5px;
+}
 #section{
     width:850px;
     float:left;
@@ -17,17 +22,6 @@
     width:850px;
     float:left;
     padding:10px;
-}
-#commentary{
-    width:300px;
-    float:right;
-    padding:10px;
-}
-#translation{
-    width:200px;
-    float:left;
-    padding:10px;
-    border:thin
 }
 #footer{
     color:black;
