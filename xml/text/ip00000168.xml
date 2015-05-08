@@ -151,7 +151,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         
                         
                             
-                            <w lemma="legio"><expan><abbr>Leg</abbr><ex>ionis</ex></expan></w> <num value="13">XIII</num> <name nymRef="Gemina"><expan><abbr>Gem</abbr><ex>inae</ex></expan></name> <lb n="2"/><persName type="attested"><name nymRef="#Pomponius"><expan><abbr>Pomponi</abbr><ex>i</ex></expan></name> <name nymRef="#Fortis">Fortis</name></persName>
+                            <w lemma="legio"><expan><abbr>Leg</abbr><ex>ionis</ex></expan></w> <num value="13">XIII</num> <name nymRef="#Gemina"><expan><abbr>Gem</abbr><ex>inae</ex></expan></name> <lb n="2"/><persName type="attested"><name nymRef="#Pomponius"><expan><abbr>Pomponi</abbr><ex>i</ex></expan></name> <name nymRef="#Fortis">Fortis</name></persName>
                         
                         
                     </ab>
@@ -162,7 +162,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
 
             
            <div type="translation" xml:lang="fr">
-                <p>                    Appartenant à la legio XIII Gemina. De(l'atelier) de Pomponius Fortis.</p>
+                <p>                    Appartenant à la legio XIII Gemina. De (l'atelier) de Pomponius Fortis.</p>
                     <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
                 </desc>
             </div>
