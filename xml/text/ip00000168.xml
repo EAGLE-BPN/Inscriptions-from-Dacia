@@ -151,7 +151,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         
                         
                             
-                            <expan><abbr>Leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>Gem</abbr><ex>inae</ex></expan> <lb n="2"/><expan><abbr>Pomponi</abbr><ex>i</ex></expan> Fortis
+                            <w lemma="legio"><expan><abbr>Leg</abbr><ex>ionis</ex></expan></w> <num value="13">XIII</num> <name nymRef="Gemina"><expan><abbr>Gem</abbr><ex>inae</ex></expan></name> <lb n="2"/><persName type="attested"><name nymRef="#Pomponius"><expan><abbr>Pomponi</abbr><ex>i</ex></expan></name> <name nymRef="#Fortis">Fortis</name></persName>
                         
                         
                     </ab>
