@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">L'épithète pia fut accordée à la legio V Macedonica probablement sous Commode (180-192), sinon pendant les guerres civiles de Septime Sévère; cf. E. Ritterling, RE XII/2 (1925), 1580; I. Piso, dans: Légions, p. 215 = Nordgrenze, p. 415.</origDate>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">L'épithète pia fut accordée à la legio V Macedonica probablement sous Commode (180-192), sinon pendant les guerres civiles de Septime Sévère; cf. E. Ritterling, RE XII/2 (1925), 1580; I. Piso, dans: Légions, p. 215 = Nordgrenze, p. 415.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>1987</date>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
         

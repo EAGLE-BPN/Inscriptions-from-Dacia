@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>honorific inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000025.html</idno>
+
+                <idno type="localID">rv00000025</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>a-Museum of Sarmizegetusa; b-Museum of Deva; c-Museum of Lugoj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>plaque, tabula ansata</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>35</height>
+                                         <width>7</width>
+                                         <depth>3</depth>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution">carving</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">7-11,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/30060">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">193-211, during Septimius Severus' reign</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>a-1993; b-1935; c-1901</date>
+                                <placeName>a-in the Severian nymphaeum; b-Saulesti village; c-Pesteana / Sarmizegetusa</placeName> 
+                            <placeName type="modernRegion">Hunedoara</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">honorific inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="UTS_23" url="https://upload.wikimedia.org/wikipedia/commons/b/ba/UTS_23.png" sameAs="https://commons.wikimedia.org/wiki/File:UTS_23.png">
+       <desc> UTS_23
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Frg. c - R. Münsterberg, J. Oehler, JÖAI 5, 1902, Bbl. 136 = Hunyadmegyei történelmi és régészeti társulat évkönyve 13, 1902, p. 137</bibl><bibl> Şematism istoric, Lugoj 1903, p. 183-184</bibl><bibl> frg. b+c - I. I. Russu, StCl 9, 1967, p. 211-218</bibl><bibl> AE 1968, 441</bibl><bibl> Alicu-Pop-Wollmann 1979, p. 163, no 469, pl. CLI. no 469: IDR III / 2, 22</bibl><bibl> les trois fragments - Étienne-Piso-Diaconescu 2002-2003, p. 123, pl. XL, p. 124, pl. XLI, p.26, n. 110</bibl><bibl> AE 2003, 1520</bibl><bibl> I. Piso, Le vorum vetus de Sarmizegetusa, Bucuresti, 2006, p.243-246.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            In honorem domus diuinae <lb n="2"/><expan><abbr>L</abbr><ex>ucius</ex></expan> Ophonius <expan><abbr>Pap</abbr><ex>iria</ex></expan> Domitius Priscus <lb n="3"/>IIuir <expan><abbr>col</abbr><ex>oniae</ex></expan> <expan><abbr>Dacic</abbr><ex>ae</ex></expan> pecunia sua fecit <lb n="4"/><expan><abbr>l</abbr><ex>oco</ex></expan> <expan><abbr>d</abbr><ex>ato</ex></expan> <expan><abbr>d</abbr><ex>ecurionum</ex></expan> <expan><abbr>d</abbr><ex>ecreto</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    In the honour of the divine house. LuciusOphonius Domitius Priscus, from the Papiria tribe, duumvir of the colonia Dacica, made it(the monument) at his own expence, on the place given by the decurions.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

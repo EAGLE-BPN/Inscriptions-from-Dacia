@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription d'Antonin le Pieux?</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000300.html</idno>
+                
+                
+               <idno type="localID">ip00000300</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Romita</placeName>                     
+                        </settlement>
+                        <repository>Mus. Zalău, inv. 1022</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction?</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>32</height>
+                                         <width>20</width>
+                                         <depth>62</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">12</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée dans un cimetière moderne, en position secondaire
+                                <placeName ref="http://www.trismegistos.org/place/030229">Certia</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il s’agit plutôt d’une inscription impériale de construction. Les empereurs les plus significatifs portant dans leur titulature la seconde acclamation impériale sont Hadrien, à partir de 135 (D. Kienast, Kaisertabelle 130) et, surtout, Antonin le Pieux, à partir de 142 (D. Kienast, p. 135). Probablement nous avons affaire au second empereur, ce qui pourrait constituer un indice pour la transformation en pierre du camp de Romita.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers 1970</date>
+                                <placeName>Romita</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction?</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="ROM_1" url="https://commons.wikimedia.org/wiki/File:ROM_1.jpg">
+       <desc> ROM_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, V. Lucăcel, Inscripții, p. 27, no 52 (photo) </bibl><bibl> ILD 654 </bibl><bibl> A. V. Matei, I. Bajusz, Romita, p. 136.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/>tribuṇ(icia) <supplied reason="lost"><expan><abbr>potest</abbr><ex>ate</ex></expan> ….</supplied> <lb n="3"/>im<supplied reason="lost"><expan><abbr>p</abbr><ex>erator</ex></expan></supplied> II <supplied reason="lost" cert="low">co(n)s(ul) …. p(ater) p(atriae) fecit </supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>N. Gudea, V. Lucăcel, C. C. Petolescu (ILD): BV / MII, bien que dans la l. 1 les lettres TRIBV soient très claires.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (L’empereur …), investi avec (la puissance) tribunicienne (pour la … fois), acclamé imperator deux fois, (consul …, père de la patrie, a construit ceci?).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il est difficile de supposer une dédicace avec des lettres de 12 faite par un tribunus militum. Il s’agit plutôt d’une inscription impériale de construction. Pour le camp de Certia voir A. V. Matei, I. Bajusz, Romita, p. 20-67 ; F. Marcu, Roman Forts, p. 101-114.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

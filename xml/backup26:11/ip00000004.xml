@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000004.html</idno>
+                
+                
+               <idno type="localID">ip00000004</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Muzeul de Istorie Turda, inv. 224</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>36</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé dans les ruines d'un sanctuaire, rue Cheii, devant la maison no 16 A, lors des fouilles pour installer un conduit.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement de la période 168-193 / 211; voir les commentaires.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>198</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_" url="https://commons.wikimedia.org/wiki/File:PO_.jpg">
+       <desc> PO_
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>-->
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, A. Cătinaș, EN 2, 1992, p. 113-114, no 3, fig. 8(photo, dessin) </bibl><bibl> iidem, dans: dans La politique édilitaire dans les provinces de l'Empire Romain, Cluj-Napoca 1993, p. 0, no 3, p. 62, fig. 8(photo, dessin) </bibl><bibl> AE 1992, 1468 </bibl><bibl> 1993, 1332 </bibl><bibl> C. C. Petolescu, CEpR XII 99 </bibl><bibl> R. Ardevan, Viața municipală în Dacia romană, Timișoara 1998, p. 428, no 440.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Herculi <lb n="2"/>cives Romạ <lb n="3"/>ni per Satria <lb n="4"/><surplus>a</surplus>num et Dec<expan><ex>u</ex><abbr>m</abbr></expan> <lb n="5"/>um <expan><abbr>mag</abbr><ex>istros</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Hercule. Les citoyens Romains(érigèrent le monument) par Satrianus et Decumus, leur magistri.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les deux magistri, Satrianus et Decumus, apparaissent aussi dans le no - - -. Le cognomen Satrianus est derivé du nomen Satrius. M. Bărbulescu et A. Cătinaș entendent par les cives Romani un conventus civium Romanorum antérieur à l’arrivée de la légion, vers 168, à Potaissa(EN 2, 1992, p. 116-117-; dans: Politique édilitaire, p. 1-2). Or, l’endroit de la découverte(dans: Politique édilitaire, p. 64, fig. 12-13) se trouve dans l’intérieur d’une leuga(2, 222 km), donc dans la zone de protection stratégique où se trouvaient les canabae; voir I. Piso, Tyche 6, 1991 p. 139 sqq., spécialement p. 1-17 = An der Nordgrenze des Römischen Reiches, Stuttgart 200, p. 160 sqq., spécialement p. 178-179. Il est, donc, très probable qu’il s’y agisse de cives Romani consistentes ad legionem ou canabis legionis avant le règne de Caracalla, quand leur statut change.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

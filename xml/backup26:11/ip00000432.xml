@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription dédiée à Jupiter par un beneficiarius consularis</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000432.html</idno>
+                
+                
+               <idno type="localID">ip00000432</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>Mus. Dej</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>93</height>
+                                         <width>36</width>
+                                         <depth>45</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vu avant 1960 par C. Torma dans le cimetière de Cășei.
+                                <placeName ref="http://www.trismegistos.org/place/030137">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Cn. Claudius Severus et Ti. Claudius Aurelius Quintianus ont exercé le consulat en 235.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1860</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 824 = 7632 </bibl><bibl> D. Isac, Osterburken II, p. 212, no 9 </bibl><bibl> I. Piso, G. Cupcea, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>ceterisq</abbr><ex>ue</ex></expan> <lb n="3"/>dis <expan><abbr>P</abbr><ex>ublius</ex></expan> Aelius <lb n="4"/>Sextilianus <lb n="5"/>5 b<expan><ex>ene</ex><abbr>f</abbr><ex>iciarius</ex></expan> c<supplied reason="lost"><expan><abbr>o</abbr><ex>n</ex><abbr>s</abbr><ex>ularis</ex></expan> it</supplied>era <lb n="6"/>tus <supplied reason="lost">stati</supplied>one <lb n="7"/><supplied reason="lost">Seve</supplied>ṛọ <supplied reason="lost">et</supplied> Quiṇ-<supplied reason="lost">t</supplied>ị<supplied reason="lost">ano c</supplied>o<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 5-8, A. v. Domaszewski, EDH : C…. Sp]eratus [ex opti]one [et] C….A]qui[la v(otum)]l(ibentes) [m(eritis) p]os(uerunt) ; D. Isac : [b(ene)f(iciarius) co(n)s(ularis) leg(inis) V Mac(edonicae)] pro salute sua [suorumque v(otum) l(ibens) m(erito) pos(uit)].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand et aux autres dieux. Publius Aelius Sextilianus, bénéficiaire du consulaire, (érigea ceci) agissant pour la seconde fois dans le poste de garde sous le consulat de Severus et de Quintianus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La lecture d'après I. Piso et G. Cupcea. Il est clar que dans les l. 5-6 il s’agit d’un service réitéré dans la statio et dans les l. 7-8 d’un consulat. P. Aelius Sextilianus apparaît aussi dans ILD 780.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription d'une vexillation légionnaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000318.html</idno>
+                
+                
+               <idno type="localID">ip00000318</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Tihău</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 1031</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Bloc de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>50</height>
+                                         <width>14</width>
+                                         <depth>70</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1952 par le paysan Isaia Pușcaș à la porte nord-ouest du camp (porta decumana), pendant qu’il cherchait matériel de construction ; vue en 1958 par D. Protase et V. Lucăcel chez Pușcaș, qui l’avait utilisé comme marche ; transporté au musée de Zalău.
+                                <placeName ref="http://www.trismegistos.org/place/000425">?</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Selon D. Protase la présence de la legio XIII Gemina à Tihău n’était pas possible après la constitution, en 118/119 de la province de Dacie Porolissensis. Pourtant, une vexillation de la legio XIII Gemina appartenant à l’armée de Dacie Supérieure avait participé en 130-132 à la construction du camp de Hoghiz (CIL III 953 = IDR III/4, 230 = AE 2000, 1258) et, toujours sous Hadrien, l’ala Flavia Gaetulorum appartenant à l’armée de Mésie Inférieure à la construction du camp de Boroșneul Mare (IDR III/4, 325 = AE 1999, 1286), bien que Hoghiz et Boroșneul Mare se trouve dans la Dacie Inférieure ; cf. AE 1994, ad 1484. D’autre part, il est fort improbable que la construction en pierre du camp de Tihău ait eu lieu si tôt et avant le camp de Porolissum/Pomet ; pour le camp de Tihău voir récemment F. Marcu, Roman Forts, p. 115-116. On pourrait prendre en considération la seconde moitié du règne d’Hadrien ou le règne d’Antonin le Pieux.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1952</date>
+                                <placeName>Tihău</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>D. Protase, MatArh 7, 1961, p. 38 (dessin) </bibl><bibl> V. Wollmann, Gh. Bot, dans: In memoriam Constantini Daicoviciu, p. 431-432, no 1, fig. 2 a-b (photo, dessin) </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 27-28, no 54 (photo) </bibl><bibl> D. Protase, EphNap 4, 1994, p. 94, fig. 10 (photo, dessin) </bibl><bibl> idem, Orizonturi Daco-Romane I, Cluj-Napoca 1995, p. 324 </bibl><bibl> AE 1994, 1484.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Vexillat</abbr><ex>io</ex></expan> <lb n="2"/><expan><abbr>leg</abbr><ex>ionis</ex></expan> XIII <lb n="3"/><expan><abbr>Gem</abbr><ex>inae</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Vexillation de la XIIIème légion Gemina.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il en ressort qu’une vexillation de la legio XIII Gemina d’Apulum a contribué à la construction en pierre du camp</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

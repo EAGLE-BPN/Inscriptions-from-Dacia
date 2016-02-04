@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000213</idno>
+
+  <idno type="localID">fm00000213</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Gârliciu</placeName>                     
+                        </settlement>
+                        <repository>Vasile Parvan Institute of Archaeology, Bucharest (fragment); Museum of Constanta (2 fragments)</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>190</height>
+                                         <width>30</width>
+                                         <depth>85</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Yes
+                                <height unit="cm">3.8</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/030006">Cius</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Second half of the second century - first half of the third century AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>In the Late Roman fort from Cius buit in 369 AD</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-06-03" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Em. Doruțiu-Boilă, Epigraphica, Bucharest, 1977, p. 180-185 = AE 1977, 763 = ISM V 117</bibl><bibl> Conrad, Grabstelen, no. 230</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>G</abbr><ex>aius</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> Her<supplied reason="lost">c</supplied>ulanus ex stator<supplied reason="lost">e</supplied> <lb n="3"/>praefecti alae II <expan><abbr>Aravacor</abbr><ex>um</ex></expan> <supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <lb n="4"/><expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> L<supplied reason="lost">X</supplied>X natus vico Rami<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="5"/>milita<supplied reason="lost">vit</supplied> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XXVI, <expan><abbr>G</abbr><ex>aia</ex></expan> Valeria C<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="6"/>co<supplied reason="lost"><expan><abbr>n</abbr><ex>iux</ex></expan> <expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> LX, nata loco e<supplied reason="lost">odem</supplied> <lb n="7"/>qu<supplied reason="lost">am h</supplied>abeo in conubio <supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied><gap reason="lost" extent="unknown" unit="character"/> <lb n="8"/><expan><abbr>G</abbr><ex>aius</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> ... et <expan><abbr>G</abbr><ex>aius</ex></expan> <expan><abbr>Val</abbr><ex>erius</ex></expan> Valentin<supplied reason="lost">us</supplied> <lb n="9"/>QVA<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="10"/>VS<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="11"/>STD<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="12"/>MAE<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="13"/>NAM<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="14"/>LVM<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the Manes Gods! Gaius Valerius Herculanus, former attendant of the commander of the ala II Aravacorum, who lived 70 years, born in the village Rami[- - -], served for 26 years; Gaia Valeria C[- - -], his wife who lived 60 years, born in the same village, to whom I was married for ... years. Gaius Valerius ... and Gaius Valerius Valentinus ...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Three conjoint fragments of a funerary stele.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

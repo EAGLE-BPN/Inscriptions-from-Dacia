@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour Iulia Domna</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000367.html</idno>
+                
+                
+               <idno type="localID">ip00000367</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique encastrée dans une base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>120</height>
+                                         <width>22</width>
+                                         <depth>40</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1939 dans les principia du camp de Pomet
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0212" notAfter-custom="0217" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les épithètes de l’impératrice des l. 4-6 se rapporte au seul Caracalla ; pour les autres épithètes voir E. Kettenhofen, Die syrischen Augustae, p. 76 sqq. ; D. Kienast, Kaisertabelle, p. 167. En principe l’inscription est datable de 213-217 ; plus probablement de 213, l’année de la visite impériale.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1939</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_48" url="https://upload.wikimedia.org/wikipedia/commons/7/70/POR_48.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_48.jpg">
+       <desc> POR_48
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Macrea, SCIV 8/1-4, 1957, p. 234-236, no 4, fig. 14 (photo, dessin) </bibl><bibl> AE 1958, 232 </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 10-11, no 6 (photo) </bibl><bibl> J. Fitz, Honorific Titles, p. 65, no 241 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 762-763, no 12, p. 1134, pl. CCLXXI/12 </bibl><bibl> D. Isac, EphNap 3, 1993, p. 192-193, fig. 3 (dessin) </bibl><bibl> ILD 664.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">Iuliae Dom</supplied> <lb n="2"/><supplied reason="lost">n</supplied>ạ<supplied reason="lost">e Augus</supplied> <lb n="3"/>tae ṃ<supplied reason="lost">atri</supplied> <lb n="4"/>san<supplied reason="lost">ctissi</supplied> <lb n="5"/>5 mi A<supplied reason="lost">nt</supplied>o<supplied reason="lost">ni</supplied> <lb n="6"/>ni <expan><abbr>Aug</abbr><ex>usti</ex></expan>] et <supplied reason="lost">cas</supplied> <lb n="7"/>troru<supplied reason="lost">m sena</supplied> <lb n="8"/>tusque a<supplied reason="lost">c <expan><abbr>patr</abbr><ex>iae</ex></expan></supplied> <lb n="9"/><expan><abbr>coh</abbr><ex>ors</ex></expan> <supplied reason="lost">…..</supplied> <lb n="10"/>10 Ant<supplied reason="lost">oni</supplied> <lb n="11"/>nia<supplied reason="lost">na</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>M. Macrea et tous les autres : [Iuliae Dom/nae Augus]/tae [matri] / san[ctissi]/5mi A[ntoni]/ni A[ug(usti) et cas]/tror[um sena]/tusq(u)e [ac patr(iae)] / coh(ors) [V Ling(onum)] /10 Ant[oni]/nia[na].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À Iulia) Domna Augusta, mère du très saint Antonin Auguste (et) des camps (patronne des soldats), du sénat et de la patriae. La cohors … Antoniniana (érigea ceci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le vrai problème de l’inscription est si elle a été érigée par la cohors V Lingonum ou par la cohors III Campestris ; la discussion chez I. Piso.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

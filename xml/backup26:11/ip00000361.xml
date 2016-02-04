@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour l'empereur Caracalla</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000361.html</idno>
+                
+                
+               <idno type="localID">ip00000361</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 232, 236, 237.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque encastrée dans une base de quadrige</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>120</height>
+                                         <width>20</width>
+                                         <depth>350</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">12</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>6 s trouvés en 1939 par C. Daicoviciu dansd les principia du camp de Pomet; 2 s trouvés en 1943 par A. Radnóti.
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Dans la reconstitution graphique l’épithète Germanicus maximus n’a pas de place. L’inscription date probablement de 213, en raison des autres inscriptions posées pour Caracalla et sa mère à Porolissum; d’avant octobre, en raison de l’absence de l’épithète Germanicus maximus. La statue aura été érigée lors de la visite de l’empereur en automne de 213. Les préparations pour la visite auront été terminées déjà en août/septembre.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1939, 1943</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_42" url="https://upload.wikimedia.org/wikipedia/commons/2/25/POR_42.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_42.jpg">
+       <desc> POR_42
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Frg. a, c, d, e, g – C. Daicoviciu, Cahier, p. 4, 9 </bibl><bibl> frg. a, d, e - M. Macrea, ActMuz 2, 1956, p. 106-109, no 3, fig. 3 (dessin) </bibl><bibl> SCIV 8, 1957, p. 227-231, no 3, fig. 5 (dessin) </bibl><bibl> AE 1958, 231 (mention)</bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 9-10, no 4, pl. 4 (photos) </bibl><bibl> tous les s, sans g - E. Tóth, Porolissum, p. 22-24, no 10, fig. 7-8 (photo et dessin) </bibl><bibl> AE 1979, 492 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 761-762, no 8, p. 1132-1133, pl. CCLXIX-CCLXX (photos et dessins) </bibl><bibl> A. Diaconescu, dans : The Impact of Rome on Settlement in the Northwestern and Danube Provinces (BAR International Series 921, éd. St. Altekamp, A. Schäfer), Oxford 2001, p. 138, no 2, 2 </bibl><bibl> Al. Diaconescu, Statuaria I, p. 212-213, no 33 </bibl><bibl> I. Piso, dans : Festschrift Weber, p. 325-331 </bibl><bibl> idem, AMN 41-42, 2004-2005, 185-188, no II, fig. 2 a-b (photo et dessin).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">Imperatori Caesari Marco Aurelio</supplied> <lb n="2"/><supplied reason="lost">Antonino pio felici <expan><abbr>Aug</abbr><ex>usto</ex></expan> P</supplied>art<supplied reason="lost">hico <expan><abbr>max</abbr><ex>imo</ex></expan></supplied> <lb n="3"/><expan><abbr><supplied reason="lost">pont</supplied>if</abbr><ex>ici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> Ḅ<supplied reason="lost"><expan><abbr>rit</abbr><ex>annico</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan></supplied> p<supplied reason="lost">ot</supplied>ẹs<supplied reason="lost"><expan><abbr>t</abbr><ex>ate</ex></expan> XVI <expan><abbr>imp</abbr><ex>eratori</ex></expan> II</supplied> <lb n="4"/><supplied reason="lost"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> IIII</supplied> <expan><abbr>proco</abbr><ex>n</ex></expan><supplied reason="lost"><expan><abbr>s</abbr><ex>uli</ex></expan> felicissimo f</supplied>ortissịṃoq<supplied reason="lost">ue</supplied> <lb n="5"/>5 <expan><abbr>princ</abbr><ex>ipi</ex></expan> induḷ<supplied reason="lost">gentiis eius aucta</supplied> ḷiberalitat<supplied reason="lost">i</supplied>busq<supplied reason="lost">ue</supplied> <lb n="6"/>ditata <supplied reason="lost"><expan><abbr>coh</abbr><ex>ors</ex></expan> III Campestris Anto</supplied>niniana <expan><abbr>c</abbr><ex>ivium</ex></expan> Ṛ(omanorum).
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>M. Macrea, N. Gudea, V. Lucăcel : [Imp(eratori) Caes(ari) M(arco) Aur(elio) Antonino) / pio felici Aug(usto) Part(h)ico max(imo) pont(ifici) / max(mo) Brit(tanico) max(imo) trib(uniciae) pot]es[tatis XVI / imp(eratori) II co(n)s(uli) IIII felicissimo f]ortissi[m]oq[ue] /5 princ(ipi) indulgentiis eius aucta l]iberalitat[i]bus[que] / ditata [cohors V Lingonum Anto]niniana [p]ed[itata] ; E. Tóth, AE 1979, Gudea (1989), Al. Diaconescu (Impact) : [Imp(eratori) Caaesari M(arco) Aurelio Anto/nino pio felici Aug(usto) Part(h)ico max/im(o) Br]it(annico) max(imo) p[ont(ifici) max(imo) / trib(uniciae) pot]es[t(atis) XVI imp(eratori) II /5 co(n)s(uli) IIII] proco[(n)s(uli) felicissimo f]ortissi[m]oq[ue] / princ(ipi) indu[lgentiis eius aucta] liberalitat[i]bus[que] / ditat[a coh(ors) V Ling(onum) Anto]niniana [p]ed[it(ata)]. On se heurte ici à l’épithète peditata, apparemment inutile dans le cas d’une cohorte ; voir la discussion chez I. Piso (2005), p. 329-330.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À l’empereur César Marc Aurèle Antonin, pieux heureux Auguste, grand vainqueur des Parthes), grand pontife, (grand) vainqueur des Bretons, investi avec la puissance (tribunicienne pour la XVIème fois, acclamé empereur à deux reprises, consul quatre fois), au proconsul, au prince (très heureux) et très fort, (la cohors III Campestris) Antoniniana de citoyens Romains, (augmentée) par sa bienveillance et enrichie par sa générosité, (érigea ceci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La solution correcte est [coh(ors) III Campestris Anto]niniana c(ivium) Ṛ(omanorum), l’unité militaire la plus importante qui occupait le camp de Pomet à partir de Septime Sévère et Caracalla. Pour les épithètes felicissimo fortissimoque principi voir A. Mastino, Titolature 64, 129-130. L’expression indulgentiis eius aucta liberalitatibusque ditata apparaît en Dacie dans CIL III 1378 = IDR III/3, 57 (Micia) et dans CIL III 797 (Arcobadara) ; voir A. Mastino, Titolature, p. 74, n. 361.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

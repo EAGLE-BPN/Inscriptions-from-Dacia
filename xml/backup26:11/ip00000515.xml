@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Estampille de la legio XIII Gemina</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000515.html</idno>
+                
+                
+               <idno type="localID">ip00000515</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Alba Iulia</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique d'hypocauste</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>5.2</height>
+                                         <width/>
+                                         <depth>10.3</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hederae
+                                <height unit="cm">1.4</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Inconnu, mais la pièce provient probablement d’Apulum, tout comme de nombreux exemplaires trouvées dans le prétoire du gouverneur, dans la zone nord du Platoul Romanilor et dans la colonia Aurelia.
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>Alba Iulia</placeName> 
+                            <placeName type="modernRegion">Jud. Alba</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 1629, 8 = 8065, 10</bibl><bibl> C. Torma, AEM 6, p. 140, no 12</bibl><bibl> G. Téglás, Klio 11, 1911, p. 501, no 17</bibl><bibl> AÉrt 1912, p. 399</bibl><bibl> C. Daicoviciu, ACMIT 1930-1931 (1932), p. 43 e</bibl><bibl> A. Kerényi, Personennamen, p. 22, no 223</bibl><bibl> J. Szilágyi, Ziegelstempel, p. 51, XIII/190, pl.</bibl><bibl> I. I. Russu, ProbMuz, p. 23, no 11 b</bibl><bibl> V. Wollmann, AMN 7, 1970, p. 178, no 14 j</bibl><bibl> L. David-Țeposu, dans: RömRum, p. 116, 117, nos C23, C25</bibl><bibl> eadem, CivRom, p. 136, nos G16-17</bibl><bibl> C. C. Petolescu, Sargetia 9, 1972, p. 48, n. 26, 28</bibl><bibl> V. Moga, LegXIIIGem, p. 168, no X</bibl><bibl> IDR III/1, 277 f</bibl><bibl> IDR III/6, 129</bibl><bibl> I. Piso, F. Marcu, Le tégulaire de Cluj, sous presse.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>G</abbr><ex>eminae</ex></expan> <lb n="2"/>Ann<expan><ex>a</ex><abbr>ei</abbr></expan> Sat <lb n="3"/>urnini.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Atelier) de Annaeus Saturninus, appartenant à la legio XIII Gemina.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. 2-3: division incorrecte en syllabes. Annaeus Saturninus est l’immunis qui se trouve à la tête de la figlina légionnaire en qualité de magister; voir AE 1939, 19 = IDR II 107 (Drobeta).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

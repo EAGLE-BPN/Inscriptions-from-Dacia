@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milliarium on Milliarium</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000243</idno>
+
+  <idno type="localID">fm00000243</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Dunăreni</placeName>                     
+                        </settlement>
+                        <repository>Museum of Constanta</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>Milliarium</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>84</height>
+                                         <width>39</width>
+                                         <depth/>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv">Milliarium</rs>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Yes
+                                <height unit="cm">3.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/NaN">Sacidava</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">103 - 104 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1980</date>
+                                <placeName>Musait</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term>Milliarium</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    <facsimile>
+        <graphic n="Milliar_ISM_IV_169" url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Milliar_ISM_IV_169.jpg"
+        sameAs="https://commons.wikimedia.org/wiki/File:Milliar_ISM_IV_169.jpg">
+       <desc> Milliar_ISM_IV_169
+          <ref type="license" target="http://creativecommons.org/licences/by-sa/3.0/">CCBYSA3.0.</ref>
+      </desc>
+   </graphic>
+    </facsimile>
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>A. Rădulescu, M. Bărbulescu, Dacia, N. S. 25, 1981, p. 353-356 </bibl><bibl> AE 1981, 745 </bibl><bibl> ISM IV 169</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [<expan><abbr>Imp</abbr><ex>eratore</ex></expan> <expan><abbr>Caes</abbr><ex>are</ex></expan> divi <lb n="2"/>Nervae <expan><abbr>f</abbr><ex>ilio</ex></expan> Nerva <lb n="3"/>Traiano <expan><abbr>Aug</abbr><ex>usto</ex></expan> <expan><abbr>Ger</abbr><ex>manico</ex></expan> <lb n="4"/><expan><abbr>Dac</abbr><ex>ico</ex></expan> <expan><abbr>pont</abbr><ex>ifice</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <lb n="5"/><expan><abbr>trib</abbr><ex>unicia</ex></expan> ] <expan><abbr>potest</abbr><ex>ate</ex></expan> <supplied reason="lost">.</supplied> <lb n="6"/><expan><abbr><supplied reason="lost">i</supplied>mp</abbr><ex>eratore</ex></expan> V co<expan><ex>n</ex><abbr>s</abbr><ex>ule</ex></expan> <supplied reason="lost">V</supplied> <expan><abbr>p</abbr><ex>atre</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <lb n="7"/><expan><abbr>coh</abbr><ex>ors</ex></expan> IIII Gallorum <lb n="8"/><expan><abbr>Q</abbr><ex>uinto</ex></expan> Fabio Postumino <lb n="9"/><expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan> <lb n="10"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    During the reign of the Emperor Caesar, the son of the divine Nerva, Nerva Traianus Augustus, Germanicus, Dacicus, great pontif, holding the powers of the tribune for ... time, emperor for the fifth time, consul for the fifth time, the father of the fatherland, cohors IIII Gallorum (made the road) while Quintus Fabius Postuminus was governor (of Lower Moesia)</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

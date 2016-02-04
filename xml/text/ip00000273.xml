@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
 <!--         <facsimile>
 
    <graphic n="PO_274" url="https://commons.wikimedia.org/wiki/File:PO_274.jpg">
        <desc> PO_274
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    
@@ -151,7 +151,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         
                         
                             
-                            Genio <lb n="2"/> <g type="centuriae"/> <expan><abbr>Val</abbr><ex>erii</ex></expan> Iu <lb n="3"/>stini <lb n="4"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Mu <lb n="5"/>ca pro <expan><abbr>sa</abbr><ex>lute</ex></expan> <lb n="6"/>com<expan><ex>m</ex><abbr>a</abbr><ex>nuculorum</ex></expan> pos<expan><ex>u</ex><abbr>i</abbr><ex>t</ex></expan>.
+                            Genio <lb n="2"/>(centuriae) <expan><abbr>Val</abbr><ex>erii</ex></expan> Iu <lb n="3"/>stini <lb n="4"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Mu <lb n="5"/>ca pro <expan><abbr>sa</abbr><ex>lute</ex></expan> <lb n="6"/>com<expan><ex>m</ex><abbr>a</abbr><ex>nuculorum</ex></expan> pos<expan><ex>u</ex><abbr>i</abbr><ex>t</ex></expan>.
                         
                         
                     </ab>

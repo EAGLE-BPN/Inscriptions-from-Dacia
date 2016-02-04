@@ -75,7 +75,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         </origin>
                         <provenance type="found">  
                             <date>By the end of the 19th century</date>
-                                <placeName>?</placeName> 
+                                <placeName></placeName> 
                             <placeName type="modernRegion">Constanța</placeName>
                             <placeName type="modernCountry">Romania</placeName>
                         </provenance>
@@ -114,7 +114,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
         

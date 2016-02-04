@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription commémorative pour Marc Aurèle</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000562.html</idno>
+                
+                
+               <idno type="localID">ip00000562</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mehedinți</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turnu Severin</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turnu Severin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique encastrée dans une base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>36.5</height>
+                                         <width>18</width>
+                                         <depth>88.5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/029680">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Normalement, la statue de Marc Aurèle devait être érigée immédiatement après sa mort, donc probablement en 181.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1913</date>
+                                <placeName>Turnu Severin</placeName> 
+                            <placeName type="modernRegion">Jud. Mehedinți</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term>Inscription commémorative</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="DR_7" url="https://upload.wikimedia.org/wikipedia/commons/e/e7/DR_7.jpg" sameAs="https://commons.wikimedia.org/wiki/File:DR_7.jpg">
+       <desc> DR_7
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>V. Pârvan, ArchAnz 1913, 364-367, no 1</bibl><bibl> AE 1914, 117</bibl><bibl> D. Tudor, Oltenia romană3, București 1968, SE 3</bibl><bibl> IDR II 3.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Divo Marco An <lb n="2"/>tonino Pio <expan><abbr>patr</abbr><ex>i</ex></expan> <lb n="3"/>[[<expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>Caes</abbr><ex>aris</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>Aureli</abbr><ex>i</ex></expan> <lb n="4"/>Commodi Antoni <lb n="5"/>ni]] <expan><abbr>Aug</abbr><ex>usti</ex></expan> [[<expan><abbr>Germ</abbr><ex>anici</ex></expan> <expan><abbr>Sarm</abbr><ex>anici</ex></expan> <expan><abbr>pont</abbr><ex>ificis</ex></expan> <lb n="6"/><expan><abbr>max</abbr><ex>imi</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> VI co<expan><ex>n</ex><abbr>s</abbr><ex>ulis</ex></expan> III]] <lb n="7"/><expan><abbr>p</abbr><ex>atris</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <lb n="8"/><expan><abbr>r</abbr><ex>es</ex></expan> <expan><abbr>p</abbr><ex>ublica</ex></expan> <expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>H</abbr><ex>adriani</ex></expan> <expan><abbr>D</abbr><ex>robetensium</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au bienheureux Marcus Antoninus Pius, père de (l'empereur César Marc Aurèle Commode Antonin) Auguste, (vainqueur des Germains, vainqueur des Sarmates, grand pontife, investi avec la puissance tribunicienne pour la sixième fois, consul trois fois), père de la patrie, la communauté du municipe Hadrianum Drobeta.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les l. 3-5, martelées, contiennent le nom de l'empereur Commode.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

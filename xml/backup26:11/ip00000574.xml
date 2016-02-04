@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Q. Canius Restitutus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000574.html</idno>
+                
+                
+               <idno type="localID">ip00000574</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Caraș-Severin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Mehadia</placeName>                     
+                        </settlement>
+                        <repository>Musée de Reșița</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>247</height>
+                                         <width>22</width>
+                                         <depth>98</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1987 dans les ruines de l'église gothique de Mehadia.
+                                <placeName ref="http://www.trismegistos.org/place/023268">Praetorium</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Comme le défunt appartenait à la première vague de colons venus à Sarmizegetusa, sa mort pouvait survenir vers le milieu du IIème siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1987</date>
+                                <placeName>Mehadia</placeName> 
+                            <placeName type="modernRegion">Jud. Caraș-Severin</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PR_3" url="https://upload.wikimedia.org/wikipedia/commons/1/14/PR_3.png" sameAs="https://commons.wikimedia.org/wiki/File:PR_3.png">
+       <desc> PR_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, dans: Steine und Wege. Festschrift für Dieter Knibbe zum 65. Geburtstag, Wien 1999, p. 379-382, fig. 1-2</bibl><bibl> AE 1999, 1304</bibl><bibl> H. W. Müller, I. Piso, B. Schwaighofer, M. Benea, Der Marmor im römischen Dakien, Cluj-Napoca 2012, p. 67, ME 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>Q</abbr><ex>uinto</ex></expan> Canio <lb n="3"/><expan><abbr>Q</abbr><ex>uinti</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>Cl</abbr><ex>audiae</ex></expan> <expan><abbr>C</abbr><ex>eleiae</ex></expan> <lb n="4"/>Restituto <expan><abbr>vet</abbr><ex>erano</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="5"/>XIII <expan><abbr>dec</abbr><ex>urioni</ex></expan> <expan><abbr>col</abbr><ex>oniae</ex></expan> <expan><abbr>Sar</abbr><ex>mizegetusae</ex></expan> <lb n="6"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> LXXX <lb n="7"/>Canius Respectus et <lb n="8"/>Cania Atticil<expan><ex>l</ex><abbr>a</abbr></expan> <expan><abbr>fili</abbr><ex>i</ex></expan> <lb n="9"/>item Ulpia Admata <lb n="10"/>co<expan><ex>n</ex><abbr>iun</abbr><ex>x</ex></expan> <expan><abbr>posuer</abbr><ex>unt</ex></expan> <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erenti</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieus Mânes. À Quintus Canius Restitutus, fils de Quintus, originaire de Claudia Celeia, vétéran de la legio XIII, décurion de la colonie de Sarmizegetusa, (qui) a vécu 80 ans. Canius Respectus et Cania Atticilla, (ses) enfants, et aussi Ulpia Admata, (son) épouse, érigèrent (ceci) à celui qui a bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Q. Canius Restitutus est originaire du municipe Celeia de Norique. Sa femme, Ulpia Admata, a reçu la cité romaine sous Trajan. Elle porte un cognomen d'origine celtique. Praetorium (Mehadia) se trouvait avant le règne de Septime Sévère dans le territoire de la colonie de Sarmizegetusa.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

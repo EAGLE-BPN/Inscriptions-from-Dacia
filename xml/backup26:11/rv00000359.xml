@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000359.html</idno>
+
+                <idno type="localID">rv00000359</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width/>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">4th of October 160</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1855</date>
+                                <placeName>Sf. Ecaterina mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="AM_10" url="https://commons.wikimedia.org/wiki/File:AM_10.png">
+       <desc> AM_10
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    <expan><abbr>Cl</abbr><ex>audius</ex></expan> Iulianus <expan><abbr>mil</abbr><ex>es</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>G</abbr><ex>eminae centuria</ex></expan> <expan><abbr>Cl</abbr><ex>audi</ex></expan> Mari emit mancipio <lb n="2"/>que accepit mulierem nomine Theudotem, sive ea <lb n="3"/>quo alio nomine est, <expan><abbr>n</abbr><ex>atione</ex></expan> Creticam, apochatam pro uncis <lb n="4"/>duabus, x quadriginta viginti de de <expan><abbr>Cl</abbr><ex>audio</ex></expan> Phileto <lb n="5"/><expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>r</abbr><ex>ogato</ex></expan> Alexandro Antipatri. <lb n="6"/>Eam mulierem sonam traditam esse emptori <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripto</ex></expan>: et si <lb n="7"/>qui seam mulierem, <expan><abbr>q</abbr><ex>ua</ex></expan> <expan><abbr>d</abbr><ex>e</ex></expan> <expan><abbr>a</abbr><ex>gitur</ex></expan>, partemve quam quis ex ea <lb n="8"/>quid evicerit, <expan><abbr>q</abbr><ex>uo</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> emptorem <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptum</ex></expan> eumve at quem <lb n="9"/>ea res pertinebit, uti frui habere possidereque recte <lb n="10"/>liceat, tunc, quantum id erit, quot ita ex ea quit <lb n="11"/>evictum ablatunve fuerit, sive quot ita licitum <lb n="12"/>non erit, tantam pecuniam probam recte dari <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>r</abbr><ex>ogavit</ex></expan> <lb n="13"/><expan><abbr>Cl</abbr><ex>audius</ex></expan> Iulianus <expan><abbr>mil</abbr><ex>es</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptus</ex></expan>, <expan><abbr>d</abbr><ex>ari</ex></expan> <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>p</abbr><ex>romisit</ex></expan> <expan><abbr>Cl</abbr><ex>audius</ex></expan> Philetus. <lb n="14"/>Id fide sua esse iussit Alexander Antipatri. <lb n="15"/>Inque ea mulierem, quae <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripta</ex></expan> est, pretium eius x CCCCXX <lb n="16"/>accepisse et habere se dixit <expan><abbr>Cl</abbr><ex>audius</ex></expan> Philetus a Claudio <lb n="17"/>Iuliano <expan><abbr>mil</abbr><ex>ite</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripto</ex></expan> <lb n="18"/><expan><abbr>Act</abbr><ex>um</ex></expan> <expan><abbr>canab</abbr><ex>is</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>G</abbr><ex>eminae</ex></expan> IIII nonas Octobres Bradua <lb n="19"/>et Varo <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan> 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … <expan><abbr>Val</abbr><ex>eri</ex></expan> Valentis g. xiii g. <lb n="2"/>Cn. Vari Aae <lb n="3"/><expan><abbr>Ael</abbr><ex>i</ex></expan> Dionysi <expan><abbr>vet</abbr><ex>erani</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="4"/>Paulini<gap reason="lost" extent="unknown" unit="character"/> <lb n="5"/><expan><abbr>Iul</abbr><ex>i</ex></expan> Victorini <lb n="6"/>ΑΛΕΧΑΝΔΡΕΙ <lb n="7"/>ΑΝΤΙΠΑΤΡΙ <lb n="8"/>ΣΕΚΟΔΟ ΑΥΚ <lb n="9"/>ΤΟΡ ΣΕΓΝΑΙ <lb n="10"/><expan><abbr>Cl</abbr><ex>audi</ex></expan> Phileti venditoris ibsius 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     …
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Claudius Iulian, soldier in the 13th Gemina legion, in the centuria of Claudius Marius, bought a woman slave named Theudotem or otherwise, born in Crete, for the price of 420 denarii, from Claudius Philetus. Alexander son of Antipater was witness. The woman was in good health. If anyone else would want to buy her, he would have to pay the same amount of money to Claudius Iulianus. Claudius Philetus received his money. Sealed in the canabae of the 13th Gemina legion, on the 4th of October, when Bradua and Varus were consuls. Witnesses: Valerius Valens, soldier in the 13th Gemina legion, Cnaeus Valerius Atta, Aelius Dionysos, veteran, Paulinus S..., Iulius Victorinus, Alexander son of Antipater, Claudius Philetus, the seller.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

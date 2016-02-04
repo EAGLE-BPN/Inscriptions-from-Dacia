@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Aia Nandonis et de sa famille</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000154.html</idno>
+                
+                
+               <idno type="localID">ip00000154</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Öst. Nationalbibliothek Wien</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées; peu soignées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vue au début du XVIème siècle par Mezerzius à Turda dans le mur vers la place de l’église ; fut envoyée par Ariosti à Vienne en 1723.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIème siècle, en raison des noms pérégrins.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 917</bibl><bibl> E. Groag, Die römischen Inschriftsteine der Hofbibliothek, Wien 1913</bibl><bibl> A. Buonopane, V. La Monaca, dans : Epigrafi romane, p. 297, no 44.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Aia Nandonis vixit <lb n="3"/>annis LXXX Andrada <lb n="4"/>Bituvantis <expan><abbr>vix</abbr><ex>it</ex></expan> an<expan><ex>n</ex><abbr>is</abbr></expan> <lb n="5"/>LXXX Bricena vixit an<expan><ex>n</ex><abbr>is</abbr></expan> <lb n="6"/>XL Iusta vixit an<expan><ex>n</ex><abbr>is</abbr></expan> XXX <lb n="7"/>Bedarus <expan><abbr>vixit</abbr><ex>annis</ex></expan> XII <expan><abbr>pos</abbr><ex>t</ex></expan> obi <lb n="8"/>tum <expan><abbr>ei</abbr><ex>us</ex></expan> Herculanus liber <lb n="9"/>tus patron<expan><ex>a</ex><abbr>e</abbr></expan> bene <expan><abbr>mer</abbr><ex>enti</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Dans les l. 4-6 on remarque la forme anis à la place de annis, dans la l. 7 annis manque, dans la l. 7 on a pos à la place de post, dans la l. 8 la forme ei à la place de eius et dans la l. 9 la forme patrone à la place de patronae.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Aia, fille de Nando, a vécu 80 ans ; Andrada, fille de Bituvas, a vécu 80 ans ; Bricena a vécu 40 ans ; Iusta a vécu 30 ans ; Bedarus a vécu 12(ans) ; après sa mort(de Aia Nandonis), Herculanus, en tant qu’affranchi,(érigea ceci) à la patronne qui a bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Apparemment, dans l'onomastique des personnages il y a des éléments illyriens, celtiques et thraces. Nous avons pourtant affaire à un famille illyrienne de statut pérégrin.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

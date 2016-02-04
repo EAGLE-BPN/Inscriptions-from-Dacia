@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>1998</date>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
         
@@ -138,7 +138,10 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
 
     <ab>
                         <lb n="1"/>
-                        Silvan<lb n="2" break="no"/>o <expan><abbr>Val</abbr><ex>erius</ex></expan> <lb n="3"/>Marti<lb n="4" break="no"/>alis pr<supplied reason="lost">o</supplied> <lb n="5"/> <expan><abbr>f</abbr><ex cert="low">ilio</ex></expan> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <supplied reason="lost"><expan><abbr>s</abbr><ex>olvit</ex></expan></supplied>.
+                        
+                        
+                            
+                            Silvan <lb n="2"/>o <expan><abbr>Val</abbr><ex>erius</ex></expan> <lb n="3"/>Marti <lb n="4"/>alis pr<supplied reason="lost">o</supplied> <lb n="5"/>5 <expan><abbr>f</abbr><ex cert="low">ilio</ex></expan> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <supplied reason="lost"><expan><abbr>s</abbr><ex>olvit</ex></expan></supplied>.
                         
                         
                     </ab>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary? on Statue base</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000100.html</idno>
+
+  <idno type="localID">fm00000100</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Istria</placeName>                     
+                        </settlement>
+                        <repository>Museum of Histria</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Statue base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>60</height>
+                                         <width/>
+                                         <depth>142</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1.52.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="http://www.trismegistos.org/place/012228">Histria</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0201" notAfter-custom="0260" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">First half of the third century AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1914-1915</date>
+                                <placeName>Reused in the Late Roman Wall</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary?</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ISM I 292" url="https://upload.wikimedia.org/wikipedia/commons/b/b9/ISM_I_292.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 292.JPG">
+       <desc> ISM I 292
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>V. Pârvan, Histria IV,p. 671-674, no. 46 </bibl><bibl> ISM I 292</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Ἰούλιον Σατουρνεῖνον ἑκατόνταρ<lb break="no" n="2"/>χον λεγιῶνος ια΄ Κλαυ(δίας), Ἰουλία Γλυκένα θυ<lb break="no" n="3"/>γάτηρ Ἰουλίας Καλλιοτέρας καὶ κληρονό<lb break="no" n="4"/>μ<supplied reason="lost">ο</supplied>ς ἐκ μέρους Ἰουλίου Σ<supplied reason="lost">α</supplied>τουρνἰνου ἑκατον<lb break="no" n="5"/>τάρχου, πάτρονος ἡμῶν, ἀνέ<supplied reason="omitted">σ</supplied>τησα τὸν <lb n="6"/>ἀδριάντα μετὰ τοῦ ἀνδρό<supplied reason="lost">ς</supplied> μου, ἥν με <lb n="7"/>ἡ μήτηρ νομίμως παρέδωκεν, Αὐρ(ηλίου) Χρη<lb break="no" n="8"/>στοῦ Σευήρου.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>l. 5, &lt;Σ&gt;, I on the stone</p>
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

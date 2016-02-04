@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Honorific on Altar</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000108.html</idno>
+
+  <idno type="localID">fm00000108</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Iglita</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>158</height>
+                                         <width>62</width>
+                                         <depth>35</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">3.6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="http://www.trismegistos.org/place/029965">Troesmis, East Fortress</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="0160" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">158/159-160 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1930</date>
+                                <placeName>Turcoaia</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Honorific</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="AE 1960, 337_1" url="https://upload.wikimedia.org/wikipedia/commons/1/13/AE_1960%2C_337_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:AE 1960, 337_1.JPG">
+       <desc> AE 1960, 337_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" AE 1960, 337_2" url="https://upload.wikimedia.org/wikipedia/commons/8/8a/AE_1960%2C_337_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1960, 337_2.jpg">
+       <desc>  AE 1960, 337_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>R. Vulpe, SCIV 4, 1953, 3-4, p. 562-568, no. 2 </bibl><bibl> AE 1960, 337 </bibl><bibl> ISM V 158</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">I. O. M. sacrum pro</supplied> <lb n="2"/>salute <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> T. <expan><abbr>Ael</abbr><ex>ii</ex></expan> Ha<lb break="no" n="3"/>driani Antonini Au<lb break="no" n="4"/><expan><abbr>g</abbr><ex>usti</ex></expan> Pii et <expan><abbr>Aureli</abbr><ex>i</ex></expan> Veri Cae<lb break="no" n="5"/><expan><abbr>s</abbr><ex>aris</ex></expan> <supplied reason="lost">s</supplied>ub <expan><abbr>Iul</abbr><ex>io</ex></expan> Severo <expan><abbr>leg</abbr><ex>ato</ex></expan> Au<lb break="no" n="6"/><expan><abbr>g</abbr><ex>usti</ex></expan> pr pr dedicante Ael<lb break="no" n="7"/><supplied reason="omitted">l</supplied>io Optato <expan><abbr>l<supplied reason="lost">e</supplied>g</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> L. <expan><abbr>Licin</abbr><ex>ius</ex></expan> <lb n="8"/>domo Ni<supplied reason="lost" cert="low">copoli</supplied><supplied reason="lost"/> Cleme<expan><ex>n</ex><abbr>s</abbr></expan> <lb n="9"/><expan><abbr>vet</abbr><ex>eranus</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> V Ma<supplied reason="lost" cert="low">c(edonicae) q(uin)q(uennalis) </supplied><supplied reason="lost"> c</supplied><expan><abbr>anab</abbr><ex>ensium</ex></expan> <lb n="10"/>et <expan><abbr>dec</abbr><ex>urio</ex></expan> <expan><abbr>Troesm</abbr><ex>ensium</ex></expan> c<supplied reason="lost">u</supplied>m Licinia <lb n="11"/>Veneria coniuge, Lucia Li<lb break="no" n="12"/>cinia <expan><abbr>fil</abbr><ex>ia</ex></expan> et <expan><abbr>Iul</abbr><ex>io</ex></expan> Clemente et Oc<lb break="no" n="13"/>tavio <expan><abbr>Clementian</abbr><ex>o</ex></expan> et Licinia Cle<lb break="no" n="14"/>mentiana et <expan><abbr>O<supplied reason="lost">c</supplied>t<supplied reason="lost">av</supplied></abbr><supplied reason="lost"><ex>io</ex></supplied></expan> <supplied reason="lost">C</supplied><expan><abbr>le</abbr><ex>mente</ex></expan> et <expan><abbr>Lic</abbr><ex>inio</ex></expan> <expan><abbr>Cle</abbr><ex>mente</ex></expan> et <lb n="15"/><expan><abbr>Oct</abbr><ex>avio</ex></expan> <expan><abbr>Lic</abbr><ex>inio</ex></expan> <expan><abbr>nep</abbr><ex>otibus</ex></expan> <expan><abbr>d</abbr><ex>e</ex></expan> <expan><abbr>s</abbr><ex>uo</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan> et <expan><abbr>ded</abbr><ex>it</ex></expan> <expan><abbr>cur</abbr><ex>iae</ex></expan> (denarios) CCL <lb n="16"/>ob <expan><abbr>honor</abbr><ex>em</ex></expan> q<expan><ex>uin</ex><abbr>q</abbr><ex>uennalitatis</ex></expan> ex <expan><abbr>quor</abbr><ex>um</ex></expan> incre<lb break="no" n="17"/><supplied reason="lost">m</supplied>en<supplied reason="lost">tis</supplied> <expan><abbr>omnib</abbr><ex>us</ex></expan> <supplied reason="lost" cert="low">decurionibus sportulae dividerentur</supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

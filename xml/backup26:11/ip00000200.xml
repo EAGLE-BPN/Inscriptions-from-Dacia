@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Double inscription impériale</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000200.html</idno>
+                
+                
+               <idno type="localID">ip00000200</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turda, inv. 1701</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique encastrée dans une base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>14</height>
+                                         <width/>
+                                         <depth>17</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1979 dans la cour des principia du camp légionnaire.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">L'inscription de la première face est datable de 218-222 en raison de la présence de Iulia Maesa, celle de la seconde face probablement du règne de Philippe l'Arabe(244-249).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1979</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_201" url="https://commons.wikimedia.org/wiki/File:PO_201.jpg">
+       <desc> PO_201
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, Inscriptions, p. 160-163, no 14 a-b, fig. 68-69</bibl><bibl> I. Piso, sous presse.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> <expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> [ [ <expan><abbr>M</abbr><ex>arco</ex></expan> <expan><abbr>Aur</abbr><ex>elio</ex></expan> Antonino <expan><abbr>P</abbr><ex>io</ex></expan> <expan><abbr>F</abbr><ex>elici</ex></expan> <expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied>] et <supplied reason="lost"> [ Iuliae Mae</supplied> <lb n="2"/>ṣaẹ <expan><abbr>Aug</abbr><ex>ustae</ex></expan>]] aṿ <supplied reason="lost"> iae [ [ <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan></supplied>] et <supplied reason="lost"> [ Iuliae Soaemiadi <expan><abbr>Aug</abbr><ex>ustae</ex></expan></supplied> <lb n="3"/>maṭrị Aụ <supplied reason="lost"> <expan><abbr>g</abbr><ex>usti</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan></supplied>] - - - evo] <lb n="4"/>cati qu <supplied reason="lost"> orum nomina subscripta sunt <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="5"/>devoti [ numini maiestatique eorum <lb n="6"/>- - - - - -]. [ - - - - - - <lb n="7"/>- - - P]io Fẹḷịc [ i <lb n="8"/><expan><abbr>Aug</abbr><ex>usto</ex></expan> et <lb n="9"/>- - -]ạe <expan><abbr>con</abbr><ex>iugi</ex></expan> <supplied reason="lost"> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> et <expan><abbr>matri</abbr><ex cert="low"/></expan> Au</supplied><expan><abbr>g</abbr><ex>usti</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>M. Bărbulescu, première face: [ [ ......... AVG]] A(?).. / [ [ MAT]]RI [ [ AV]] [ G(usti) ..... EVO?] / CATI∙ QV [ O(ndam)? .......] / DEVOTI [ NVMINI MAIEST(atique)? EOR(um)]. M. Bărbulescu, seconde face: [ ....P]IO FELIC [ I] / [ ET] / [ ....]AE CON(iugi) / [ AV]G(usti) N(ostri).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À l’empereur César Marcus Aurelius Antoninus, le pieux, l’heureux, Auguste, et à Iulia) Maesa, grand-mère(de notre Auguste et à Iulia Soaemias Auguste), mère de notre Auguste, ..., les vétérans rappelés au service, dont(les noms sont écrits en bas), ........(à l’empereur César ...), le pieux, l’heureux,(Auguste et à) ..., épouse(de notre Auguste et mère?) de notre Auguste, ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La plaque a été écrite sur les deux faces. Les noms de la famille impériale de la première inscription ont été martelés et, quelque temps après, l’autre face a été utilisée. La première face a eu à souffrir aussi à la suite d’un incendie. Sur la première face ont été écrits les noms de l'empereur Élagabal, de sa grand-mère Iulia Maesa et de sa mère Iulia Soaemias. Sur la seconde face ont été écrits probablement les noms de l'empereur Philippe l'Arabe, de son fils Philippe et de son épouse Otaciia Severa. Il s'agit de la plaque d'une base de statue représentant dans la première phase l'empereur Élagabal et dans la seconde probablement l'empereur Philippe l'Arabe.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

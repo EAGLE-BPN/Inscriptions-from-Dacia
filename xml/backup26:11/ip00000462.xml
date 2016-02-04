@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription dédiée au génie protecteur de la douane d'Illyricum</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000462.html</idno>
+                
+                
+               <idno type="localID">ip00000462</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Alba Iulia</placeName>                     
+                        </settlement>
+                        <repository>Muzeul Unirii, Alba Iulia</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base de statue?</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>116</height>
+                                         <width>56</width>
+                                         <depth>54</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1986 lors des fouilles entreprises à la porte sud du camp légionnaire d'Apulum.
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Avant 174/176, quand Marc Aurèle passa de l'affermage de la douane à la perception directe par des procurateurs; en raison de T. Iulius Saturninus, environ de 147-157.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1986</date>
+                                <placeName>Alba Iulia</placeName> 
+                            <placeName type="modernRegion">Jud. Alba</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, V. Moga, AMN 35, 1998, p. 105-108, fig. 1-2 (photo, dessin)</bibl><bibl> AE 1998, 1074.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">G</supplied>ẹnio <expan><abbr>p</abbr><ex>ublici</ex></expan> <expan><abbr>p</abbr><ex>ortorii</ex></expan> <lb n="2"/><supplied reason="lost">e</supplied>t <expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>Iul</abbr><ex>ii</ex></expan> Sa <lb n="3"/><supplied reason="lost">t</supplied>urnini <lb n="4"/><expan><abbr>conduc</abbr><ex>toris</ex></expan> <lb n="5"/><expan><abbr>p</abbr><ex>ublici</ex></expan> <expan><abbr>p</abbr><ex>ortorii</ex></expan> Illyṛ(ici) <lb n="6"/>Maximianus <lb n="7"/><expan><abbr><supplied reason="lost">se</supplied>r</abbr><ex>vus</ex></expan> <expan><abbr>vilic</abbr><ex>us</ex></expan> ex <expan><abbr>pri</abbr><ex>vatis</ex></expan> <lb n="8"/><supplied reason="lost">pr</supplied>ọ s<supplied reason="lost"><expan><abbr>al</abbr><ex>ute</ex></expan> s</supplied>ua <supplied reason="lost"><expan><abbr>suorumq</abbr><ex>ue</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au génie (protecteur) de la douane publique et de Titus Iulius Saturninus, fermier de la douane publique de l'Illyricum. Maximianus, esclave intendant appartenant à celui-là, (érigea le monument) pour sa santé (et pour celle des siens).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Tant le champ épigraphique que les les reliefs des côtés droit et gauche de la pièce sont encadrés par des bords moulurés. Sur le côté droit on distingue à peine une divinité féminine ayant les cheveux serrés sous un diadème, portant chiton et palium, tenant dans la main gauche probablement une cornucopia et dans la main droite une patère. Sur le côté gauche on distingue dans une niche demi-circulaire le buste d'une divinité. Il s'agit de Mercure. Au-dessous de la niche on distingue quelque chose comme un dauphin ou un monstre marin. Nous avons affaire à un bureau du publicum portorium Illyrici qui percevait un droit de péage pour le passage d'un pont de Mureș ou dans le port de Partoș. T. Iulius Saturninus est un bien connu conductor publici porterai Illyrici.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

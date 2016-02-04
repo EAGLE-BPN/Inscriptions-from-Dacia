@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000240</idno>
+
+  <idno type="localID">fm00000240</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Murighiol</placeName>                     
+                        </settlement>
+                        <repository>Museum of Tulcea</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/502">Sandstone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>256</height>
+                                         <width>25</width>
+                                         <depth>90</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv">Stele</rs>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Yes
+                                <height unit="cm">6-8</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/NaN">Halmyris</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Second half of the second century AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1987</date>
+                                <placeName>In the Late Roman fort, used as threshold in the phase II of the northern gate</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>AE 1991, 1387</bibl><bibl> Conrad, Grabstelen, p. 182-183, no. 216</bibl><bibl> M. Zahariade, C. Alexandresch, Greek and Latin Inscriptions from Halmyris, 2011, 25</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Memmia Mar<lb break="no" n="3"/>cia vixit <lb n="4"/>annis XVIIII <lb n="5"/><expan><abbr>Mem</abbr><ex>mius</ex></expan> Mar<lb break="no" n="6"/>cus pater <lb n="7"/>eius et <expan><abbr>Fl</abbr><ex>avius</ex></expan> Mar<lb break="no" n="8"/>tinus mari<lb break="no" n="9"/>tus eius et <lb n="10"/><expan><abbr>Fl</abbr><ex>avius</ex></expan> Secun<lb break="no" n="11"/>dus <expan><abbr>d</abbr><ex>ispensator</ex></expan> eius <lb n="12"/>coniugi <lb n="13"/><expan><abbr>p</abbr><ex>ientissimae</ex></expan> <expan><abbr>p</abbr><ex>osuerunt</ex></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>l. 10: d(octor ?), Zahariade, Alexandrescu, translated as her teacher; it is nevertheless highly possible to have here a freedman (since he bears the same nomen as Flavius Martinus) who was treasurer (steward) of the family, dispensator</p>
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the Gods of the Underworld! To Memmia Marcia, who lived 19 years. Memmius Marcus, her father, and Flavius Martinus, her husband, and Flavius Secundus, her treasurer, to the most pious wife set (the stele).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

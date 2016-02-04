@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription dédiée au génie protecteur du local des beneficiarii</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000157.html</idno>
+                
+                
+               <idno type="localID">ip00000157</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/138">?</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Derrière l'église réformée, en position secondaire. Provient sans doute du camp légionnaire.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0200" notAfter-custom="0203" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Le gouvernement de Dacie par L. Octavius Iulianus est daté des années 200-202 / 203; voir I. Piso, Fasti provinciae Daciae I. Die senatorischen Amtsträger, Bonn 1993, p. 19-161, no 33.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1600</date>
+                                <placeName>Turda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PO_18" url="https://upload.wikimedia.org/wikipedia/commons/7/71/PO_18.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_18.jpg">
+       <desc> PO_18
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 876 </bibl><bibl> E. Schallmayer et alii, Osterburken I, p. 422-423, no 2 </bibl><bibl> I. Piso, Fasti I, p. 19, no 4 </bibl><bibl> M. Bărbulescu, Inscriptions, p. 60-63, no 4.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Gen</abbr><ex>io</ex></expan> scho <supplied reason="lost"> <expan><abbr>l</abbr><ex>ae</ex></expan></supplied> <lb n="2"/><expan><abbr>b</abbr><ex>ene</ex></expan>&lt;<expan><abbr>f</abbr><ex>iciariorum</ex></expan>&gt; sub Oc <supplied reason="lost"> <expan><abbr>t</abbr><ex>avio</ex></expan></supplied> <lb n="3"/>Iu<supplied reason="omitted">l</supplied>ian <supplied reason="lost"> o</supplied> le&lt;<expan><abbr>g</abbr><ex>ato</ex></expan>&gt; <lb n="4"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> <supplied reason="lost"> <expan><abbr>pr</abbr><ex>o</ex></expan></supplied> <supplied reason="omitted">p</supplied><expan><abbr>r</abbr><ex>aetore</ex></expan> AB <lb n="5"/>APMIHAAN <lb n="6"/>Iu&lt;<expan><abbr>l</abbr><ex>io</ex></expan>&gt; Val <supplied reason="lost"> e</supplied>n <supplied reason="lost"> te</supplied> <lb n="7"/>- - - - - -.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Mommsen, d’après Gruter : GEN∙SCHO / BBSVBOC / IVIIANLEO / AVGSTRAB / APMIHAAN / IVTVALN ; son développement du texte : Gen(io) scho [ larum] / b(eneficiarii) sub Oc [ tavio] / Iulian(o) leg [ ato] / Aug(usti) - - - / - - - / v(otum) a(nimo) l(ibentes) [ m(erito)] s(olvunt) ; Schallmayer et alii, HD : Gen(io) scho [ l(ae)] / b(eneficiariorum) sub Oc [ t(avio)] / Iulian(o) le&lt;g(ato)&gt; / Aug&lt;u&gt;st&lt;o&gt;r(um) ab / APMIHAAN / IVTVALN.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au génie(protecteur) du local des beneficiarii, sous l’autorité de Octavius Iulianus, légat de l’empereur en tant que pro praetore(gouverneur), …, Iulius Valens, ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il s’agit ici des beneficiarii du légat de la légion. éventuellement des beneficiarii des tribuns de la légion et de ceux du praefectus castrorum, et pas des beneficiarii du gouverneur, qui étaient détachés à Apulum ; pour les diverses catégories des beneficiarii voir A. v. Domaszewski, Rangordnung2, p. 32 sqq. Dans la l. 6 peut avoir été nommé un légat de légion.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Altar</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000125.html</idno>
+
+  <idno type="localID">fm00000125</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Bulgaria</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Vidin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Archar</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">Altar</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>97</height>
+                                         <width>31</width>
+                                         <depth>30</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="http://www.trismegistos.org/place/029790">Ratiaria</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029481">Moesia superior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Third century, the name Aurelius and the the dedication to the Augustus, Dominus noster</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Bcela</placeName> 
+                            <placeName type="modernRegion">Vidin</placeName>
+                            <placeName type="modernCountry">Bulgaria</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, AEM 3, p. 42, nr. 3 </bibl><bibl> CIL III 8082</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Herculi <lb n="2"/>invicto p<lb break="no" n="3"/>ro <expan><abbr>s</abbr><ex>alute</ex></expan> <expan><abbr>d</abbr><ex>omini</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> Au<lb break="no" n="4"/><expan><abbr>g</abbr><ex>usti</ex></expan> <expan><abbr>Aur</abbr><ex>elius</ex></expan> Erod<lb break="no" n="5"/>5 es pro <expan><abbr>s</abbr><ex>alute</ex></expan> sua <lb n="6"/>et suorum <lb n="7"/>ex viso <expan><abbr>p</abbr><ex>osuit</ex></expan>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+            <div type="commentary">
+                <p>The same person also in AE 1902, 70 = 1905, 219</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

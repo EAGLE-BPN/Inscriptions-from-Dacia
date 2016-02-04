@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="0168" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement de la période 168-193 / 211, tout comme AE 1992, 1468 = 1993, 1332; AE 1992, 1470 = 1993, 1332.</origDate>
+                              <origDate notBefore-custom="0168"  datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement de la période 168-193 / 211, tout comme AE 1992, 1468 = 1993, 1332; AE 1992, 1470 = 1993, 1332.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>198</date>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
    <!--      <facsimile>

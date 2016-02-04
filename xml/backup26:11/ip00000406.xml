@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un Hedylos</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000406.html</idno>
+                
+                
+               <idno type="localID">ip00000406</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 243</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire,</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>39</height>
+                                         <width/>
+                                         <depth>21</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hedera
+                                <height unit="cm">3.54.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>?
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIème siècle, en raison du nom de facture pérégrine du défunt.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_87" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/POR_87.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_87.jpg">
+       <desc> POR_87
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Macrea, ActMuz 2, 1956, p. 116-117, no 15, fig. 11 (dessin) </bibl><bibl> I. I. Russu, StComSibiu 12, 1965, p. 72-73, no 34, fig. 34 (dessin) </bibl><bibl> SEG 25, 1971, 833 </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 18-19, no 21 (photo) </bibl><bibl> SEG 32, 1982, 718 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 109, no 28</bibl><bibl> N. Gudea, AMP 13, 1989, p. 771, no 51, p. 1140, pl. CCLXXVII </bibl><bibl> CIGD 64 </bibl><bibl> ILD 705.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Χα<supplied reason="lost">ῖρε</supplied> <lb n="2"/>Ἡδύλ<supplied reason="lost">ος</supplied> <lb n="3"/>Θασ<supplied reason="lost">ίου</supplied> <lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>M. Macrea : Χα[ῖρε] / Ἥδυ[λος Ἀγα]/θα[ρχίδου] ; I. I. Russu : Χα[ῖρε] / Ἡδύλ[ος] / Θασ[ίος] ; Gudea, V. Lucăcel, L. Țeposu Marinescu, Gudea : le texte reproduit avec des erreurs ; C. C. Petolescu (ILD), l. 2 : Ἡδύ[λος ...], mais la décoration de la stèle suggère que la largeur du champ épigraphique ne permet pas un patronyme dans la l. 2.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Salut à toi! Hedulos, (fils de) Thasios, ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>W. Pape, Wörterbuch, p. 453 : Ἡδύλος ou ῞Ηδυλος ; signifie « petit trésor ». Dans la l. 3 la solution de I. I. Russu, Θασ[ίος], a été suivi par tous les auteurs ; L. Ruscu (AMN 35, 1998, p. 166) : « Hedylos aus Thasos » ; eadem (CIGD) remarque que l’inscription de Porolissum contient le seul anthroponyme grec de Dacie avec l’indication de l’origine. Pourtant, Θασίος peut très bien être nom propre (CIL VI 21303: P. Licinius C(aiae) l. Thasius; voir W. Pape, Wörterbuch, p. 482 ; H. Solin, Personennamen I, p. 625).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

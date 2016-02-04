@@ -69,7 +69,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvée dans un mur d'une maison de Caransebeș
-                                <placeName ref="http://www.trismegistos.org/place/NaN">Territoire de Tibiscum</placeName>
+                                <placeName>Territoire de Tibiscum</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison du titre pater patriae de l'empereur Hadrien, à partir de 128; probablement de 132, lors d'une visite de l'empereur en Dacie; voir I. Piso, Fasti provinciae Daciae II. Die ritterlichen Amtsträger, Bonn 2013, p. 104.</origDate>
@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
    <graphic n="SA_3" url="https://upload.wikimedia.org/wikipedia/commons/b/b0/SA_3.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SA_3.jpg">
        <desc> SA_3
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

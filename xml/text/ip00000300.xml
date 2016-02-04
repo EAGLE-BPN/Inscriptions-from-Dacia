@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030229">Certia</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il s’agit plutôt d’une inscription impériale de construction. Les empereurs les plus significatifs portant dans leur titulature la seconde acclamation impériale sont Hadrien, à partir de 135 (D. Kienast, Kaisertabelle 130) et, surtout, Antonin le Pieux, à partir de 142 (D. Kienast, p. 135). Probablement nous avons affaire au second empereur, ce qui pourrait constituer un indice pour la transformation en pierre du camp de Romita.</origDate>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Il s’agit plutôt d’une inscription impériale de construction. Les empereurs les plus significatifs portant dans leur titulature la seconde acclamation impériale sont Hadrien, à partir de 135 (D. Kienast, Kaisertabelle 130) et, surtout, Antonin le Pieux, à partir de 142 (D. Kienast, p. 135). Probablement nous avons affaire au second empereur, ce qui pourrait constituer un indice pour la transformation en pierre du camp de Romita.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>Vers 1970</date>
@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader><!--
          <facsimile>
 
    <graphic n="ROM_1" url="https://commons.wikimedia.org/wiki/File:ROM_1.jpg">
        <desc> ROM_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

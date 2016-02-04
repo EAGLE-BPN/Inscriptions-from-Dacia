@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Par analogie avec AE 1992, 1469 = 1993, 1332; AE 1992, 1470 = 1993, 1332, trouvées dans le même sanctuaire, probablement de l'intervalle 168-193 / 211.</origDate>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Par analogie avec AE 1992, 1469 = 1993, 1332; AE 1992, 1470 = 1993, 1332, trouvées dans le même sanctuaire, probablement de l'intervalle 168-193 / 211.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>198</date>
@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
    <graphic n="PO_42" url="https://upload.wikimedia.org/wikipedia/commons/b/bc/PO_42.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_42.jpg">
        <desc> PO_42
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

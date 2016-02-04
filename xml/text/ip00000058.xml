@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, à partir de l’arrivée de la légion en Dacie, vers 168. Pourtant, les épithètes p(ia) f(idelis) de la légion pourraient indiquer le règne de Septime Sévère, car dans CIL III 90 de 19 la légion porte les épithétes officielles P P - p(ia) [ f(idelis)] et dans CIL III 1264 porte, sous les trois Augustes(198-211), les épithètes p(ia) f(idelis).</origDate>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe, à partir de l’arrivée de la légion en Dacie, vers 168. Pourtant, les épithètes p(ia) f(idelis) de la légion pourraient indiquer le règne de Septime Sévère, car dans CIL III 90 de 19 la légion porte les épithétes officielles P P - p(ia) [ f(idelis)] et dans CIL III 1264 porte, sous les trois Augustes(198-211), les épithètes p(ia) f(idelis).</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>1978</date>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
     <text>

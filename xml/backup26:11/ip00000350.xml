@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'Aurelius Masinnus(?)</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000350.html</idno>
+                
+                
+               <idno type="localID">ip00000350</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sutor</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>254</height>
+                                         <width>10</width>
+                                         <depth>78</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation; hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1878 et vue par A. v. Domaszewski à Cluj.
+                                <placeName ref="http://www.trismegistos.org/place/030231">Optatiana</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du nomen Aurelius pas accompagné par praenomen et en raison de l’écriture.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1878</date>
+                                <placeName>Sutor</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="POR_31" url="https://commons.wikimedia.org/wiki/File:POR_31.jpg">
+       <desc> POR_31
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Torma, AEM 3, 1879, p. 92, no 12 </bibl><bibl> CIL III 7644 </bibl><bibl> Gr. Florescu, EDR 4, 1930, p. 85, no 12 </bibl><bibl> I. I. Russu, AMN 5, 1968, p. 460, n. 15 </bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 129, no 112, pl. XI (photo) </bibl><bibl> C. C. Petolescu, Auxilia, p. 61.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>Aurel</abbr><ex>ii</ex></expan> Masinni <lb n="3"/><expan><abbr>dupl</abbr><ex>arii</ex></expan> al<expan><ex>a</ex><abbr>e</abbr></expan> (miliariae) <lb n="4"/>vixit annis <lb n="5"/>5 XXXVI Iulia Se <lb n="6"/>vera coniux <lb n="7"/>et <expan><abbr>Fl</abbr><ex>avius</ex></expan> Saturni <lb n="8"/>nus heres <lb n="9"/>ob merita posue <lb n="10"/>10 runt <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uraverunt</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Aurelius Masinnius (?), duplarius de l’ala miliaria, a vécu 36 ans. Iulia Severa en tant qu’épouse et Flavius Saturninus en tant qu’héritier érigèrent (ceci) pour (ses) mérites. Il prirent le soin de le faire.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le cognomen Masinnus ou Massinius pourrait être d’origine celtique (I. I. Russu). L. 3, A. v. Domaszewski (CIL) : dupli(carius). Par l’ala miliaria on pourrait comprendre l’ala I Batavorum miliaria, qui stationnait normalement à Războieni-Cetate ; cf. C. C. Petolescu, Auxilia, p. 62. Pourtant, nous nous trouvons au IIIème siècle, lorsque beaucoup de troupes ont changé de garnison et de nouvelles troupes ont été constituées. Par conséquent, à Optatiana il peut s’agir d’une troupe encore inconnue. Pour le duplarius (duplicarius) alae voir A. v. Domaszewski, Rangordnung2, p. 53-54.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

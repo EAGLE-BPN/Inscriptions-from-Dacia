@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000108.html</idno>
+
+                <idno type="localID">rv00000108</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Museum of Sarmizegetusa(there are 213 pieces)</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>instrumentum militare; brick</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/131">clay</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>2</height>
+                                         <width>11</width>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/8">stamped</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1,9</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/30060">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">106-117</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>forum vetus</placeName> 
+                            <placeName type="modernRegion">Hunedoara</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term/>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="UTS_104" url="https://upload.wikimedia.org/wikipedia/commons/5/55/UTS_104.png" sameAs="https://commons.wikimedia.org/wiki/File:UTS_104.png">
+       <desc> UTS_104
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G.Téglás, P. König, AEM 8, 1884, p. 54 II, no2</bibl><bibl> G. Téglás, AEM 11, 1887, p. 238, no5</bibl><bibl> idem, Klio 10, 1910, p. 497, no27</bibl><bibl> CIL III, 8070 e</bibl><bibl> Szilágyi, p. 40, pl. I, fig. 6</bibl><bibl> Protase 1967, p. 58, fig. 15, no1, 4</bibl><bibl> IDR III / 2, 540</bibl><bibl> H. Daicoviciu et coll.1981, p. 252, 254, fig. 7, no1-2</bibl><bibl> Étienne-Piso-Diaconescu 1990 / 2, p. 103</bibl><bibl> iidem 1994, p. 157</bibl><bibl> Piso 1996, p. 154-155, no1 = 2005, p. 296-297, no1</bibl><bibl> AE 1996, 1279 a</bibl><bibl> Étienne-Piso-Diaconescu 2002-2003, p. 89, pl. XIX</bibl><bibl> I. Piso, Le vorum vetus de Sarmizegetusa, Bucuresti, 2006, p. 313-314.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Leg</abbr><ex>ionis</ex></expan> I[III <expan><abbr>F</abbr><ex>lauiae</ex></expan> <expan><abbr>F</abbr><ex>elicis</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Of the legion IIII Flavia Felix</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

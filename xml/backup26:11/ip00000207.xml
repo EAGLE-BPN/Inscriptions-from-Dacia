@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription en honneur de Philippe l'Arabe et de sa famille</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000207.html</idno>
+                
+                
+               <idno type="localID">ip00000207</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turda, inv. 17049</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque honorifique encastrée dans une base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>17</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">2.7</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1987 dans la basilique des principia du camp légionnaire, devant la chambre A(aedes principiorum).
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0247" notAfter-custom="0249" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Sont honorés l'empereur Philippe l'Arabe et sont fils, devenu Auguste en été 247, ce qui date l'inscription de 247-249.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1987</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_208" url="https://commons.wikimedia.org/wiki/File:PO_208.jpg">
+       <desc> PO_208
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, Inscriptions, p. 164-16, no 1, fig. 70 </bibl><bibl> I. Piso, sous presse.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> [ [ <expan><abbr>Imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <expan><abbr>M</abbr><ex>arco</ex></expan> Iulio Philippo Pio</supplied>] <lb n="2"/>Fe]ḷici A <supplied reason="lost"> <expan><abbr>ug</abbr><ex>usto</ex></expan> <expan><abbr>p</abbr><ex>ontifici</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <expan><abbr>tr</abbr><ex>ibunicia</ex></expan> <expan><abbr>p</abbr><ex>otestate</ex></expan> .. <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></supplied> <lb n="3"/>et <expan><abbr>Imp</abbr><ex>eratori</ex></expan> C <supplied reason="lost"> aesari [ [ <expan><abbr>M</abbr><ex>arco</ex></expan> Iulio Philip</supplied>]] <lb n="4"/><supplied reason="lost"> [ [ p</supplied>ọ]] Pio <supplied reason="lost"> Felici <expan><abbr>Aug</abbr><ex>usto</ex></expan> <expan><abbr>fil</abbr><ex>io</ex></expan></supplied> <lb n="5"/><supplied reason="lost"> <expan><abbr>d</abbr><ex>omini</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> [ [ Philippi</supplied>] <expan><abbr>Aug</abbr><ex>usti</ex></expan> - - - <lb n="6"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À l’empereur César Marcus Iulius Philippus, le pieux, l’heureux, Auguste, grand pontife, investi de la puissance tribunicienne pour la ... fois, consul, père de la patrie) et à l’empereur César(Marcus Iulius) Philippus, le pieux,(l’heureux, Auguste, fils de notre seigneur Philippe Auguste, ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Bărbulescu : [ ...FE]LICI∙A.... / ...ET IMP(eratori) C(aesari)... / ......PIO [ FELICI]. Dans la l. 1, après [ fe]lici il suppose une épithète comme Adiabenicus, Arabicus ou Armeniacus. En réalité, il s’agit de Aug(usto). Ensuite, le premier éditeur croit qu’il s’agisse de la paire impériale Marc Aurèle – Commode, de Septime Sévère – Caracalla ou de Philippe l’Arabe et son fils. Pourtant, Marc Aurèle, Commode et Septime Sévère ne portèrent pas les épithètes pius felix. Le premier éditeur n’a pas remarqué ni l’espace martelé dans la l. 3 avant PIO, ni le martelage de la l. 4, qui parlent pour les deux Philippes entre l’été de 247 et 249(voir D. Kienast, Kaisertabelle, p. 199). À partir de la proclamation de Philippus iunior en tant qu’Auguste, il porte, comme son père, la titulature impériale. Ce n’est pas celle-ci, ni, à plus forte raison, le nom de Marcia Otacilia Severa qui a été martelé dans la l. 4. On peut alors penser à une filiation comme dans EphEp 8 / 1, 739(Nora) : - - - M(arcus) Iulius Philippus Pius Felix Aug(ustus) filius d(omini) n(ostri) Phil [ ip]pi Aug(usti) - - -. Le nom de l’impératrice aura été écrit en bas. La plaque aura été encastrée dans une base de statue représentant uniquement Philippus Arabs.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Épitaphe de Valeria Crescentilla</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000646.html</idno>
+                
+                
+               <idno type="localID">ip00000646</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Caraș-Severin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Jupa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Timișoara</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1773">Base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>122</height>
+                                         <width>46</width>
+                                         <depth>56</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée par M. Moga pendant ses fouilles dans le camp de Tibiscum, en position secondaire.
+                                <placeName ref="http://www.trismegistos.org/place/030131">Tibiscum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Comme Tibiscum a reçu le rang colonial au IIIème siècle, le territoire civil de Tibiscum appartenait au IIème siècle à la colonie de Sarmizegetusa, dont l'Augustale était C. Caecilius Felix.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1967</date>
+                                <placeName>Jupa</placeName> 
+                            <placeName type="modernRegion">Jud. Caraș-Severin</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="TB_53" url="https://upload.wikimedia.org/wikipedia/commons/2/2b/TB_53.jpg" sameAs="https://commons.wikimedia.org/wiki/File:TB_53.jpg">
+       <desc> TB_53
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Moga, Tibiscus 1, 1971, p. 42-43</bibl><bibl> C. C. Petolescu, SCIV 12/4, 1972, p. 495</bibl><bibl> M. Moga, I. I. Russu, Lapidarul Muzeului Banatului, Timișoara 1974, no 40</bibl><bibl> IDR III/1, 171.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Valeriae Cres <lb n="3"/>centillae <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="4"/><expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XXXV <lb n="5"/><expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>Caecil</abbr><ex>ius</ex></expan> Felix <lb n="6"/><expan><abbr>Aug</abbr><ex>ustalis</ex></expan> <expan><abbr>col</abbr><ex>oniae</ex></expan> <lb n="7"/>coniugi <lb n="8"/><expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erenti</ex></expan> <lb n="9"/>posuit.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Valeria Crescentilla, (qui) a vécu 35 ans. Caius Caecilius Felix, Augustale de la colonie, érigea (ceci) à l'épouse qui a bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>C. Caecilius Felix était Augustale de la colonie de Sarmizegetusa.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

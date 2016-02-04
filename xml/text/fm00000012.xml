@@ -26,7 +26,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                             <placeName type="modern">Mehedinți</placeName>
                         </region>
                         <settlement>
-                            <placeName>?</placeName>                     
+                            <placeName></placeName>                     
                         </settlement>
                         <repository>National Museum for the History of Romania, Bucharest</repository>
                         <collection/>
@@ -75,7 +75,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         </origin>
                         <provenance type="found">  
                             <date>?</date>
-                                <placeName>?</placeName> 
+                                <placeName></placeName> 
                             <placeName type="modernRegion">Mehedinți</placeName>
                             <placeName type="modernCountry">Romania</placeName>
                         </provenance>
@@ -114,19 +114,19 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="CIL III 1626_1" url="https://upload.wikimedia.org/wikipedia/commons/7/7d/CIL_III_1626_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 1626_1.jpg">
        <desc> CIL III 1626_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" CIL III 1626_2" url="https://upload.wikimedia.org/wikipedia/commons/2/21/CIL_III_1626_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 1626_2.jpg">
        <desc>  CIL III 1626_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

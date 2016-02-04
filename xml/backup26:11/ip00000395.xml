@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de l'épouse d'un centurion</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000395.html</idno>
+                
+                
+               <idno type="localID">ip00000395</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Le de droite, Mus. Zalău, inv. 1830.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>35</height>
+                                         <width>90</width>
+                                         <depth>20</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">5.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1943 lors des fouilles à la porta principalis sinistra du camp de Pomet, en position secondaire.
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de Septime Sévère, en raison du statut municipal de Porolissum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1943</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="POR_76" url="https://commons.wikimedia.org/wiki/File:POR_76.jpg">
+       <desc> POR_76
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    -->
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Le de droite - N. Gudea, V. Lucăcel, Inscripții, p. 20, no 25 (photo) </bibl><bibl> les quatre s - E. Tóth, Porolissum, p. 32, no 26 (dessin), pl. VII (photo) </bibl><bibl> AE 1979, 499 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 772, no 56, p. 774, no 64, p. 1141, pl. XXLXXVIII (photo du de droite) </bibl><bibl> ILD 709.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Ael</abbr><ex>ia</ex></expan> <supplied reason="lost">P</supplied>ọsiḍ<supplied reason="lost">onia</supplied>( <certainty match="preceding-sibling::node()" locus="value"/> v<supplied reason="lost">i</supplied>xit <lb n="2"/><expan><abbr>an</abbr><ex>nis</ex></expan> XL <expan><abbr>M</abbr><ex>arcus</ex></expan> Coc<supplied reason="lost">ce</supplied>ịus <lb n="3"/>Alexander <expan><abbr>vet</abbr><ex>eranus</ex></expan> <lb n="4"/>ex (centurione) augur <expan><abbr>m</abbr><ex>unicipii</ex></expan> <expan><abbr>Sep</abbr><ex>timii</ex></expan> <lb n="5"/>5 <expan><abbr>P<supplied reason="lost">o</supplied>r</abbr><ex>olissensis</ex></expan> con<supplied reason="lost">i</supplied>ugi <lb n="6"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>E. Tóth, l. 1 : Ael(ia) [- -]sin (ou sim)[- -] v(i)xit. Avant le S on distingue en bas une faible courbe qui peut appartenir à un O. Après les lettres SI une courbe pareille semble partir aussi du bout inférieur de la seconde haste ; un D est donc plus probable qu’un N ou un M.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aelia Posidonia( ?) a vécu 40 ans. Marcus Cocceius Alexander, vétéran, ancien centurion, augur du municipe Septimium Porolissense, (prit le soin de faire) à l’épouse ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Posidonia (Ποσειδωνία) est un nom grec. L’époux porte aussi un cognomen d’origine grecque, Alexander (Ἀλέξανδρος) ; voir L. Ruscu, AMN 35, 1998, p. 151. L’origine de la cité romaine dans la famille de M. Cocceius Alexander date du règne de Nerva.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

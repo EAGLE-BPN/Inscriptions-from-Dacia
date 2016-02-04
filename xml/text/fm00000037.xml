@@ -114,19 +114,19 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="AE 1957, 266_1" sameAs="https://commons.wikimedia.org/wiki/File:AE 1957, 266_1.JPG" url="https://upload.wikimedia.org/wikipedia/commons/a/ae/AE_1957%2C_266_1.JPG">
        <desc> AE 1957, 266_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" AE 1957, 266_2" url="https://upload.wikimedia.org/wikipedia/commons/1/17/AE_1957%2C_266_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1957, 266_2.jpg">
        <desc>  AE 1957, 266_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

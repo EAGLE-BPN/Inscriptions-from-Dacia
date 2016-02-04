@@ -23,10 +23,10 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                             <placeName type="modern">Romania/Bulgaria</placeName>
                         </country>
                         <region>
-                            <placeName type="modern">?</placeName>
+                            <placeName type="modern"></placeName>
                         </region>
                         <settlement>
-                            <placeName>?</placeName>                     
+                            <placeName></placeName>                     
                         </settlement>
                         <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
                         <collection/>
@@ -68,15 +68,15 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>
-                           <placeName ref="http://www.trismegistos.org/place/000425">?</placeName>
+                           <placeName ref="http://www.trismegistos.org/place/000425"></placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029481">Moesia superior</placeName>
                                 </origPlace>
                               <origDate notBefore-custom="0198" notAfter-custom="0208" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Joint reign of Septimius Severus and Caracalla</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>?</date>
-                                <placeName>?</placeName> 
-                            <placeName type="modernRegion">?</placeName>
+                                <placeName></placeName> 
+                            <placeName type="modernRegion"></placeName>
                             <placeName type="modernCountry">Romania/Bulgaria</placeName>
                         </provenance>
                     </history>
@@ -114,19 +114,19 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="CIL III 6229_1" url="https://upload.wikimedia.org/wikipedia/commons/b/bf/CIL_III_6229_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 6229_1.jpg">
        <desc> CIL III 6229_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" CIL III 6229_2" url="https://upload.wikimedia.org/wikipedia/commons/a/a1/CIL_III_6229_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 6229_2.JPG">
        <desc>  CIL III 6229_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

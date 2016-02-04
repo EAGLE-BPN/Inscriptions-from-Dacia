@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">http://inscriptionsfromdacia.altervista.org/text/fm00000054.html</idno>
+
+  <idno type="localID">fm00000054</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Tulcea</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Iglita</placeName>                     
+                        </settlement>
+                        <repository>Vasile Pârvan Institute of Archaeology, Bucharest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/502">Sandstone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>112</height>
+                                         <width/>
+                                         <depth>60</depth>
+                                             </dimensions>
+                                   <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">5-6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="http://www.trismegistos.org/place/029965">Troesmis</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="0103" notAfter-custom="0125" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Early second century, due to nominative case and the presence of hic situs est formula</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Iglita</placeName> 
+                            <placeName type="modernRegion">Tulcea</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="CIL III 7506_1" url="https://upload.wikimedia.org/wikipedia/commons/8/88/CIL_III_7506_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7506_1.jpg">
+       <desc> CIL III 7506_1
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 7506_2" url="https://upload.wikimedia.org/wikipedia/commons/f/f7/CIL_III_7506_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7506_2.JPG">
+       <desc>  CIL III 7506_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 7506_3" url="https://upload.wikimedia.org/wikipedia/commons/e/e4/CIL_III_7506_3.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7506_3.JPG">
+       <desc>  CIL III 7506_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, AEM 6, 1882, p. 45, no. 92 </bibl><bibl> CIL III 7506 </bibl><bibl> ISM V 194</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">Ti</supplied>b. Vitales ex <lb n="2"/><supplied reason="lost">b.f.</supplied> <expan><abbr>vet</abbr><ex>eranus</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> <lb n="3"/><expan><abbr><supplied reason="lost">sa</supplied>cerd</abbr><ex>os</ex>q</expan>(ue) provin<lb break="no" n="4"/><supplied reason="lost"><expan><abbr>c</abbr><ex>iae</ex></expan></supplied> <expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>os</ex></expan> LX viv<lb break="no" n="5"/><supplied reason="lost">o</supplied> se fecit, <expan><abbr>reliq</abbr><ex>uiarum</ex></expan> <lb n="6"/><expan><abbr><supplied reason="lost">c</supplied>uragent</abbr><ex>e</ex></expan> Tib. Vi<lb break="no" n="7"/><supplied reason="lost">t</supplied>ale <expan><abbr>fil</abbr><ex>io</ex></expan> et <expan><abbr>her</abbr><ex>ede</ex></expan> <lb n="8"/>h. s. e
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+
+        </body>
+    </text>
+</TEI>

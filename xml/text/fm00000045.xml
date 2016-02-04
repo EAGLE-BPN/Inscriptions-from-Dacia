@@ -114,24 +114,24 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="IDR II 341_1" url="https://upload.wikimedia.org/wikipedia/commons/6/61/IDR_II_341_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:IDR II 341_1.jpg">
        <desc> IDR II 341_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" IDR II 341_2" url="https://upload.wikimedia.org/wikipedia/commons/3/34/IDR_II_341_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:IDR II 341_2.jpg">
        <desc>  IDR II 341_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" IDR II 341_3" url="https://upload.wikimedia.org/wikipedia/commons/c/c8/IDR_II_341_3.JPG" sameAs="https://commons.wikimedia.org/wiki/File:IDR II 341_3.JPG">
        <desc>  IDR II 341_3
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

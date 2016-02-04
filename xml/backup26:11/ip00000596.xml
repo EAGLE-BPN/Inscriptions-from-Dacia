@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'Aurelia Barsemia</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000596.html</idno>
+                
+                
+               <idno type="localID">ip00000596</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Caraș-Severin</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Jupa?</placeName>                     
+                        </settlement>
+                        <repository>Musée de Caransebeș</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle funéraire,</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>93</height>
+                                         <width>15</width>
+                                         <depth>65</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hederae
+                                <height unit="cm">4.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée dans des conditions inconnues. Selon certaines informations la pièce serait originaire de Dalboșeț.
+                                <placeName ref="http://www.trismegistos.org/place/030131">Tibiscum?</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du nomen Aurelius.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers 1924-1928</date>
+                                <placeName>Jupa?</placeName> 
+                            <placeName type="modernRegion">Jud. Caraș-Severin</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="TB_3" url="https://upload.wikimedia.org/wikipedia/commons/1/1e/TB_3.jpg" sameAs="https://commons.wikimedia.org/wiki/File:TB_3.jpg">
+       <desc> TB_3
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, ACMIT 1929, p. 315, no 1, fig. 10 (photo)</bibl><bibl> idem, Dacica, Cluj 1970, p. 149</bibl><bibl> IDR III/1, 161.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Aur</abbr><ex cert="low">elia</ex></expan> S Barse <lb n="2"/>mia <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="3"/>an<expan><ex>n</ex><abbr>os</abbr></expan> XV <lb n="4"/><expan><abbr>Ael</abbr><ex>ia</ex></expan> Artemi <lb n="5"/>dora et <lb n="6"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Barea <lb n="7"/><expan><abbr>rcas</abbr><ex cert="low"/></expan> filibus <lb n="8"/>et fratri meṛ(enti)<certainty match="preceding-sibling::node()" locus="value"/> <lb n="9"/>NP<supplied reason="lost">.</supplied>T<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>I. I. Russu (IDR), l. 1: Aur(eliu)s?; l. 5-10: Ael(ia) Artimi/dora et Aur(elius) Barba/rcas fili(ae?) pus(uerunt) / et fratri Me/nio - - -.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aurelia(?) Barsemia a vécu 15 ans. Aelia Artemidora et Aurelius Barearcas(?) (érigea ceci) aux enfants et au frère (qui ont bien) mérité ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les noms Barsemia et Barearcas(?) sont syriens, Artemidora (Ἀρτεμιδώρα) est un nom grec. L. 8: filibus à la place de filiis. La fin de la l. 9 et la l. 10 ne sont pas claires. On nomme un seul défunt, ce qui est en contradiction avec filibus et fratri.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

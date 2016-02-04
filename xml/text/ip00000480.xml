@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Si C. Iulius Rufinu est un conductor publici portorii Illyrici, l'inscription est datable d'avant 174/176, quand la douane d'Illyricum a été mise sous l'autorité d'un procurateur et d'avant 147/157, quand conductor était T. Iulius Saturninus.</origDate>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Si C. Iulius Rufinu est un conductor publici portorii Illyrici, l'inscription est datable d'avant 174/176, quand la douane d'Illyricum a été mise sous l'autorité d'un procurateur et d'avant 147/157, quand conductor était T. Iulius Saturninus.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>2000</date>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
         

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour l'impératrice Herennia Etruscilla</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000375.html</idno>
+                
+                
+               <idno type="localID">ip00000375</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj, inv. IN 1308 = V 15806</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Base de statue impériale pédestre</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>178</height>
+                                         <width>65</width>
+                                         <depth>80</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Selon E. Tóth la pièce aurait été trouvée en 1934 devant la porta decumana du camp de Pomet, en position secondaire ; elle parvint au musée de Cluj.
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De l’année 251, peu avant la bataille du début de juin d’Abrittus.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1934</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_56" url="https://upload.wikimedia.org/wikipedia/commons/6/67/POR_56.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_56.jpg">
+       <desc> POR_56
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Dacia 7-8, 1937-1940, p. 328-330, no 7 f, fig. 26 (photo) </bibl><bibl> AE 1944, 56 </bibl><bibl> E. Tóth, Porolissum, p. 38, no 50 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 765, no 20, p. 1135, pl. CCLXXII (photo) </bibl><bibl> ILD 672 </bibl><bibl> P. Hügel, Dacia, p. 60, no 3 </bibl><bibl> Al. Diaconescu, Statuaria, p. 235, no 68 (photo).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [[Hereṇnịạẹ Ẹtrus <lb n="2"/>cillae sạncṭịṣṣimae <lb n="3"/>Augustae c<supplied reason="lost">o</supplied>niugi <expan><abbr>d</abbr><ex>omini</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> <lb n="4"/>Traiạni Dec<supplied reason="lost"><expan><abbr>i</abbr><ex>i</ex></expan></supplied> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <lb n="5"/>5 mạtr<supplied reason="lost">i</supplied> Decị(i) et Quin <lb n="6"/>ti <expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> et cạ]]stro <lb n="7"/>[[rum senatuṣ ac <lb n="8"/>patriae <expan><abbr>n</abbr><ex>umerus</ex></expan> <expan><abbr>Pal</abbr><ex>myrenorum</ex></expan>]] <lb n="9"/><expan><abbr>Porol</abbr><ex>issensium</ex></expan> <expan><abbr>sag</abbr><ex>ittariorum</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> <lb n="10"/>10 Decianus dica <lb n="11"/>tissimus numi <lb n="12"/>ni eorum.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Herennia Etruscilla, très sainte Auguste, épouse de notre seigneur Traianus Decius Auguste, mère des Augustes Decius et Quintus et des camps (patronne des militaires), du sénat et de la patrie. Le numerus Palmyrenorum Porolissensium Decianus de citoyens Romains, très dévouée à leur puissance divine.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La statue avait été érigée plutôt dans les principia du camp de Pomet que de celui de Citera. Sinon, elle ne serait pas parvenue à la porta decumana du camp de Pomet. On remarque l’épithète impériale Decianus et la distinction c(ivium) R(omanorum), accordée au IIème siècle. Al. Diaconescu est d’avis que « la partie supérieure serait difficillement à lire, puisqu’elle est martelée ». C’est pourquoi il propose dans la l. 5 la lecture Maessi Quin/ti, évidemment fausse, à la place mạtr[i] Decị(i) et Quin/ti. Il revient ensuite et se prononce pour la lecture matri, acceptée depuis C. Daicoviciu. Herennia Etruscilla apparaît en tant que mère de Decius et Quintus, tous les deux Augustes. Il s’agit de Imp. Caes. Q. Herennius Etruscus Messius Decius Aug. et de Imp. Caes. C. Valens Hostilianus Messius Quintus Aug. (voir D. Kienast, Kaisertabelle, p. 206-207).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

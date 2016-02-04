@@ -69,7 +69,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Trouvé en 1952 par le paysan Isaia Pușcaș à la porte nord-ouest du camp (porta decumana), pendant qu’il cherchait matériel de construction ; vue en 1958 par D. Protase et V. Lucăcel chez Pușcaș, qui l’avait utilisé comme marche ; transporté au musée de Zalău.
-                                <placeName ref="http://www.trismegistos.org/place/000425">?</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/000425"></placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Selon D. Protase la présence de la legio XIII Gemina à Tihău n’était pas possible après la constitution, en 118/119 de la province de Dacie Porolissensis. Pourtant, une vexillation de la legio XIII Gemina appartenant à l’armée de Dacie Supérieure avait participé en 130-132 à la construction du camp de Hoghiz (CIL III 953 = IDR III/4, 230 = AE 2000, 1258) et, toujours sous Hadrien, l’ala Flavia Gaetulorum appartenant à l’armée de Mésie Inférieure à la construction du camp de Boroșneul Mare (IDR III/4, 325 = AE 1999, 1286), bien que Hoghiz et Boroșneul Mare se trouve dans la Dacie Inférieure ; cf. AE 1994, ad 1484. D’autre part, il est fort improbable que la construction en pierre du camp de Tihău ait eu lieu si tôt et avant le camp de Porolissum/Pomet ; pour le camp de Tihău voir récemment F. Marcu, Roman Forts, p. 115-116. On pourrait prendre en considération la seconde moitié du règne d’Hadrien ou le règne d’Antonin le Pieux.</origDate>
@@ -116,7 +116,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
         

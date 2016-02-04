@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication on Plate</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000234</idno>
+
+  <idno type="localID">fm00000234</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanta</placeName>                     
+                        </settlement>
+                        <repository>Museum of Constanta</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/260">Plate</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">Marble</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>52</height>
+                                         <width>5.5</width>
+                                         <depth>71.5</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv">Plate</rs>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               No
+                                <height unit="cm">4.22.2</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/NaN">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">241 - 244 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>By the end of the 19th century</date>
+                                <placeName>?</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/79">Dedication</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, Fouilles et Recherches, p. 220-221, no. 52 = IGRR I 615</bibl><bibl> G. Bordenache, Sculture greche e romane, Bucharest, 1969, p. 62-63, no. 113</bibl><bibl> Em. Dorutiu-Boila, Dacia, N.S. 12, 1968, p. 403-404, no. 3</bibl><bibl> ISM II 107</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Ἀγαθῇ τύχῃ <lb n="2"/>ὑπὲρ τῆς κυρίου Αὐτοκράτορος Καίσαρος Μ(άρκου) Ἀντονίου <lb n="3"/><supplied reason="lost">Γορδια</supplied>νοῦ Εὐσ(εβοῦς) Εὐτ(υχοῦς) Σεβ(αστοῦ) τύχης τε καὶ νείκης καὶ αἰωνίου <lb n="4"/><supplied reason="lost">διαμονῆς καὶ τῆ</supplied>ς Σεβαστῆς Σαβεινίας Τρα<supplied reason="lost">γκυλλείνας</supplied> <lb n="5"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"></supplied>ΙΛΙΤΩΝΙΟΥ<gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"></supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>l. 4: ΤΙΑΙΕΩΝΙΟΥ, Dorutiu-Boila</p>
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the Good Fortune! For the fortune, victory and the forever lasting of our Lord Emperor Caesar Marcus Antonius Gordianus, Pius Felix Augustus, and Augusta Sabinia Tranquillina [- - -]</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>The last two lines were erased and re-engraved after 241, the year when Gordianus married Sabinia Tranquillina</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

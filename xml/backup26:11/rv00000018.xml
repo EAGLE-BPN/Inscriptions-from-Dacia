@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>votive inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000018.html</idno>
+
+                <idno type="localID">rv00000018</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>a. in the forum vetus, b.+c. at theMuseum of Sarmizegetusa, d. disappeared</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">statue base</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>8; 2</height>
+                                         <width>8; 2</width>
+                                         <depth>6</depth>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution">carving</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">3,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/30060">Ulpia Traiana Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Antoninus Pius- Marcus Aurelius, based on stylistic details</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>a. by C. Daicoviciu,b.+d. in 1990, c. in 1992</date>
+                                <placeName>forum vetus</placeName> 
+                            <placeName type="modernRegion">Hunedoara</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">votive inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="UTS_18" url="https://upload.wikimedia.org/wikipedia/commons/5/5f/UTS_18.png" sameAs="https://commons.wikimedia.org/wiki/File:UTS_18.png">
+       <desc> UTS_18
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Fouilles de Sarmizegetusa. Deuxième compte-rendu(1925-1928),Dacia 3-4, 1927-1932, p. 546, no4</bibl><bibl> I. I. Russu, SCIVA 25 / 4, 1974, p. 589-590, no4</bibl><bibl> M.Bărbulescu, AIIA Cluj 20, 1977, p.274</bibl><bibl> IDR III / 2, 195</bibl><bibl> I. Piso, Al.Diaconescu 1985-1986, p. 180</bibl><bibl> tous les fragments - Étienne-Piso-Diaconescu2002-2003, p. 147, n. 147</bibl><bibl> AE 2003,1519I. Piso, Le vorum vetus de Sarmizegetusa, Bucuresti, 2006, p.235-238.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Concord</abbr><ex>iae</ex></expan> <lb n="2"/><supplied reason="lost">or</supplied>din<supplied reason="lost">i</supplied>s <lb n="3"/><supplied reason="lost">quam<certainty locus="name" match="preceding-sibling::text()" cert="low"/> <expan><abbr>Ulp</abbr><ex>ius</ex></expan> D</supplied>omi<supplied reason="lost"><expan><abbr>t</abbr><ex>ius</ex></expan></supplied> <lb n="4"/><supplied reason="lost">Hermes <expan><abbr>Aug</abbr><ex>ustalis</ex></expan> <expan><abbr>col</abbr><ex>oniae</ex></expan></supplied> <lb n="5"/><supplied reason="lost">ob</supplied> hon<supplied reason="lost">orem or</supplied><lb break="no" n="6"/><expan><abbr><supplied reason="lost">na</supplied>m</abbr><ex>entorum</ex></expan> <expan><abbr>dec</abbr><ex>urionalium</ex></expan> <supplied reason="lost"><expan><abbr>promis</abbr><ex>erat</ex></expan></supplied> <lb n="7"/><expan><abbr><supplied reason="lost">V</supplied>al</abbr><ex>erius</ex></expan> <supplied reason="lost">Threptus</supplied> <lb n="8"/>et<supplied reason="lost"><expan><abbr>Domiti</abbr><ex>i</ex></expan></supplied> <lb n="9"/>Regulu<supplied reason="lost">s <expan><abbr>Hippon</abbr><ex>icus</ex></expan></supplied> <lb n="10"/>Her<supplied reason="lost">mes Onesimus</supplied> <lb n="11"/><supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustales</ex></expan> <expan><abbr>col</abbr><ex>oniae</ex></expan> <expan><abbr>h</abbr><ex>eredes</ex></expan> <expan><abbr>p</abbr><ex>onendum</ex></expan> <expan><abbr>c</abbr><ex>urauerunt</ex></expan> <expan><abbr>l</abbr><ex>oco</ex></expan> <expan><abbr>d</abbr><ex>ato</ex></expan> <expan><abbr>d</abbr><ex>ecurionum</ex></expan> <expan><abbr>d</abbr><ex>ecreto</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the concord of the ordre.(The statue) promised by Ulpius Domitius Hermes, augustal of the colonia, when he was granted the honorifc decurion's ornaments, was erected by Valerius Threptus and the Domitii Regulus, Hipponicus, Hermes, Onesimus, augustales of the colonia, as his heirs. The place was given by a decree of the decurions.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

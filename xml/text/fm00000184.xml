@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary on Stele</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/fm00000184</idno>
+
+  <idno type="localID">fm00000184</idno>
+<availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Bulgaria</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Olt</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Celei/Corabia</placeName>                     
+                        </settlement>
+                        <repository>The Oltenia Museum, Craiova</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">Limestone</material>
+<p/>
+                                    <dimensions unit="cm">
+                                <height>150</height>
+                                         <width>36</width>
+                                         <depth>85</depth>
+                                             </dimensions>
+                                   <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                   </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                  <rs type="execution"/><dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               yes
+                                <height unit="cm">5.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                           <placeName ref="www.trismegistos.org/place/029839">Oescus</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/029480">Moesia inferior</placeName>
+                                </origPlace>
+                              <origDate   datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Second half of the first century AD, when V Macedonica legion was garrisoned in the Oescus fortress. Other criteria: the name of the deceased in nominative case; the missing of Dis Manibus formula; the presence of hic situs est formula. All these data speak for an early dating.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>By the end of the 19th century</date>
+                                <placeName>In the Sucidava Late Roman fortification</placeName> 
+                            <placeName type="modernRegion">Olt</placeName>
+                            <placeName type="modernCountry">Bulgaria</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+     <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Funerary</term></keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-06-03" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+    <graphic n="CIL III 14492" url="https://upload.wikimedia.org/wikipedia/commons/b/b7/CIL_III_14492.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 14492.jpg">
+       <desc> CIL III 14492
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+    <graphic n=" CIL III 14492_1" url="https://upload.wikimedia.org/wikipedia/commons/2/2b/CIL_III_14492_1.jpg
+" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 14492_1.jpg">
+       <desc>  CIL III 14492_1
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Gr. Tocilescu, Fouilles et recherches, Buchares, 1901, p. 190 </bibl><bibl> CIL III 14492 </bibl><bibl> Gr. Florescu, MonFun Dacia inferior, Bucharest, 1942, p. 29 </bibl><bibl> IDR II 203</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            In the upper register, near the depiction of the soldier, holding a signum : <expan><abbr>m</abbr><ex>ilitavit</ex></expan> <expan><abbr>a</abbr><ex>nnos</ex></expan> XX <lb n="2"/><expan><abbr>Q</abbr><ex>uintus</ex></expan> Philippicus <lb n="3"/><expan><abbr>Q</abbr><ex>uinti</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> <expan><abbr>Mae</abbr><ex>cia tribu</ex></expan> Edessa <lb n="4"/>signi<supplied reason="lost">f</supplied>er <expan><abbr>leg</abbr><ex>ionis</ex></expan> V (Macedonicae<certainty match="preceding-sibling::node()" locus="value"/> <lb n="5"/>vixit annos XXXX. <lb n="6"/><expan><abbr>H</abbr><ex>ic</ex></expan> <expan><abbr>s</abbr><ex>itus</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>, ex <expan><abbr>tes</abbr><ex>stamento</ex></expan> <expan><abbr>f</abbr><ex>acere</ex></expan> <expan><abbr>ius</abbr><ex>sit</ex></expan> <lb n="7"/><expan><abbr>her</abbr><ex>es</ex></expan> <supplied reason="lost"><expan><abbr>f</abbr><ex>aciendum</ex></expan></supplied> <expan><abbr>c</abbr><ex>uravit</ex></expan> <expan><abbr>arbitr</abbr><ex>atu</ex></expan> <lb n="8"/>Antoni <expan><abbr>architect</abbr><ex>i</ex></expan> <lb n="9"/>et T<supplied reason="lost">i</supplied>ti coriari.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    He served for 20 years. Here lies Quintus Philippicus, the son of Quintus, belonging to the Maecia tribe, from Edessa (Macedonia province), standard's bearer of the fifth (Macedonica ?) legion, lived for 40 years. The heir managed to be done, after the advises of Antonius, the architect, and Titus, the leather worker.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>The funerary stele was reused in the late Roman fortification from Sucidava. It belongs, without any doubts, to Oescus, Bulgaria. Therefore, any attempt to link this inscription with the history of the Dacia inferior province is wrong. He originated from Edessa, Macedonia province, since he was member of the Maecia tribe. He served in the fifth legion. If indeed the stele comes from Oescus, than it would have been without any hesitation the V Macedonica legion. Nevertheless, in the area of Lower Danube it is also the V Alaudae only by literary sources attested.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

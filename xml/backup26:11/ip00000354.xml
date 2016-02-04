@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de construction de l'empereur Hadrien.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000354.html</idno>
+                
+                
+               <idno type="localID">ip00000354</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>disparue</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée à Porolissum en 1857 ; en 1863 se trouvait chez le comte L. Andrássy à Gârceni (Görcsön), vers 1890 dans la collection de L. Szikszay de Zalău, où elle a été vue par A. v. Domaszewski.
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 157, en raison du chiffre de la puisssance tribunicienne de l’empereur.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1857</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="POR_35" url="https://commons.wikimedia.org/wiki/File:POR_35.jpg">
+       <desc> POR_35
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Torma, Acta Arch. Acad. Hung. 11/2, 1863, p. 18, no 14 </bibl><bibl>CIL III 836 (+ p. 1377) </bibl><bibl> Kerényi, Personennamen, p. - - -, no 628 </bibl><bibl> M. Horster, Bauinschriften, p. 439, no XXXI/4 </bibl><bibl> I. Bajusz, dans: Civilizația romană în Dacia (éd. M. Bărbulescu), Cluj-Napoca 1997, p. 92 </bibl><bibl> idem, dans: Limes XIX. Proceedings of the XIXth International Congress of Roman Frontier Studies (Pécs, Hungary, September 2003), Pécs 2005, p. 881 </bibl><bibl> idem, Amfiteatrul. pl. LXXIII (reproduction du CIL) </bibl><bibl> I. Piso, Fasti II, p. 122, no 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar <expan><abbr>T</abbr><ex>itus</ex></expan> <expan><abbr>Ael</abbr><ex>ius</ex></expan> Hadri <lb n="2"/>anus Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Pi <lb n="3"/>us <expan><abbr>p</abbr><ex>ontifex</ex></expan> <expan><abbr>m</abbr><ex>aximus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> XX <expan><abbr>imp</abbr><ex>erator</ex></expan> II co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> <lb n="4"/>IIII <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> amphitheatrum vetus <lb n="5"/>5 tate dilapsum denuo fe <lb n="6"/>cit curante <expan><abbr>Tib</abbr><ex>erio</ex></expan> <expan><abbr>Cl</abbr><ex>audio</ex></expan> Quinti <lb n="7"/>liano <expan><abbr>proc</abbr><ex>uratore</ex></expan> suo.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L’empereur César Titus Aelius Hadrianus Auguste, le Pieux, grand pontife, investi avec la puissance tribunicienne vingt fois, acclamé imperator deux fois, consul quatre fois, construit à nouveau l’amphithéâtre écroulé par l’âge par les soins de Tiberius Claudius Quintilianus, son procurateur.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>C’est sous Antonin le Pieux que l’amphithéâtre en bois de Porolissum fut reonstruit en pierre (voir I. Bajusz) ; c’est ce qui s’est passé aussi à Sarmizegetusa, voir l’estampille tégulaire CIL III 8077, 1 = IDR III/2, 558, trouvée dans l’amphithéâtre de Sarmizegetusa et datée de 158. Tib. Claudius Quintilianus entreprit cette construction en tant que procurateur présidial de Dacie Porolissensis ; voir pour ce personnage I. Piso, Fasti II, p. 122-123.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

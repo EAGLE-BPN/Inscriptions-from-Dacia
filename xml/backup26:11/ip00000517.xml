@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Estampille de la legio XIII Gemina</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000517.html</idno>
+                
+                
+               <idno type="localID">ip00000517</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Alba Iulia</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique d'hypocauste</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>13</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1.3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Inconnu, mais la pièce provient avec certitude d’Apulum, tout comme les exemplaires trouvés dans le prétoire du gouverneur et dans la colonia Aurelia; des exemplaires sont parvenus à Micia et à Ampoița.
+                                <placeName ref="http://www.trismegistos.org/place/014481">Apulum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne de Marc Aurèle, en raison du nomen Aurelius.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>Alba Iulia</placeName> 
+                            <placeName type="modernRegion">Jud. Alba</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III, 1629, 10 (+ p. 1018) = 8065, 13</bibl><bibl> G. Téglás, AEM 11, 1887, p. 239, no 16</bibl><bibl> idem</bibl><bibl> ErdMúz 5, 1888, p. 247</bibl><bibl> idem, ErdMúz 1902, p. 394</bibl><bibl> O. Hirschfeld, SAWW 77, 1874, p. 424</bibl><bibl> G. Téglás, Klio 10, 1910, p. 502, no 7</bibl><bibl> J. Szilágyi, Ziegelstempel, p. 47, IX/131, pl. (dessin)</bibl><bibl> V. Moga, LegXIIIGem, p. 169, no XVII</bibl><bibl> IDR III/3, 195, 9b</bibl><bibl> IDR III/4, 47, 1</bibl><bibl> IDR III/6, 144</bibl><bibl> I. Piso, F. Marcu, Le tégulaire de Cluj, sous presse.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Le</abbr><ex>gionis</ex></expan> XIII <expan><abbr>Ge</abbr><ex>minae</ex></expan> <lb n="2"/><expan><abbr>Au</abbr><ex>relius, -relii</ex></expan> <expan><abbr>Callistrat</abbr><ex>us, -i</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (Atelier) de Aurelius Callistratus, appartenant à la legio XIII Gemina.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. 2, C. L. Băluță: Callistrat(us, -i); les autres auteurs: CALLISTRI. Le cognomen Callistratus est d’origine grecque (Καλλίστρατος); voir W. Pape, p. 605; L. Ruscu, AMN 35, 1998, p. 158. Aurelius Callistratus se trouve à la tête de la figlina légionnaire en qualité de magister.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

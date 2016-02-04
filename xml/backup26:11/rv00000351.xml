@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000351.html</idno>
+
+                <idno type="localID">rv00000351</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>National Museum of Budapest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width>1</width>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar"/>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1855</date>
+                                <placeName>Sf. Ecaterina mine</placeName> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="AM_2" url="https://commons.wikimedia.org/wiki/File:AM_2.png">
+       <desc> AM_2
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+                    
+                        <div n="1" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                    Andueia Batonis emit manci<supplied reason="lost">pioque accepit</supplied> <lb n="2"/>domus partem dimidiam interantibus partem <supplied reason="lost">dex</supplied><lb break="no" n="3"/>tram, que est <expan><abbr>Alb</abbr><ex>urno</ex></expan> maiori vico Pirustar<supplied reason="lost">un inter</supplied> ad <supplied reason="lost">fines Platorem Accep</supplied><lb break="no" n="4"/>tianum et Ingenum Callisti trecentis de Venturi<supplied reason="lost">o Valente</supplied> <lb n="5"/>Eam domus parte dimidian, <expan><abbr>q</abbr><ex>ua</ex></expan> <expan><abbr>d</abbr><ex>e</ex></expan> <expan><abbr>a</abbr><ex>gitur</ex></expan>, cum su<supplied reason="lost">is s</supplied>aepibus sae<lb break="no" n="6"/>pimentos finibus aditibus claustris fienestris ita uti <lb n="7"/>clao fixsa et optima maximaque est <expan><abbr>h</abbr><ex>abere</ex></expan> <expan><abbr>r</abbr><ex>ecte</ex></expan> <expan><abbr>l</abbr><ex>iceat</ex></expan> <lb n="8"/><supplied reason="lost">E</supplied>t si quis eam domum partemve quam quis<supplied reason="lost">e</supplied>x<supplied reason="lost">ea</supplied> <lb n="9"/>evicerit, <expan><abbr>q</abbr><ex>uo</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> Andueia Batonis <expan><abbr>e</abbr><ex>ive</ex></expan> <expan><abbr>a</abbr><ex>d</ex></expan> <expan><abbr>q</abbr><ex>uem</ex></expan> <expan><abbr>e</abbr><ex>a</ex></expan> <expan><abbr>r</abbr><ex>es</ex></expan> <expan><abbr>p</abbr><ex>ertinebit</ex></expan> <expan><abbr>h</abbr><ex>abere</ex></expan> <expan><abbr>p</abbr><ex>ossidere</ex></expan> <lb n="10"/><expan><abbr>u</abbr><ex>suque</ex></expan> <expan><abbr>c</abbr><ex>apere</ex></expan> <expan><abbr>r</abbr><ex>ecte</ex></expan> <expan><abbr>l</abbr><ex>iceat</ex></expan>, qu<supplied reason="lost">o</supplied>dita licitum n<supplied reason="lost">o</supplied>n erit, <expan><abbr>t</abbr><ex>antam</ex></expan> <lb n="11"/><expan><abbr>p</abbr><ex>ecuniam</ex></expan> <expan><abbr>r</abbr><ex>ecte</ex></expan> <expan><abbr>d</abbr><ex>ari</ex></expan> <expan><abbr>f</abbr><ex>ide</ex></expan> <expan><abbr>r</abbr><ex>ogavit</ex></expan> Andueia Batonis, fide promisit <lb n="12"/>Veturius Valens. Proque ea do<supplied reason="lost">mu patem</supplied> <lb n="13"/><supplied reason="lost">dim</supplied>idiam pretium CCC Vetur<supplied reason="lost">ius V</supplied>alens 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="2" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     An<supplied reason="lost">du</supplied>ei<supplied reason="lost">a Ba</supplied>tonis accepiss<supplied reason="lost">e et</supplied>ab<supplied reason="lost">ere se dixit</supplied> <lb n="2"/><expan><abbr>Convenitq</abbr><ex>ue</ex></expan> int<supplied reason="lost">e</supplied>r eos, <supplied reason="lost">uti</supplied> Veturius Va<supplied reason="lost">lens pro ea</supplied> <lb n="3"/>domo tribute usque as recensum dep<supplied reason="lost">e</supplied>n<supplied reason="lost">dat</supplied> <lb n="4"/><expan><abbr>Act</abbr><ex>um</ex></expan> <expan><abbr>Alb</abbr><ex>urno</ex></expan> maiori <expan><abbr>pri</abbr><ex>die</ex></expan> nonas Maias <lb n="5"/>Qui<supplied reason="lost">n</supplied>tillo et Prisco <expan><abbr>co</abbr><ex>n</ex></expan> <expan><abbr>s</abbr><ex>ulibus</ex></expan> 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="3" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … L. Vasidius V<supplied reason="lost">i</supplied>ctor <expan><abbr>sig</abbr><ex>navit</ex></expan> <lb n="2"/><expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>Fl</abbr><ex>avi</ex></expan> Felicis <lb n="3"/><expan><abbr>M</abbr><ex>arci</ex></expan> Lucani Melioris <lb n="4"/>Platoris Carpi <lb n="5"/><expan><abbr>T</abbr><ex>iti</ex></expan> Aureli Prisci <lb n="6"/>Batonis Annaei <lb n="7"/>Veturi Valentis venditoris 
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                        <div n="4" type="textpart"><ab><lb n="1"/>
+                                
+                                
+                                    
+                                     … .
+                                
+                                
+                            </ab>
+                        </div>
+                    
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Andueia daughter of Bato bough and received half a house, the right half from the entry door, house that is situated in Alburnus Maior, in the quarter of the Pirusts, having Platorem Acceptianum and Ingenum Callisti as neighbours, as well as other neighbours and the road. The house was bought from Veturius Valens for 300 denari. The half of house, as well as its fences and annexes, as it is without damage, is the property of Andueia daughter of Bato. If anyone would want to take this property away from Andueia daughter of Bato, the price would be of 300 denari, the sum she has promised to Veturius Valens. As well, they agrred that Veturius Valens is to pay the taxes for the house, until the next census. Sealed at Alburnus Maior, on the 6th of May, when Quintillus and Priscus were consuls</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

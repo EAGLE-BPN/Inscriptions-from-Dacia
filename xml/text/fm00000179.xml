@@ -114,19 +114,19 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="ISM V 36_1" url="https://upload.wikimedia.org/wikipedia/commons/e/e0/ISM_V_36_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 36_1.JPG">
        <desc> ISM V 36_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" ISM V 36_2" url="https://upload.wikimedia.org/wikipedia/commons/3/35/ISM_V_36_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM V 36_2.JPG">
        <desc>  ISM V 36_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

@@ -75,7 +75,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         </origin>
                         <provenance type="found">  
                             <date>?</date>
-                                <placeName>?</placeName> 
+                                <placeName></placeName> 
                             <placeName type="modernRegion">Pleven</placeName>
                             <placeName type="modernCountry">Bulgaria</placeName>
                         </provenance>
@@ -114,24 +114,24 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="SCIVA 54-56, 2003-2005, p. 310-311, no. 3_1" url="https://upload.wikimedia.org/wikipedia/commons/1/1b/SCIVA_54-56%2C_2003-2005%2C_p._310-311%2C_no._3_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SCIVA 54-56, 2003-2005, p. 310-311, no. 3_1.jpg">
        <desc> SCIVA 54-56, 2003-2005, p. 310-311, no. 3_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" SCIVA 54-56, 2003-2005, p. 310-311, no. 3_2" url="https://upload.wikimedia.org/wikipedia/commons/d/de/SCIVA_54-56%2C_2003-2005%2C_p._310-311%2C_no._3_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SCIVA 54-56, 2003-2005, p. 310-311, no. 3_2.jpg">
        <desc>  SCIVA 54-56, 2003-2005, p. 310-311, no. 3_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" SCIVA 54-56, 2003-2005, p. 310-311, no. 3_3" url="https://upload.wikimedia.org/wikipedia/commons/8/86/SCIVA_54-56%2C_2003-2005%2C_p._310-311%2C_no._3_3.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SCIVA 54-56, 2003-2005, p. 310-311, no. 3_3.jpg">
        <desc>  SCIVA 54-56, 2003-2005, p. 310-311, no. 3_3
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>contract</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/rv00000358.html</idno>
+
+                <idno type="localID">rv00000358</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>National Museum of Budapest</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/265">wax tablet</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/123">wood</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width/>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="http://www.trismegistos.org/place/010603">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Antonine period</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>19th century</date>
+                                <placeName/> 
+                            <placeName type="modernRegion">Alba</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/375">contract</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="AM_9" url="https://commons.wikimedia.org/wiki/File:AM_9.png">
+       <desc> AM_9
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl/>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> <gap reason="lost" extent="unknown" unit="character"/></supplied> <lb n="2"/><supplied reason="lost" cert="low">Mar</supplied>cus scripsi per<gap reason="lost" extent="unknown" unit="character"/>m Restitutum <expan><abbr>agnom</abbr><ex>ine</ex></expan> <lb n="3"/>Senioris quia se litter<supplied reason="lost">a</supplied>s scire negavit fatetu<supplied reason="lost">r</supplied> <lb n="4"/>se locasse et<supplied reason="lost">l</supplied>oca<supplied reason="lost">v</supplied>it oper<supplied reason="lost">as s</supplied>uas opere auri oius <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>quidquit opus fuerit ex hac die in id<supplied reason="lost">u</supplied>s <lb n="6"/><expan><abbr>Novemb</abbr><ex>res</ex></expan> proximas venturas Titus Beusantis qui et Bradua x centum quinque. <lb n="7"/>Ex qua mer<lb break="no" n="8"/>cede a<supplied reason="lost">d</supplied>huc in cesso accepit x viginti quin<lb break="no" n="9"/>qu<supplied reason="lost">e</supplied>. <expan><abbr>Reliqua</abbr><ex>m</ex></expan> mercedem per tempora <lb n="10"/>acci<supplied reason="lost">pe</supplied>re debebit. Quas operas sanas valen<lb break="no" n="11"/>tes edere debebit conductori <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>cripto</ex></expan>. Quod si <lb n="12"/>in<supplied reason="lost">vit</supplied>o conductore a re cessa<supplied reason="lost">b</supplied>it in dies <lb n="13"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    I Marcus wrote this at the request of Aelius Restitutus, also called Senior, who stated he couldn't write. The latter lent his manpower to work in the goldmines of Titus son of Beusas, also called Bradua, from now until the 15th of November, for the payment of 105 denarii. He has now received 25 denarii and he will received the rest as arranged. He will have to work strongly and seriously. And if he will abandon work without the leaseholder's agreement...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

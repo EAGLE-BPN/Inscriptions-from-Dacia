@@ -118,14 +118,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+         <change when="2015-02-26" who="Rada Varga">Rada Varga</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
    <graphic n="UTS_61" url="https://upload.wikimedia.org/wikipedia/commons/3/39/UTS_61.png" sameAs="https://commons.wikimedia.org/wiki/File:UTS_61.png">
        <desc> UTS_61
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

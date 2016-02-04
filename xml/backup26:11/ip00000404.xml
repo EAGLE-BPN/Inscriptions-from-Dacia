@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Eustina Afri</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000404.html</idno>
+                
+                
+               <idno type="localID">ip00000404</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj, inv. 4364</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1658">brique</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>17.5</height>
+                                         <width/>
+                                         <depth>17.5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1877/1878 à Porolissum par C. Torma, qui la publia et l’envoya au musée de Cluj.
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison de la pierre et de l’écriture, au plus tard que possible, dans les dernières années de la province ou même après.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1877/1878</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_85" url="https://upload.wikimedia.org/wikipedia/commons/7/77/POR_85.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_85.jpg">
+       <desc> POR_85
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Torma, AEM 3, 1879, p. 117-118, no 3 (dessin) </bibl><bibl> CIL III 7639 = 12544 </bibl><bibl> I. I. Russu, Vestigia 1972, p. 486, pl. VII, fig. 1-2 (photo, dessin) </bibl><bibl> idem, Dacia 17, 1973, p. 330-332, no 2, fig. 2 (photo, dessin) </bibl><bibl> AE 1974, 549 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 517, IX A3, p. 972, pl. CXIII, p. 977, no 94.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Eustina <lb n="3"/>Afri vixịṭ (annis) <lb n="4"/>XXX <expan><abbr>Ael</abbr><ex>ius</ex></expan><certainty match="preceding-sibling::node()" locus="value"/> I<expan><ex>u</ex><abbr>st</abbr></expan> <lb n="5"/>5 <expan><abbr>i</abbr><ex cert="low">nus</ex></expan> <expan><abbr>l</abbr><ex>ibertae</ex></expan> <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erenti</ex></expan> <expan><abbr>p</abbr><ex>osuit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>C. Torma : D(iis) M(anibus) / Fl(avia I)ustina / Afri vixit / XXX A(urelius) Iust/i(nus) (centurio) b(ene) m(erenti) p(osuit) ; A. v. Domaszewski (CIL), l. 5 : c(oniugi)?b(ene) m(erenti) p(osuit) ; I. I. Russu : D(is) M(anibus) / Eustin(a)e / Afri (filia ?) vixit (annos) / XXX A(urelius?–nnos ?) Iust(inus) /5 I( ?) b(ene)m(erenti) p(osuit).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. Eustina (Iustina), fille (ancienne esclave) de Afer, a vécu 30 (ans). Aelius(?) Iustinus(?), érigea (ceci) à l’affranchie qui a bien mérité.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le texte est identique à celui de AE 1974, 549, écrit sur granit. Le plus probable est que dans un premier instant on ait posé à la tête de la défunte la brique, pour la remplacer ensuite par la pierre.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

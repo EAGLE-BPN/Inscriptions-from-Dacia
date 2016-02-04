@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive et de construction</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000064.html</idno>
+                <idno type="EDH">HD048963</idno>
+                
+               <idno type="localID">ip00000064</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>disparue?</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material/>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé dans les ruines d'un temple sur le plateau Cetate, près du camp légionnaire.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0002" notAfter-custom="0026" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Un premier élément en est la présence de Valerianus iunior, qui fut nommé César en 2 et mourut en 27 / 28(voir pour celui-ci D. Kienast, Kaisertabelle, p. 221). On sait encore que la legio V Macedonica a reçu les épithètes VI p(ia) VI f(idelis) en 28 RIC V / 1, p. 9, no 34). Par conséquent, ll'épithète III pia fid(elis) peut être datée des années 2-26(Piso).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1774</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/377">Inscription votive et de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 87 </bibl><bibl> A. v. Domaszewski, Die Religion des römischen Heeres, Trier 189, p. 64, no 13 </bibl><bibl> ILS 434 </bibl><bibl> I. I. Russu, AMN 6, 1969, p. 181 </bibl><bibl> H. J. W. Drijvers, Cults and Beliefs at Edessa, Leiden 1980, 170 </bibl><bibl> J. Fitz, Honorific Titles of Roman Military Units in the 3rd Century, Budapest – Bonn 1983, p. 189, no 742 </bibl><bibl> S. Sanie, Cultele orientale I, p. 26–266, no </bibl><bibl> idem, ANRW II / 18 / 2(1989), p. 12, no </bibl><bibl> P. Hügel, Dacia, p. 61, no 8 </bibl><bibl> S. Nemeti, Sincretismul, p. 348, no 144</bibl><bibl> I. Piso, Fasti II, p. 33-34, no 144 / 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Deo Azizo Bono P <supplied reason="lost"> uero conserva</supplied> <lb n="2"/>tori pro salutem <expan><abbr>d<am>d</am></abbr><ex>ominorum</ex></expan> <supplied reason="lost"> <expan><abbr>nn</abbr><ex>ostrorum</ex></expan> Valeriani et Gal</supplied> <lb n="3"/>lieni <expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> et Valerian <supplied reason="lost"> i <expan><abbr>nobiliss</abbr><ex>imi</ex></expan> Caesaris</supplied> <lb n="4"/>et Corneliae Salonina <supplied reason="lost"> e Augustae et <expan><abbr>genio</abbr><ex cert="low"/></expan></supplied> <lb n="5"/><expan><abbr>leg</abbr><ex>ionis</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> III piae <expan><abbr>fid</abbr><ex>elis</ex></expan> <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="6"/>Donatus <expan><abbr>praef</abbr><ex>ectus</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> eiusde <supplied reason="lost"> m agens vice <expan><abbr>legati</abbr><ex cert="low"/></expan></supplied> <lb n="7"/>templum ince <supplied reason="lost"> p</supplied>tum perfecit <expan><abbr>v</abbr><ex>otum</ex></expan> <supplied reason="lost"> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex cert="low">erito(</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Aziz, Bonus Puer, le sauveur, pour la santé de(nos) deux maîtres, les deux Augustes(Valerianus et) Gallienus, et de Valerianus,(très noble César), et de Cornelia Salonina(Auguste et au génie protecteur ?) de la Ve légion Macedonica, à trois reprises pieuse(et) fidèle, … Donatus, préfet de la même légion,(agissant à la place du légat ?), acheva le temple qui avait été commencé(et s’est acquitté de son) vœu(de bon gré et à bon droit).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le dieu Aziz d’Edessa jouissait d’une grande popularité en Dacie et à Potaissa ; voir aussi le no - - - ; pour la divinité voir Fr. Cumont, RE II / 2(1896), 2644 ; H. H. W. Drijvers, dans : Die orientalischen Religionen im Römerreich(EPRO 93, éd. M. J. Vermaseren), p. 247 ; S. Sanie, ANRW II / 18 / 2, p. 1207-1209. Il est remarquable qu’on lui avait construit un temple près du camp par l’initiative du commandant de la légion. Tout aussi notable est le fait que, bien que nous nous trouvions avant l’ainsi-dite réforme de Gallien qui aurait exclu les sénateurs de l’armée, la legio V Macedonica était déjà commandée par un préfet.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader><!--
          <facsimile>
 
    <graphic n="UTS_169" url="https://commons.wikimedia.org/wiki/File:UTS_169.jpg">
        <desc> UTS_169
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    
@@ -151,7 +151,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         
                         
                             
-                            <w lemma="legio"><expan><abbr>Leg</abbr><ex>ionis</ex></expan></w> <num value="13">XIII</num> <name nymRef="#Gemina"><expan><abbr>Gem</abbr><ex>inae</ex></expan></name> <lb n="2"/><persName type="attested"><name nymRef="#Pomponius"><expan><abbr>Pomponi</abbr><ex>i</ex></expan></name> <name nymRef="#Fortis">Fortis</name></persName>
+                            <expan><abbr>Leg</abbr><ex>ionis</ex></expan> XIII <expan><abbr>Gem</abbr><ex>inae</ex></expan> <lb n="2"/><expan><abbr>Pomponi</abbr><ex>i</ex></expan> Fortis
                         
                         
                     </ab>
@@ -162,7 +162,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
 
             
            <div type="translation" xml:lang="fr">
-                <p>                    Appartenant à la legio XIII Gemina. De (l'atelier) de Pomponius Fortis.</p>
+                <p>                    Appartenant à la legio XIII Gemina. De(l'atelier) de Pomponius Fortis.</p>
                     <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
                 </desc>
             </div>

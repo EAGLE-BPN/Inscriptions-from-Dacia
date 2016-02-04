@@ -119,14 +119,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="RadaVarga">Rada Varga</change>
+         <change when="2015-02-26" who="Rada Varga">Rada Varga</change>
         </revisionDesc>
     </teiHeader><!--
          <facsimile>
 
    <graphic n="AM_107" url="https://commons.wikimedia.org/wiki/File:AM_107.png">
        <desc> AM_107
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

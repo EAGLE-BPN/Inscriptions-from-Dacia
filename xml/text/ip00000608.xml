@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030131">Tibiscum</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe à partir de 117/118, quand l'empereur Hadrien a envoyé en Dacie les archers palmyréniens, mais encore du IIème siècle, en raison du texte palmyrénien (S. Sanie). Pourtant, le défunt appartenait plutôt au numerus Palmyrenorum Tibiscensium, qui a été constitué vers la fin du règne d'Antonin le Pieux.</origDate>
+                              <origDate  datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En principe à partir de 117/118, quand l'empereur Hadrien a envoyé en Dacie les archers palmyréniens, mais encore du IIème siècle, en raison du texte palmyrénien (S. Sanie). Pourtant, le défunt appartenait plutôt au numerus Palmyrenorum Tibiscensium, qui a été constitué vers la fin du règne d'Antonin le Pieux.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>Vers 1967</date>
@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
    <graphic n="TB_15" url="https://upload.wikimedia.org/wikipedia/commons/8/86/TB_15.jpg" sameAs="https://commons.wikimedia.org/wiki/File:TB_15.jpg">
        <desc> TB_15
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

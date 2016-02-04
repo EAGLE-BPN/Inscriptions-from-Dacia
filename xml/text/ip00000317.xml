@@ -69,7 +69,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                     <history>
                         <origin>
                             <origPlace>Ttrouvée à Tihău dans des conditions inconnues.
-                                <placeName ref="http://www.trismegistos.org/place/000425">?</placeName>
+                                <placeName ref="http://www.trismegistos.org/place/000425"></placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
                               <origDate notBefore-custom="0211" notAfter-custom="0212" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des années 211-212, sous le règne commun de Caracalla et Geta. Les deux N martelés se trouvent en rapport avec la damnatio memoriae de Geta.</origDate>
@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
    <graphic n="TIH_1" url="https://upload.wikimedia.org/wikipedia/commons/d/d0/TIH_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:TIH_1.jpg">
        <desc> TIH_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

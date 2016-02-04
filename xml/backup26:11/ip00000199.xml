@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription en honneur de la legio V Macedonica</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000199.html</idno>
+                
+                
+               <idno type="localID">ip00000199</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turda, inv. 16966, 1704, 17046.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque votive</objectType>
+                                    <material>mrearb</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>14</height>
+                                         <width/>
+                                         <depth>20</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hederae
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée dans la cour des principia de la legio V Macedonica
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0238" notAfter-custom="0244" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">La date est donnée par l'épithète Gordiana portée par la légion.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>2009 et 20</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="PO_200" url="https://commons.wikimedia.org/wiki/File:PO_200.jpg">
+       <desc> PO_200
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, Inscriptions, p. 166-167, no 16, fig. 71</bibl><bibl> I. Piso, sous presse.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"> In h</supplied>ọ <supplied reason="lost"> no</supplied>rem <lb n="2"/><supplied reason="lost"> <expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied> V M <supplied reason="lost"> <expan><abbr>ac</abbr><ex>edonicae</ex></expan></supplied> Gor <lb n="3"/><supplied reason="lost"> di</supplied>anạ <supplied reason="lost"> e <expan><abbr>M</abbr><ex>arcus</ex></expan></supplied> Ạuṛ(elius) <lb n="4"/>- - - - - -.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Bărbulescu n’a pas remarqué que les deux s appartiennent à la même inscription : frg. a : ...O... / ...N∙M... / ...ANT... ; frg. b : [ IN HONO]REM [ DOMVS DIVINAE] / .... LEG(io) V(quinta) MAC(edonica)] GOR [ DIANA...] / ......AV....</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    En honneur de la Ve(légion) Macedonica Gordiana.(Marcus) Aurelius ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La plaque aura été encastrée dans la base de statue d’une divinité inconnue. Dans notre cas la divinité n’est pas mentionnée, car elle était représentée d’une manière claire par une statue. L’acte votif était accompli en honneur de la légion. Le dédicant, dont le cognomen se trouvait dans la l. 4, pouvait être le primus pilus, le plus important centurion de la légion, qui était très actif dans les principia.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

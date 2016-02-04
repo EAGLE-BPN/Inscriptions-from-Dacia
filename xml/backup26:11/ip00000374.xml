@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour Marcia Otacilia Severa</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000374.html</idno>
+                
+                
+               <idno type="localID">ip00000374</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. Cluj, inv. IN 1305 = V 15803.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Dé d’une base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>121</height>
+                                         <width>51</width>
+                                         <depth>66</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Selon E. Tóth la pièce aurait été trouvée en 1934 devant la porta decumana du camp de Pomet, en position secondaire ; elle parvint au musée de Cluj.
+                                <placeName ref="http://www.trismegistos.org/place/030156">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0244" notAfter-custom="0247" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 244-247, en raison du titre César du jeune Philippe ; Al. Diaconescu a tort de dater le monument de 244.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1934</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="POR_55" url="https://upload.wikimedia.org/wikipedia/commons/9/9d/POR_55.jpg" sameAs="https://commons.wikimedia.org/wiki/File:POR_55.jpg">
+       <desc> POR_55
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Dacia 7-8, 1937-1940, p. 327, no 7 d (photo) </bibl><bibl> AE 1944, 54 </bibl><bibl> E. Tóth, Porolissum, p. 39, no 55 </bibl><bibl> N. Gudea, AMP 13, 1989, p. 765, no 21, p. 1135, pl. CCLXXII (photo) </bibl><bibl> ILD 671 </bibl><bibl> R. Ardevan, Viața municipală, p. 439, no 485 </bibl><bibl> Al. Diaconescu, Statuaria, p. 228, nr. 57 (photo).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [[Marciae Otaci <lb n="2"/>liae Severae]] <lb n="3"/>sanctissimae <lb n="4"/>Augustae <expan><abbr>n</abbr><ex>ostrae</ex></expan> <lb n="5"/>5 [[matri <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>Iul</abbr><ex>ii</ex></expan> <lb n="6"/>Philippi]] nobi <lb n="7"/>lissimi Caesaris <lb n="8"/><expan><abbr>n</abbr><ex>ostri</ex></expan> et castrorum <lb n="9"/>res publica <lb n="10"/>10 <expan><abbr>munic</abbr><ex>ipii</ex></expan> <expan><abbr>Septimi</abbr><ex>i</ex></expan> <lb n="11"/><expan><abbr>Porol</abbr><ex>issensis</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Marcia Otacilia Severa, la très sainte Auguste, mère de notre très noble César et des camps (patronne des soldats). La communauté du municipe Septimium Porolissense (érigea ceci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les statues de Philippus Arabs, de son fils et de Marcia Otacilia Severa ont été érigées dans le forum du municipium Septimium en même temps. Après le règne de Decius elles auront été utilisées à bloquer la porta decumana devant les attaques des Goths.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

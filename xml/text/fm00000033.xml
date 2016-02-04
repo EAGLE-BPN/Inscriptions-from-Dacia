@@ -75,7 +75,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                         </origin>
                         <provenance type="found">  
                             <date>?</date>
-                                <placeName>?</placeName> 
+                                <placeName></placeName> 
                             <placeName type="modernRegion">Constanța</placeName>
                             <placeName type="modernCountry">Romania</placeName>
                         </provenance>
@@ -114,19 +114,19 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="ISM I 327_1" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/ISM_I_327_1.JPG" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 327_1.JPG">
        <desc> ISM I 327_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" ISM I 327_2" url="https://upload.wikimedia.org/wikipedia/commons/d/d4/ISM_I_327_2.jpg" sameAs="https://commons.wikimedia.org/wiki/File:ISM I 327_2.jpg">
        <desc>  ISM I 327_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

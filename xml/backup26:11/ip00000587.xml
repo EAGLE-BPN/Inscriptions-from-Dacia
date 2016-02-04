@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liste des fidèles de Malagbel</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000587.html</idno>
+                
+                
+               <idno type="localID">ip00000587</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Sarmizegetusa</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque de construction</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>80</height>
+                                         <width>3.5</width>
+                                         <depth>75</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">2.5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Les 14 s ont été trouvés pendant une longue période de temps dans la zone du temple palmyrénien situé à l'ouest du forum vetus.
+                                <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIème siècle, en raison du contexte archéologique.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1937-2011</date>
+                                <placeName>Sarmizegetusa</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader><!--
+         <facsimile>
+
+   <graphic n="SA_10" url="https://commons.wikimedia.org/wiki/File:SA_10.jpg">
+       <desc> SA_10
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        -->
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Daicoviciu, Dacia 1, 1924, p. 245, nos 3-5</bibl><bibl> IDR III/2, 65</bibl><bibl> O. Piso, O. Țentea, Dacia 55, 2011, p. 118-121, fig. 6-7 (tous les s)</bibl><bibl> AE 2011, - - -.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Culṭ<supplied reason="lost">ores Dei <expan><abbr>Solis</abbr><ex cert="low"/></expan> Ma</supplied><lb break="no" n="2"/>lagḅ<supplied reason="lost">eli <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> Pro</supplied><lb break="no" n="3"/>culụ<supplied reason="lost"><expan><abbr>s</abbr><ex cert="low"/></expan> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><expan><abbr>a</abbr><ex cert="low"/></expan> <lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> exst</supplied>ṛ<expan><abbr>ux</abbr><ex>erunt</ex></expan> <lb n="5"/>quo<supplied reason="lost">rum nomina subscripta</supplied> sunt:col. 1: <expan><abbr>Sped</abbr><ex>ius</ex></expan> V<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="6"/><expan><abbr>col</abbr><ex>oniae</ex></expan> <lb n="7"/>Marcu<supplied reason="lost">s <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="8"/><expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Aur</abbr><ex>elius</ex></expan> Iu<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="9"/><expan><abbr>Sped</abbr><ex>ius</ex></expan> <supplied reason="lost">....</supplied>anu<supplied reason="lost">s</supplied> <lb n="10"/>S<supplied reason="lost" cert="low">ped(ius</supplied><supplied reason="lost">) ....</supplied> <expan><abbr>Aug</abbr><ex>ustalis</ex></expan> <expan><abbr>col</abbr><ex>oniae</ex></expan> <lb n="11"/>Pom<supplied reason="lost" cert="low">p(onius)</supplied><supplied reason="lost"> Avitus</supplied> <lb n="12"/><expan><abbr>Val</abbr><ex>erius</ex></expan> <supplied reason="lost">...</supplied>nus <lb n="13"/><expan><abbr>Sped</abbr><ex>ius</ex></expan> Prim<supplied reason="lost" cert="low">anus qui et</supplied> Rex <lb n="14"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Aqui<supplied reason="lost">linus</supplied> <lb n="15"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Zopyrus <lb n="16"/><expan><abbr>Comini</abbr><ex>us</ex></expan> Maximinus <lb n="17"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> Viator <lb n="18"/><expan><abbr>Ant</abbr><ex>onius</ex></expan> Barbas <lb n="19"/><expan><abbr>Ael</abbr><ex>ius</ex></expan> Geminus <lb n="20"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>col. 2: <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> M</supplied>arcus <lb n="21"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> Val</supplied>entinus <lb n="22"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Antipater <lb n="23"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Crescentio <lb n="24"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> Eutyches <lb n="25"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Rufus <lb n="26"/><expan><abbr>Aurel</abbr><ex>ius</ex></expan> V<supplied reason="lost">i</supplied>talianus Esurio <lb n="27"/>Domitius I<certainty match="preceding-sibling::node()" locus="value"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Les fidèles du (dieu Soleil) Malagbel ... Proculus(?) ... ont construit ..., ceux, dont (les noms) sont (écrits au-dessous): - - - - - -</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Malagbel appartient à une seconde triade palmyrénienne: Baalshamin, Aglibôl et Malagbel (Malakhbel). La liste conserve les noms de 29 cultores. On note qu'aucun d'entre eux ne porte un nom palmyrénien, ce qui prouve la grande diffusion du culte de cette divinité dans le milieu provincial romain.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -114,10 +114,21 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
-        
+        <facsimile>
+<graphic n="AE 1950, 71" url="https://upload.wikimedia.org/wikipedia/commons/6/68/AE_1950%2C_71.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1950, 71">
+       <desc> AE 1950, 71
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+<graphic n="AE 1950, 71_1" url="https://upload.wikimedia.org/wikipedia/commons/c/c4/AE_1950%2C_71_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:AE 1950, 71_1">
+       <desc> AE 1950, 71_1
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>
+</facsimile>
     
     <text>
         <body>

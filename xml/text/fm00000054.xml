@@ -114,24 +114,24 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="FlorianMatei-Popescu">Florian Matei-Popescu</change>
+         <change when="2015-02-26" who="Florian Matei-Popescu">Florian Matei-Popescu</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
     <graphic n="CIL III 7506_1" url="https://upload.wikimedia.org/wikipedia/commons/8/88/CIL_III_7506_1.jpg" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7506_1.jpg">
        <desc> CIL III 7506_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" CIL III 7506_2" url="https://upload.wikimedia.org/wikipedia/commons/f/f7/CIL_III_7506_2.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7506_2.JPG">
        <desc>  CIL III 7506_2
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
     <graphic n=" CIL III 7506_3" url="https://upload.wikimedia.org/wikipedia/commons/e/e4/CIL_III_7506_3.JPG" sameAs="https://commons.wikimedia.org/wiki/File:CIL III 7506_3.JPG">
        <desc>  CIL III 7506_3
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>
             

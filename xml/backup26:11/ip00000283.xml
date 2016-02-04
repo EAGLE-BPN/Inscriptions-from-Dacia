@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'Aurelius Mucatra</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000283.html</idno>
+                
+                
+               <idno type="localID">ip00000283</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda/Torda</placeName>                     
+                        </settlement>
+                        <repository>visible dans le mur nord de l’église de Luncani/Gerend.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Stèle ou plaque funéraire,</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>44</height>
+                                         <width/>
+                                         <depth>86</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Vue en 1982 par A. Kovács et I. Piso encastré dans le mur de l'église réformée de Luncani/Gerend.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIIe siècle, en raison du nomen Aurelius pas accompagné par praenomen.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1982</date>
+                                <placeName>Turda/Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, Revista Bistriței 27, 2013, p. 40-41, no 2, fig. 2 a-b (photo et dessin).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [- - - - - - <lb n="2"/>- - - <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <lb n="3"/><expan><abbr>M</abbr><ex>acedonicae</ex></expan>] ṿ<expan><abbr>ix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> L<supplied reason="lost" cert="low">.</supplied> <lb n="4"/><supplied reason="lost">A</supplied>ụ<expan><abbr>rel</abbr><ex>ius</ex></expan> Muc<lb break="no" n="5"/>ạtra <expan><abbr>vet</abbr><ex>eranus</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="6"/><expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptae</ex></expan> heres <expan><abbr>f</abbr><ex>aciendum</ex></expan> <supplied reason="lost"><expan><abbr>c</abbr><ex>uravit</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    … (de la (legio V Macedonica) a vécu 50( ?) ans. Aurelius Mucatra, vétéran de la légion ci-dessus mentionnée, a pris le soin d’ériger (ceci) en tant qu’héritier.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>L. 2 : au début M(acedonicae) ou une autre épithète de la légion ou bien les années de service militaire – [stip(endiorum / ..]. Mucatra est un nom thrace ; en Dacie : IDR III/5, 559 (Apulum) : Mucatra Brasi miles n(umeri) Palmyren(orum) Tibiscensium) ; CIL III 787 (Arcobadara) : Sola Mucatri vet(eranus) al(a)e Fron(tonianae). L. 3-4 : on remarque la division erronée en syllabes.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -72,7 +72,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
                                 <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
                                 <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
                             </origPlace>
-                              <origDate notBefore-custom="NaN" notAfter-custom="0177" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">C. Arrius Antoninus a gouverné la Dacie en 175(?)-177.</origDate>
+                              <origDate  notAfter-custom="0177" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">C. Arrius Antoninus a gouverné la Dacie en 175(?)-177.</origDate>
                         </origin>
                         <provenance type="found">  
                             <date>1927-1930</date>
@@ -116,14 +116,14 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </langUsage>
         <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
         <revisionDesc>
-         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+         <change when="2015-02-26" who="Ioan Piso">Ioan Piso</change>
         </revisionDesc>
     </teiHeader>
          <facsimile>
 
    <graphic n="SA_1" url="https://upload.wikimedia.org/wikipedia/commons/5/5a/SA_1.png" sameAs="https://commons.wikimedia.org/wiki/File:SA_1.jpg">
        <desc> SA_1
-          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+          <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
    </graphic>    
    

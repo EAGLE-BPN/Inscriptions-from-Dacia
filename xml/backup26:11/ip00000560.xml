@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Flavia Valentina</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000560.html</idno>
+                
+                
+               <idno type="localID">ip00000560</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mehedinți</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turnu Severin</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turnu Severin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1773">Base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>250</height>
+                                         <width>58</width>
+                                         <depth>68</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé dans le puits médiéval, près de la tour attribuée à Justinien.
+                                <placeName ref="http://www.trismegistos.org/place/029680">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Avant 1966</date>
+                                <placeName>Turnu Severin</placeName> 
+                            <placeName type="modernRegion">Jud. Mehedinți</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="DR_5" url="https://upload.wikimedia.org/wikipedia/commons/f/fe/DR_5.jpg" sameAs="https://commons.wikimedia.org/wiki/File:DR_5.jpg">
+       <desc> DR_5
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Davidescu, R. Florescu, Revista Muzeelor 3, 1966, p. 205-206, fig. 1-2</bibl><bibl> D. Tudor, Oltenia romană, București 1968, SE 37</bibl><bibl> IDR II 36.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><supplied reason="lost">F</supplied>laviae <lb n="3"/><supplied reason="lost">Va</supplied>lenti <lb n="4"/><supplied reason="lost">n</supplied>ae <expan><abbr>Sirm</abbr><ex>io</ex></expan> <lb n="5"/><expan><abbr><supplied reason="lost">vi</supplied>x</abbr><ex>it</ex></expan> <expan><abbr>n<am>n</am></abbr><ex>is</ex></expan> XL <lb n="6"/><supplied reason="lost"><expan><abbr>d</abbr><ex>iebus</ex></expan></supplied> XVII <expan><abbr>coni</abbr><ex>ugi</ex></expan> <lb n="7"/><expan><abbr><supplied reason="lost">ca</supplied>riss</abbr><ex>imae</ex></expan> et pi <lb n="8"/><expan><abbr><supplied reason="lost">e</supplied>ntiss</abbr><ex>imae</ex></expan> et dig <lb n="9"/><expan><abbr><supplied reason="lost">ni</supplied>ss</abbr><ex>imae</ex></expan> ob prin <lb n="10"/><supplied reason="lost">ci</supplied>pium cas <lb n="11"/><supplied reason="lost">t</supplied>itatis <lb n="12"/><supplied reason="lost">M</supplied>aecius Do <lb n="13"/><supplied reason="lost">m</supplied>itius (centurio) <expan><abbr>leg</abbr><ex>ionis</ex></expan> <lb n="14"/>V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Flavia Valentina, (originaire) de Sirmium, a vécu 40 ans (et) 17 jours. Maecius Domitius, centurion de la legio V Macedonica, (érigea ceci) à l'épouse très chère et très pieuse et très digne, pour sa remarquable chasteté.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Flavia Valentina était originaire de Sirmium de Pannonie Inférieure. En 106-161 la legio V Maedonica a stationné à Troesmis et à partir de 168/170 à Potaissa.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

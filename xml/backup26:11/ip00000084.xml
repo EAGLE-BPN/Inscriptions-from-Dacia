@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription votive</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000084.html</idno>
+                
+                
+               <idno type="localID">ip00000084</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda / Torda</placeName>                     
+                        </settlement>
+                        <repository>Le frg. a: Muzeul National de Istorie a Transilvaniei, Cluj, inv. I 490.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/259">Plaque votive</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>32</height>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">1-2183-1</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé probablement dans Valea Sândului(Szindi-patak), au sud du camp légionnaire.
+                                <placeName ref="http://www.trismegistos.org/place/030193">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Een raison non seulement de la fréquence du nomen Aurelius, nous nous trouvons au milieu du IIIe siècle, probablement entre 21 et 260, à une époque dans laquelle on pratiquait le culte impérial, mais il était plus prudent de ne pas mentionner les noms des empereurs passagers. La construction du temple d'Aziz a été finie vers 2-26(CIL III 87).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>les s b-c au XVIe siècle, le frg. a avant 1901.</date>
+                                <placeName>Turda / Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+             <facsimile>
+
+   <graphic n="PO_85" url="https://upload.wikimedia.org/wikipedia/commons/2/23/PO_85.jpg" sameAs="https://commons.wikimedia.org/wiki/File:PO_85.jpg">
+       <desc> PO_85
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>a : R. Münsterberg, J. Oehler, JÖAI, 1902, p. 99-0, no (photo) </bibl><bibl> I. Piso, Potaissa 2, 1980, p. 127-128, no (photo et dessin) </bibl><bibl> ILD 483 </bibl><bibl> S. Nemeti, Sincretismul, p. 348, no 146 </bibl><bibl> b-c : A. Verantius, ms. </bibl><bibl> Th. Mommsen, EphEp 4, 1881, no 138 </bibl><bibl> B. Orbán, Torda, p. 61, no 6 </bibl><bibl> CIL III 7688 </bibl><bibl> R. Ardevan, Viața municipală, p. 42-426, no 427 a </bibl><bibl> a-b-c : S. Nemeti, dans : Dacia felix. Studia Michaeli Bărbulescu oblata, Cluj-Napoca 2007, p. 229-234 </bibl><bibl> AE 2007, 1194.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Deo Foṛ <supplied reason="lost"> ti <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="2"/>pro <expan><abbr>sal</abbr><ex>ute</ex></expan> imperạ <supplied reason="lost"> <expan><abbr>torum</abbr><ex cert="low"/></expan> et <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> sac</supplied>erdotalis Daciae <lb n="3"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Quintianus <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="4"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Augustianụ <supplied reason="lost"> s <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="5"/><expan><abbr>Iul</abbr><ex>ius</ex></expan> Rufinus <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="6"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Surus <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="7"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Marc <supplied reason="lost"> us <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="8"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="9"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="10"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="11"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex <expan><abbr>c</abbr><ex>ustode</ex></expan></supplied> <expan><abbr>a</abbr><ex>rmorum</ex></expan> <lb n="12"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="13"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex s</supplied><expan><abbr>pec</abbr><ex>ulatore</ex></expan> <lb n="14"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex</supplied> <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="15"/>1 <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex</supplied> <expan><abbr>opt</abbr><ex>ione</ex></expan> <lb n="16"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex</supplied> <expan><abbr>opt</abbr><ex>ione</ex></expan> <lb n="17"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> ex</supplied> <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="18"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="19"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="20"/>20 <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="21"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="22"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="23"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="24"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Vict <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> <lb n="25"/>2 <expan><abbr>Aur</abbr><ex>elius</ex></expan> Farnax <supplied reason="lost"> ....</supplied> <lb n="26"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Lucilius ex <expan><abbr>opt</abbr><ex>ione</ex></expan> <lb n="27"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Gaianus <lb n="28"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Mucianus ex <expan><abbr>c</abbr><ex>ustode</ex></expan> <expan><abbr>a</abbr><ex>rmorum</ex></expan> <lb n="29"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Maximus ex <expan><abbr>c</abbr><ex>ustode</ex></expan> <expan><abbr>a</abbr><ex>rmorum</ex></expan> <lb n="30"/>30 <expan><abbr>Ael</abbr><ex>ius</ex></expan> Cassius <supplied reason="lost"> ...</supplied>II <lb n="31"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Lucius ex <expan><abbr>c</abbr><ex>ustode</ex></expan> <expan><abbr>a</abbr><ex>rmorum</ex></expan> <lb n="32"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Agrippa ex <expan><abbr>c</abbr><ex>ustode</ex></expan> <expan><abbr>a</abbr><ex>rmorum</ex></expan> <lb n="33"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>ius ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="34"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>nes <lb n="35"/>3 <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>nus <lb n="36"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="37"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>us <lb n="38"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>s <lb n="39"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>us ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="40"/>40 <supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="41"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Vital <supplied reason="lost"> is</supplied> ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="42"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Celsus ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="43"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Valeria <supplied reason="lost"> nus</supplied> e <supplied reason="lost"> x</supplied> GN <lb n="44"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> <expan><abbr>Sabin</abbr><ex>us</ex></expan> <lb n="45"/>4 <expan><abbr>Sep</abbr><ex>timius</ex></expan> Crisp <supplied reason="lost"> us ex</supplied> ca<expan><ex>n</ex><abbr>d</abbr><ex>idato</ex></expan> <lb n="46"/><expan><abbr>Ael</abbr><ex>ius</ex></expan> Lu <supplied reason="lost"> .... ex</supplied> <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="47"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/>? ex</supplied> <expan><abbr>opt</abbr><ex>ione</ex></expan> <lb n="48"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Iulianus <lb n="49"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Statilius ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="50"/>0 <expan><abbr>Aur</abbr><ex>elius</ex></expan> Valens <lb n="51"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Valens <lb n="52"/><expan><abbr>Sep</abbr><ex>timius</ex></expan> Alexander ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="53"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Valens <lb n="54"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Flavianus ex <expan><abbr>imm</abbr><ex>uni</ex></expan> <lb n="55"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Viatorinus <lb n="56"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Crispus <lb n="57"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Verus <lb n="58"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Maximus ex <expan><abbr>arc</abbr><ex>hitecto</ex></expan> <lb n="59"/><expan><abbr>Aur</abbr><ex>elius</ex></expan>(- - -<certainty match="preceding-sibling::node()" locus="value"/> <lb n="60"/>60 <expan><abbr>Ael</abbr><ex>ius</ex></expan> Valerius ex <expan><abbr>c</abbr><ex>ustode</ex></expan> <expan><abbr>a</abbr><ex>rmorum</ex></expan> <lb n="61"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Domnio ex <expan><abbr>imm</abbr><ex>uni</ex></expan> <lb n="62"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Valerius <lb n="63"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Anicẹ <supplied reason="lost"> tus</supplied> <lb n="64"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Firmidius <lb n="65"/>6 <expan><abbr>Ael</abbr><ex>ius</ex></expan> Aufidius <lb n="66"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Victorinus ex <expan><abbr>eq</abbr><ex>uite</ex></expan> <lb n="67"/>Au <supplied reason="lost"> <expan><abbr>r</abbr><ex>elius</ex></expan></supplied> Verus ex <expan><abbr>eq</abbr><ex>uite</ex></expan> <lb n="68"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Firmus ex <expan><abbr>dup</abbr><ex>lario</ex></expan> <lb n="69"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Maximinus <lb n="70"/>70 <expan><abbr>Aur</abbr><ex>elius</ex></expan> Sedatus ex <expan><abbr>im</abbr><ex>muni</ex></expan> <expan><abbr>lib</abbr><ex>rario</ex></expan> <lb n="71"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Crescens <lb n="72"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Iulius ex <expan><abbr>be</abbr><ex>neficiario</ex></expan> <expan><abbr>tr</abbr><ex>ibuni</ex></expan> <lb n="73"/><expan><abbr>Aur</abbr><ex>elius</ex></expan> Quintillianus <lb n="74"/><expan><abbr>Petr</abbr><ex>onius</ex></expan> Marcianus ex <expan><abbr>lib</abbr><ex>rario</ex></expan> <lb n="75"/>7 <expan><abbr>Aur</abbr><ex>elius</ex></expan> Vale <supplied reason="lost"> n</supplied>tinus ex <expan><abbr>tub</abbr><ex>icine</ex></expan> <lb n="76"/><expan><abbr>Ael</abbr><ex>ius</ex></expan> <expan><abbr>Maximia</abbr><ex>nus</ex></expan> ex <expan><abbr>tess</abbr><ex>erario</ex></expan> <lb n="77"/>Sep(timius Volusius <lb n="78"/><supplied reason="lost"> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>us <expan><abbr>vet</abbr><ex>eranus</ex></expan> ex b<expan><ex>ene</ex><abbr>f</abbr><ex>iciario</ex></expan> <expan><abbr>leg</abbr><ex>ati</ex></expan> m <supplied reason="lost"> armo</supplied>ra ex suo posuit.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Münsterberg, Oehler : Deo Fo [ nti?- - -] / pro sal(ute) imper(atoris M(arci) [ - - -] / Aur(elius) Quintianus [ - - -] / Aur(elius) Augustianu [ s - - -] / Iul(ius) Rufinus [ - - -] / Aur(elius) Surus / Aur(elius) Marc [ ianus - - -] ; Piso : Deo For [ ti - - -] / pro salute impera [ toris, -orum ?] / Aur(elius) Quintianus [ - - -] / Aur(elius) Augustianu [ s - - -] / Iul(ius) Rufinus [ - - -] / Aur(elius) Surus [ - - -] / Aur(elius) Marcu [ s - - -] ; l. 7, Petolescu(ILD) : Aur(elius) Mar [ cianus] ; b-c : l. 1, Nemeti(Dacia felix) : Deo For [ ti - - -] / pro sal(ute) impera [ torum(?) et - - - sac]erdotalis Daciae ; l. 3, Ardevan : Aur(elius) Anici [ us] ; Nemeti : Aur(elius) Anice [ tus] ; l. 13, M. Bărbulescu, Legiunea V Macedonica : ex arc(ario, -hitecto ?) ; Nemeti : ex arc(ario).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Au fort dieu ..., pour la santé des empereurs et de ..., ancien prêtre(du concile provincial) de Dacie. Aurelius Quintianus, ..., Aurelius Augustianus, ..., Iulius Rufinus, ..., Aurelius Surus, ..., Aurelius Marcus, ..., ..., ..., ancien gardien des armes, ..., ..., ancien optio, ..., ancien optio, ..., ancien duplarius, ......, Aurelius Vict..., Aurelius Farnax, ..., Aurelius Lucilius, ancien optio, Aurelius Gaianus, Aurelius Mucianus, ancien gardien d’armes, Aurelius Maximus, ancien gardien d’armes, Aelius Cassius, ..., Aurelius Lucius, ancien gardien d’armes, Aurelius Agrippa, ancien gardien d’armes, ...ius, ancien duplarius, ...nes, ...nus, ..., ancien duplarius, ...us, ...s, ...us, ancien duplarius, ..., ancien duplarius, Aurelius Vitalis, ancien duplarius, Aurelius Celsus, ancien duplarius, Aurelius Valerianus, ancien ..., Aurelius Sabinus, Septimius Crispus, ancien candidatus, Aelius Lu..., ancien duplarius, ..., ancien optio, Aurelius Iulianus, Aurelius Statilius, ancien duplarius, Aurelius Valens, Aurelius Valens, Septimius Alexander, ancien duplarius, Valerius Valens, Aurelius Flavianus, ancien immunis, Aurelius Viatorinus, Aurelius Crispus, Aurelius Verus, Aurelius maximus, ancien architecte, Aurelius ...?, Aelius Valerius, ancien gardien d’armes, Aurelius Domnio, ancien immunis, Aurelius Valerius, Aurelius Anicetus, Aurelius Firmidius, Aelius Aufidius, Aurelius Victorinus, ancien cavalier, Aurelius Verus, ancien cavalier, Aurelius Firmus, ancien duplarius, Aurelius Maximinus, Aurelius Sedatus, ancien immunis(et) librarius, Aurelius Crescens, Aurelius Iulius, ancien beneficiarius du tribun, Aurelius Quintillianus, Petronius Marcianus, ancien librarius, Aurelius Valentinus, ancien tubicen, Aelius Maximianus, ancien tesserarius, Septimius Volusius. C’est ...us, vétéran ancien beneficiarius du légat(de légion), érigea(le monument) en marbre de son argent.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Pour l’identification de la divinité avec Aziz voir Piso; Nemeti, Sincretismul, p. 181-182. Par marmora on pourrait comprendre une statue d’Aziz dans le temple mentionné dans le no - 87- -. Sont mentionnés 76 noms avec celui du dédicant. 39 en sont des Aurelii, des Aelii, 3 des Septimii, auxquels s’ajoutent un Iulius, un Petronius et un Valerius. Un seul cognomen, Anicetus(Ἀνίκητος) est d’origine grecque. Sedatus semble provenir d’une province celtique occidentale. Les personnes de la liste pour lesquelles on ne mentionne pas des charges sont des simples vétérans de la légion. La structure de la liste indique qu’il ne s’agit pas de militaires actifs, mais bien de vétérans, par conséquent de citoyens de Potaissa. C’est ce qui explique la présence après les empereurs d’un sacerdotalis, qui ne pouvait être qu’un dignitaire de la ville de Potaissa, qui était parvenu à la haute charge de sacerdos arae Augusti à Sarmizegetusa.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

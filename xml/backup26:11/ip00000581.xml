@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour le gouverneur M. Claudius Fronto</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">http://inscriptionsfromdacia.altervista.org/text/ip00000581.html</idno>
+                
+                
+               <idno type="localID">ip00000581</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Sarmizegetusa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Timișoara</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque honorifique encastrée dans une base de statue équestre</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marbre</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>102</height>
+                                         <width>47</width>
+                                         <depth>102</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/> </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">2.2</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée en 1823 dans les ruines du forum vetus de Sarmizegetusa
+                                <placeName ref="http://www.trismegistos.org/place/030060">Sarmizegetusa</placeName>
+                                <placeName type="provincItalicRegion" ref="http://www.trismegistos.org/place/004366">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">M. Claudius Fronto est tombé dans la guerre contre les Marcomannes en 170, mais la statue aura été érigée dans le forum vetus en 172, en même temps que celle pour Marc Aurèle (CIL III 7969 = IDR III/2, 76 = AE 2003, 1516) et Lucius Verus (CIL III 1450 = ILS 370 = IDR III/2, 74).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1823</date>
+                                <placeName>Sarmizegetusa</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2015-02-26" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="SA_4" url="https://upload.wikimedia.org/wikipedia/commons/2/25/SA_4.jpg" sameAs="https://commons.wikimedia.org/wiki/File:SA_4.jpg">
+       <desc> SA_4
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 1457 = ILS 1097 = IDR III/2, 90 = I. Piso, Fasti provinciae Daciae I. Die senatorischen Amtsträger, Bonn 1993, p. 94-95, no 4.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la"><head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>M</abbr><ex>arco</ex></expan> <expan><abbr>Cl</abbr><ex>audio</ex></expan> <expan><abbr>Ti</abbr><ex>berii</ex></expan> filio <expan><abbr>Quirin</abbr><ex>a</ex></expan> <lb n="2"/>Frontoni co<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <lb n="3"/><expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan> trium <expan><abbr>Dac</abbr><ex>iarum</ex></expan> et <expan><abbr>Moes</abbr><ex>iae</ex></expan> <expan><abbr>Sup</abbr><ex>erioris</ex></expan> <lb n="4"/>comiti Divi Veri <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>donat</abbr><ex>o</ex></expan> <lb n="5"/>donis <expan><abbr>milit</abbr><ex>aribus</ex></expan> bello <expan><abbr>Armen</abbr><ex>iaco</ex></expan> et <expan><abbr>Parth</abbr><ex>ico</ex></expan> ab <lb n="6"/><expan><abbr>Imp</abbr><ex>eratore</ex></expan> <expan><abbr>Antonin</abbr><ex>o</ex></expan> <expan><abbr>Aug</abbr><ex>usto</ex></expan> et a Divo Vero <expan><abbr>August</abbr><ex>o</ex></expan> <lb n="7"/><expan><abbr>coron</abbr><ex>a</ex></expan> <expan><abbr>mural</abbr><ex>i</ex></expan> item <expan><abbr>vallar</abbr><ex>i</ex></expan> item <expan><abbr>classic</abbr><ex>a</ex></expan> <lb n="8"/>item aurea item <expan><abbr>hast</abbr><ex>is</ex></expan> puris IIII item <expan><abbr>vexill</abbr><ex>is</ex></expan> <lb n="9"/><expan><abbr>curator</abbr><ex>i</ex></expan> <expan><abbr>oper</abbr><ex>um</ex></expan> <expan><abbr>locorumq</abbr><ex>ue</ex></expan> <expan><abbr>public</abbr><ex>orum</ex></expan> <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> I <expan><abbr>Min</abbr><ex>erviae</ex></expan> <lb n="10"/><expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>leg</abbr><ex>ionis</ex></expan> XI <expan><abbr>Cl</abbr><ex>audiae</ex></expan> praetori aedili curuli ab actis <lb n="11"/>senatus quaestori urbano decemviro <lb n="12"/>stlitibus iudicandis <lb n="13"/><expan><abbr>col</abbr><ex>onia</ex></expan> <expan><abbr>Ulp</abbr><ex>ia</ex></expan> <expan><abbr>Traian</abbr><ex>a</ex></expan> <expan><abbr>Aug</abbr><ex>usta</ex></expan> <expan><abbr>Dac</abbr><ex>ica</ex></expan> <lb n="14"/><expan><abbr>Sarmiz</abbr><ex>egetusa</ex></expan> patrono <lb n="15"/><expan><abbr>fortissim</abbr><ex>o</ex></expan> duci <expan><abbr>amplissim</abbr><ex>o</ex></expan> <lb n="16"/>praesidi.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Marcus Claudius Fronto, fils de Tiberius, inscrit dans la tribu Quirina, consul, légat de l'empereur en qualité de pro praetore (gouverneur) des trois Dacies et de la Mésie Supérieure, compagnon (membre de la suite) du divin Verus Auguste, décoré avec des distinctions militaire pour la guerre armenienne et parthique par l'empereur Antonin Auguste et par le divin Verus Auguste avec une couronne muralis, aussi vallaris, aussi classica, aussi (avec une couronne) en or, aussi avec quatre hastae purae (lances d'argent), aussi avec des vexilla, au curateur des édifices publiques (de Rome), légat de la legio I Minervia, légat de la legio XI Claudia, au préteur, édile curule, secrétaire du sénat, questeur. La colonie Ulpia Traiana Augusta Dacica Sarmizegetusa (érigea ceci) à (son) patron, au très vaillant général (et) au très puissant gouverneur.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Ce grand général, originaire de Pergamon, s'était trouvé à la tête des trois Dacies pendant l'année fatidique de 170, mais dans les dernières charges accomplies on peut poursuivre la réforme administrative et militaire de Dacie. Plus de détails sur cette carrière sont contenus dans l'inscription CIL VI 1377 = 31640 = 41142 (= ILS 1098) de Rome. Pour la carrière de M. Claudius Fronto, originaire de Pergamon, voir I. Piso, Fasti I, p. 94-102.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>
