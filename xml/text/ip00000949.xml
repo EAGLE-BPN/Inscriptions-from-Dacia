@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription impériale</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000949.html</idno>
+              <idno type="EDH">HD : Imp(erator..) C[aes(ar..)] ; b : Chirilă, Gudea, Lucăcel : RMI ; HD : RMA. Il s’agit d’une base de statue pour un empereur, érigée par une troupe, probablement par la cohors II Augusta Nervia Pacensis Brittonum (milliaria). Pour les lettres RMI (b) une solution pourrait être la distinction de cette troupe avec une armilla, tout comme l’ala Siliana ([ala Silian]a c(ivium) R(omanorum) torq(uata) et [armil(lata)], AE 1983, 859).</idno>
+                
+                
+               <idno type="localID">ip00000949</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Base de statue, 2 fragments</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>14; 10</height>
+                                         <width>19</width>
+                                         <depth>15; 14</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvés en 1963/1970 par E. Chirilă et N. Gudea dans le péristyle des principia du camp de Buciumi.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIe siècle, en raison de la décoration militaire armillata(?)</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1963/1970</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>a : E. Chirilă, N. Gudea, dans : Buciumi, p. 116, no 3 </bibl><bibl> N. Gudea, V. Lucăcel, InscrZalău, p. 24, no 40 (photo) </bibl><bibl> b : E. Chirilă, N. Gudea, dans : Buciumi, p. 116, no 4 </bibl><bibl> N. Gudea, V. Lucăcel, InscrZalău, p. 24, no 41 (photo).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            a <expan><abbr>Imp</abbr><ex>eratori</ex></expan> C[aesari <lb n="2"/>- - - - - -] d [- - - <expan><abbr>torquata</abbr><ex cert="low"/></expan> <lb n="3"/>et a]rmi<supplied reason="lost" cert="low">llata </supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À l’empereur César …, (le nom de la troupe, décorée avec un torques (collier) et) une armilla (bracelet)(?).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>a : Chirilă, Gudea, Lucăcel, HD : Imp(erator..) C[aes(ar..)] ; b : Chirilă, Gudea, Lucăcel : RMI ; HD : RMA. Il s’agit d’une base de statue pour un empereur, érigée par une troupe, probablement par la cohors II Augusta Nervia Pacensis Brittonum (milliaria). Pour les lettres RMI (b) une solution pourrait être la distinction de cette troupe avec une armilla, tout comme l’ala Siliana ([ala Silian]a c(ivium) R(omanorum) torq(uata) et [armil(lata)], AE 1983, 859).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

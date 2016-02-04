@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription pour le salut de P. Aelius Marius</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000827.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000827</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Domnești</placeName>                     
+                        </settlement>
+                        <repository>Musée de Bistrița</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>102</height>
+                                         <width>34</width>
+                                         <depth>42</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Ttrouvé en 1913 dans l’endroit „Izvorul sărat“ (Salzbrunnen), à 3 km de Domnești, près de la confluence des rivières Șieu et Budac.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir du règne de Commode (180-192), en raison du statut colonial d'Apulum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1913</date>
+                                <placeName>Domnești</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G. Fischer, Korrbl. V. S. L. 44, 1921, 71/72 </bibl><bibl> V. Christescu, Viața economică, p. 51 </bibl><bibl> C. Daicoviciu, ACMIT 2, 1929, p. 308, no IV/2 = Dacica, p. 144, no IV/2 </bibl><bibl> AE 1930, 10 </bibl><bibl> I. I. Russu, SCIV 7, 1-4, 1956, p. 7-12, fig. 2 a-b (photo, dessin) </bibl><bibl> AE 1957, 273 </bibl><bibl> N. Gostar, ArhMold 4, 1966, p. 175-176 (dessin) </bibl><bibl> AE 1967, 388 </bibl><bibl> C. Daicoviciu, AMN 3, 1966, p. 158, n. 25 = Dacica, p. 391, n. 25 </bibl><bibl> ILD 804.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>I</abbr><ex>ovi</ex></expan></supplied> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> et <expan><abbr>T</abbr><ex>errae</ex></expan> <expan><abbr>M</abbr><ex>atri</ex></expan> <lb n="2"/><supplied reason="lost">p</supplied>ro <expan><abbr>sal</abbr><ex>ute</ex></expan> <supplied reason="omitted">P</supplied>(ublii) <expan><abbr>Ael</abbr><ex>ii</ex></expan> <lb n="3"/>Ṃ<expan><abbr>ari</abbr><ex>i</ex></expan> <expan><abbr>fl</abbr><ex>aminis</ex></expan> <expan><abbr>col</abbr><ex>oniae</ex></expan> <lb n="4"/><supplied reason="lost">c</supplied>ọ<expan><abbr>nduc</abbr><ex>toris</ex></expan> <expan><abbr>pasc</abbr><ex>ui</ex></expan> <lb n="5"/><supplied reason="lost">et</supplied> <expan><abbr>salina</abbr><ex>rum</ex></expan> At <lb n="6"/>ṭicus <expan><abbr>act</abbr><ex>or</ex></expan> eius <lb n="7"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Fischer, Daicoviciu, (ACMIT), Petolescu (ILD) : I(ovi) o(ptimo) m(aximo) et M(inervae?) / [p]ro salute Ael(i) Mari fl(aminis) col(oniae) / [c]onduc(toris) pas(cui) /5 et salina(rum) Ae(lius?) / Aeticua (?) gener(?) / v(otum) s(olvit) l(ibens) m(erito) ; Christescu, l. 1 : I(ovi) o(ptimo) m(aximo) et I(unoni) M(inervae) ; Russu : [I(ovi)] o(ptimo) m(aximo) et I(unoni) M(inervae) sive I(nvicto) M(ithrae) / [p]ro sal(u)t(e) Ael(i) / Mari fl(aminis) col(oniae) / [c]onduc(toris) pasc(ui) / et salina(rum) At/ticus act(or) eius / v(otum) s(olvit) l(ibens) m(erito) ; Gostar, HD, l. 1-2 : I(ovi) o(ptimo) m(aximo) et T(erae) M(atri) / [p]ro sal(ute) T(iti) Ael(ii) / Mari ; Daicoviciu (AMN) : I(ovi) o(ptimo) m(aximo) et T(errae) M(atri) / [p]ro sal(ute) T(iti) Ael(i) / Mari fl(aminis) col(oniae) / conduc(toris) pasc(ui) / et salin(arum) T(itus) Ae[l] / [At sive A]ticus act(or) eius /v(otum) s(olvit) l(ibens) m(erito). Dans la l. 1 la lecture correcte appartient à Gostar.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand et à la mère Terre, pour la santé de Publius (?) Aelius Marius, flamen de la colonie, fermier des pâturages et des salines. Atticus, son intendant, s’est acquitté de (son) voeu de bon gré (et) à bon droit.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Une dédicace faite à la Terra Mater, qui conserve dans son sein des richesses comme le sel, est normale pour un subordonné d’un conductor pascui et salinarum. Dans la l. 2 le T ne peut pas être interprété comme praenomen de Aelius Marius, car dans toutes les autres inscriptions (CIL III 1363 = IDR III/3, 119 ; CIL III 1549 = IDR III/1, 145 ; D. Dana, R. Zăgreanu, Tyche 28, 2013, p. 28-30, no 1) il s’appelle P(ublius). Il faut donc choisir la solution de Russu, sal(u)t(e), ou bien qu’on a écrit T à la place de P. Pour les l. 4-6 nous suivons la lecture de Russu. P. Aelius Marius était flamen de la colonia Aurelia Apulensis (Daicoviciu). Pour son activité voir encore P. Ørsted, Roman Imperial Ecoomy and Romanization, København 1985, p. 346, no 18 ; I. Piso, G. Cupcea, Tyche 29, 2014, p. 121-122.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

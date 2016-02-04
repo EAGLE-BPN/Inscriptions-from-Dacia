@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Des voeux faits par un Stefanius.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001113.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001113</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Partoș</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj, inv. V 12936.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique fragmentaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>26</height>
+                                         <width/>
+                                         <depth>18</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">incisées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">3-6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé pendant l’hiver 1872/1873 dans Partoș (colonia Aurelia Apulensis) et vu chez Damian par O. Hirschfeld.
+                                <placeName ref="www.trismegistos.org/place/NaN">Colonia Aurelia Apulensis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1872/1873</date>
+                                <placeName>Partoș</placeName> 
+                            <placeName type="modernRegion">Jud. Alba</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term>Graffite avant cuisson</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>O. Hirschfeld, SAWW 77, 1874, p. 408 (dessin)</bibl><bibl> CIL III 8077, 8 (dessin)</bibl><bibl> N. Gudea, AMP 11, 1987, p. 103, no 42, p. 140, fig. 42 (dessin)</bibl><bibl> IDR III/6, 316</bibl><bibl> I. Piso, F. Marcu, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> S</supplied>ṭefaniu[s <lb n="2"/>- - -]mmibu[s <lb n="3"/>feli]cịter.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Stephanius à ... bonne chance.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Graffite avant cuisson; trois lignes incomplètes; manquent les extrémités. Hirschfeld, v. Domaszewski: ... Faniu[s?] / ..mmibu... / ..pe?]r; Gudea, l. 3: RE; Băluță: [- - -]?tefanius / [- - -]?mmibu[- - - /- - -]ter. L. 1: on distingue le bout droit de la barre du T, suivi par un E cursif; l. 2: on peut avoir écrit [o]mmibu[s] à la place de [o]mnibu[s]; l. 3: on distingue aussi les bouts supérieurs des lettres CI. Il s’agit probablement d’un voeu fait par un Stefanius, nom dérivé de Στέφανος; voir H. Solin, Die griechischen Personennamen in Rom. Ein Namenbuch2, III, Berlin – New York 2003, p. 1273. On remarque aussi que le nom a été écrit avec f et pas avec ph.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

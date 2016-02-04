@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire de Finitus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001183.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001183</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mureș</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cristești</placeName>                     
+                        </settlement>
+                        <repository>Musée de Târgu-Mureș</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">Stèle funéraire, fragment</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>129</height>
+                                         <width>16</width>
+                                         <depth>62</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               hedera
+                                <height unit="cm">14/98,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>se trouvait dans le château de Gornești, où elle a été vue en 1942 par I. Paulovics.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIe siècle, en raison du nom de facture pérégrine du défunt.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1942</date>
+                                <placeName>Cristești</placeName> 
+                            <placeName type="modernRegion">Jud. Mureș</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Paulovics, Dacia keleti határvala ..., Kolozsvár 1944, p. 95, fig. 54 (photo)</bibl><bibl> L. Țeposu Marinescu, Funerary Monuments, p. 123, no 83, pl. V (photo)</bibl><bibl> IDR III/4, 140 (photo, dessin)</bibl><bibl> I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <lb n="2"/>Finitus C<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied> <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> <gap reason="lost" quantity="3" unit="character"/> <lb n="4"/>fer <expan><abbr>p</abbr><ex cert="low">ater</ex></expan> <gap reason="lost" quantity="3" unit="character"/> <lb n="5"/>et Supe<supplied reason="lost">ra </supplied><gap reason="lost" quantity="3" unit="character"/> <lb n="6"/><expan><abbr>f</abbr><ex>ilia</ex></expan> <supplied reason="lost">.</supplied> A N<gap reason="lost" quantity="3" unit="character"/>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux (Mânes). Finitus, (fils de ...), a vécu ... ans. ...fer, (son) père, ..., et Supera, la fille de ....</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Stèle funéraire, la partie gauche inférieure. Dans une niche est représentée une femme à la tête mutilée, portant un torques et deux fibules pannoniennes sur les épaules et tenant dans sa main gauche une cruche. L'homme, dans la partie droite, manque. Devant la femme on distingue le buste d'enfant. À la droite de celui-ci on distingue un peu du buste d'un second enfant. La partie inférieure de la niche et le champ épigraphique sont encadrés par deux colonnettes en torsade, avec les chapiteaux végétaux. Les lettres D [M] se trouvent d'une part et de l'autre de la niche. I. I. Russu (IDR): D(is) [M(anibus)] / Finitus [- - - fil(ius)] / vi(xit) an(nos) [- - -] / f(ilius) er(es) p(osuit) [- - -] / 5 et Supi[nus? - - -] / f(ilius) an[n(orum) - - -]. L. 4: les lettres FER appartiennent plutôt à un nom comme Afer, Frugifer etc. Il pourrait être le père du défunt, suivi par la mère, qui s'appelle probablement Supe[ra]. La moins claire est la l. 6. Les fibules portées par la femme suggèrent une origine pannonienne de la famille.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

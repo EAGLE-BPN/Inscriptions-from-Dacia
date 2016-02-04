@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription funéraire d'un militaire du numerus singularium Britannicianorum</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001171.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001171</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Geoagiu</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1773">Base de monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1930 lors de la démolition de l'église réformée et transcrite en 1942 par N. Gostar.
+                                <placeName ref="www.trismegistos.org/place/NaN">Germisara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Après 179, quand la troupe de Cigmău (près de Germisara) était encore appelée vexillatio peditum singularium Britannicianorum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1930</date>
+                                <placeName>Geoagiu</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gostar, Sargetia 3, 1956, p. 65-66</bibl><bibl> IDR III/3, 255.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [- - - - - - <lb n="2"/>- - - <expan><abbr>v</abbr><ex>ixit</ex></expan>] <expan><abbr>a</abbr><ex>nnis</ex></expan> ḶXXV[.<certainty match="preceding-sibling::node()" locus="value"/> <lb n="3"/>- - -]ta <expan><abbr>v</abbr><ex>ixit</ex></expan> <expan><abbr>a</abbr><ex>nnis</ex></expan> V[. <lb n="4"/>- - - Ae]<expan><abbr>l</abbr><ex>ia</ex></expan> Ma <lb n="5"/><gap reason="lost" quantity="3" unit="character"/>a <expan><abbr>v</abbr><ex>ixit</ex></expan> <lb n="6"/>5 <supplied reason="lost"><expan><abbr>a</abbr><ex>nnis</ex></expan></supplied><gap reason="lost" extent="unknown" unit="character"/>Ṿ<certainty match="preceding-sibling::node()" locus="value"/> <expan><abbr>Ael</abbr><ex>ius</ex></expan> C[. <lb n="7"/>- - - <expan><abbr>n</abbr><ex>umeri</ex></expan>] si<expan><ex>n</ex><abbr>g</abbr><ex>ularium</ex></expan> <expan><abbr>B</abbr><ex>ritannicianorum</ex></expan> <lb n="8"/><supplied reason="lost">filii</supplied>s et pa <lb n="9"/><supplied reason="lost">tri <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erentibus</ex></expan></supplied> <expan><abbr>p</abbr><ex>osuit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    ..., a vécu 76(?) ans. ...ta a vécu 5(?) ans. Aelia Ma...a a vécu 5(?) ans. Aelius C..., du (numerus) singularium Britannicianorum, érigea (ceci à ses) enfants et à (son) père (qui ont bien mérité).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Manquent la partie supérieure, la moitié gauche et la marge droite du champ épigraphique. Est conservée une partie de la plinthe. I. I. Russu, IDR: [- - -]AM / [- - -]IA v(ixit) a(nnis) / [- - -]L. MA/[- - -]IA v(ixit) / [a(nnis) - -] AELC / [- - - n(umeri)] Si(n)g(ularium) B(ritannicorum) / [- - - filii]s et pa/[tri b(ene m(erentibus) ] p(osuit). La nouvelle lecture est due à une photographie faite en 1935, que j'ai reçu de Lucia Daicoviciu, l'épouse de Constantin Daicoviciu. le nom du premier défunt se trouvait dans la première ou dans les deux premières lignes perdues de l'inscription, les noms de deux enfants se trouvaient dans les l. 2-4 et le nom du cédicant dans les l. 5-6. Pour le numerus singularium Britannicianorum voir C. C. Petolescu, Auxilia Daciae, Bucarest 2002, p. 129-130.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

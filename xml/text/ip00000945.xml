@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour l'empereur Caracalla</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000945.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000945</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque honorifique encastrée dans une base, 54 fragments</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>95</height>
+                                         <width/>
+                                         <depth>60</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvée en 1964 par M. Macrea et son équipe dans la cour des principia du camp de Buciumi, écrasée près de la plinthe estique se trouvant devant l’aedes principiorum (voir M. Macrea, E. Chirilă, N. Gudea, V. Lucăcel, C. Pop, StCom Sibiu 14, 1969, p. 289, fig. 1), auprès de la base de statue, beaucoup plus détériorée, de Septime Sévère (no suivant).
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0208" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Date des années 208-210(?), en raison des années de gouvernement de C. Iulius Maximinus, legatus Augusti pro praetore; voir I. Piso, Fasti provinciae Daciae I, Bonn 1993, p. 166-168.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1964</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Macrea, E. Chirilă, N. Gudea, V. Lucăcel, C. Pop, StCom Sibiu 14, 1969, p. 289-297, fig. 2-3, 4/7 et 10, 5 (photos) </bibl><bibl> E. Chirilă, N. Gudea, dans: Buciumi, p. 115, pl. CXXXVI (photo) </bibl><bibl> N. Gudea, V. Lucăcel, Inscripții, p. 22-23, no 37, fig. 37 (photo)</bibl><bibl> AE 1977, 708 </bibl><bibl> C. C. Petolescu, dans : Epigraphica-Travaux, p. 161, n. 16 </bibl><bibl> I. Piso, AMN 15, 1978, p. 186-187, fig. 9 (dessin) </bibl><bibl> AE 1978, 690 </bibl><bibl> J. Fitz, Honorific Titles, p. 65, no 238 a </bibl><bibl> I. Piso, Fasti I, p. 171, no 38/9 </bibl><bibl> ILD 633 </bibl><bibl> Al. Diaconescu, Statuaria II, p. 206-207</bibl><bibl> I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Im<supplied reason="lost">peratori</supplied> C<supplied reason="lost">a</supplied>esa[ri <lb n="2"/><expan><abbr>L</abbr><ex>ucii</ex></expan> Septi]mii Sevẹ[ri <lb n="3"/>Pii Pe]rtina<supplied reason="lost">cis <expan><abbr>Aug</abbr><ex>usti</ex></expan></supplied> <lb n="4"/><expan><abbr>Arab</abbr><ex>ici</ex></expan> <expan><abbr>Adi<supplied reason="lost">a</supplied>b</abbr><ex>enici</ex></expan> <supplied reason="lost">P</supplied>ar <lb n="5"/>5 <supplied reason="lost">t</supplied>ḥici <expan><abbr>max</abbr><ex>imi</ex></expan> <supplied reason="lost">f</supplied>ilio <lb n="6"/><supplied reason="lost">Div</supplied>i Marci An <lb n="7"/><supplied reason="lost">t</supplied>on<supplied reason="lost">i</supplied>ni Pii <expan><abbr>Germ</abbr><ex>anici</ex></expan> <lb n="8"/><supplied reason="lost">S</supplied>aṛṃ(atici) ne<supplied reason="lost">p</supplied>ot<supplied reason="lost">i</supplied> Di <lb n="9"/><supplied reason="lost">vi A</supplied>ntoni<supplied reason="lost">ni</supplied> Pii <lb n="10"/><supplied reason="lost">p</supplied>ronepoti Ḍ<supplied reason="lost">i</supplied>vi Ha <lb n="11"/>driani abnepoti <lb n="12"/>Divi Traiani Parth <lb n="13"/><supplied reason="lost">ic</supplied>i et Divi Nervae ad <lb n="14"/>nepoti Marco A<supplied reason="lost">u</supplied> <lb n="15"/>relio Anto<supplied reason="lost">n</supplied>iṇọ <supplied reason="lost">Au</supplied> <lb n="16"/><expan><abbr>g</abbr><ex>usto</ex></expan> <expan><abbr>coh</abbr><ex>ors</ex></expan> I[I Nervia <expan><abbr>Pac</abbr><ex>ensis</ex></expan> <lb n="17"/>de]dica[nte <expan><abbr>C</abbr><ex>aio</ex></expan> <expan><abbr>Iul</abbr><ex>io</ex></expan> Ma <lb n="18"/><expan><abbr>ximino</abbr><ex cert="low"/></expan> le]<expan><abbr>g</abbr><ex>ato</ex></expan> <expan><abbr>A<supplied reason="lost">u</supplied>gg</abbr><ex>ustorum</ex></expan> <supplied reason="lost"><expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan></supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À l’empereur César Marc Aurèle Antonin Auguste, fils de (Lucius) Septimius Severus (Pius) Pertinax Auguste, vainqueur des Arabes, vainqueur des Adiabènes, grand vainqueur des Parthes, petit fils du divin Marc Antonin le Pieux, vainqueur des Germains, vainqueur des Sarmates, arriéere petit fils du divin Antonin le Pieux, arrière petit fils du divin Hadrien, arrière petit fils du divin Trajan, vainqueur des Parthes et du divin Nerva. La Cohors I(I Nervia Pacensis) (érigea ceci), dédicant étant (Caius Iulius Maximinus), légat des deux empereurs (en qualité de pro praetore).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les premiers éditeurs offrirent une première lecture méritoire de ce texte difficile : Im[peratori] C[a]esa[ri Divi / L(ucii) Septimi S]ev[e]ri / [Pii Pe]r[ti]na[cis Au/g(usti)] Arab(ici) Adi[a]b(enici) [P]ar/[th]ici max(imi) [f]ilio / [Divi] Marci An/ton[i]ni Pii Germ(anici) / [S]a[rm(atici)] ne[p]ot[i] Di/[vi A]ntoni[ni] Pii / [p]ronepoti D[i]v[i] Ha/driani a[b]nepoti / Divi Trai[a]ni Parth/[ic]i et Divi Nervae ad/nepoti Marco A[u]/relio An[t]o[nino Au]/g(usto) coh(ors) I[I N(ervia) Br(ittonum) m(illiaria) Ant(oniniana) p(ia) f(idelis) de[dica[nte - - - - - -]. Pour le gouverneur des dernières lignes, les premiers éditeurs pensèrent à L. Marius Perpetuus, pour rejeter aussitôt cette idée. Ils datèrent néanmoins l’inscription de l’année 213. Piso mit au profit quelques autres fragments (Macrea et alii, StCom Sibiu 14, 1969, p. 294, fig. 4/7-10) et, en reprenant (tout comme Petolescu) l’idée rejetée par ses prédécesseurs, offrit pour les l. 16-18 la solution suivante : coh(ors) I[I Ner]vi[a Br(ittonum) Ant(oniniana) / de]dica[nte] L(ucio) M[ar(io) Per/petuo le]g(ato) A[u]g(usti) [pr(o) pr(aetore)]. Il data l’inscription des années 212/213-215, en accord avec la durée de la mission de L. Marius Perpetuus en Dacie (Fasti I, p. 169-177). Diaconescu aborda une autre voie. Il remarqua que les formulaires pour les noms de Septime Sévère et de Caracalla étaient ceux utilisés avant la mort de Septime Sévère. En effet, [Divi] ne trouve pas de place au début de la l. 2, le nom de Septime Sévère abonde d’épithétes triomphales, tandis que Caracalla ne porte aucune épithète, ce qui n’est pas normal pour les années à partir de 212. Le même Diaconescu supposa dans les lignes 17-18 le nom de C. Iulius Maximinus : coh(ors) I[I Ner]vi[a Br(ittonum) / ded]ic(ante) [C(aio) Iu]l(io) M[axi/mino le]g(ato) A[u]g(usti) [pr(o) pr(aetore)]. En principe, il a probablement raison. Le problème est que dans la l. 17 on a [de]dica[nte] et pas [ded]ic(ante) et le fragment avec les lettres L M n’a pas de place. Ce fragment doit appartenir au monument de Septime Sévère, érigé au même moment et dédié par le même gouverneur. Il soutient en tout cas l’hypothèse reganrdant C. Iulius Maximinus. Pour le nom de la troupe de Buciumi, j’ai préféré la solution cohors II Nervia Pacensis, connue des estampilles tégulaires de la même époque.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

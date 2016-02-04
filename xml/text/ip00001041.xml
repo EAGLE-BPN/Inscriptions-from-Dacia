@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire pour un vétéran d'une unité auxiliaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001041.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001041</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. C. C. 379/1970</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>0,1</width>
+                                         <depth>3,3</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé lors des fouilles dans le camp de Buciumi, dans le barraquement no 2.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0110" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Datée de 110/129 (?), période dans laquelle T. Iulius Urbanus apparaît parmi les témoins en première place (M. Roxan).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers 1966</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 6, 1982, p. 60, 64, no 2/1-2 (dessins) </bibl><bibl> AE 1983, 849 </bibl><bibl> RMD II 89 </bibl><bibl> ILD 22.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tab. II intus :[- - - - - - <lb n="2"/><expan><abbr>a</abbr><ex>nte</ex></expan> <expan><abbr>d</abbr><ex>iem</ex></expan> - - - <lb n="3"/><expan><abbr>coh</abbr><ex>ortis</ex></expan> aut alae - - - cui prae<expan><ex>e</ex><abbr>st</abbr></expan> - - - ex - - - - - - et <lb n="4"/>- - -] <expan><abbr>fil</abbr><ex>iae</ex></expan> eius <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><expan><abbr>fil</abbr><ex>iae</ex></expan></supplied> eiusTab. II extr. :<supplied reason="lost"><expan><abbr>T</abbr><ex>iti</ex></expan> <expan><abbr>Iuli</abbr><ex>i</ex></expan> Ur</supplied>bani <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    … (le jour de …, de la cohorte ou de l’aile …, commandée par …, à …), …, à sa fille, …à sa (fille), ….(Le sceau de Titus Iulius) Urbanus, ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Diplôme militaire, fragment de la tabella II ; le coin supérieur droit de la tabella II extr., dont les marges sont marquées par deux lignes incisées. Il s’agit d’un diplôme pour l’armée de Dacie trajane ou de Dacie Porolissensis. Fil(iae) eius se rapporte à une fille du bénéficiaire, suivi vraisemblablement par une seconde fille (M. Roxan).</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

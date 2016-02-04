@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription de restauration de bains militaires</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001247.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001247</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Vețel</placeName>                     
+                        </settlement>
+                        <repository>Musée de Deva</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque de construction, la partie gauche</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>86</height>
+                                         <width>21</width>
+                                         <depth>76</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1901 dans les ruines de Micia, probablement dans les thermes
+                                <placeName ref="www.trismegistos.org/place/NaN">Micia</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0222" notAfter-custom="0235" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Date du règne de Sévère Alexandre (222-235), en raison du nom martelé de cet empereur et de l'épithète portée par la troupe.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1901</date>
+                                <placeName>Vețel</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/86">Inscription de construction</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>R. Münsterberg, J. Oehler, JÖAI 5, 1902, Bbl. 129-130</bibl><bibl> AE 1903, 66</bibl><bibl> C. Daicoviciu, ACMIT 1930-1931 (1932), p. 35</bibl><bibl> idem, Dacica, p. 181</bibl><bibl> IDR III/3, 46.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Imp</abbr><ex>erator</ex></expan> Cae<supplied reason="lost"><expan><abbr>s</abbr><ex>ar</ex></expan> <expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Aurel</abbr><ex>ius</ex></expan> Severus</supplied> <lb n="2"/><del rend="erasure">Alexan[der</del> Pius Felix Augustus] <lb n="3"/>balnea<supplied reason="lost">s <expan><abbr>coh</abbr><ex>ortis</ex></expan> II <expan><abbr>Fl</abbr><ex>aviae</ex></expan> <expan><abbr>Commagenor</abbr><ex>um</ex></expan></supplied> <lb n="4"/>Severia<supplied reason="lost">nae <expan><abbr>vetust</abbr><ex>ate</ex></expan> dilapsas res</supplied> <lb n="5"/>tituit s<supplied reason="lost">ub</supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulari</ex></expan></supplied> <lb n="6"/><expan><abbr>Dac</abbr><ex>iarum</ex></expan> III c<supplied reason="lost">urante </supplied><gap reason="lost" quantity="3" unit="character"/> <lb n="7"/>diano, p<supplied reason="lost"><expan><abbr>raef</abbr><ex>ecto</ex></expan> <expan><abbr>coh</abbr><ex>ortis</ex></expan> II <expan><abbr>Fl</abbr><ex>aviae</ex></expan> <expan><abbr>Com</abbr><ex>magenorum</ex></expan> Severi</supplied> <lb n="8"/>anae <supplied reason="lost">Alexandrianae</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L'empereur César (Marcus Aurelius Severus) Alexander (pieux heureux Auguste), refit les bains (de la cohors II Flavia Commagenorum) Severiana (effondrés par l'âge) sous l'autorité de ..., (consulaire) des trois Dacies, par les soins de ...dianus, (préfet de la cohors II Flavia Commagenorum) Severiana (Alexandriana).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Le nom Alexander de l'empereur a été martelé. Le gouverneur et le préfet de l'unité miliatiare restent inconnus. La troupe peut être aussi bien l'ala I Hispanorum, stationnée dans le camp de Micia auprés de la cohors II Flavia Commagenorum et du numerus Maurorum Miciensium.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription tégulaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000661.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000661</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique d'hypocauste</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>3,4</height>
+                                         <width/>
+                                         <depth>15</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1,31,7</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvée dans le camp de Buciumi.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">Estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ST_58" url="https://commons.wikimedia.org/wiki/File:ST_58">
+       <desc> ST_58
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>J. Szilágyi, Ziegelstempel, p. 53/220, pl. XV/220</bibl><bibl> E. Chirilă, N. Gudea, V. Lucăcel, C. Pop, Buciumi, p. 117, pl. CXXXIX</bibl><bibl> C. C. Petolescu, SCIVA 25/4, 1974, p. 601, no 7</bibl><bibl> AE 1977, 709</bibl><bibl> J. E. Bogaers, dans: Limes. Akten des XI. internationalen Limeskongresses (Székesfehérvár, 30.8 – 6.9.1976, éd. J. Fitz), Budapest 1977, p. 613-614</bibl><bibl> N. Gudea, AMP 2, 1978, p. 67, pl. I/1-2, 5-6</bibl><bibl> idem, AMP 13, 1989, p. 166-168, 978, pl. CXIX/1-2, 5-6</bibl><bibl> idem, Buciumi 1997, p. 31-32, 95, fig. 12/1</bibl><bibl> idem, LimesDac, p. *43, no 22/1</bibl><bibl> ILD 636, 741.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Coh</abbr><ex>ortis</ex></expan> I <expan><abbr>Aug</abbr><ex>ustae</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Appartenant à la cohors I Augusta.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Estampille en négatif, dextrograde, en cartouche rectangulaire et avec les lettres en relief; la lettre C a dans son intérieur un carré en relief. J. Szilágyi: COH. II ..., tandis tous les autres auteurs ont identifié cette troupe à la cohors I Augusta Ituraeorum sagittariorum, attestée en Dacie uniquement sous Trajan (CIL XVI 57 = IDR I, D1). Un argument pour la présence de la troupe dans le nord de Dacie sous Trajan a été l’interprétation donnée par C. C. Petolescu (SCIVA 25/4, 1974, p. 599-601) à une l’inscription impériale de Buciumi. Or, celle-ci est datable plutôt du IIIe siècle (I. Piso, - - -). D’autre part, les estampilles de Porolissum appartenant très probablement à la cohors I Ituraeorum sagittariorum ne ressemblent pas aux estampilles de Buciumi. S’ajoute le fait qu’après le règne de Trajan cette cohorte ne porte plus l’épithète Augusta. Il faut alors reconnaître que nous ne pouvons pas identifier cette cohorte avec une unité connue. On a probablement affaire à une création tardive.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

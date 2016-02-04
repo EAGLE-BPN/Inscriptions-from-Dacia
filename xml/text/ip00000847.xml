@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à l'empereur Gordien III</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000847.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000847</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Bologa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Base de statue fragmentaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>45</height>
+                                         <width>16</width>
+                                         <depth>50</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">5,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvée en 1967/1970 par N. Gudea dans les principia du camp de Bologa.
+                                <placeName ref="www.trismegistos.org/place/NaN">Resculum?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0238" notAfter-custom="0244" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">238-244, les années du règne de Gordien III.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1967/1970</date>
+                                <placeName>Bologa</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>a : N. Gudea, AMN 9, 1972, p. 416, no 8, p. 426, fig. 5/3 (photo) </bibl><bibl> AE 1972, 476 </bibl><bibl> ILS 623 </bibl><bibl> E. Chirilă, N. Gudea, MCA 10, 1973, p. 116, fig. 3/4 (photo) </bibl><bibl> ILS 614 d </bibl><bibl> b : N. Gudea, AMN 9, 1972, p. 416, no 7, p. 426, fig. 5/5 (photo) </bibl><bibl> AE 1972, 475 </bibl><bibl> ILS 622 </bibl><bibl> E. Chirilă, N. Gudea, MCA 10, 1973, p. 116, fig. 3/2 (photo) </bibl><bibl> ILS 614 b </bibl><bibl> c : N. Gudea, AMN 9, 1972, p. 415, no 6, p. 426, fig. 5/6 (photo) </bibl><bibl> AE 1972, 474 </bibl><bibl> ILS 621 </bibl><bibl> E. Chirilă, N. Gudea, MCA 10, 1973, p. 116, fig. 3/1 (photo) </bibl><bibl> ILS 614 a</bibl><bibl> tous les fragments, I. Piso, ms..</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost"><expan><abbr>Imp</abbr><ex>eratori</ex></expan> Caesari</supplied> <lb n="2"/>Ṃ(arco) <supplied reason="lost"><expan><abbr>Ant</abbr><ex>onio</ex></expan> Gor</supplied> <lb n="3"/>ḍ<supplied reason="lost">iano <expan><abbr>p</abbr><ex>io</ex></expan> <expan><abbr>f</abbr><ex>elici</ex></expan> <expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied> <lb n="4"/>po<supplied reason="lost"><expan><abbr>nt</abbr><ex>ifici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan> <expan><abbr>tr</abbr><ex>ib(unicia</ex></expan></supplied> <lb n="5"/>po<supplied reason="lost"><expan><abbr>t</abbr><ex>estate</ex></expan> <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> ? <expan><abbr>coh</abbr><ex>ors</ex></expan></supplied> <lb n="6"/>I A<supplied reason="lost"><expan><abbr>el</abbr><ex>ia</ex></expan> Gaẹ[<expan><abbr>sat</abbr><ex>orum</ex></expan></supplied> <lb n="7"/>Gọrdia<supplied reason="lost">na</supplied> <lb n="8"/><supplied reason="lost">e</supplied>x <certainty match="preceding-sibling::node()" locus="value"/> <expan><abbr>q</abbr><ex>uaestura</ex></expan> <certainty match="preceding-sibling::node()" locus="value"/> de<supplied reason="lost">vota</supplied> <lb n="9"/><supplied reason="lost">numini maiesta</supplied> <lb n="10"/><supplied reason="lost">tique eius</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Chaque fragment a été publié, sans s’en apercevoir, à deux reprises ; cf. Petolescu, ad ILD 614 d. Gudea et les autres : a : I[mp(eratori) Caesari / - - -] / po[nt(ifici) max(imo) trib(unicia)] / po(testate) [- - - - - -] ; b : [- - - coh(ors)] I A[el(ia) Gaesat(orum)] / Go[rdiana - - -] / x[- - -] ; c : [- - - coh(ors) I Ael(ia) Ga[esat(orum) / Go]rdia[na - - -] n(umini) m(aiestati)]q(ue) de[vota - - -]. Personne n’a remarqué l’appartenance des trois fragments à la même pièce.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À l’empereur César) Marcus (Antonius) Gordianus, (pieux heureux Auguste), (grand) pontife, (investi avec la puissance tribunicienne, consul). La (cohors) I Aelia Gaesatorum Gordiana (érigea ceci) de sa propre caisse( ?), devouée (à la force divine et à sa majesté).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les fragments publiés séparément ont été réunis par I. Piso. Il résulte des lignes 4-5 que les chiffres de la puissance tribunicienne et du consulat manquaient et que la titulature impériale n’était pas complète. Manquait en tout cas le proconsulat. Reste peu claire le debout de la l. 8. Le X semble être sûr. Une possible solution est [e]x q(uaestura), voir CIL III 798 = ILS 2492 ; CIL III 797, Arcobadara), en entendant par la quaestura une caisse commune de la troupe. Une solution comme [feli]/x serait très peu probable.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

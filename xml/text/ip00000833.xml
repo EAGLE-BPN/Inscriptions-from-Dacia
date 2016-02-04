@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace faite par n préfet de cohorte.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000833.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000833</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Bologa</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue, fragment</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>34</height>
+                                         <width>24</width>
+                                         <depth>34</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">5,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé vers 1877 par Ion Gordan dans les ruines du camp de Bologa et encastré dans sa maison ; vu par C. Torma et envoyé au musée de Cluj.
+                                <placeName ref="www.trismegistos.org/place/NaN">Resculum?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIe siècle, en raison de l'écriture.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>vers 1877</date>
+                                <placeName>Bologa</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>C. Torma, AEM 3, 1879, p. 93-94, no 14 (dessin) </bibl><bibl> idem, Limes Dacicus 45-46 (dessin) </bibl><bibl> CIL III 7648 </bibl><bibl> N. Gudea, Apulum 10, 1972, p. 707-712, fig. 1-2 (photo, dessin) </bibl><bibl> ILD 628.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/> <lb n="2"/><expan><abbr>C</abbr><ex>aius</ex></expan> Candi <lb n="3"/>dius Pa <lb n="4"/>truinus <lb n="5"/><expan><abbr>prae</abbr><ex>fectus</ex></expan> <expan><abbr>coh</abbr><ex>ortis</ex></expan> <lb n="6"/><supplied reason="lost">I</supplied> <expan><abbr>Ael</abbr><ex>iae</ex></expan> Gaeṣ(atorum) <lb n="7"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 1, Gudea : [I(ovi) o(ptimo) m(aximo) ?] ; C. C. Petolescu (ILD), HD : [I(ovi) o(ptimo) m(aximo) ?] ; il n’existe aucun indice pour cette divinité. L. 2 : Torma, A. v. Domaszewski (CIL), sans praenomen ; Gudea, H. Devijver (PME, C 74), Petolescu (ILD), HD : [P(ublius) ?] ; or, on y distingue assez bien un C. L. 5-6, Torma (Limes) : coh(ors) / Aficae[- - -] ; v. Domaszewski (CIL) : coh(ortis) / [I] Ael(iae) Gal(lorum) ; C. Cichorius, RE IV/1 (1900), 286) : coh(ortis) / [I] Ael(iae) Gae[sat(orum)], solution en principe correcte, approuvée, parmi d’autres, par M. Macrea (ACMIT 4, 1938, p. 226, n. 37 et I. I. Russu, MCA 2, 1956, p. 711 ; Gudea : coh(ortis) [I] Ael(iae) Gae[s(atorum) miliariae]. L. 7, Gudea, Petolescu, HD : [v(otum) s(olvit) l(ibens) m(erito) ?]. La reconstitution (milliariae) de Gudea est erronée.</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    …, Caius Candidius Patruinus, préfet de la cohors (I) Aelia Gaesatorum, ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>On peut se demander si la troupe a restée milliaria, car elle est commandée par un prefet et pas par un tribun ; voir sur la cohors I Aelia Gaesatorum C. C. Petolescu, Auxilia, p. 103-104 ; pour le dédicant voir Devijver, PME, C 74. Selon le nomen Candidius, dérivé de Candidus, et le praenomen Patruinus, il provient d’une province celtique occidentale ; cf. E. Birley, chez Devijver, qui pensa aux Germanies.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

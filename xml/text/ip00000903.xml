@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Estampille tégulaire de la cohors III Delmatarum?</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000903.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000903</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique fragmentaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>7,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">2,6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>?
+                                <placeName ref="www.trismegistos.org/place/NaN">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIIe siècle, s'il s'agit vraiment de la cohors III Delmatarum.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1988</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">Estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 2, 1978, p. 68, 74, nos 1-3, pl. IX/7-9 (dessins)</bibl><bibl> AE 1978, 694</bibl><bibl> C. C. Petolescu, RevIst 33/6, 1980, p. 1046-1047</bibl><bibl> idem, Auxilia, p. 148, n. 4</bibl><bibl> N. Gudea, AMP 13, 1989, p. 168-169, 534, nos 1-3, p. 980, pl. CXXI/4-6 (dessins)</bibl><bibl> idem, DakLimes, p. *48, no 25/2 (dessins)</bibl><bibl> ILD 742</bibl><bibl> I. Piso, AMN 38, 2001, p. 230, n. 51 = Nordgrenze, p. 478, n. 51</bibl><bibl> N. Gudea, Apulum 48, 2011, p. 327-330 (dessins)</bibl><bibl> AE 2011, 1070</bibl><bibl> I. Piso, AMP 35, 2013, p. 163-165.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>C</abbr><ex>ohortis</ex></expan> <expan><abbr>III</abbr><ex cert="low"/></expan> <expan><abbr>D</abbr><ex>elmatarum</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Appartenant à la cohors III Delmatarum(?)</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Estampille sans cartouche, avec des lettres imprimées. Les hastes latérales sont plus brèves et peuvent donc être regardées aussi comme signes de séparation (AE 1978, ad 694); le D est plein. Il est difficile d’identifier cette troupe. Le grand problème est si l’on doit lire le chiffre III ou I. Gudea (1989, 1997, 2011) y vit une cohors III Dacorum, qui pourtant n’exista pas (Petolescu 2002, Piso 2013). Les auteurs de AE 1978 préférèrent la lecture c(ohortis) I D(- - -), suivis par Petolescu, qui proposa la lecture C(ohors) I D(acica) (Gallorum). On peut pourtant se demander si l’éthnique de la troupe pouvait être ignoré. Les lettres ressemblent à celles de l’estampille de la cohors III Delmatarum de Mehadia (no 356). Il est possible, selon la supposition de F. Matei-Popescu (chez Piso 2013), qu’il s’agisse de la même troupe, transférée dans des conditions inconnues à Porolissum.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

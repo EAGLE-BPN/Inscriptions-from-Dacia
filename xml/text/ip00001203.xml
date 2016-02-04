@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Iupiter Turmazgadis</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001203.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001203</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Vețel</placeName>                     
+                        </settlement>
+                        <repository>Musée de Deva</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material>andésite</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>100</height>
+                                         <width>57</width>
+                                         <depth>58</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm">4-5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvée à Micia vers 1900
+                                <placeName ref="www.trismegistos.org/place/NaN">Micia</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Comme la troupe ne porte pas d'épithète impériale, probablement encore du IIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers 1900</date>
+                                <placeName>Vețel</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>R. Münsterberg, J. Oehler, JÖAI 5, 1902, Bbl. 121</bibl><bibl> AE 1903, 65</bibl><bibl> ILS 9273</bibl><bibl> C. Daicoviciu, ACMIT 1930-1931 (1932), p. 37, no 6</bibl><bibl> I. I. Russu, AMN 6, 1969, p. 172</bibl><bibl> S. Sani, Cultele orientale I, Bucuresti 1981, p. 262, no 36</bibl><bibl> idem, ANRW II/18/2, p. 1252, no 36</bibl><bibl> IDR III/3, 138.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">I</supplied>ovi Tur <lb n="2"/>mazgadi <lb n="3"/><expan><abbr>coh</abbr><ex>ors</ex></expan> II <expan><abbr>Fl</abbr><ex>avia</ex></expan> <lb n="4"/><expan><abbr><supplied reason="lost">Co</supplied>mmag</abbr><ex>enorum</ex></expan> <expan><abbr>eq</abbr><ex>uitata</ex></expan> s[<expan><abbr>ag</abbr><ex>ittariorum</ex></expan> <lb n="5"/>cui] <expan><abbr>pr</abbr><ex>aeest</ex></expan> <expan><abbr>M</abbr><ex>arcus</ex></expan> Arru[nt <lb n="6"/>iu]s Agrippinu<supplied reason="lost">s</supplied> <lb n="7"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter Turmazgades. Cohors II Flavia Commagenorum equitata sagittariorum, commandée pr Marcus Arruntius Agrippinus, s'est acquittée de (son) voeu de bon gré (et) à bon droit.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Il s'agit d'une divinité syrienne suprême, assimilée à Jupiter; voir S. Sanie, Cultele orientale I, p. 99-103; idem, ANRW II/18/2 (1989), p. 1200-1202. La cohors II Flavia Commagenorum stationnait depuis le règne de Trajan dans le camp de Micia.Turmazgadis semble être une sorte de divinité nationale de cette troupe provenue de Commagene, une région située dans le nord de la Syrie. M. Arruntius Agrippinus était le préfet de la troupe.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

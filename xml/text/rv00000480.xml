@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>honorific</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000480.html</idno>
+
+
+                     
+                <idno type="localID">rv00000480</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Istria</placeName>                     
+                        </settlement>
+                        <repository>Museum of Histria</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>stella</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/66">limestone</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>2</height>
+                                         <width>1</width>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv">stella</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Histria</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia Inferior</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">198 - 199 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>exccavations in teh south-eastern corner of the city</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">honorific</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="HIS_17" url="HIS_17" sameAs="https://commons.wikimedia.org/wiki/File:HIS_17.jpg">
+       <desc> HIS_17
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>ISM I 82</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                grc&#xA;            ">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">ἀγαθῆι τύχηι</supplied> <lb n="2"/><supplied reason="lost">ὑπὲρ τῆς τῶν θειοτάτων Αὐτ</supplied>ο<supplied reason="lost">κρα</supplied>- <lb n="3"/><supplied reason="lost">τόρων νείκης τε καὶ τ</supplied>ύχης <lb n="4"/><supplied reason="lost">καὶ αἰωνίου διαμονῆς, Λου</supplied>κίου Σε- <lb n="5"/><supplied reason="lost">πτιμίου Σεουήρου καὶ Μάρκ</supplied>ου Αὐρηλί- <lb n="6"/><supplied reason="lost">ου Ἀντωνείνου Σεβαστῶν Πα</supplied>ρθικῶν με- <lb n="7"/><supplied reason="lost">γίστων 〚καὶ Λουκίου Σεπτιμίου Γέτα</supplied>〛 <lb n="8"/><supplied reason="lost">〚Καίσαρος〛 καὶ Ἰουλίας Δόμν</supplied>ης Σεβα<supplied reason="lost">σ</supplied>- <lb n="9"/><supplied reason="lost">τῆς, θειοτάτης μητρὸς κά</supplied>στρων, καὶ <lb n="10"/><supplied reason="lost">ὑπὲρ τῆς ἱερωτάτης σ</supplied>υνκλήτου <lb n="11"/><supplied reason="lost">καὶ ἱερῶν στρατευμά</supplied>τω<supplied reason="lost">ν κ</supplied>αὶ ὑπὲ<supplied reason="lost">ρ</supplied> <lb n="12"/><supplied reason="lost">τοῦ διέποντος τὴν ἐπαρχείαν ὑπατικοῦ</supplied> <lb n="13"/><supplied reason="lost">— — — — — — — — — — — — — — — —</supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Good fortune! For the succes, fortune and health of our divine emperors Lucius Septimius Severus and Marcus Aurelius Antoninus, victors over the Parthians, and of the Caesar Lucius Septimius Geta and of Iulia Domna, divine mother of camps, and for the holy Senate, and for the governor of the province ...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Gordien III</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000881.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000881</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 1836</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>26</height>
+                                         <width>18</width>
+                                         <depth>13</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvée en 1967/1969 dans le mur qui délimite vers sud-est la baraque no 5 du camp de Buciumi, en position secondaire.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0238" notAfter-custom="0244" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 238-244, les années du règne de Gordien III.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1967/1969</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>E. Chirilă, N. Gudea, dans : Buciumi, p. 116-118, no 11, pl. CXXXIX (photo) </bibl><bibl> C. C. Petolescu, SCIVA 25/4, 1974, p. 599-601, no 7 </bibl><bibl> N. Gudea, V. Lucăcel, InscrZalău, p. 24, no 39 </bibl><bibl> ILD 635 </bibl><bibl> I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            [<expan><abbr>Imp</abbr><ex>eratori</ex></expan> Caesari <lb n="2"/><expan><abbr>M</abbr><ex>arco</ex></expan> <expan><abbr>Ant</abbr><ex>onio</ex></expan> Gordia <lb n="3"/>no <expan><abbr>p</abbr><ex>io</ex></expan> <expan><abbr>f</abbr><ex>elici</ex></expan>] <expan><abbr>Aug</abbr><ex>usto</ex></expan> [<expan><abbr>pont</abbr><ex>ifici</ex></expan> <lb n="4"/><expan><abbr>m</abbr><ex>aximo</ex></expan> <expan><abbr>tr</abbr><ex>ibunicia</ex></expan> <expan><abbr>p</abbr><ex>otestate</ex></expan>] III im[<expan><abbr>p</abbr><ex>eratori</ex></expan> III <lb n="5"/>co<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> II] pro[co<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <lb n="6"/><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> co]ḥ(ors) I [Augus <lb n="7"/>ta Gordiana <lb n="8"/>- - - - - - <certainty match="preceding-sibling::node()" locus="value"/>].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Chirilă, Gudea et Gudea, Lucăcel : Aug(ustus) [trib(unicia) … / pot(estate)] III .. imp(eratori) [… co(n)s(uli) …..] pro[co(n)s(uli) … / coh(ors)] I [Aug(usta)] ; Petolescu : [Imp(eratori) Caes(ari) Divi / Nervae f(ilio) Nervae / Traiano] Aug[usto / trib(unicia) pot(estate) XVI]III im[p(eratori) …… / co(n)s(uli) VI] pro[co(n)s(uli) p(atri) p(atriae) / co]h(ors) I [Aug(usta) / Ituraeorum sagitt(ariorum)].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (À l’empereur César Marcus Antonius Gordianus, pieux (et) heureux) Auguste, (grand pontife, investi avec la puissance tribunicienne) pour la troisième fois, acclamé empereur (trois fois, consul deux fois), proconsul, (père de la patrie), la cohors I (Augusta Gordiana …?).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Selon Chirilă – Gudea, Gudea – Lucăcel et Petolescu (SCIVA), l’empereur serait Trajan. Selon Petolescu (ILD) la cohors I Augusta Ituraeorum pouvait se trouver à Buciumi, dans la Dacie Porolissensis, avant 136/138, donc tout aussi bien en 135. Or, Hadrien semble être définitivement revenu à Rome en 132 et ne pouvait donc porter après cette date le titre de proconsul ; voir H. Halfmann, Itinera principum, Geschichte und Typologie der Kaiserreisen im Römischen Reich, Stuttgart 1986, p. 194, 209. Quant à Trajan, les choses sont plus simples. Dans la titulature de cet empereur le titre de proconsul n’apparaît pas. La cohors I Augusta, qui apparaît sur des estampilles tégulaires, semble être inconnue.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

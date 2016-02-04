@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription tégulaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000701.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000701</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mureș</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Brâncovenești</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj, inv. 12896.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1658">Brique</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>3,2</height>
+                                         <width/>
+                                         <depth>17</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">1,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée au XIXe siècle dans le camp de Brâncovenești.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Le numerus Illyricorum a été organisé probablement vers la fin du règne d’Antonin le Pieux (159?/161); l’estampille est donc datable de la fin du IIe ou du IIIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>XIXe siècle</date>
+                                <placeName>Brâncovenești</placeName> 
+                            <placeName type="modernRegion">Jud. Mureș</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">Estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ST_78" url="https://commons.wikimedia.org/wiki/File:ST_78">
+       <desc> ST_78
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 6284 = 8074, 7</bibl><bibl> J. Szilágyi, Ziegelstempel, p. 51, XIV/200, pl. XIV/200</bibl><bibl> D. Protase, A. Zrinyi, Marisia 5, 1975, p. 72, pl. XXVII</bibl><bibl> D. Protase, Limes 10, 1977, p. 384-386, fig. 4 (dessin), pl. 37/1</bibl><bibl> I. I. Russu, SCIVA 28/1, 1977, p. 99, fig. 1</bibl><bibl> D. Protase, A. Zrinyi, EN 2, 1992, p. 101, no 15, pl. VIII/1-1 a</bibl><bibl> iidem, Brâncovenești 1994, p. 41, pl. XLVI</bibl><bibl> AE 1992, 1474</bibl><bibl> N. Gudea, LimesDac, p. *57, no 32/1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Al</abbr><ex>ae</ex></expan> <expan><abbr>n</abbr><ex>umeri</ex></expan> Il<expan><ex>l</ex><abbr>yr</abbr><ex>icorum</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Appartenant à l'ala numeri Illyricorum (à l'ala provenant du numerus Illyicorum).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Estampille légèrement trapézoïdale, ayant dans son intérieur une tabula ansata; les bords de la tabula ansata et les lettres en relief. A. v. Domaszewski: Al(a) n(ova) Il(l)yr(icorum); D. Protase, A. Zrinyi: Al(a) I N(meri) Il(l)yr(icorum), mais la ligature IN, qu’ils avaient supposé, n’existe pas; I. I. Russu: Al(a) n(umeri) Il(l)yr(icorum); C. C. Petolescu (ILD): Al(ae) n(umeri) Il(l)yr(icorum). La dénomination de la troupe s’explique par le fait que, du point de vue des effectifs et du rang du commandant, le numerus était équivalée à une ala; voir aussi AE 1987, 829 = IDR III/5, 475.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

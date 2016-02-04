@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>honorific</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000546.html</idno>
+
+
+                     
+                <idno type="localID">rv00000546</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanţa</placeName>                     
+                        </settlement>
+                        <repository>MNA, MINAC</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType>fragments of a plaque</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>7</height>
+                                         <width>68; 6</width>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv">fragments of a plaque</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">No</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm">2,56,4</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia Inferior</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">120 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1976</date>
+                                <placeName>at the crossroad of Cerealelor and Stabilizării streets</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">honorific</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="TOM_14" url="TOM_14" sameAs="https://commons.wikimedia.org/wiki/File:TOM_14.jpg">
+       <desc> TOM_14
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>ISM II 48</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="la, grc">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Imp</abbr><ex>eratori</ex></expan> Cae<supplied reason="lost"><expan><abbr>s</abbr><ex>ari</ex></expan>, divi Traiani Pa</supplied>ṛthici  filio, divi Ṇ<supplied reason="lost">ervae nepot</supplied>i, Tr<supplied reason="lost">aian</supplied>o Hadria-  no <expan><abbr>Aug</abbr><ex>usto</ex></expan> ponṭịf̣(ici) <supplied reason="lost"><expan><abbr>max</abbr><ex>imo</ex></expan>, <expan><abbr>trib</abbr><ex>uniciae</ex></expan></supplied> <expan><abbr>pot</abbr><ex>estatis</ex></expan> IIII, co<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> <supplied reason="lost">I</supplied>II, <expan><abbr>resp</abbr><ex>ublica</ex></expan> <expan><abbr>Tomita</abbr><ex>norum</ex></expan>        <surplus>vacat</surplus><expan><abbr>C</abbr><ex>aio</ex></expan> Ummidio Quadrato Ṣ<supplied reason="lost">evero<certainty locus="name" match="preceding-sibling::text()" cert="low"/> Serto</supplied>rio <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan>.Αὐτοκράτορι Καίσα<supplied reason="lost">ρι, θεοῦ Τραιανοῦ</supplied> Παρθικοῦ υἱῷ, θεοῦ  Νέρουα υἱωνῷ, Τραιανῷ <supplied reason="lost">Ἁδριανῷ Σεβαστῷ</supplied> ἀρχιερεῖ μεγίστῳ, δη-  μαρχικῆς ἐξουσίας <supplied reason="lost">τὸ δʹ, ὑπάτῳ τὸ γʹ</supplied>, βουλὴ δῆμος Τομειτῶν·Γ(άϊος) Οὐμμίδιος Κοδράτος <supplied reason="lost">Σεουῆρος<certainty locus="name" match="preceding-sibling::text()" cert="low"/>? Σε</supplied>ρτώριος πρεσβευτὴς τοῦ        Σεβαστοῦ      <supplied reason="lost">καὶ ἀντιστράτ</supplied>ηγος   καθιέρωσεν.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To the emperor Caesar Trajan Hadrian Augustus, son of the divine Trajan Parthicus, nephew of the divine Nerva, pontifex maximus, holding the tribune's power for the 4th time, consul for the 3rd time, the city (according to the Latin text, the state; according to the Greek text, the Council and the People) of the Tomitans, consecrated (this plaque), C. Ummidius Quadratus Severus Sertorius being legatus Augusti pro praetore</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

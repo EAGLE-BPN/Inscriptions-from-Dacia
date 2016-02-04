@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire pour un vétéran d'une unité auxiliaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001055.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001055</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>2,8</height>
+                                         <width>0,1</width>
+                                         <depth>3,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé le 22 septembre 1971 par E. Chirilă et N. Gudea dans le barraquement no 5 du camp de Buciumi.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 21 juillet 164, sous le consulat suffect de Ti. Haterius Saturninus et Q. Caecilius Avitus ; voir A. Degrassi, Fasti consolari, p. 46.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1971</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>E. Chirilă, N. Gudea, dans : Buciumi, p. 119, pl. CXLII/1-2 </bibl><bibl> IDR I/D 21, fig. 60-61 (photos, dessins) </bibl><bibl> RMD I 66 </bibl><bibl> AE 1980, 762 </bibl><bibl> I. Piso, Fasti II, p. 127, no 78, 5 = p. 260, no 112, 2.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Texte combiné :[<expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Marcus Aurelius Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Armeniacus <expan><abbr>pont</abbr><ex>ifex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> XVIII <expan><abbr>imp</abbr><ex>erator</ex></expan> II co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III et <expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Lucius Aurelius Verus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Armeniacus <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> IIII <expan><abbr>imp</abbr><ex>erator</ex></expan> II proco<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> - - -, equitibus et peditibus qui <expan><abbr>militav</abbr><ex>erunt</ex></expan> in alis III quae appellantur II <expan><abbr>Gallor</abbr><ex>um</ex></expan> et <expan><abbr>n<am>n</am></abbr><ex>oniorum</ex></expan> <lb n="2"/>et <expan><abbr>Silian</abbr><ex>a</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> et I <expan><abbr>Tung</abbr><ex>rorum</ex></expan> <expan><abbr>Front</abbr><ex>oniana</ex></expan> et <expan><abbr>coh</abbr><ex>ortibus</ex></expan> XII I <expan><abbr>Britt</abbr><ex>onum</ex></expan> (milliaria) et I <expan><abbr>n<am>n</am></abbr><ex>ica</ex></expan> <expan><abbr>equi</abbr><ex>tata</ex></expan> et I <expan><abbr>Hisp</abbr><ex>anorum</ex></expan> (milliaria) et I <supplied reason="lost"><expan><abbr>Batav</abbr><ex>orum</ex></expan> (milliaria) et I <expan><abbr>Ael</abbr><ex>ia</ex></expan> <expan><abbr>Gaesat</abbr><ex>orum</ex></expan> et I</supplied>I N<supplied reason="lost"><expan><abbr>erv</abbr><ex>ia</ex></expan> <expan><abbr>Britt</abbr><ex>onum</ex></expan> (milliaria) et II [<expan><abbr>Britann</abbr><ex>orum</ex></expan> (milliaria)</supplied> et I <expan><abbr>Hispan</abbr><ex>orum</ex></expan> <supplied reason="lost">et I <expan><abbr>Cannan</abbr><ex>efatium</ex></expan> et II Hi[<expan><abbr>sp</abbr><ex>anorum</ex></expan> et V <expan><abbr>Ling</abbr><ex>onum</ex></expan> et VI <expan><abbr>Thrac</abbr><ex>um</ex></expan></supplied> et sunt in <supplied reason="lost">Dacia <expan><abbr>Porolis</abbr><ex>s</ex>ensi</expan> sub Sempronio Inge</supplied>nuo <expan><abbr>proc</abbr><ex>uratore</ex></expan> <supplied reason="lost">quinis et vicenis pluribusve <expan><abbr>stipendi</abbr><ex>i</ex></expan></supplied>s emeritis <supplied reason="lost">dimissis <expan><abbr>honest</abbr><ex>a</ex></expan> missione quor</supplied>um nomi<supplied reason="lost">na subscripta sunt <expan><abbr>civitat</abbr><ex>em</ex></expan> Romana</supplied>m qui eorum <supplied reason="lost">non haberent dederunt</supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"><expan><abbr>a</abbr><ex>nte</ex></expan> <expan><abbr>d</abbr><ex>iem</ex></expan> XII <expan><abbr>K</abbr><ex>alendas</ex></expan> <expan><abbr>Aug</abbr><ex>ustas</ex></expan> <expan><abbr>Ti</abbr><ex>berio</ex></expan> Haterio Saturnino <expan><abbr>Q</abbr><ex>uinto</ex></expan> Ca[ecilio Avito <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan>. Alae Siliana</supplied>e <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> cui pr<supplied reason="lost">aeest Aurelius</supplied> Atilianus <supplied reason="lost">ex</supplied> gregale <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied>iti <expan><abbr>f</abbr><ex>ilio</ex></expan>. <supplied reason="lost"><expan><abbr>Descrip</abbr><ex>tum</ex></expan> et rec</supplied><expan><abbr>ogn</abbr><ex>itum</ex></expan> ex ta<supplied reason="lost">bula <expan><abbr>aer</abbr><ex>ea</ex></expan> quae fixa est Ro</supplied>mae in mur<supplied reason="lost">o post <expan><abbr>templ</abbr><ex>um</ex></expan> Divi <expan><abbr>Aug</abbr><ex>usti</ex></expan></supplied> ad Minerv<supplied reason="lost">am</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (L’empereur César Marcus Aurelius Antoninus Augustus, vainqueur des Arméniens, grand pontife, investi avec la puissance tribunicienne pour la dix-huitième fois, acclamé imperator deux fois, consul trois fois et l’empereur César Lucius Aurelius Verus Augustus, vainqueur des Arméniens, investi avec la puissance tribunicienne pour la quatrième fois, acclamé imperator deux fois, proconsul, consul deux fois, .- - -, aux cavaliers et aux fantassins qui ont servi dans trois ailes qui s’appellent - - - et douze cohortes, - - -), et se trouvent (en Dacie Porolissensis) sous le procurateur (Sempronius) Ingenuus, donnèrent à ceux qui ont accompli (vingt-cinq ou plusieurs) années de service militaire, (licenciés par un licenciement honorable), dont les noms (sont écrits ci-dessous, ont donné la cité) romaine, à ceux (qui ne l’avaient pas - - -. Le 21 juillet, sous le consulat de Tiberius Haterius Saturninus et Quintus Caecilius Avitus) (a. 164), de l’ala) Siliana c(ivium) R(omanorum), commandée par (Aurelius) Atilianus. À l’ancien cavalier - - - (fils) de …tus. (Transcrit et) autentifié d’après la plaque (en bronze qui est fixée à) Rome dans le mur (derrière le temple du divin Auguste), près de (la statue de Minerve).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Diplôme militaire en bronze, fragment de la tabella I: fragment de la partie inférieure de la tab. I extr. et fragment de la partie droite de la tab. I intus; la marge extérieure marquée par une ligne incisée. On connaît au moins 10 copies de la même constitution (I. Piso, Fasti II, p. 127-128, no 78, 2-11), dont les plus complètes sont AE 1957, 199 = IDR I/D 18 = RMD I 64 (Gilău) et AE 1937, 113 = CIL XVI 185 = IDR I/D 19 (Palatovo)). La liste des troupes de la province comprend dans la constitution impériale du 21 juillet 164 trois ailes et douze cohortes. Le patronyme serait, selon Russu et Roxan, Bitus, mais un tel nom devrait être écrit Bithus. L’ala Siliana stationnait à Gilău.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

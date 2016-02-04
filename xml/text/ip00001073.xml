@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription du militaire Rasinnius Ursio</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001073.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001073</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. C. C. 542/1973</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Plaque en bronze</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>2,3</height>
+                                         <width>0,1</width>
+                                         <depth>3,9</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">au pointillé</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">0,50,6</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1973 dans le barraquement no 2 du camp de Buciumi.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Du IIe siècle, en raison de la présence de l’épithète Flavia de la troupe et qui manque à Orheiul Bistriței, où elle stationnait au IIIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1973</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive?</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 6, 1982, p. 55, no 6, fig. 1/2 (photo), fig. 2/2 (dessin) </bibl><bibl> AE 1983, 851 c </bibl><bibl> ILD 645</bibl><bibl> I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Co</abbr><ex>hortis</ex></expan> I <expan><abbr>Fl</abbr><ex>aviae</ex></expan> <expan><abbr>His</abbr><ex>panorum</ex></expan> <expan><abbr>m</abbr><ex>illiariae</ex></expan> <lb n="2"/><supplied reason="lost">(centuriae) V</supplied>ạ<expan><abbr>le</abbr><ex>rii</ex></expan> Eumeṇ<supplied reason="lost">is</supplied> <lb n="3"/><expan><abbr>n<am>n</am></abbr><ex>i</ex></expan> Ur <lb n="4"/>sionis.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Appartenant à Rasinnius Ursio, de la cohors I Flavia Hispanorum, (de la centurie) de Valerius Eumenes.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Petite plaque en bronze en forme de tabula ansata, avec deux orifices de fixation et un clou en bronze dans l’orifice de droite ; le coin inférieur gauche détérioré ; la partie supérieure gauche assez effacée ; le texte sur quatre lignes. Jusqu’à présent on a considéré ces pièces comme étant des donaria. Pour le centurion, il portait le cognomen d’origine grecque Eumenes (Εὐμένης ; voir - - -). Le nomen Rasinnius (ou Rasennius) est italique, probablement d’origine etrusque (Rasenna ; voir - - -), tandis que le cognomen Ursio est absolument sûr. La cohors I Flavia Hispanorum milliaria a laissé son nom sur la borne milliaire de Aiton de 108 (CIL III 1627) et des estampilles tégulaires dans le camp d’Orheiul Bistriței (M. Macrea, D. Protase, Șt. Dănilă, SCIV 18/1, 1967, p. 119, fig. 7/2; N. Gudea, M. Zahariade, AEA 53/141-142, 1980, p. 64, no 5, fig. 4/1-2). La présence de cette troupe dans le camp de Buciumi est attestée par un assez grand nombre de pièces en bronze.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

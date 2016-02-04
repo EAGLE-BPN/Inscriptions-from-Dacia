@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription sur un pondus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001029.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001029</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turda/Torda</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turda, inv. 10349</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>pondus en bronze/plomb</objectType>
+                                    <material>bronze et plomb</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>4,2; 4,3</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">appliquées en argent</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,51,1</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé par M. Bărbulescu dans les principia du camp légionnaire, dans le portique est, devant le dépôt d’amphores.
+                                <placeName ref="www.trismegistos.org/place/NaN">Potaissa</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0198" notAfter-custom="0211" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">198-211, années de règne de Septime Sévère, Caracalla et Geta.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>vers 1990</date>
+                                <placeName>Turda/Torda</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term>Inscription sur un pondus</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="PT_20" url="https://commons.wikimedia.org/wiki/File:PT_20">
+       <desc> PT_20
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>M. Bărbulescu, Specimina nova 7/1, 1991, p. 236, no 2, fig. 1-2</bibl><bibl> idem, dans: From the History of the Roman Europe, p. 139, no 2, fig. 1-2</bibl><bibl> idem, Inscriptions, p. 240-241, no 49, fig. 119-120 (photos)</bibl><bibl> AE 2012, 1227.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Leg</abbr><ex>ionis</ex></expan> V <expan><abbr>Mac</abbr><ex>edonicae</ex></expan> <expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>f</abbr><ex>idelis</ex></expan> <expan><abbr>p</abbr><ex>ondus</ex></expan> I <lb n="2"/><expan><abbr>examin</abbr><ex>atum</ex></expan> iussu <expan><abbr>d<am>dd</am></abbr><ex>ominorum</ex></expan> <lb n="3"/>nostrorum <lb n="4"/>Augustorum <lb n="5"/><expan><abbr>Val</abbr><ex>erius</ex></expan> Sabinus <lb n="6"/>optio <expan><abbr>leg</abbr><ex>ionis</ex></expan> <expan><abbr>s</abbr><ex>upra</ex></expan> <expan><abbr>s</abbr><ex>criptae</ex></expan> <expan><abbr>d</abbr><ex>ono</ex></expan> <expan><abbr>d</abbr><ex>edit</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Le poids de la legio V Macedonica pia fidelis, vérifié selon la disposition de nos trois empereurs Augustes ; Valerius Sabinus, optio de la légion ci-dessus mentionnée, en a fait don.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Pondus en forme de petit barril, en bronze, rempli de plomb et avec des lettres d’argent appliquées. L’écriture est en cercle sur les surfaces supérieure et inférieure et sur quatre lignes sur la circonférence. La circonférence des surfaces supérieure et inférieure est marquée par ceux cercles concentriques. Deux cercles concentriques ont été gravés aussi au centre de ces surfaces. Ici on n’a pas mis des points de séparation en argent. Par un trou se trouvant entre les lettres DD et EX (l. 2) une partie du plomb s’est écoulée et a été trouvé près de la pièce, dans une couche de cendre. Le poids a donc été détérioré à la suite d’un incendie. À la même ocasion sont tombées plusieurs lettres en argent. La patine verte a été détruite.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

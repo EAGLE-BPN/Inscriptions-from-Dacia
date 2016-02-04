@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>votive ?</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000780.html</idno>
+
+
+                     
+                <idno type="localID">rv00000780</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Istria</placeName>                     
+                        </settlement>
+                        <repository>Museum of Histria</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">stela</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>11</height>
+                                         <width>6</width>
+                                         <depth>1</depth>
+                                   </dimensions>
+                                    <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv">stela</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Histria</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia Inferior</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">1st C BC/1st C AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1966</date>
+                                <placeName>near sector X</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term>votive ?</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="HIS_117" url="HIS_117" sameAs="https://commons.wikimedia.org/wiki/File:HIS_117.jpg">
+       <desc> HIS_117
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>ISM I 191</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                grc&#xA;            ">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            τύχῃ ἀγαθῆι. οἵδε<supplied reason="lost">τῆς Βορέω</supplied>ν φυλῆς εὐεργέται μετὰ τὴν δευτέραν κτίσιν τῆς πόλεως<supplied reason="lost">— — — —</supplied> Μόσχου<supplied reason="lost">— — — —</supplied>ορας <supplied reason="lost">βʹ</supplied><supplied reason="lost">— — — —</supplied>ανείνιος<supplied reason="lost">— — — —</supplied>ς Μονίμου<supplied reason="lost">— — — —</supplied>ος Μονίμου<supplied reason="lost">— — — —</supplied>ς Πολυαινέτου<supplied reason="lost">— — — —</supplied> Ἀνθρωπίωνος<supplied reason="lost">— — — —</supplied>ρος β<supplied reason="lost">— — — —</supplied>ος Παταίκου<supplied reason="lost">— — — —</supplied>ς Μονίμου<supplied reason="lost">— — — — Ἀ</supplied>ριστοκράτους<supplied reason="lost">— — — —</supplied> Μόσχου<supplied reason="lost">— — — —</supplied> β<supplied reason="lost">— — — —</supplied>ς β<supplied reason="lost">— — — —</supplied> Μόσχου<supplied reason="lost">— — — — Ἀ</supplied>πολ<supplied reason="lost">λ</supplied>ωνίου<supplied reason="lost">— — — —</supplied> Διογένους<supplied reason="lost">— — — —</supplied> Διογένους<supplied reason="lost">— — — —</supplied>ος Θεοδότου<supplied reason="lost">— — — —</supplied>ων β<supplied reason="lost">— — — —</supplied> Διογένους<supplied reason="lost">— — — — Ν</supplied>ουμηνίου<supplied reason="lost">— — — —</supplied> Διογένου<supplied reason="lost">ς</supplied><supplied reason="lost">— — — —</supplied>ΣΕΤΚΕΛΕΙ<supplied reason="lost">— — — —</supplied>ρος β νεώ(τερος)<supplied reason="lost">— — — —</supplied> β<supplied reason="lost">— — — —</supplied>ος β<supplied reason="lost">— — — —</supplied>τος Στρουθίωνος<supplied reason="lost">— — — —</supplied>τιης Στρου<supplied reason="lost">θίων</supplied>ος<supplied reason="lost">— — — —</supplied> Δημητρίου<supplied reason="lost">— — — —</supplied>νιος Μόσχου<supplied reason="lost">— — — —</supplied>φων β νεώ(τερος)<supplied reason="lost">— — — —</supplied>ν Φιλιστίδου<supplied reason="lost">Ἀπολ</supplied>λόδωρος Διονυσίου<supplied reason="lost">— — — —</supplied>ν Διοκλέους<supplied reason="lost">— — — —</supplied>ων Νουμηνίου<supplied reason="lost">— — — —</supplied> β<supplied reason="lost">— — — —</supplied>ς Θεοδώρου<supplied reason="lost">— — — —</supplied> Θεοδώρου<supplied reason="lost">— — — —</supplied> Θεοκλέους<supplied reason="lost">— — — —</supplied> Θεοκλέους<supplied reason="lost">— — — Δ</supplied>ιογένους γυνή <surplus>ι</surplus><supplied reason="lost">— — — —</supplied>ων β<supplied reason="lost">— — — —</supplied>ον Χαιρήμονος β γυνή<supplied reason="lost">— — — —</supplied>ς Κ<supplied reason="omitted">λ</supplied>εομβρότου<supplied reason="lost">— — — —</supplied>σιος β νεώ(τερος)<supplied reason="lost">— — — —</supplied>ων Ἀρχελάου<supplied reason="lost">— — — —</supplied>μος  Δατειζει<supplied reason="lost">— — — —</supplied>λας Ἀρισταγόρου<supplied reason="lost">— — — —</supplied>μαχος β νεώ(τερος)<supplied reason="lost">Ἀπολ</supplied>λώνιος ἈθηνοδώρουἈριστόνεικος ἈθηνοδώρουΣαραπίων ἈθηνοδώρουΧρύσιππος ΛυσιμάχουΜόσχος β νεώ(τερος)Διογένης  ΠαπίουΔιονύσιος  ΚλειτοφῶντοςἈπολλόδωρος ΚλειτοφῶντοςἈχιλλόδωρος ΚλειτοφῶντοςΔημήτριος βἌνα Δημητρίου β γυν<supplied reason="lost">ή</supplied>Νουμήνιος ΔιοκλέουςΠολύξενος ΝεικηράτουΞενοχάρης ΝεικηράτουἈρτεμίδωρος ἈπολλοδώρουἈρτεμίδωρος ΠυθοδώρουἈρισταγόρας ΠυθοδώρουἈρχέλαος ΠυθοδώρουἈριστόλαος ΘεοφίλουΕὐκλῆς ΘεοφίλουΘεόδωρος ἈρτεμιδώρουἈπολλον<supplied reason="lost">ί</supplied>δης ΛυσιμάχουΖωΐλος ΔιογένουςΔημόχαρις ἈρτεμιδώρουΔιονύσιος ἈρτεμιδώρουΔημήτριος ἈρτεμιδώρουἈπελλᾶς ΛυσιμάχουἩδίστη Παπίου τοῦ Διογένους γυνήΦιλιστίδης ΜόσχουΔιονύσιος β νεωτέρουΠολέμων ὌσπουΔιοσκουρίδης Θεοκλέου<supplied reason="lost">ς</supplied>Ἀρισταγόρας ΝεικηράτουΦίλιππος ΘεοδώρουΔιονύσιος ΘεοκλέουςΔιογένης ΖωΐλουΘεόγνητος ΠαπίουΜόσχος ΖωΐλουΔιοσκουρίδης ΠαπίουΔημόχαρις ΠοσιδωνίουΣαραπίων ὌσπουἈριστοκράτης ΚλυτοῦἈνθρωπίων ΜόσχουἈπολλώνιος ΠολυαινέτουἈριστοκράτης ΠολυαινέτουἈριστόνεικος ὌσπουἈριστομένης ΜηνίουΔημήτριος βʹ 〚Δημητρίου〛Δημήτριος ἈπατουρίουΔωτοῦς ΔατιζειἈπτηλᾶς ΜενίσκουἌττας ΠολυαινέτουΔιογένης Θεοφίλου
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Good luck!This are the benefactors from the tribe (Boreis ?) after the second founding of the town. I: ...of Moschos...town of...aneinios....of Monimos...of Monimos...of Polyainetos...of Anthropion...ros of ...ros...os of Pataikos...of Monimos...of Aristokrates...of Moschos...of...of..of Moschos...of Apollonios...of Diogenes...of Diogenes...of Theodotos...of...of Diogenes...Setkelei...ros of..ros the younger...of...of...tos of Strouthion...ties of Strouthion...nios of Moschos...phon of...phon the younger...of Philistides, Apollodoros of Dionysios...of Diokles...of Numenios...of...of Theodoros...of Theodoros...of Theokles...of Theokles...the wife of Diogenes...on of...on...on the wife of Chairemon of Chairemon...of Cleombrotos...sios of...sios the younger...on of Archelaos...mos of Dateizis...las of Aristagoras...machos of...machos the younger, Apollonios of Athenodoros. II:Aristonikos of Athenodoros, Sarapion of Athenodoros, Chrysippos of Lysimachos, Moschos of Moschos the younger, Diogenes of Papias, Dionysios of Clitophon, Apollodoros of Clitophon, Achillodoros of Clitophon, Demetrios of Demetrios, Ana the wife of Demetrios of Demetrios, Numenios of Diokles, Polyxenos of Nikeratos, Xenochares of Nikeratos, Artemidoros of Apollodoros, Artemidoros of Pythodoros, Aristagoras of Pythodoros, Archelaos of Pythodoros, Aristolos of Theophilos, Eukles of Theophilos, Theodoros of Artemidoros, Apollonides of Lysimachos, Zoilos of Diogenes, Democharis of Artemidoros, Dionysios of Artemidoros, Demetrios of Artemidoros, Apellas of Lysimachos, Hediste of Papias, the wife of Diogenes, Philistides of Moschos, Dionysios of Dionysios, Polemon of Ospos, Dioskurides of Theokles, Aristagoras of Nikeratos, Filip of Theodoros, Diogenes of Theokles, Diogenes of Zoilos, Theognetos of Papias, Moschos of Zoilos, Dioskurides of Papias, Democharis of Posidonios, Sarapion of Ospos, Aristokrates of Klythos, Anthropion of Moschos, Apollonios of Polyainetos, Aristokrates of Polyainetos, Aristomenes of Menios, Demetrios of Demetrios of Demetrios, Demetrios of Apaturios, Dotus of Datizis, Aptelas of Meniskos, Attas of Polyainetos, Diogenes of Theophilos</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

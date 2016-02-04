@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Épitaphe de Aelius tato</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000869.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000869</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Bologa</placeName>                     
+                        </settlement>
+                        <repository>Dans la cour du lycée de Huedin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Dé d'un monument funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>120</height>
+                                         <width>53</width>
+                                         <depth>85</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation; hedera
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Provient de Bologa
+                                <placeName ref="www.trismegistos.org/place/NaN">Resculum?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison des formules utilisées, probablement de la fin du IIe ou du IIIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Au XVIIIe siècle</date>
+                                <placeName>Bologa</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>J. F. Neigebaur, Dacien, p. 242-243, no 3 </bibl><bibl> M. J. Ackner, F. Müller, Inschriften, p. 157, no 748 </bibl><bibl> CIL III 843 </bibl><bibl> I. I. Russu, AMN 5, 1968, p. 462-463, no 8, fig. 8 (photo, dessin) </bibl><bibl> AE 1972, 481 </bibl><bibl> ILD 627.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>I</abbr><ex>nferis</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/>Ael<surplus>V</surplus>(io) Tatoni <lb n="3"/><expan><abbr>dec</abbr><ex>urioni</ex></expan> <expan><abbr>coh</abbr><ex>ortis</ex></expan> II <expan><abbr>His</abbr><ex>panorum</ex></expan> <lb n="4"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XL <expan><abbr>Ael</abbr><ex>ius</ex></expan> <lb n="5"/>Iulianus so <lb n="6"/>cer et heresAe<surplus>t</surplus>(lia) Silvana <expan><abbr>con</abbr><ex>iugi</ex></expan> <lb n="7"/><expan><abbr>be</abbr><ex>ne</ex></expan> <expan><abbr>m</abbr><ex>erenti</ex></expan> <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uraverunt</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 1: Neigebaur, Ackner – Müller, Russu : D I M ; Mommsen : D (hedera) M ; l. 6 : tous les auteurs : her(es) ; l. 7 : Neigebaur, Ackner – Müller : AET ; Mommsen ; AE[L] ; Russu : aet (conjonction écrite avec ae à la place de e) ; Petolescu (ILD) : Ael(ia) ; l. 8 : Petolescu : f(aciendum) c(uravit).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux infernaux Mânes. À Aelius Tato, décurion de la cohors II Hispanorum, a vécu 40 ans. Aelius Iulianus, en tant que beau-père et héritier (et) Aelia Silvana à (son) époux qui a bien mérité; ils ont pris le soin de faire (ceci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La formule D(is) I(nferis) M(anibus) apparaît en Dacie pour la première fois ; voir Russu. Le nom Tato est probablement d’origine celtique ; voir I. I. Russu, L’Onomastique latine, p. 360 ; A. Husar, Celți și germani, p. 66, no 118; cf. A. Paki, Populația, p. 30-31, no 1, p. 136, no 7 ; C. C. Petolescu, Auxilia, p. 114, qui favorisent une origine illyrienne ; pour la diffusion du nom voir OPEL IV, p. 109 ; La charge de décurion est une preuve que la cohors II Hispanorum est equitata. Le nomen de l’épouse de l’officier doit être le même que celui de Aelius Iulianus. La ligne restée libre (entre les lignes 6 et 7) aura été réservée pour un personnage de la famille et pour la conjonction et.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

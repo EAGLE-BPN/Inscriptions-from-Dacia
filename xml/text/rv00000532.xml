@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>votive inscription</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000532.html</idno>
+
+
+                     
+                <idno type="localID">rv00000532</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Istria</placeName>                     
+                        </settlement>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">altar</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>6</height>
+                                         <width>3</width>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv">altar</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Histria</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia Inferior</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">3rd C AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName/> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">votive inscription</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="HIS_69" url="HIS_69" sameAs="https://commons.wikimedia.org/wiki/File:HIS_69.jpg">
+       <desc> HIS_69
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>ISM I 143</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                grc&#xA;            ">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            ἀγαθῇ τύχῃ. Ποσειδῶνι Ἑλικωνίῳ Τίτος Αἴλιος Μιν<supplied reason="lost">ουκιανός</supplied>, ποντάρχης τῆς Πενταπόλεως ἀπὸ <supplied reason="lost">πατρὸς καὶ</supplied> ἱερεὺς τοῦ θεοῦ διὰ βίου τὸν τελαμῶν<supplied reason="lost">α καὶ τὸ ἄγαλμα</supplied> τοῖς συνμύσταις ἀνέθηκα. ἱεράσ<supplied reason="lost">αντο τοῦ θεοῦ οἵδε</supplied>· <supplied reason="lost">Β</supplied>ίρριος Λέων, ποντάρχης, ἱερασά<supplied reason="lost">μενος</supplied>· <supplied reason="lost">Α</supplied>ὐρ(ήλιος) Διογένης Τρύφωνος, ἱερα<supplied reason="lost">σάμενος</supplied>· <supplied reason="lost">Α</supplied>ὐρ(ήλιος) Μαρκιανὸς Ἀρτεμιδ<supplied reason="lost">ώρου — — — —</supplied><supplied reason="lost">Αὐρ(ήλιος) Ἑρμ</supplied>άφιλος Διονυσίο<supplied reason="lost">υ — — — — —</supplied><supplied reason="lost">Αὐρ(ήλιος) Πον</supplied>τιανὸς Κρα<supplied reason="lost">τίνου — — — — — —</supplied><supplied reason="lost">Αὐρ(ήλιος) Διον</supplied>υσόδ<supplied reason="lost">ωρος — — — — — — — —</supplied>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Good luck!I,Titus Aelius Minucianus, ruler from ancestors of Pentapolis, prist of the God for life, dedicate to Poseidon Heliconios this stone and the statue for the benefit of the my companions. The God was worshiped by: Birrios Leon, pontarh, former priest; Aurelios Diogenes of Tryphon, former priest; Aurelios Marcianos of Dionysios; Aurelios Pontianos of Cratinos; Aurelios Dionysodoros</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

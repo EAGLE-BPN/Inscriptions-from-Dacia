@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>funerary</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000596.html</idno>
+
+
+                     
+                <idno type="localID">rv00000596</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanţa</placeName>                     
+                        </settlement>
+                        <repository>MNA</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">stele</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/48">marble</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height/>
+                                         <width/>
+                                         <depth/>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv">stele</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia Inferior</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">1st C BC</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName/> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">funerary</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="TOM_57" url="TOM_57" sameAs="https://commons.wikimedia.org/wiki/File:TOM_57.jpg">
+       <desc> TOM_57
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>ISM II 166</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                grc&#xA;            ">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <supplied reason="lost">δι</supplied>σ̣σοί μοι παῖδες γοερὴν ὑπὸ βώλακα κεῖνται<supplied reason="lost">εὔ</supplied>δοξοι, πατρὸς νησάμενοι σποδιήν·<supplied reason="lost">θεῖος δ’</supplied> οἷος ἔθρεψα Φ̣ίλ̣ων Ἡράκλειτον υἱόν·<supplied reason="lost">κε</supplied>ῖντό γ’ ἐμαὶ δ̣α̣π̣ά̣ν<supplied reason="omitted">αι</supplied> οὐ ἐμοί, ἀλλ’ Ἁίδῃ·<supplied reason="lost">τῇ δὲ γὰρ</supplied> ὠκυμόρ<supplied reason="lost">ω</supplied>ν κρύπτει τάφος ὀστέα <supplied reason="omitted">τούτων</supplied>·<supplied reason="lost">αἰάζει γ</supplied>ενέ̣τ<supplied reason="lost">ις κοὐ</supplied>δ̣<supplied reason="lost">έ</supplied>ν̣’ ἔχει βίοτον.                  vacat<supplied reason="lost">ἐνθάδ’ ἐγὼ σὺν ἀδελφῷ</supplied> Ἡ̣ρ̣<supplied reason="lost">ακ</supplied>λ̣είδ̣<supplied reason="lost">η</supplied>ς ἀνάκειμαι<supplied reason="lost">–⏑⏑–⏑⏑––⏑</supplied>ατος με μένων·<supplied reason="lost">–⏑⏑–⏑⏑–⏑⏑–</supplied> ὠδεῖνας ἔλειπον<supplied reason="lost">–⏑⏑–⏑⏑–⏑⏑ ἀ</supplied>νδράσι κοιμηθέντες<supplied reason="lost">–⏑⏑–⏑⏑– κῦδος ἐ</supplied>νενκά<supplied reason="lost">μ</supplied>ενοι<supplied reason="lost">–⏑⏑–⏑⏑–⏑⏑</supplied> οἴμεθα σύζω πα̣<supplied reason="lost">τρί</supplied>·<supplied reason="lost">χαῖρ’</supplied> Ἡρακλείδη δόξαν ἔχοις ἀρετῆς·<supplied reason="lost">․․․․․․․ Ἡρακλ</supplied>είδην ΩΤ․․․Χ<certainty match="preceding-sibling::node()" locus="value"/>․․․Η ἐκπρεπῆ οἶκος.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    Two children with good reputation lie under the wretched clod, covering (?) the father's ground; divine, as I, Philon, have raised Heracleitos, the son. The expenses are settled not for me, but for Hades, because the grave hides here their bones, prematurely deceased. Their mother moans, and is lifeless. Here I lie, I Heracleides, togetehr with my brother...remaining...leaving behind the pains...buried with the men...bringing glory...we believe...live for my father (?). Greetings, Heracleides, and have the glory of virtue...Heracleides...distinguished home (?).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

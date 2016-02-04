@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription tégulaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000695.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000695</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Hongrie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Komárom megye</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Ó-Szöny</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj, inv. I 8039 = V 12875.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique fragmentaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>3,5</height>
+                                         <width/>
+                                         <depth>8,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Provient de Brigetio (Ó-Szöny) de Pannonie Supérieure, où l’on connaît des exemplaires identiques. A été achetée par le musée de Cluj de Adolf Resch de Brașov en 1908.
+                                <placeName ref="www.trismegistos.org/place/NaN">Brigetio</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Pannonie</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de l’arrivée, sous Domitien (81-96), de la legio I Adiutrix à Brigetio.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>Vers 1900</date>
+                                <placeName>Ó-Szöny</placeName> 
+                            <placeName type="modernRegion">Komárom megye</placeName>
+                            <placeName type="modernCountry">Hongrie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">Estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ST_75" url="https://commons.wikimedia.org/wiki/File:ST_75">
+       <desc> ST_75
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>CIL III 4655 k.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>Leg</abbr><ex>ionis</ex></expan> I <expan><abbr>Adi</abbr><ex>utricis</ex></expan> <lb n="2"/><expan><abbr>Anto</abbr><ex>nius</ex></expan> <expan><abbr>Mas</abbr><ex cert="low">clus</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Antonius Masclus(?), de la legio I Adiutrix.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Estampille faiblement imprimée dans la partie droite, en cartouche rectangulaire incomplet, ayant dans son intérieur une tabula ansata avec les anses inverses, entre les barres desquelles on distinge une sorte de palmette. Le texte est disposé sur deux registres séparés par une ligne; les bords et les lettres sont en relief. Th. Mommsen: LEG I ADIV / ANTOniNian. Pourtant, ce qu’on avait pris pour un V est en réalité la ligne intérieure verticale de la tabula ansata. Pour la l. 2, il ne s’agit pas de l’epithète impériale Antoniniana mais bien du nom de l’immunis qui dirigeait la briquetterie, un Anto(nius) Mas ou Mas(clus, -io); voir H. Solin, O. Salomies, Repertorium, p. 359.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

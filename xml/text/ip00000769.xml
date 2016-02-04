@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription tégulaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000769.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000769</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Musée de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Brique d'hypocauste</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/130">céramique</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width/>
+                                         <depth>11,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">imprimées avant cuisson</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">2,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvée à Porolissum.
+                                <placeName ref="www.trismegistos.org/place/NaN">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">En raison des lettres très primitives, du IIIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>?</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/118">Estampille tégulaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="ST_112" url="https://commons.wikimedia.org/wiki/File:ST_112">
+       <desc> ST_112
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>J. Szilágyi, Ziegelstempel, p. 54, pl. XVI/230-231</bibl><bibl> I. I. Russu, SCIV 23/1, 1972, p. 73</bibl><bibl> M. Zahariade, SCIVA 28/2, 1977, p. 262: N. Gudea, AMP 2, 1978, p. 67-68, 71, pl. VII/1-9</bibl><bibl> E. Tóth, Porolissum, p. 50-51, 67, fig. 16/83-84, 145, 163</bibl><bibl> AE 1979, 501 d</bibl><bibl> N. Gudea, Porolissum 1986, p. 57, fig. XII/5</bibl><bibl> idem, AMP 13, 1989, p. 165-166, p. 523, 977, pl. CXVIII/1-11</bibl><bibl> idem, LimesDac, p. *48, no 25/19-20</bibl><bibl> idem, Porolissum 1997, p. 102, fig. 14/3-4</bibl><bibl> Al. Matei, I. Bajusz, Romita 1997, p. 91-93, pl. II/12-13</bibl><bibl> M. Grec, DacPor, p. 86, fig. 43/1-2</bibl><bibl> O. Țentea, dans: Orbis antiquus, p. 808-815, pl. II/6-7</bibl><bibl> idem, Ex Oriente, p. 57-60, 231, pl. 3/3-4.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            C<expan><ex>o</ex><abbr>h</abbr><ex>orti</ex><abbr>s</abbr></expan> I <expan><abbr>I</abbr><ex>turaeorum</ex></expan> (milliariae)<certainty match="preceding-sibling::node()" locus="value"/>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Appartenant à la cohors I Ituraeorum (milliaria)(?)</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les plus grands problèmes sont posés par les formes de la cinquième et de la sixième lettre. La cinquième lettre est un I, auquel on a donné une forme (J) qui évite toute confusion avec le I précédent (E. Tóth). La sixième lettre ne peut pas être un S, car elle ne ressemble pas à la troisième lettre, mais bien le signe ∞ pour (milliaria), imprimé debout (E. Tóth). Les principales différences par rapport aux nos 711-713 sont une distance plus grande entre C et H, une forme légèrement différente du H et des rapports légèrement différents entre H et S, entre S et I et entre J et ∞. J. Szilágyi: C(o)h(or)s I P(almyrenorum) s(agittariorum); C. Daicoviciu: C(o)h(or)s I (H)is(panorum) sive C(o)h(or)s I I(turaeorum) s(agittariorum); I. I. Russu, N. Gudea (1978, 1986, 1989): C(o)h(or)s I (H)is(panorum); M. Zahariade: C(o)h(orti)s I I(turaeorum) s(agittariorum); E. Tóth: C(o)h(or)s I I(turaeorum) (milliaria); N. Gudea (1997), A. Matei, I. Bajusz: C(o)h(or)s I I(turaeorum) s(agittariorum); O. Țentea: C(o)h(orti)s I I(turaeorum) (milliariae). Pourtant, les doutes concernant l'identité de cette troupe persistent.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

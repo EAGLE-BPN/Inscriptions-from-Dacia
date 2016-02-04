@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire de Ulpius Herculanus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001159.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001159</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Mehedinți</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Turnu Severin</placeName>                     
+                        </settlement>
+                        <repository>Musée de Turnu Severin</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>14,3</height>
+                                         <width>0,0; 7-0</width>
+                                         <depth>11,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,30,4</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé par hasard en 1980 à Turnu Severin, lors de travaux de construction.
+                                <placeName ref="www.trismegistos.org/place/NaN">Drobeta</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">1 avril (Kal(endis) Aprilibus) 179 (M'. Acilio Faustino L. Iulio Proculiano); la puissance tribunicienne des empereurs indique l'année 179.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1980</date>
+                                <placeName>Turnu Severin</placeName> 
+                            <placeName type="modernRegion">Jud. Mehedinți</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Piso, D. Benea, ZPE 56, p. 265-295, fig. 1 a-b, 2 a-b (photos et dessins) = I. Piso, Nordgrenze, p. 109-142, fig. 1 a-b, 2 a-b (photos et dessins)</bibl><bibl> M. M. Roxan, RMD II 123</bibl><bibl> AE 1987, 843.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tabella I extrinsecus (Abb. 1b):<expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar, Divi Antonini <expan><abbr>fil</abbr><ex>ius</ex></expan>, Divi Veri Parthici Maximi <lb n="2"/>frater, Divi Hadriani nepos, Divi Traiani Parthici pro <lb n="3"/>nepos, Divi Nervae abnepos, <expan><abbr>M</abbr><ex>arcus</ex></expan> Aurelius Antoninus <lb n="4"/><expan><abbr>Aug</abbr><ex>ustus</ex></expan> <expan><abbr>Germanic</abbr><ex>us</ex></expan> <expan><abbr>Sarmatic</abbr><ex>us</ex></expan>, pontifex maximus, <expan><abbr>tribunic</abbr><ex>ia</ex></expan> <lb n="5"/>5 <expan><abbr>potest</abbr><ex>ate</ex></expan> XXXIII, <expan><abbr>imp</abbr><ex>erator</ex></expan> IX, co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III, <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> et <lb n="6"/><expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar <expan><abbr>L</abbr><ex>ucius</ex></expan> Aelius Aurelius Commodus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Antonini <lb n="7"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>fil</abbr><ex>ius</ex></expan>, Divii Pii nepos, Divi Hadriani pronepos, Divi <lb n="8"/>Traiani Parthici abnepos, Divi Nervae adnepos, Ger <lb n="9"/><expan><abbr>manic</abbr><ex>us</ex></expan> <expan><abbr>Sarmatic</abbr><ex>us</ex></expan>, <expan><abbr>tribunic</abbr><ex>ia</ex></expan> <expan><abbr>potest</abbr><ex>ate</ex></expan> III, <expan><abbr>imp</abbr><ex>erator</ex></expan> II, co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> II, <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <lb n="10"/>10 equitibus et peditibus, qui militaverunt in alis duabus <lb n="11"/>quae appellantur I <expan><abbr>Batavor</abbr><ex>um</ex></expan> et I <expan><abbr>Bosporanor</abbr><ex>um</ex></expan> et co <lb n="12"/>hortium decem et duobus, I <expan><abbr>Alpinor</abbr><ex>um</ex></expan> et I <expan><abbr>Aug</abbr><ex>usta</ex></expan> Itur<expan><ex>a</ex><abbr>e</abbr></expan> <lb n="13"/><expan><abbr>or</abbr><ex>um</ex></expan> et III <expan><abbr>Dalmatar</abbr><ex>um</ex></expan> et V <expan><abbr>Gallor</abbr><ex>um</ex></expan> et I T<expan><ex>h</ex><abbr>racium</abbr></expan> <expan><abbr>sagit</abbr><ex>tariorum</ex></expan> <lb n="14"/>et I <expan><abbr>Ubior</abbr><ex>um</ex></expan> et II <expan><abbr>Gallor</abbr><ex>um</ex></expan> et <expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> et I <expan><abbr>Vindelicor</abbr><ex>um</ex></expan> <lb n="15"/>15 et VIII <expan><abbr>Raetor</abbr><ex>um</ex></expan> et III Campestrum et IIII <expan><abbr>Hispanor</abbr><ex>um</ex></expan> <lb n="16"/>et II <expan><abbr>Fl</abbr><ex>avia</ex></expan> <expan><abbr>Commag</abbr><ex>enorum</ex></expan> et vexillatio peditum <expan><abbr>singular</abbr><ex>ium</ex></expan> <lb n="17"/><expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> et sunt in Dacia Superiore sub <lb n="18"/>Helvio Pertinace <expan><abbr>leg</abbr><ex>ato</ex></expan>, quinis et vicenis pluribusve sti <lb n="19"/>pendi<expan><ex>i</ex><abbr>s</abbr></expan> emeritis dimissis honesta missione, quorum <lb n="20"/>20 nomina subscripta sunt, civitatem Romanam, qui <lb n="21"/>eorum non haberent, dederunt et conubium cum <lb n="22"/>uxoribus quas tunc habuissent, cum est civitas iis <lb n="23"/>data aut cum iis, quas postea duxissent, dumtaxat singulis <lb n="24"/><surplus>a(nte) d(iem)</surplus> <expan><abbr>Kal</abbr><ex>endis</ex></expan> Aprilibus <lb n="25"/>25 <supplied reason="lost"><expan><abbr>M</abbr><ex>anio</ex></expan></supplied> Acilio Faustino, <expan><abbr>L</abbr><ex>ucio</ex></expan> Iulio Proculiano co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="26"/><expan><abbr>cohor</abbr><ex>tis</ex></expan> III <expan><abbr>Campestr</abbr><ex>um</ex></expan>, cui praefuit <lb n="27"/>Avonius Saturninus,ex peditibus <lb n="28"/>Ulpio <expan><abbr>Ulpi</abbr><ex>i</ex></expan> <expan><abbr>fil</abbr><ex>io</ex></expan> Herculano Stobis <lb n="29"/>30 Descriptum et recognitum ex tabula aerea, quae fi <lb n="30"/>xa est Romae in muro post templum Divi <expan><abbr>Aug</abbr><ex>usti</ex></expan> <lb n="31"/>ad Minervam. Tabella I intus (Abb. 2b):<expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar, Divi Antonini <expan><abbr>fil</abbr><ex>ius</ex></expan>, Divi Veri Parthici <expan><abbr>Maxim</abbr><ex>i</ex></expan> fra <lb n="32"/>ter, Divi Hadriani nepos, Divi Traiani Parthici pronepos, Di <lb n="33"/>vi Nervae abnepos, <expan><abbr>M</abbr><ex>arcus</ex></expan> Aurelius Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Germa <lb n="34"/>nicus Sarmaticus, pontifex maximus, <expan><abbr>tribunic</abbr><ex>ia</ex></expan> <expan><abbr>potest</abbr><ex>ate</ex></expan> <lb n="35"/>5 XXXIII, <expan><abbr>imp</abbr><ex>erator</ex></expan> X, co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III, <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> et <lb n="36"/><expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar <expan><abbr>L</abbr><ex>ucius</ex></expan> Aelius Aurelius Commodus <expan><abbr>Aug</abbr><ex>ustus</ex></expan>, Antonini <lb n="37"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> <expan><abbr>fil</abbr><ex>ius</ex></expan>, Divi Pii nepos, Divi Hadriani pronepos, Divi Traia <lb n="38"/>ni Parthici abnepos, Divi Nervae adnepos, Germanicus <lb n="39"/><expan><abbr>Sarmatic</abbr><ex>us</ex></expan>, <expan><abbr>tribunic</abbr><ex>ia</ex></expan> <expan><abbr>potest</abbr><ex>ate</ex></expan> III, <expan><abbr>imp</abbr><ex>erator</ex></expan> II, co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> II, <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <lb n="40"/>10 equitibus et peditibus, qui militaverunt in alis duabus, <lb n="41"/>quae appellantur I <expan><abbr>Batavor</abbr><ex>um</ex></expan> et I <expan><abbr>Bosporanor</abbr><ex>um</ex></expan> et <lb n="42"/>cohortium decem et duobus, I <expan><abbr>Alpinor</abbr><ex>um</ex></expan> et I <expan><abbr>Aug</abbr><ex>usta</ex></expan> Itur<expan><ex>a</ex><abbr>e</abbr></expan> <lb n="43"/><expan><abbr>or</abbr><ex>um</ex></expan> et III <expan><abbr>Dalmatar</abbr><ex>um</ex></expan> et V <expan><abbr>Gallor</abbr><ex>um</ex></expan> et I Thracium <expan><abbr>sagit</abbr><ex>tariorum</ex></expan> <lb n="44"/>et I <expan><abbr>Ubior</abbr><ex>um</ex></expan> et II <expan><abbr>Gallor</abbr><ex>um</ex></expan> et <expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> et I Vinde <lb n="45"/>15 <expan><abbr>licor</abbr><ex>um</ex></expan> et VIII <expan><abbr>Raetor</abbr><ex>um</ex></expan> et III Campestrum et IIII His <lb n="46"/><expan><abbr>panor</abbr><ex>um</ex></expan> et II <expan><abbr>Fl</abbr><ex>avia</ex></expan> <expan><abbr>Commag</abbr><ex>enorum</ex></expan> et vexillatio peditum sin <lb n="47"/><expan><abbr>gular</abbr><ex>ium</ex></expan> Britannicianorum et sunt in Dacia Supe <lb n="48"/>riore sub Helvio Pertinace <expan><abbr>leg</abbr><ex>ato</ex></expan>, quinis et vicenis plu <lb n="49"/>ribusve stipendi<expan><ex>i</ex><abbr>s</abbr></expan> emeri<expan><ex>ti</ex><abbr>s</abbr></expan>, dimissis honesta mis <lb n="50"/>20 sione, quorum nomina subscripta sunt, civitatem <lb n="51"/>Romanam, qui eorum non haberent, dederunt et co <lb n="52"/>nubium cum uxoribus, quas tunc habuissent, cum est <lb n="53"/>civitas iis data aut cum iis, quas postea duxissent, <lb n="54"/>dumtaxat singulis, Tabella II intus (Abb. 3b):<expan><abbr>Kal</abbr><ex>endis</ex></expan> <expan><abbr>Aprilib</abbr><ex>us</ex></expan> <lb n="55"/><expan><abbr>M</abbr><ex>anio</ex></expan> Acilio Faustino <expan><abbr>L</abbr><ex>ucio</ex></expan> Iulio Proculiano co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="56"/>coh<expan><ex>o</ex><abbr>r</abbr><ex>tis</ex></expan> III Ca<expan><ex>m</ex><abbr>pestr</abbr><ex>um</ex></expan>, cui praefuit <lb n="57"/>Avonius Saturninus, <lb n="58"/>5 ex peditibus <lb n="59"/>Ulpio <expan><abbr>Ulpi</abbr><ex>i</ex></expan> <expan><abbr>fil</abbr><ex>io</ex></expan> Herculano Stubis <lb n="60"/>Descriptum et <expan><abbr>recognitu</abbr><ex>m</ex></expan> ex tabulaaerea, quae fixa est Romae in mu <lb n="61"/>ro post templum Divi <expan><abbr>Aug</abbr><ex>usti</ex></expan> ad Miner <lb n="62"/>10 vam. Tabella II extrinsecus (Abb. 4b):<expan><abbr>D</abbr><ex>ecimi</ex></expan> <expan><abbr>Aemili</abbr><ex>i</ex></expan> Felicis <lb n="63"/><expan><abbr>Cn</abbr><ex>aei</ex></expan> Pompei Niconis <lb n="64"/><expan><abbr>P</abbr><ex>ublii</ex></expan> <expan><abbr>Tulli</abbr><ex>i</ex></expan> Callicrates <lb n="65"/><expan><abbr>D</abbr><ex>ecimi</ex></expan> <expan><abbr>Aemili</abbr><ex>i</ex></expan> Quadrati <lb n="66"/>5 <expan><abbr>P</abbr><ex>ublii</ex></expan> <expan><abbr>Orvi</abbr><ex>i</ex></expan> Dii <lb n="67"/><expan><abbr>P</abbr><ex>ublii</ex></expan> <expan><abbr>Aeli</abbr><ex>i</ex></expan> Trofimi <lb n="68"/><expan><abbr>D</abbr><ex>ecimi</ex></expan> <expan><abbr>Aemili</abbr><ex>i</ex></expan> Agat<expan><ex>h</ex><abbr>ocletis</abbr></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Tabella I extrinsecus:L'empereur César Marcus Aurelius Antonius Augustus, vainqueur des Germains, vainqueur des Sarmates, fils du divin Antoninus, petit-fils du divin Hadrien, arrière petit-fils du divin Trajan vainqueur des Parthes, arrière petit-fils du divin Nerva, grand pontife, investi avec la puissance tribunicienne pour la trente-troisième fois, acclamé imperator neuf fois, consul trois fois, père de la patrie,et l'empereur César Lucius Aelius Aurelius Commodus Augustus, fils d'Antonin Auguste, petit-fils du divin Pius, arrière petit-fils du divin Hadrien, arrière petit-fils du divin Trajan vainqueur des Parthes, arrière petit-fils du divin Neerva, vainqueur des Germains, vainqueur des Sarmates, investi avec la puissance tribunicienne pour la troisième fois, acclamé imperator deux fois, consul deux fois, père de la patrie, donnèrent aux cavaliers et aux fantassins qui ont servi en deux ailes, qui s'appellent I Batavorum et I Bosporanorum et en douze cohortes, I Alpinorum et I Augusta Ituraeorum et III Dalmatarum et V Gallorum et I Thracum sagittariorum et I Ubiorum et II Gallorum et Pannoniorum et I Vindelicorum et VIII Raetorum et III Campestrum et IIII Hispanorum et II Flavia Commagenorum et la vexillation des pedites singulares Britanniciani, qui se trouvent en Dacie Supérieure sous l'autorité du légat Helvius Pertinax, (à ceux) qui ont accompli vingt-ciq ou plusieurs années de service militaire (et) ont été licenciés par honesta missio (licenciement honorable), dont les noms sont écrits ci-dessous; (ils leur ont donné) la cité Romaine, à ceux d'entre eux qui ne l'avaient pas et le conubium (droit de mariage légal), avec les épouses qu'ils avaient eues quand leur a été conféré le droit de cité, ou avec celles qu'ils allaeint épouser ultérieurement, à la condition toutfois que checum épouse une seule femme; aux calendes d'avril, sous le consulat de Manius Acilius Faustinus (et) de Lucius Iulius Proculianus; de la cohors III Campestrum, commandée par Avonius Saturninus, à l'ancien fantassin Ulpius Herculanus, fils d'Ulpius, originaire de Stobi. Reproduit et autentifié d'après la plaque en bronze qui est fixée sur le mur se trouvant derrière le temple du divin Auguste, près de la statue de Minerve.Tabella II extrinsecus:(Les sceaux) de Decimus Aemilius Felix, de Cnaeus Pompeius Nico, de Publius Tullius Callicrates, de Decimus Aemilius Quadratus, de Publius Orvius Dius, de Publius Aelius Trofimus, de Decimus Aemilius Agathocles.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Les deux tabellae sont presque complètes. Elles contiennent le seul texte de constitution impériale connu depuis la réorganisation des Dacies en 168. On savait jusqu'à la découverte de ce diplôme qu'en 168 les trois Dacies, la Dacie Supérieure, la Dacie Inférieure et la Dacie Porolissensis, ont été remplacées par la Dacie Apulensis, la Dacie Malvensis et la Dacie Porolissensis. Pourtant, le diplôme de Drobeta contient les troupes de Dacie Supérieure, ce qui signifie que les trois circonscriptions militaires ont été conservées. Dans le titre legatus Augusti pro praetore (consularis) III Daciarum, par les tres Daciae il faut entendre justement les anciennes circonscriptions militaires, tandis que la Dacie Apulensis, la Dacie Malvensis et la Dacie Porolissensis étaient des circonscriptions financières, administrées par des procuratores Augusti; voir I. Piso, Fasti I, p. 82-88. Pour P. Helvius Pertinax, le futur empereur, voir op. cit., p. 117-130, avec toute la littérature.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

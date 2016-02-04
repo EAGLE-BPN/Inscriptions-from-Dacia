@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Épitaphe de la famille de Dedalus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001343.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001343</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Strei-Săcel</placeName>                     
+                        </settlement>
+                        <repository>Musée de Deva</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1957">Stèle ou plaque funéraire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>170</height>
+                                         <width/>
+                                         <depth>130</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1883 au pied de la montagne Măgura.
+                                <placeName ref="www.trismegistos.org/place/NaN">Aquae</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Les critères de datation manquent.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1883</date>
+                                <placeName>Strei-Săcel</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Inscription funéraire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G. Téglás, AEM 9, 1885, p. 238, no 4</bibl><bibl> idem, ErdMúz 5, 1888, p. 238</bibl><bibl> CIL III 7893</bibl><bibl> R. Münsterberg, J. Oehler, JÖAI 5, 1902, Bbl. 120</bibl><bibl> IDR III/3, 16.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <lb n="2"/><expan><abbr>C</abbr><ex>aio</ex></expan> <expan><abbr>A</abbr><ex>- - -</ex></expan> Dedalo <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> an<expan><ex>n</ex><abbr>i</abbr><ex>s</ex></expan> LX <lb n="4"/><expan><abbr>Valeri</abbr><ex>a</ex></expan> Cara <lb n="5"/><expan><abbr>vix</abbr><ex>it</ex></expan> an<expan><ex>n</ex><abbr>i</abbr><ex>s</ex></expan> XXXV <lb n="6"/><expan><abbr>c</abbr><ex>oniugi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <lb n="7"/><expan><abbr>A</abbr><ex>- - -</ex></expan> Tetula <expan><abbr>vix</abbr><ex>it</ex></expan> <lb n="8"/>an<expan><ex>n</ex><abbr>i</abbr><ex>s</ex></expan> L <expan><abbr>A</abbr><ex>- - -</ex></expan> Augusta <lb n="9"/><expan><abbr>vix</abbr><ex>it</ex></expan> an<expan><ex>n</ex><abbr>is</abbr></expan> XXX <lb n="10"/><expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>A</abbr><ex>- - -</ex></expan> Carus <lb n="11"/><expan><abbr>C</abbr><ex>aius</ex></expan> <expan><abbr>A</abbr><ex>urelius</ex></expan> Valerianus <lb n="12"/>veteranus <lb n="13"/>pare<expan><ex>n</ex><abbr>tibus</abbr></expan> <lb n="14"/>fecerunt <lb n="15"/><expan><abbr>Fla</abbr><ex>via</ex></expan> Crispina <expan><abbr>Vetilla</abbr><ex cert="low"/></expan> <lb n="16"/>Maxima Butes eorum.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    Aux dieux Mânes. À Caius A(...) Dedalus, (qui) a vécu 60 ans. Valeria Cara a vécu 35 ans. À son meilleur époux. A(...) Tetula a vécu 50 ans. A(...) Augusta a vécu 30 ans. Caius A(...) Carus (et) Caius A(...) Valerianus, vétéran, ont fait ceci à (leurs) parents (et) soeurs (tout aussi que) Flavia Crispina, Vetilla, Maxima, Butes, qui leur appartiennent.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Tous les auteurs: A(urelio), A(urelius), A(urelio), bien que le nomen Aurelius ne soit pas sûr. Le cognomen Dedalus (Δέδαλος) est d'origine grecque; voir L. Ruscu, AMN 35, 1998, p. 160. Valeria Cara semble être la seconde femme de Dedalus, car la fille de celui-ci est de quinze ans plus âgée. C(oniugi) o(ptimo) (l. 5) pourrait signifier que Valeria Cara avait fait le tombeau de Dedalus avant de mourir et que l'inscription a été écrite plus tard. Les noms Tetula, Vetilla pourraient être celtiques, mais ceci n'est pas sûr. En revanche, Butes est un nom thrace; voir D. Detschew, Die thrakischen Sprachreste, Wien 1957, p. 83. Fla(via) Crispina pourrait être la femme de Carus et de Valerianus, tandis que Vetilla, Maxima et Butes pourraient être leurs enfants et les petit-fils de Dedalus.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

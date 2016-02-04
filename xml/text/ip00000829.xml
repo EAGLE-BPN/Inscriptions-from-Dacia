@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace á Jupiter Dolichenus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000829.html</idno>
+              
+                
+                
+               <idno type="localID">ip00000829</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Bistrița-Năsăud</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Domnești</placeName>                     
+                        </settlement>
+                        <repository>Musée de Bistrița</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>130</height>
+                                         <width>47</width>
+                                         <depth>55</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration">no</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               points de séparation
+                                <height unit="cm">7-8</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Trouvé en 1886 par Georg Eisner dans son jardin de Domnești (Billak).
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de Septime Sévère, en raison du centurio regionarius et de l’écriture.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1886</date>
+                                <placeName>Domnești</placeName> 
+                            <placeName type="modernRegion">Jud. Bistrița-Năsăud</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G. Téglás, ErdM 5, 1888, p. 57, no 2 </bibl><bibl> I. Ornstein, AÉrt 1897, p. 394 </bibl><bibl> idem, SzDE 1, 1900, p. 13 </bibl><bibl> CIL III 7625 </bibl><bibl> G. Fischer, Korrbl. V. S. L. 44, 1921, 68 </bibl><bibl> C. Daicoviciu, ACMIT 2, 1929, p. 307-308, no IV/1 = Dacica, p. 144, no IV/1 </bibl><bibl> A. H. Kan, Jupiter Dolichenus, p. 53, no 19 </bibl><bibl> A. Kerényi, Personennamen, p. 50, no 559 </bibl><bibl> I. I. Russu, AMN 6, 1969, p. 182 </bibl><bibl> A. Popa, I. Berciu, Jupiter Dolichenus, p. 21-22, no 19 </bibl><bibl> S. Sanie, Cultele orientale I, p. 258, no 19 = ANRW II/18/2, 1249, no 19 </bibl><bibl> CCID, p. 97, no 138 </bibl><bibl> J. Pahl, Jupiter Dolichenus, p. 234 </bibl><bibl> I. Piso, G. Cupcea, Tyche 29, 2014, p. 115-123, pl. 6-7 (photo, dessin).</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>o</abbr><ex>ptimo</ex></expan> <expan><abbr>m</abbr><ex>aximo</ex></expan> <lb n="2"/>Dulcen <lb n="3"/>o <expan><abbr>P</abbr><ex>ublius</ex></expan> Gaius <lb n="4"/>Valerianu <lb n="5"/>s (centurio) <expan><abbr>leg</abbr><ex>ionis</ex></expan> X Fre <lb n="6"/>tensis re <lb n="7"/><expan><abbr>g</abbr><ex>ionarius</ex></expan> <expan><abbr>r</abbr><ex>egionis</ex></expan> Neridon <lb n="8"/><expan><abbr>is</abbr><ex cert="low">- - - </ex></expan> <expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>L. 2-3 : pour la forme Dulcenus à la place de Dolichenus voir Piso, Cupcea, p. 118, n. 22 ; l. 3 : nos prédécesseurs : Caius ; Piso, Cupcea : Gaius, qui joue le rôle d’un cognomen ; l. 4 : Valerianus et pas Valerinus ; l. 5-8, A. v. Domaszewski (CIL) : i(mmunis ?) leg(ionis) X Fre/tensis (centuriae) Re/[s]er…. Neridon/is ; Fischer : l(ibrarius) leg(ionis) X Fre/tensis Re…/… Neridon/is ; l. 5, Russu : (centurio) ; l. 6-7, Sanie : res(titutae) p(iae) f(idelis) ; l. 6-7, Russu, M. Hörig, E. Schwertheim (CCID) : Reser Neridonis, un nom. En réalité, dans la l. 7 la première lettre est un G et alors il faut lire : re/g(ionarius) r(egionis) Neridon/is(- - - ?) (Piso, Cupcea).</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand, Dulcenus (Dolichenus). Publius Gaius Valerianus, centurion de la legio X Fretensis, responsable de la regio Neridon( ?), s’est acquitté de (son) vœu de bon gré (et) à bon droit.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Un centurio regionarius surveillait au IIIe siècle des zones proches aux frontières, où se trouvaient aussi des domaines du fisc impérial ; voir B. N. Rankov, dans : Ancient Bulgaria. Papers presented to the International Symposium on the Ancient History and Archaeology of Bulgaria, University of Nottingham, 1981 II (éd. A. G. Poulter), Nottingham 1983, p. 40-73 ; Piso, Cupcea, p. 118-120. Dans quelles circonstances P. Gaius Valerianus, centurion d’une légion stationnée en Syrie Palestine, est-il venu en Dacie, est inconnu. Un détachement de la legio X Fretensis aura participé à des opérations militaires en Europe au IIIe siècle. La zone de Domnești est connue par sa richesse en sel (voir I. Glodariu, ANRW II/6, 1977, p. 960; V. Wollmann, Der Erzbergbau, die Salzgewinnung und die Steinbrüche im römischen Dakien, Cluj-Napoca 1996, p. 243-244) et le conductor pascui et salinarum de l'inscription précédente témoigne de la présence dun domaine impérial. Le plus grand problème est représenté par le nom de la région, r(egionis) Neridonis(sae) ou Neridonis(sensium), d’une origine difficillement à établir; voir Piso, Cupcea, p. 123.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

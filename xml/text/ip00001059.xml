@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire pour un vétéran d'une unité auxiliaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001059.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001059</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Moigrad</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. 382/383/1966</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>4,8</height>
+                                         <width>0,1</width>
+                                         <depth>4,7</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1956 dans l’endroit « Bisericuța » du camp de Pomet (voir N. Gudea, p. 75) par un paysan de Jac ; entré dans la collection de S. Papiriu-Pop et d’ici dans le musée de Zalău.
+                                <placeName ref="www.trismegistos.org/place/NaN">Porolissum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0120" notAfter-custom="0140" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De l’intervalle 120-140, en raison de l’ancien formulaire, qui inclut l’épouse du vétéran, et du nomen du témoin (Roxan).</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1956</date>
+                                <placeName>Moigrad</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>IDR I 23 (photo, dessin) </bibl><bibl> RMD I 40 </bibl><bibl> AE 1980, 756 </bibl><bibl> C. C. Petolescu, SCIVA 31/1, 1980, p. 105-106 </bibl><bibl> N. Gudea, AMP 19, 1995, p. 73-77, no 1, p. 84, fig. 2-3 (dessins) </bibl><bibl> AE 1995, 1282 </bibl><bibl> ILD 9</bibl><bibl> I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tab. II intus :<supplied reason="lost"><expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar</supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"><expan><abbr>equitib</abbr><ex>us</ex></expan> et <expan><abbr>peditib</abbr><ex>us</ex></expan> qui <expan><abbr>militaver</abbr><ex>unt</ex></expan> in</supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">et sunt in Dacia <expan><abbr>Porol</abbr><ex>issensi</ex></expan> sub </supplied><gap reason="lost" quantity="3" unit="character"/> <gap reason="lost" quantity="3" unit="character"/> <lb n="2"/><supplied reason="lost"><expan><abbr>Coh</abbr><ex>ortis</ex></expan> II A</supplied><expan><abbr>ug</abbr><ex>ustae</ex></expan> <expan><abbr>Nerv</abbr><ex>iae</ex></expan> <expan><abbr>Pac</abbr><ex>ensis</ex></expan> <supplied reason="lost">cui <expan><abbr>prae</abbr><ex>e</ex>st</expan></supplied> <lb n="3"/><expan><abbr><supplied reason="lost">I</supplied>ul</abbr><ex>i</ex>us</expan> Felix <gap reason="lost" quantity="3" unit="character"/> <lb n="4"/>ex pedite <lb n="5"/>Aprioṇị <supplied reason="lost">…. <expan><abbr>f</abbr><ex>ilio</ex></expan> IMEN[…</supplied> <lb n="6"/>et Seneciae Rellicti fiḷ(iae) <supplied reason="lost">uxori eius</supplied>.Tab. II extr. :[- - - <lb n="7"/>- - - <lb n="8"/><expan><abbr>L</abbr><ex>ucii</ex></expan> P]<expan><abbr>ulli</abbr><ex>i</ex></expan> [- - - <lb n="9"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Russu : Vlp.( ?) Nerv. Brit.( ?) [cui praest ?] / Furius Felix [- - - ?] / ex pedite / [- - -]I. IMEN[- - -] / [et Seneciae Rellictei[- - -] ; [- - - / - - - / . P]ulli [Daphni ? / - - - / - - - / - - - / - - -] ; Roxan (RMD), HD : [Coh(ortis) II A]ug(ustae) Nerv(iae) Pac(ensis) [Britton(um) (milliariae) cui praest] Furius Felix ex pedite […..]imen[i f. ? … ] et Seneciae Rellectei [fil(iae) uxor(i) eius ….] ; [L. P]ulli [Daphni] aut [L. P]ulli [Verecundi] aut [L. P]ulli [Anthi] ; Petolescu : [Coh(ortis) II A]ug(ustae) Nervia(nae) P[acensis - - -] ; Gudea : [… A]ug(usta) Nerv(ia) Brit(tonum) [cui praeest / …ulus Felix [- - -] / ex pedite / Rolici sive Acilici……… f]il(io) IMENO[- - -] / et Seneciae Relict(i) f(il(ia) - - -].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (L’empereur César …aux cavaliers et aux fantassins qui ont servi dans …).(Provenant de la cohors II) Augusta Nervia Pacensis, commandée par Iulius( ?) Felix, à Aprio( ?), (fils de …), et à Senecia, fille de Rellictus, (épouse de celui-ci).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Diplôme militaire, deux fragments jointifs de la tabella II ; la marge extérieure est marquée par deux lignes incisées ; on distingue les deux orifices pour le fil en bronze. Le nomen de l’officier semble être Iulius et le nom personnel du vétéran pourrait être Aprio. La cohors II Augusta Nervia Pacensis Brittonum milliaria stationnait dans le camp de Buciumi ; C. C. Petolescu, Auxilia, p. 91.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

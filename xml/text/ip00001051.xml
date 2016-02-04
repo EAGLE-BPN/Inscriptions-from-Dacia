@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deux fragments d'un diplôme militaire pour un vétéran</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001051.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001051</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. C. C. 96/1966</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>5,1</height>
+                                         <width>5,6</width>
+                                         <depth>0,1</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvés en 1966 et en 1971 lors des fouilles de N. Gudea dans le camp de Buciumi, le fragment gauche dans le barraquement no 2, partie nord, du camp.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 21 juillet 164, sous le consulat suffect de Ti. Haterius Saturninus et Q. Caecilius Avitus ; voir A. Degrassi, Fasti consolari, p. 46.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1966, 1971</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>Frg. gauche: IDR I 22 (photos, dessins) </bibl><bibl> Zs. Visy, AArchHung 29/3-4, 1977, p. 457 </bibl><bibl> RMD I 65 </bibl><bibl> AE 1980, 761 </bibl><bibl> ILD 8 </bibl><bibl> frg. droit : N. Gudea, AMP 8, 1984, p. 212-213, no 3, p. 217, fig. 3 (dessins) </bibl><bibl> les deux fragments : RMD II 65/115 </bibl><bibl> C. C. Petolescu, SCIVA 37/4, 1986, p. 351, no 348 </bibl><bibl> ILD 48 </bibl><bibl> I. Piso, Fasti II, p. 127, no 78, 6.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Texte combiné :<expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Mar<supplied reason="lost">cus Aurelius Antoninus</supplied> <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Armeniacus po<supplied reason="lost"><expan><abbr>ntif</abbr><ex>ex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> tribu</supplied><expan><abbr>nic</abbr><ex>ia</ex></expan> <expan><abbr>potest</abbr><ex>ate</ex></expan> XVII<supplied reason="lost">I <expan><abbr>imp</abbr><ex>erator</ex></expan> II <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III et</supplied> <expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Lucius <supplied reason="lost">Aurelius Verus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Ar</supplied>meniacus tribun<supplied reason="lost"><expan><abbr>ic</abbr><ex>ia</ex></expan></supplied> <expan><abbr>pot</abbr><ex>estate</ex></expan> IIII i<supplied reason="lost"><expan><abbr>mp</abbr><ex>erator</ex></expan> II <expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></supplied> co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> II Divi Antoni<supplied reason="lost">ni filii Divi Hadri</supplied>ani nepotes Divi Traian<supplied reason="lost">i Parthici pronepotes</supplied> Divi N<supplied reason="lost">ervae abnepotes</supplied> equitib<supplied reason="lost">us et peditibus qui <expan><abbr>militaver</abbr><ex>unt</ex></expan> in alis III quae ap</supplied>pellantur II Ga<supplied reason="lost"><expan><abbr>llor</abbr><ex>um</ex></expan> et <expan><abbr>Pann</abbr><ex>oniorum</ex></expan> et Siliana <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> et I <expan><abbr>Tungr</abbr><ex>orum</ex></expan> <expan><abbr>Fronton</abbr><ex>iana</ex></expan></supplied> et <expan><abbr>coh</abbr><ex>ortibus</ex></expan> X<supplied reason="lost">II I <expan><abbr>Britton</abbr><ex>um</ex></expan> (milliaria) et I <expan><abbr>Britann</abbr><ex>ica</ex></expan> <expan><abbr>equit</abbr><ex>ata</ex></expan> et I Hi</supplied><expan><abbr>span</abbr><ex>orum</ex></expan> (milliaria) et <supplied reason="lost">I <expan><abbr>Batavor</abbr><ex>um</ex></expan> (milliaria) et I Aelia <expan><abbr>Gaesat</abbr><ex>orum</ex></expan> et II <expan><abbr>Nerv</abbr><ex>ia</ex></expan> <expan><abbr>Britt</abbr><ex>onum</ex></expan> (milliaria) et II <expan><abbr>Britann</abbr><ex>ica</ex></expan> (milliaria) et I <expan><abbr>Hispanor</abbr><ex>um</ex></expan> (milliaria) et I <expan><abbr>Cannanef</abbr><ex>atium</ex></expan> et II <expan><abbr>Hispan</abbr><ex>orum</ex></expan> et V <expan><abbr>Lingon</abbr><ex>um</ex></expan> et VI <expan><abbr>Thrac</abbr><ex>um</ex></expan> et sunt in Dacia Porolissensi sub Sempronio Ingenuo <expan><abbr>proc</abbr><ex>uratore</ex></expan></supplied> <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> <expan><abbr>a</abbr><ex>nte</ex></expan> <expan><abbr>d</abbr><ex>iem</ex></expan> XII <expan><abbr>K</abbr><ex>alendas</ex></expan> <expan><abbr>Aug</abbr><ex>ustas</ex></expan> <expan><abbr>Ti</abbr><ex>berio</ex></expan> Haterio Saturnino <expan><abbr>Q</abbr><ex>uinto</ex></expan> Caecilio Avito <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> </supplied><gap reason="lost" quantity="3" unit="character"/>  <gap reason="lost" quantity="3" unit="character"/>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L’empereur César Marcus (Aurelius Antoninus) Augustus, vainqueur des Arméniens, (grand) pontife, investi avec la puissance tribunicienne pour la dix-huitième fois, (acclamé imperator deux fois, consul trois fois et) l’empereur César Lucius (Aurelius Verus Augustus), vainqueur des Arméniens, investi avec la puissance tribunicienne pour la quatrième fois, acclamé imperator (deux fois, proconsul), consul deux fois, (fils) du divin Antonin, petits-fils du (divin) Hadrien, (arrière petits-fils) du divin Trajan (vainqueur des Parthes, arrière petits-fils) du divin Nerva, aux cavaliers (et aux fantassins qui ont servi dans trois ailes qui) s’appellent - - - et douze cohortes, - - -, (et se trouvent en Dacie Porolissensis sous le procurateur Sempronius Ingenuus, le 21 juillet, sous le consulat de Tiberius Haterius Saturninus et Quintus Caecilius Avitus (a. 164), - - -).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>On connaît non moins de 10 copies de la même constitution (I. Piso, Fasti II, p. 127-128, no 78, 2-11), dont les plus complètes sont AE 1957, 199 = IDR I/D 18 = RMD I 64 = no - - - (Gilău) et AE 1937, 113 = CIL XVI 185 = IDR I/D 19 (Palatovo)). La liste des troupes de la province comprend dans la constitution impériale du 21 juillet 164 trois ailes et douze cohortes. C’est John Mann (chez Roxan) qui remarqua que les deux fragments appartiennent au même diplôme ; le texte reconstitué d’après Roxan.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

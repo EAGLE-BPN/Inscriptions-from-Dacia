@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire émis pour Acilius Dubitatus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001037.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001037</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Gilău</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>14</height>
+                                         <width>0,1</width>
+                                         <depth>10,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1951 lors des fouilles de M. Rusu dans l’intérieur de la tour B du camp de Gilău.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">De 21 juillet 164, sous le consulat suffect de Ti. Haterius Saturninus et Q. Caecilius Avitus ; voir A. Degrassi, Fasti consolari, p. 46.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1951</date>
+                                <placeName>Gilău</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. I. Russu, MCA 2, 1956, p. 703-713, fig. 9-13 (photo, dessins) </bibl><bibl> AE 1957, 199 </bibl><bibl> IDR I 18 </bibl><bibl> RMD I 64 </bibl><bibl> I. Piso, Fasti provinciae Daciae II, no 78, 2 = p. 260, no 112, 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tab. I intus :<expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Marcus Aurelius Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Armenia <lb n="2"/>cus <expan><abbr>pont</abbr><ex>ifex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> XVIII <expan><abbr>imp</abbr><ex>erator</ex></expan> II co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III et <lb n="3"/><expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Lucius Aurelius Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Armeniacus <expan><abbr>trib</abbr><ex>unicia</ex></expan> <lb n="4"/><expan><abbr>pot</abbr><ex>estate</ex></expan> IIII <expan><abbr>imp</abbr><ex>erator</ex></expan> II proco<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> II Divi Antonini filii Divi Ha <lb n="5"/>driani nepotes Divi Traiani <expan><abbr>Parthic</abbr><ex>i</ex></expan> pronepotes <lb n="6"/>Divi Nervae abnepotes <lb n="7"/>equitibus et peditibus qui <expan><abbr>militaveru</abbr><ex>nt</ex></expan> <expan><ex>i</ex><abbr>n</abbr></expan> alis III quae <lb n="8"/><expan><abbr>appell</abbr><ex>antur</ex></expan> II <expan><abbr>Gallor</abbr><ex>um</ex></expan> et <expan><abbr>n<am>n</am></abbr><ex>iorum</ex></expan> <lb n="9"/>et <expan><abbr>Silian</abbr><ex>a</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> et I <expan><abbr>Tungr</abbr><ex>orum</ex></expan> <lb n="10"/><expan><abbr>Front</abbr><ex>oniana</ex></expan> et <expan><abbr>coh</abbr><ex>ortibus</ex></expan> XII (I) <expan><abbr>Britton</abbr><ex>um</ex></expan> (milliaria) et I <expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> <expan><abbr>equit</abbr><ex>ata</ex></expan> <lb n="11"/>et I Hisp<supplied reason="omitted">a</supplied><expan><abbr>n</abbr><ex>orum</ex></expan> (milliaria) et I <expan><abbr>Batavor</abbr><ex>um</ex></expan> (milliaria) et I Ael<expan><ex>i</ex><abbr>a</abbr></expan> Gae<surplus>t</surplus><expan><abbr>sat</abbr><ex>orum</ex></expan> (et) II <expan><abbr>Nerv</abbr><ex>ia</ex></expan> Brit <lb n="12"/><expan><abbr><supplied reason="lost">to</supplied>n</abbr><ex>um</ex></expan> (milliaria) et I<supplied reason="lost">I</supplied> <expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> (milliaria) et I <expan><abbr>Hispanor</abbr><ex>um</ex></expan> (milliaria) et I Canna <lb n="13"/><expan><abbr><supplied reason="lost">n</supplied>ef</abbr><ex>atium</ex></expan> et II <expan><abbr>Hispan</abbr><ex>orum</ex></expan> et V <expan><abbr>Lingon</abbr><ex>um</ex></expan> et III <expan><abbr>Thrac</abbr><ex>um</ex></expan> et sunt <lb n="14"/>in Dacia Porolis<expan><ex>s</ex><abbr>ensi</abbr></expan> sub Sempronio Ingenuo <expan><abbr>proc</abbr><ex>uratore</ex></expan> <lb n="15"/>quinis et <expan><abbr>vicen</abbr><ex>is</ex></expan> pluribu<expan><ex>s</ex><abbr>ve</abbr></expan> stipendi<expan><ex>i</ex><abbr>s</abbr></expan> emeritis <lb n="16"/><expan><abbr>dimiss</abbr><ex>is</ex></expan> <expan><abbr>honest</abbr><ex>a</ex></expan> missione quorum nomina sub <lb n="17"/>scripta sunt <expan><abbr>civitat</abbr><ex>em</ex></expan> <expan><abbr>Roman</abbr><ex>am</ex></expan> qui eorum non <expan><abbr>haber</abbr><ex>ent</ex></expan> <lb n="18"/><expan><abbr><supplied reason="lost">ded</supplied>er</abbr><ex>unt</ex></expan> <supplied reason="lost">et conu</supplied>bium cum uxoribus quas tunc ha <lb n="19"/><expan><abbr><supplied reason="lost">bui</supplied>s<supplied reason="lost">s</supplied></abbr><supplied reason="lost"><ex>ent</ex></supplied></expan> <supplied reason="lost">cu</supplied>m est civitas iis data aut cum iis <lb n="20"/><supplied reason="lost">quas postea dux</supplied>issent dumtaxat singulisTab. II intus :<expan><abbr>a</abbr><ex>nte</ex></expan> <expan><abbr>d</abbr><ex>iem</ex></expan> XII <expan><abbr>K</abbr><ex>alendas</ex></expan> <expan><abbr>Aug</abbr><ex>ustas</ex></expan> <lb n="21"/>Saturnino et Avito co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="22"/><supplied reason="lost">ala</supplied>e Silianae <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> cui praeest <lb n="23"/><supplied reason="lost">A</supplied>urelius Atilianus <lb n="24"/>ex gregale <lb n="25"/><supplied reason="lost">Acilio</supplied> Sabini <expan><abbr>f</abbr><ex>ilio</ex></expan> Dubitato <expan><abbr>castr</abbr><ex>is</ex></expan> <lb n="26"/><expan><abbr><supplied reason="lost">descrip</supplied>t</abbr><ex>um</ex></expan> et <expan><abbr>recognit</abbr><ex>um</ex></expan> ex tabula aerea <lb n="27"/><supplied reason="lost">qua</supplied>e fixa est Romae in muro post <lb n="28"/><expan><ex>tem</ex><abbr>pl</abbr><ex>um</ex></expan> Divi <expan><abbr>Aug</abbr><ex>usti</ex></expan> ad M<supplied reason="lost">in</supplied>ervam. Tab. I extr. :<expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Marcus Aureli<supplied reason="lost">us Antoninus</supplied> <lb n="29"/><expan><abbr>Aug</abbr><ex>ustus</ex></expan> Armeniacus <expan><abbr>pontif</abbr><ex>ex</ex></expan> m[<expan><abbr>ax</abbr><ex>imus</ex></expan> tri <lb n="30"/><expan><abbr>bunic</abbr><ex>ia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> XVIII <expan><abbr>imp</abbr><ex>erator</ex></expan> II c<supplied reason="lost"><expan><abbr>o</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III et</supplied> <lb n="31"/><expan><abbr>Imp</abbr><ex>erator</ex></expan> Caesar Lucius Aurelius Ver[us <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Ar <lb n="32"/>meniacus <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>potest</abbr><ex>ate</ex></expan> IIII <expan><abbr>imp</abbr><ex>erator</ex></expan> II pr<supplied reason="lost"><expan><abbr>oco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></supplied> co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> <lb n="33"/>II Divi Antonini <expan><abbr>fil</abbr><ex>ii</ex></expan> Divi <expan><abbr>Hadrian</abbr><ex>i</ex></expan> nepotes <lb n="34"/>Divi Traiani <expan><abbr>Parthic</abbr><ex>i</ex></expan> pronepotes <lb n="35"/>Divi Nervae abnepotes <lb n="36"/>equitibus et peditibus qui <expan><abbr>militaver</abbr><ex>unt</ex></expan> in <lb n="37"/>alis tribus quae <expan><abbr>appell</abbr><ex>antur</ex></expan> II <expan><abbr>Gallor</abbr><ex>um</ex></expan> et <expan><abbr>n<am>n</am></abbr><ex>oniorum</ex></expan> <lb n="38"/>et <expan><abbr>Silian</abbr><ex>a</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> et I <expan><abbr>Tungr</abbr><ex>orum</ex></expan> <expan><abbr>Front</abbr><ex>oniana</ex></expan> et <expan><abbr>cohortib</abbr><ex>us</ex></expan> <lb n="39"/>decem et <expan><abbr>duab</abbr><ex>us</ex></expan> I <expan><abbr>Britton</abbr><ex>um</ex></expan> (milliaria) et I <expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> <lb n="40"/><expan><abbr>equit</abbr><ex>ata</ex></expan> et I <expan><abbr>Hispan</abbr><ex>orum</ex></expan> (milliaria) et I <expan><abbr>Batavor</abbr><ex>um</ex></expan> (milliaria) et I Aelia <lb n="41"/><expan><abbr>Gaesat</abbr><ex>orum</ex></expan> et II <expan><abbr>Nerv</abbr><ex>ia</ex></expan> <expan><abbr>Britt</abbr><ex>onum</ex></expan> (milliaria) et II <expan><abbr>n<am>n</am></abbr><ex>um</ex></expan> <lb n="42"/>(milliaria) et I <expan><abbr>Hispanor</abbr><ex>um</ex></expan> (milliaria) et I <expan><abbr>n<am>n</am></abbr><ex>efatium</ex></expan> et II <expan><abbr>Hispan</abbr><ex>orum</ex></expan> <lb n="43"/>et V <expan><abbr>Lingon</abbr><ex>um</ex></expan> et VI <expan><abbr>Thrac</abbr><ex>um</ex></expan> et sunt in Dacia <lb n="44"/>Porolis<expan><ex>s</ex><abbr>ensi</abbr></expan> sub Sempronio Ingenuo <expan><abbr>pr</abbr><ex>ocuratore</ex></expan> <lb n="45"/>quinis et vicenis pluribusve stipendi<expan><ex>i</ex><abbr>s</abbr></expan> <lb n="46"/>emeritis dimis<expan><ex>s</ex><abbr>is</abbr></expan> honesta missione <lb n="47"/>quorum nomina <expan><abbr>subscript</abbr><ex>a</ex></expan> sunt ci <lb n="48"/><expan><abbr>vitat</abbr><ex>em</ex></expan> <expan><abbr>Roman</abbr><ex>am</ex></expan> qui <expan><abbr>eor</abbr><ex>um</ex></expan> non <expan><abbr>haber</abbr><ex>ent</ex></expan> <expan><abbr>deder</abbr><ex>unt</ex></expan> <lb n="49"/>et <expan><abbr>conu</abbr><ex>bium</ex></expan> cum <expan><abbr>uxorib</abbr><ex>us</ex></expan> quas tunc <expan><abbr>habuiss</abbr><ex>ent</ex></expan> <lb n="50"/>cum est <expan><abbr>civit</abbr><ex>as</ex></expan> i<expan><ex>i</ex><abbr>s</abbr></expan> data aut cum iis quas pos <lb n="51"/>tea duxissent dumtaxat singu <lb n="52"/>lis <expan><abbr>a</abbr><ex>nte</ex></expan> <expan><abbr>d</abbr><ex>iem</ex></expan> XII <expan><abbr>K</abbr><ex>alendas</ex></expan> <expan><abbr>Aug</abbr><ex>ustas</ex></expan> <lb n="53"/><expan><abbr>Ti</abbr><ex>berio</ex></expan> Haterio Saturnino <expan><abbr>Q</abbr><ex>uinto</ex></expan> Caecilio Avito co<expan><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="54"/>alae Silianae <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> cui praeest <lb n="55"/><supplied reason="lost">A</supplied>urelius Atilianus <lb n="56"/>ex gregale <lb n="57"/>Acilio Sabini <expan><abbr>f</abbr><ex>ilio</ex></expan> Dubitato <expan><abbr>castr</abbr><ex>is</ex></expan> <lb n="58"/><expan><abbr>descript</abbr><ex>um</ex></expan> et <expan><abbr>recognit</abbr><ex>um</ex></expan> ex tabula <expan><abbr>aer</abbr><ex>ea</ex></expan> <lb n="59"/>quae fixa est Romae in muro <lb n="60"/>post <expan><abbr>templ</abbr><ex>um</ex></expan> Divi <expan><abbr>Aug</abbr><ex>usti</ex></expan> ad M<supplied reason="lost">in</supplied>ervam.Tab. II extr. :<expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>Servili</abbr><ex>i</ex></expan> Getae <lb n="61"/>35 <expan><abbr>Ti</abbr><ex>berii</ex></expan> <expan><abbr>Iuli</abbr><ex>i</ex></expan> Felicis <lb n="62"/><supplied reason="lost"><expan><abbr>C</abbr><ex>ai</ex></expan> Bel</supplied><expan><abbr>li</abbr><ex>i</ex></expan> Urbani <lb n="63"/><supplied reason="lost"><expan><abbr>L</abbr><ex>ucii</ex></expan> <expan><abbr>Pulli</abbr><ex>i</ex></expan></supplied> Primi <lb n="64"/><supplied reason="lost"><expan><abbr>L</abbr><ex>ucii</ex></expan></supplied> <expan><abbr>Senti</abbr><ex>i</ex></expan> Chrysogoni <lb n="65"/><supplied reason="lost"><expan><abbr>C</abbr><ex>ai</ex></expan> P</supplied><expan><abbr>omponi</abbr><ex>i</ex></expan> Statiani <lb n="66"/><supplied reason="lost"><expan><abbr>L</abbr><ex>ucii</ex></expan> <expan><abbr>Pulli</abbr><ex>i</ex></expan></supplied> Zosimi.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L’empereur César Marcus Aurelius Antoninus Augustus, vainqueur des Arméniens, grand pontife, investi avec la puissance tribunicienne pour la dix-huitième fois, acclamé imperator deux fois, consul trois fois et l’empereur César Lucius Aurelius Verus Augustus, vainqueur des Arméniens, investi avec la puissance tribunicienne pour la quatrième fois, acclamé imperator deux fois, proconsul, consul deux fois, fils du divin Antonin, petits-fils du divin Hadrien, arrière petits-fils du divin Trajan vainqueur des Parthes, arrière petits-fils du divin Nerva, aux cavaliers et aux fantassins qui ont servi dans trois ailes qui s’appellent - - - et douze cohortes, - - -, et se trouvent en Dacie Porolissensis sous le procurateur Sempronius Ingenuus, à ceux qui ont accompli vingt-cinq ou plusieurs années de service militaire, licenciés par un licenciement honorable, dont les noms sont écrits ci-dessous, ont donné la cité romaine, à ceux qui ne l’avaient pas, et droit de mariage légal avec les épouses qu’ils avaient au moment dans lequel la cité leur a été donnée ou avec celles qu’ils marieront ultérieurement, mais eulement avec une seule (épouse).Le 21 juillet, sous le consulat de Tiberius Haterius Saturninus et Quintus Caecilius Avitus (a. 164), de l’ala Siliana civium Romanorum, commandée par Aurelius Atilianus, à l’ancien cavalier Acilius Dubitatus, fils de Sabinus, né près du camp.Transcrit et autentifié d’après la plaque en bronze qui est fixée à Rome dans le mur derrière le temple du divin Auguste, près de (la statue) de Minerve.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>On connaît non moins de 10 copies de la même constitution (I. Piso, Fasti II, p. 127-128, no 78, 2-11). Tab. I intus : Lucius Aurelius Antoninus à la place de Lucius Aurelius Verus ; on a omis le numéral de la (cohors) I Brittonum milliaria ; (cohors) I Britannor(um) à la place de (cohors) I Britann(ica) ; (cohors) Aela Gaetsat(orum) à la place de (cohors) Aelia Gaesat(orum) ; (cohors) III Thracum à la place de (cohors) VI Thracum. La seconde (cohors) I Hispanorum n’est pas (milliaria). Il s’agit de la cohors I Hispanorum (quingenaria) stationnée à Românași. Pour faire la différence entre la cohors I Hispanorum (milliaria) de Orheiul Bistriței et la cohors I Hispanorum de Românași, la seconde porte dans les estampilles tégulaires le signe pour (quingenaria). Pour le procurateur présidial L. Sempronius Ingenuus voir I. Piso, Fasti II, p. 127-129, no 78 ; pour le préfet d’aile C. Aurelius Atilianus voir I. Piso, Fasti II, p. 260-262, no 112. Acilius Dubitatus, fils de Sabinus, était né dans le vicus militaire appartenant au camp de l’ala Siliana. Il a été recruté dans cette troupe en tant que citoyen romain.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

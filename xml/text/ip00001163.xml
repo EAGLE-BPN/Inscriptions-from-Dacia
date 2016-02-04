@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire d'un vétéran de la cohors I Ulpia Brittonum milliaria</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001163.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001163</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Cluj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Cășei</placeName>                     
+                        </settlement>
+                        <repository>Musée de Cluj</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>0,1</width>
+                                         <depth>6,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en été 1985 par Dan Isac lors de ses fouilles dans le camp de Samum dans les ruines de la tour est de la porta principalis sinistra.
+                                <placeName ref="www.trismegistos.org/place/NaN">Samum</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0161" notAfter-custom="0162" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Le premier consul est identifiable à C. Iulius Geminus Capellianus, gouverneur de Pannonie Inférieure en 158/159-161 ; il aura exercé le consulat suffect en 161/162. T. Flavius Boethus aura lui aussi exercé le consulat suffect au début du règne commun de Marc Aurèle et Lucius Verus ; voir Eck, Piso, Isac, p. 582-584 ; Piso, p. 124-125.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1985</date>
+                                <placeName>Cășei</placeName> 
+                            <placeName type="modernRegion">Jud. Cluj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>W. Eck, D. Isac, I. Piso, ZPE 100, 1994, p. 577-591, pl. XXXII, a-b (photos) </bibl><bibl> AE 1994, 1487 </bibl><bibl> RMD III 177 </bibl><bibl> C. C. Petolescu, SCIVA 54-46, 2003-2005, p. 355, no 983 </bibl><bibl> I. Piso, Fasti II, p. 123-124, no 77/2.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tabella I extr. :[<expan><abbr>Imp</abbr><ex>erator</ex></expan> <expan><abbr>Caes</abbr><ex>ar</ex></expan> <expan><abbr>M</abbr><ex>arcus</ex></expan> Aurelius Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> <expan><abbr>pont</abbr><ex>ifex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> <expan><abbr>XV</abbr><ex cert="low"/></expan>, co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> III et <expan><abbr>Imp</abbr><ex>erator</ex></expan> <expan><abbr>Caes</abbr><ex>ar</ex></expan> <expan><abbr>L</abbr><ex>ucius</ex></expan> Aurelius Verus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> co<expan><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> II Divi Antonini <expan><abbr>fili</abbr><ex>i</ex></expan> Divi Hadriani nepotes Divi Traiani Parthici pronepotes Divi Nervae abnepotes <expan><abbr>equit</abbr><ex>ibus</ex></expan> et <expan><abbr>pedit</abbr><ex>ibus</ex></expan> qui <expan><abbr>mili</abbr><ex>averunt</ex></expan> in alis - - - et cohortibus <expan><abbr>decem</abbr><ex cert="low"/></expan> quae appellantur - - - et <lb n="2"/>I <expan><abbr>Ulp</abbr><ex>ia</ex></expan> <expan><abbr>Brit</abbr><ex>tonum</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> (milliaria) e]t I B[<expan><abbr>rit</abbr><ex>tanica</ex></expan> (milliaria) <lb n="3"/>et I <expan><abbr>Hispan</abbr><ex>orum</ex></expan> (milliaria) et I <expan><abbr>Batav</abbr><ex>orum</ex></expan>] (milliaria) et I <expan><abbr>Ael</abbr><ex>ia</ex></expan> G<expan><ex>a</ex><abbr>e</abbr></expan>[<expan><abbr>s</abbr><ex>atorum</ex></expan> <lb n="4"/>et II <expan><abbr>n<am>n</am></abbr><ex>ica</ex></expan> (milliaria) et I Hispano]<expan><abbr>r</abbr><ex>um</ex></expan> (milliaria) et II Britto<supplied reason="lost"><expan><abbr>n</abbr><ex>um</ex></expan> (milliaria)</supplied> <lb n="5"/><supplied reason="lost">et I <expan><abbr>Cannan</abbr><ex>efatium</ex></expan> et II <expan><abbr>Hispan</abbr><ex>orum</ex></expan> e</supplied>t V <expan><abbr>Lingon</abbr><ex>um</ex></expan> et VI <lb n="6"/>5 <supplied reason="lost"><expan><abbr>Thrac</abbr><ex>um</ex></expan> et sunt in Dacia P</supplied><expan><abbr>orolis</abbr><ex>sensi</ex></expan> sub Volu[sio <lb n="7"/>- - - <expan><abbr>proc</abbr><ex>uratore</ex></expan>] <expan><abbr>quinq</abbr><ex>ue</ex></expan> et vigi[nti <lb n="8"/><expan><abbr>stip</abbr><ex>endiis</ex></expan> eme]<expan><abbr>r</abbr><ex>itis</ex></expan> <expan><abbr>dimiss</abbr><ex>is</ex></expan> <expan><abbr>honest</abbr><ex>a</ex></expan> missi[<expan><abbr>on</abbr><ex>e</ex></expan> <lb n="9"/><expan><abbr>quor</abbr><ex>um</ex></expan> nomi]<expan><abbr>n</abbr><ex>a</ex></expan> <expan><abbr>subscript</abbr><ex>a</ex></expan> sunt civitat[em <lb n="10"/><expan><abbr>Roman</abbr><ex>am</ex></expan> qui] <expan><abbr>eor</abbr><ex>um</ex></expan> non <expan><abbr>haber</abbr><ex>ent</ex></expan> <expan><abbr>deder</abbr><ex>unt</ex></expan> et c[o <lb n="11"/>10 <supplied reason="lost"><expan><abbr>nub</abbr><ex>ium</ex></expan> cum u</supplied><expan><abbr>xorib</abbr><ex>us</ex></expan> quas tunc habuiss[ent <lb n="12"/>cum est civ]<expan><abbr>it</abbr><ex>as</ex></expan> i<expan><ex>i</ex><abbr>s</abbr></expan> data aut cum i<expan><ex>i</ex><abbr>s</abbr></expan> quas <lb n="13"/><expan><abbr>post</abbr><ex>ea</ex></expan> dux]<expan><abbr>iss</abbr><ex>ent</ex></expan> <expan><abbr>dunataxat</abbr><ex> !</ex></expan> singulis. <lb n="14"/><supplied reason="lost"><expan><abbr>a</abbr><ex>nte</ex></expan> <expan><abbr>d</abbr><ex>iem</ex></expan></supplied> VII <expan><abbr>K</abbr><ex>alendas</ex></expan> <expan><abbr>Nov</abbr><ex>embres</ex></expan> <lb n="15"/><supplied reason="lost"><expan><abbr>C</abbr><ex>aio</ex></expan> ? Iulio Ge</supplied>mino <expan><abbr>T</abbr><ex>ito</ex></expan> Flavio Boetho <expan><abbr>co</abbr><ex>n</ex></expan>[<expan><abbr>s</abbr><ex>ulibus</ex></expan> <lb n="16"/>15 <expan><abbr>coh</abbr><ex>ortis</ex></expan> I Ul]<expan><abbr>p</abbr><ex>iae</ex></expan> <expan><abbr>Brit</abbr><ex>tonum</ex></expan> <expan><abbr>c</abbr><ex>ivium</ex></expan> <expan><abbr>R</abbr><ex>omanorum</ex></expan> (milliariae) cui praeest <lb n="17"/><supplied reason="lost"><expan><abbr>L</abbr><ex>ucius</ex></expan> Al</supplied><expan><abbr>fius</abbr><ex cert="low"/></expan> Re<supplied reason="lost">stitu</supplied><expan><abbr>tus</abbr><ex cert="low"/></expan> <lb n="18"/>ex equit<supplied reason="lost">e</supplied> <lb n="19"/><supplied reason="lost"><expan><abbr>M</abbr><ex>arcus</ex></expan> <expan><abbr>Ulpius</abbr><ex cert="low"/></expan></supplied> <expan><abbr>Ulpi</abbr><ex>i</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> N<gap reason="lost" quantity="3" unit="character"/> <lb n="20"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>.Tabella I intus :[- - - - - - <lb n="21"/><expan><abbr>dim</abbr><ex>issis</ex></expan> <expan><abbr>hon</abbr><ex>esta</ex></expan>] <expan><abbr>miss</abbr><ex>ione</ex></expan> <expan><abbr><supplied reason="lost">q</supplied>uor</abbr><ex>um</ex></expan> <expan><abbr>nomin</abbr><ex>a</ex></expan> <supplied reason="lost">s</supplied>u<supplied reason="lost">b</supplied> <lb n="22"/><supplied reason="lost"><expan><abbr>script</abbr><ex>a</ex></expan> sunt <expan><abbr>civ</abbr><ex>itatem</ex></expan></supplied> <expan><abbr>Roman</abbr><ex>am</ex></expan> qui eorum no[n <lb n="23"/><expan><abbr>haber</abbr><ex>ent</ex></expan> <expan><abbr>ded</abbr><ex>erunt</ex></expan> et con]<expan><abbr>ub</abbr><ex>ium</ex></expan> cum <expan><abbr>uxor</abbr><ex>ibus</ex></expan> quas <lb n="24"/><supplied reason="lost">tunc <expan><abbr>hab</abbr><ex>uissent</ex></expan> cum est ci</supplied><expan><abbr>vit</abbr><ex>as</ex></expan> i<expan><ex>i</ex><abbr>s</abbr></expan> data aut cum <lb n="25"/>5 <supplied reason="lost"><expan><abbr>ux</abbr><ex>oribus</ex></expan> quas <expan><abbr>post</abbr><ex>ea</ex></expan></supplied> <expan><abbr>duxiss</abbr><ex>ent</ex></expan> d<expan><ex>um</ex><abbr>t</abbr><ex>axat</ex></expan> <expan><abbr>singu</abbr><ex>lis</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (L’empereur César Marcus Aurelius Antoninus Augustus, grand pontife, investi avec la puissance tribunicienne pour la … fois, consul deux fois et l’empereur César Lucius Aurelius Verus Augustus, investi avec la puissance tribunicienne pour la … fois, consul deux fois, fils du divin Antonin, petits-fils du divin Hadrien, arrière petits-fils du divin Trajan vainqueur des Parthes et arrière petits-fils du divin Nerva, aux cavaliers et aux fantassins qui ont servi dans … ailes et … cohortes qui s’appellent - - - - et I Ulpia Brittonum civium Romanorum milliaria et I Britannica milliaria (et I Hispanorum milliaria et I Batavorum) milliaria et I Aelia Gaesatorum … (et II Britannica milliaria et) I Hispanorum milliaria et II Brittonum (milliaria et I Cannanefatium) et V Lingonum et VI Thracum (et se trouvent en Dacie) Porolissensis (sous le procurateur) Volusius … à ceux qui ont accompli vingt-cinq (années de service militaire), licenciés par un licenciement honorable, (dont) les noms sont écrits ci-dessous, ont donné la cité (romaine, à ceux) d’entre eux qui ne l’avaient pas, et droit de mariage légal (avec) les épouses qu’ils avaient (au moment dans lequel) la cité leur a été donnée ou avec celles qu’ils allaient marier (ultérieurement), conditions valables pour une seule femme.(Le septième jour avant les calendes de novembre (26 octobre), sous le consulat de (Caius Iulius) Geminus (et) T(itus) Flavius Boethus (a. 161/162), de la cohors I Ulpia Brittonum milliaria, commandée par Lucius Alfius Restitutus(?), à l’ancien cavalier (M. Ulpius)(?), fils de Ulpius, N….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>La tabella I intus d’après Roxan (RMD). La liste, d’après Roxan, pouvait contenir tout au plus une à trois ailes et dix cohortes. Le procurateur présidial de Dacie Porolissensis pouvait être L. Volusius, l’ancien tribun de la cohors II Augusta Nerviana Pacensis (AE 2003, 2046) devenu probablement procurateur présidial de Maurétanie Tingitane ca 162-167 (AE 1985, 992 = RMD III 186) ; voir Piso, p. 124-127. Le nom du tribun, Eck, Piso, Isac : [- - -]eius Pe[- - -]tus ; Roxan : [L(ucius) Al]fius Re[stitu]tus de CIL V 6995 ; voir pour ce personnage H. Devijver, PME I, A 103.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

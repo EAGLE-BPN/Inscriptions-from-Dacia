@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Jupiter Erusenus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001283.html</idno>
+              
+                <idno type="Lupa">
+		10/21/2015 18:38:07
+		
+		Dédicace à Jupiter Erusenus
+		
+		Inscription votive
+		grès
+		Autel votif
+		"37" cm
+		19 cm
+		32 cm
+		
+		yes
+		no
+		
+		5,5 et 3 cm
+		
+		Alburnus Maior
+		Dacia
+		Roșia Montană
+		XIXe siècle
+		Musée de Deva
+		Roumanie
+		Jud. Alba
+		
+		Latin
+		I(ovi) Eruse / no po / suit / [- - - - - -]
+		
+		Manque la partie inférieure de l'inscription, qui contenait le nom du dédicant. La plupart des auteurs: Treuseno. I. I. Russu laissa ouverte la possibilité I(ovi) Eruseno. Il s'agit de la divinité galate Erusenus (Ἐρυσηνός). D'autres divinités d'Asie Mineure sont connues à Alburnus Maior dans AE 1944, 20 = SEG 25, 1971, 825 = IDR III/3, 432</idno>
+                
+               <idno type="localID">ip00001283</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Alba</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Roșia Montană</placeName>                     
+                        </settlement>
+                        <repository>Musée de Deva</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/33">Autel votif</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/75">grès</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>37</height>
+                                         <width>19</width>
+                                         <depth>32</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">5,5</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé au XIXe siècle à Alburnus Maior dans des conditions inconnues
+                                <placeName ref="www.trismegistos.org/place/NaN">Alburnus Maior</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Probablement du IIe siècle, comme d'autres dédicaces d'Alburnus Maior à des divinités galates.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>XIXe siècle</date>
+                                <placeName>Roșia Montană</placeName> 
+                            <placeName type="modernRegion">Jud. Alba</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>G. Téglás, ErdMúz 1888, p. 60, no 10</bibl><bibl> CIL III 7829</bibl><bibl> C. Daicoviciu, ACMIT, 1930-1931, p. 42</bibl><bibl> H. C. Noeske, BJb 177, 1977, p. 382, no 21</bibl><bibl> IDR III/3, 410.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> Eruse <lb n="2"/>no po <lb n="3"/>suit <lb n="4"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    ... érigea à Jupiter Erusenus.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Manque la partie inférieure de l'inscription, qui contenait le nom du dédicant. La plupart des auteurs: Treuseno. I. I. Russu laissa ouverte la possibilité I(ovi) Eruseno. Il s'agit de la divinité galate Erusenus (Ἐρυσηνός). D'autres divinités d'Asie Mineure sont connues à Alburnus Maior dans AE 1944, 20 = SEG 25, 1971, 825 = IDR III/3, 432; AE 1944, 23 = SEG 25, 1971, 828 = IDR III/3, 399; AE 1944, 25 = SEG 25, 1971, 829 = IDR III/3, 398.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire pour un vétéran d'une unité auxiliaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001045.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001045</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. C. C. 288/1968</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height/>
+                                         <width>0,1</width>
+                                         <depth>1,5</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration"/>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé lors des fouilles de 1968 dans le barraquement no 2 du camp de Buciumi.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Selon Gudea des années 157-158, selon Roxan, plus probablement des années 138-161.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1968</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 8, 1984, p. 211-212, no 1, p. 215, fig. 1 (dessins) </bibl><bibl> RMD II 109 </bibl><bibl> ILD 47.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tab. I extr. :<expan><abbr>Imp</abbr><ex>erator</ex></expan> Cae<supplied reason="lost"><expan><abbr>s</abbr><ex>ar</ex></expan> Divi Hadriani <expan><abbr>f</abbr><ex>ilius</ex></expan> Divi Tra</supplied>-ia<supplied reason="lost">ni Parthici <expan><abbr>nep</abbr><ex>os</ex></expan> Divi Nervae <expan><abbr>pron</abbr><ex>epos</ex></expan> <expan><abbr>T</abbr><ex>itus</ex></expan></supplied>Ae<supplied reason="lost">lius Hadrianus Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> <expan><abbr>P</abbr><ex>ius</ex></expan></supplied>poṇ<supplied reason="lost"><expan><abbr>t</abbr><ex>ifex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>tr</abbr><ex>ibunicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan> … <expan><abbr>imp</abbr><ex>erator</ex></expan> .. ? <expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan> .. <expan><abbr>p</abbr><ex>ater</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan></supplied> 5 equ<supplied reason="lost"><expan><abbr>itib</abbr><ex>us</ex></expan> et <expan><abbr>peditib</abbr><ex>us</ex></expan> qui <expan><abbr>milit</abbr><ex>averunt</ex></expan> in </supplied><gap reason="lost" quantity="3" unit="character"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>.Tab. I intus :<expan><abbr>Imp</abbr><ex>erator</ex></expan> Cae<supplied reason="lost"><expan><abbr>s</abbr><ex>ar</ex></expan> Divi Hadriani <expan><abbr>f</abbr><ex>ilius</ex></expan> Divi Traiani Parthi</supplied> <lb n="2"/><supplied reason="lost">c</supplied>ị ṇ<expan><abbr>ep</abbr><ex>os</ex></expan> Div[i Nervae <expan><abbr>pron</abbr><ex>epos</ex></expan> <expan><abbr>T</abbr><ex>itus</ex></expan> Aelius Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> <lb n="3"/><expan><abbr>equit</abbr><ex>ibus</ex></expan> et <expan><abbr>pedit</abbr><ex>ibus</ex></expan> qui <expan><abbr>milit</abbr><ex>averunt</ex></expan> in - - - <lb n="4"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Tab. I extr., l. 2-3, Gudea : [Nerv]/ae [pronepos] ; Roxan : [pronep(os) T(itus)] / Ae[lius] ; tab. I intus, l. 1-2 : Gudea : [Parth]/ici [nepos] (cf. le dessin) ; Roxan : [Parth]/ic(i) n(epos) Div[i].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    L’empereur César, fils du divin Hadrien), petit-fils (du divin) Trajan Parthique, (arrière petit-fils) du divin (Nerva, Titus) Aelius (Hadrianus Antoninus Augustus Pius grand) pontife, (investi avec la puissance tribunicienne …, acclamé imperator …, consul …, père de la patrie), aux cavaliers (et aux fantassins qui ont servi dans … a donné …)….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Diplôme militaire, fragment de la tabella I : la marge supérieure gauche de la tab. I extr. et le coin supérieur gauche de la tab. I intus.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

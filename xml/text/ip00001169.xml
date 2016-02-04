@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dédicace à Jupiter</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001169.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001169</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Hunedoara</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Geoagiu</placeName>                     
+                        </settlement>
+                        <repository>disparu</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Autel votif ou base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>95</height>
+                                         <width/>
+                                         <depth>34</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé en 1930 lors de la démolition de l'église réformée de Geoagiu.
+                                <placeName ref="www.trismegistos.org/place/NaN">Germisara</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">À partir de l'arrivée, en 168, de la legio V Macedonica en Dacie; selon l'écriture, encore du IIe siècle.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1930</date>
+                                <placeName>Geoagiu</placeName> 
+                            <placeName type="modernRegion">Jud. Hunedoara</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/372">Inscription votive</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>I. Mallász, ms.</bibl><bibl> C. Daicoviciu, AISC I/2, 1928-1932, p. 59 = Dacica, Cluj 1970, p. 211</bibl><bibl> O. Floca, ms. (utilisé par I. I. Russu)</bibl><bibl> N. Gostar, Sargetia 3, 1956, p. 68-70</bibl><bibl> AE 1967, 410</bibl><bibl> I. I. Russu, Sargetia 5, 1968, p. 95-98, no 4</bibl><bibl> AE 1971, 386</bibl><bibl> IDR III/3, 237</bibl><bibl> I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            <expan><abbr>I</abbr><ex>ovi</ex></expan> <expan><abbr>O</abbr><ex>ptimo</ex></expan> <expan><abbr>M</abbr><ex>aximo</ex></expan> <lb n="2"/><expan><abbr>Ulp</abbr><ex>ius</ex></expan> Max<supplied reason="lost">i</supplied> <lb n="3"/>minu<supplied reason="lost">s</supplied> <lb n="4"/>(centurio) <expan><abbr>leg</abbr><ex>ionis</ex></expan> V <expan><abbr>M</abbr><ex>acedonicae</ex></expan> <lb n="5"/>compo <lb n="6"/>s <expan><abbr>p</abbr><ex>editum</ex></expan> <expan><abbr>B</abbr><ex>ritannicianorum</ex></expan> <lb n="7"/><expan><abbr>v</abbr><ex>otum</ex></expan> <expan><abbr>s</abbr><ex>olvit</ex></expan> <expan><abbr>l</abbr><ex>ibens</ex></expan> <expan><abbr>l</abbr><ex>aetus</ex></expan> <expan><abbr>m</abbr><ex>erito</ex></expan>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À Jupiter très bon (et) très grand. Ulpius Maximinus, centurion de la legio V Macedonica, chargé de la commande des pedites Britanniciani, s'est acquitté de son voeu de bon gré, avec joie et à bon droit.</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Daicoviciu a utilisé la copie de Malász, Russu celle de Floca. Daicoviciu: I O M / ... MAX[I]/MINVS / . LEG V M / - - - / - - -/ VSLM; Floca: I O M / LP MAX/IMINVS / LEG V M / COMPI / S P B / V S II M; Gostar: I(ovi) O(ptimo) M(aximo) / [U]lp(ius) Max[i]minu[s ....] / leg(ionis) V M[ac(edonicae)] / s[i]gnif(er) n(umeri) / s(ingulariorum) p(editum) B(ritannicorum) / v(otum) s(olvit) l(ibens) m(erito); Russu: I(ovi) O(ptimo) M(aximo) / [U]lp(ius) Max[i]/minus [c(enturio)] / leg(ionis) V M[ac(edonicae)] / Gord(ianae) p(raepositus) n(umeri) / s(ingularium) p(editum) B(ritannicianorum) / v(otum) s(olvit) l(ibens) m(erito). C'est en 1935 que Daicoviciu a reçu la photographie de la pièce, mais personne ne l'a plus utilisée. Je l'ai reçu il y a quelques années de Mme Lucia Daicoviciu, l'épouse de C. Daicoviciu, ce qui m'a permis de relire le texte. Ulp. Maximinus, centurion de la legio V Macedonica, est sans doute praepositus du numerus p(editum) B(ritannicianorum) de Cigmău, près de Germisara, mais on utilise la formule un peu étrange compo/s p(editum) B(ritannicianorum). La conclusion est qu'au moment de la dédicace de l'inscription, l'officier de rang équestre de la troupe était absent ou bien ses effectifs étaient réduits.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

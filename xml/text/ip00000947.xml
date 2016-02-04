@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription honorifique pour l'empereur Septime Sévère.</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00000947.html</idno>
+              <idno type="EDH">HD : Imp(erator..) C[aes(ar..)] ; c : Chirilă, Gudea, Lucăcel : [- - -]frat[ri - - - / Antoni]ni P[ii - - -] ; HD : [- - -] frat[- - - / - - -]NIP[- - -] ; d : Chirilă, Gudea, Lucăcel, sans l’avoir lié à l’e : [- - - Ner]via [- - -] ; HD : [- - -]R(?)A(?)[- - -] / [- - -]VIA[- - -] ; f : Piso : [de]dica[nte] L(ucio) M[ar(io) Per/petuo le]g(ato) A[u]g(usti) [pr(o) pr(aetore)] ; cf. Al. Diaconescu, Statuaria II, p. 206-207. Ce  monument est le pendant du no précédent, érigé pour Caracalla ; voir les commentaires là-même.</idno>
+                
+                
+               <idno type="localID">ip00000947</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">Base de statue</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/57">calcaire</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>120</height>
+                                         <width/>
+                                         <depth>75</depth>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">sculptées</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               Points de séparation
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvés en 1964 par M. Macrea et son équipe dans la cour des principia du camp de Buciumi (voir M. Macrea, E. Chirilă, N. Gudea, V. Lucăcel, C. Pop, StCom Sibiu 14, 1969, p. 289, fig. 1). Comme les bases de statues de Septime Sévère et de Caracalla étaient proches l’une de l’autre, les fragments de la première ont été confondus avec ceux de la seconde.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="0208" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Des années 208-210(?), quand fouverneur de Dacie était C. Iulius Maximinus.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1964</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">Inscription honorifique</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>b : Macrea et alii, StCom Sibiu 14, 1969, p. 294, fig. 4/9 </bibl><bibl> c : E. Chirilă, N. Gudea, dans : Buciumi, p. 116, no 6 </bibl><bibl> N. Gudea, V. Lucăcel, InscrZalău, p. 25, no 44 (photo) </bibl><bibl> d : E. Chirilă, N. Gudea, dans : Buciumi, p. 116, no 8 </bibl><bibl> N. Gudea, V. Lucăcel, InscrZalău, p. 24-25, no 42 (photo) </bibl><bibl> f : Macrea et alii, op. cit., p. 292, 294, fig. 4/8 </bibl><bibl> I. Piso, AMN 15, 1978, p. 187 </bibl><bibl> h: Macrea et alii, op. cit., p. 293, fig. 3/6</bibl><bibl> les autres fragments sont inédits</bibl><bibl> tous les fragments, I. Piso, ms.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            a <supplied reason="lost">I</supplied>ṃ<expan><abbr>p</abbr><ex>eratori</ex></expan> [Caesari <lb n="2"/>Divi Marci An <lb n="3"/>b <supplied reason="lost">tonin</supplied>i Pi<supplied reason="lost">i <expan><abbr>Germ</abbr><ex>anici</ex></expan></supplied> <lb n="4"/><expan><abbr><supplied reason="lost">Sar</supplied>m</abbr><ex>atici</ex></expan> <supplied reason="lost">filio Di</supplied>- c-d-e <supplied reason="lost">vi Commodi</supplied> frat[ri <lb n="5"/>D]ivi Anṭ<supplied reason="lost">oni</supplied>ni Pi[i <lb n="6"/><expan><abbr>nep</abbr><ex>oti</ex></expan> - - - <lb n="7"/>- - - - - -] [<expan><abbr>L</abbr><ex>ucio</ex></expan> Septimio Severo <lb n="8"/><expan><abbr>Aug</abbr><ex>usto</ex></expan> - - - <lb n="9"/>- - - - - -] <supplied reason="lost"><expan><abbr>coh</abbr><ex>ors</ex></expan> II Nervia <expan><abbr>Pac</abbr><ex>ensis</ex></expan></supplied> f <supplied reason="lost">dedicante <expan><abbr>C</abbr><ex>aio</ex></expan> Iu</supplied><expan><abbr>l</abbr><ex>io</ex></expan> M<supplied reason="lost">a</supplied>- <expan><abbr>ximino</abbr><ex cert="low"/></expan> <expan><abbr>leg</abbr><ex>ato</ex></expan> <expan><abbr>Aug<am>g</am></abbr><ex>ustorum</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <expan><abbr>pr</abbr><ex>aetore</ex></expan>]. g : <expan><abbr>OM</abbr><ex cert="low"> </ex></expan> h : O i : P sive R
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    À l’empereur César (Lucius Septimius Severus Auguste) …, (fils du divin Marc) Antonin Pius (vainqueur des Germains), vainqueur des Sarmates, frère (du divin Commode, petit-fils) du divin Antonin le Pieux, … (la cohors II Nervia Pacensis, dédicant étant Caius) Iulius Maximinus(?), (légat des deux empereurs en qualité de pro praetore).</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>a : Chirilă, Gudea, Lucăcel, HD : Imp(erator..) C[aes(ar..)] ; c : Chirilă, Gudea, Lucăcel : [- - -]frat[ri - - - / Antoni]ni P[ii - - -] ; HD : [- - -] frat[- - - / - - -]NIP[- - -] ; d : Chirilă, Gudea, Lucăcel, sans l’avoir lié à l’e : [- - - Ner]via [- - -] ; HD : [- - -]R(?)A(?)[- - -] / [- - -]VIA[- - -] ; f : Piso : [de]dica[nte] L(ucio) M[ar(io) Per/petuo le]g(ato) A[u]g(usti) [pr(o) pr(aetore)] ; cf. Al. Diaconescu, Statuaria II, p. 206-207. Ce monument est le pendant du no précédent, érigé pour Caracalla ; voir les commentaires là-même.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

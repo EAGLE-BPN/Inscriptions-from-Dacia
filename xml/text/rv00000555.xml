@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>honorific</title>
+            </titleStmt>  
+            <publicationStmt>
+
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+<idno type="URI">inscriptionsfromdacia.altervista.org/text/rv00000555.html</idno>
+
+
+                     
+                <idno type="localID">rv00000555</idno>
+                
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Romania</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Constanța</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Constanţa</placeName>                     
+                        </settlement>
+                        <repository>MNA</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/57">statue base</objectType>
+                                    <material/>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                         <height>13</height>
+                                         <width>4</width>
+                                         <depth>4</depth>
+                                   </dimensions>
+                                    <rs type="decoration">no</rs>
+                                    <rs type="statPreserv">statue base</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/168">carved</rs>
+                                    <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">No</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               no
+                                <height unit="cm"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="www.trismegistos.org/place/NaN">Tomis</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Moesia Inferior</placeName>
+                            </origPlace>
+                              <origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">155 AD</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date/>
+                                <placeName>Sibioara</placeName> 
+                            <placeName type="modernRegion">Constanța</placeName>
+                            <placeName type="modernCountry">Romania</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/69">honorific</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="RadaVarga">Rada Varga</change>
+        </revisionDesc>
+    </teiHeader>
+         <facsimile>
+
+   <graphic n="TOM_23" url="TOM_23" sameAs="https://commons.wikimedia.org/wiki/File:TOM_23.jpg">
+       <desc> TOM_23
+          <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
+      </desc>
+   </graphic>    
+   
+            
+        </facsimile>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>ISM II 57</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                grc&#xA;            ">
+              <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            τ̣ύ̣<supplied reason="lost">χαι ἀγαθᾶι</supplied>·ἁ βουλὰ <supplied reason="lost">καὶ ὁ δᾶμος</supplied>τᾶς θεοκτίσ̣τ̣<supplied reason="lost">ου Ἡρα</supplied>-κλείας ἐτείμασ<supplied reason="lost">αν τὸν</supplied>ἑαυτᾶς πά̣τρωνα κ<supplied reason="lost">αὶ εὐ</supplied>-εργέταν Τ(ίτον) Φλ(άουιον) Παλατ̣ε̣ί̣ν̣<supplied reason="lost">αι Λογγῖ</supplied>-νον Κ(οίντον) Μάρκιον Τούρβω̣<supplied reason="lost">να</supplied>,ὕπατον, πρεσβ(ευτὰν) Σεβ(αστοῦ) καὶ ἀ<supplied reason="lost">ντιστράτηγον</supplied><supplied reason="lost">ἐ</supplied>παρχείας Μυσίας τῆς κ<supplied reason="lost">άτω</supplied>,ἐπιμελητὰν τόπων κα<supplied reason="lost">ὶ ἔργων</supplied>δημοσίων, πρεσβ(ευτὰν)καὶ ἀντ<supplied reason="lost">ιστράτηγον</supplied>Γαλλίας Λυγδωνησίας, π<supplied reason="lost">ρεσβευτὰν</supplied>λεγ(εῶνος) α βοηθοῦ, στρατηγόν, ἀ<supplied reason="lost">γορανόμον</supplied>,ταμίαν Λ(ουκίου) Καίσαρος, ἴ<supplied reason="lost">λαρχον φυ</supplied>-λῆς γʹ ἱππέων Ῥωμαίων, <supplied reason="lost">χιλίαρχον</supplied>σπείρης α Γερμάν<supplied reason="lost">ων διὰ ἐπι</supplied>-μελητᾶν πρεσβευτᾶν τᾶς ἰδί<supplied reason="lost" cert="low">ας πόλεως Φιλο</supplied>-<supplied reason="lost">τ</supplied>είμου Ἱππονείκου καὶ Ἡρα<supplied reason="lost">κλείδου</supplied>Λευδίκου καὶ Διονυσίου <supplied reason="lost">— — — — — —</supplied>.
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            
+           <div type="translation">
+                <p>                    To good fortune! The Council and the People of Heraclea, which was created by the divinity, honours its patron and benefactor, T. Flavius Longinus Q. Marcius Turbo, from the Palatina tribe, consul legatus Augusti pro praetore of the province Moesia Inferior, administrator of the public places and works, legatus pro praetore of Gallia Lugdunensis, legatus legionis I Adiutrix, praetor, aedil, quaestor of the Caesar Lucius, sevir of the squadron III of Roman knights, tribune of the cohors I of Germans, through the responsibles sent by their city - Philoteimos, [son] of Hipponeicos, Heracleidas, [son] of Leudicos and Dionysios...</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+        </body>
+    </text>
+</TEI>

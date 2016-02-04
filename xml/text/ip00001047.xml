@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplôme militaire pour un vétéran d'une unité auxiliaire</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>UNIVERSITATEA BABES BOLYAI</authority>
+                <idno type="URI">inscriptionsfromdacia.altervista.org/text/ip00001047.html</idno>
+              
+                
+                
+               <idno type="localID">ip00001047</idno>
+  
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license.
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            <placeName type="modern">Roumanie</placeName>
+                        </country>
+                        <region>
+                            <placeName type="modern">Jud. Sălaj</placeName>
+                        </region>
+                        <settlement>
+                            <placeName>Buciumi</placeName>                     
+                        </settlement>
+                        <repository>Mus. de Zalău, inv. C. C. 115/1970</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+
+<objectType>Diplôme militaire</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/109">bronze</material>                                    <p/>
+                                    <dimensions unit="cm">
+                                <height>2,2</height>
+                                         <width>0,1</width>
+                                         <depth/>
+                                            </dimensions>
+                                                                        <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">yes</rs>
+                                    <rs type="statPreserv"/>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                   <rs type="execution">gravées dans le métal</rs> <dimensions>
+                                        <width unit="cm"/>
+                                        <height unit="cm"/>
+                                    </dimensions>
+                                    <rs type="metre">no</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                               
+                                <height unit="cm">0,3</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>trouvé lors des fouilles de 1968 dans le barraquement no 2, partie nord, du camp de Buciumi.
+                                <placeName ref="www.trismegistos.org/place/NaN">?</placeName>
+                                <placeName type="provincItalicRegion" ref="www.trismegistos.org/place/NaN">Dacia</placeName>
+                            </origPlace>
+                              <origDate notBefore-custom="NaN" notAfter-custom="NaN" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">Clodius Gallus aura gouverné la Dacie Porolissensis dans les années 141?-143?.</origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date>1968</date>
+                                <placeName>Buciumi</placeName> 
+                            <placeName type="modernRegion">Jud. Sălaj</placeName>
+                            <placeName type="modernCountry">Roumanie</placeName>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+                <textClass>
+<keywords>
+    <term ref="http://www.eagle-network.eu/voc/typeins/lod/273">Diplôme militaire</term>
+</keywords>
+    </textClass>
+
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2016-02-04" who="IoanPiso">Ioan Piso</change>
+        </revisionDesc>
+    </teiHeader>
+        
+    
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+<bibl>N. Gudea, AMP 8, 1984, p. 212, no 2, p. 216, fig. 2 (dessins) </bibl><bibl> RMD II 128 </bibl><bibl> C. C. Petolescu, SCIVA 37/4, 1986, p. 351, no 348 </bibl><bibl> ILD 48 </bibl><bibl> I. Piso, Fasti II, p. 129, no 79, 1.</bibl>
+                </listBibl>
+            </div>
+            
+            
+            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+                <head>Text</head>
+                
+  
+            
+
+    <ab>
+                        <lb n="1"/>
+                        
+                        
+                            
+                            Tab. I extr. :<supplied reason="lost"><expan><abbr>Imp</abbr><ex>erator</ex></expan> <expan><abbr>Caes</abbr><ex>ar</ex></expan> divi Hadriani <expan><abbr>f</abbr><ex>ilius</ex></expan> divi Traiani Parthici <expan><abbr>n</abbr><ex>epos</ex></expan> divi Nervae <expan><abbr>pron</abbr><ex>epos</ex></expan> <expan><abbr>T</abbr><ex>itus</ex></expan> Aelius Hadrianus Antoninus <expan><abbr>Aug</abbr><ex>ustus</ex></expan> Pius <expan><abbr>pont</abbr><ex>ifex</ex></expan> <expan><abbr>max</abbr><ex>imus</ex></expan> <expan><abbr>trib</abbr><ex>unicia</ex></expan> <expan><abbr>pot</abbr><ex>estate</ex></expan></supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">equitibus et peditibus qui militaverunt in </supplied><gap reason="lost" quantity="3" unit="character"/> <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">e</supplied>t II <lb n="2"/>- - - et I] Can <lb n="3"/><supplied reason="lost"><expan><abbr>nanefat</abbr><ex>ium</ex></expan> et </supplied><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> et VI T</supplied><expan><abbr>hrac</abbr><ex>um</ex></expan> <lb n="4"/><supplied reason="lost">et sunt in Dacia <expan><abbr>Porol</abbr><ex>issensi</ex></expan> su</supplied>b Clo <lb n="5"/>[dio Gallo - - - <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost"> </supplied><gap reason="lost" quantity="3" unit="character"/>.Tab. I intus :[- - - - - - <lb n="7"/>- - - cum iis quas p]ostea [duxissent - - - <lb n="8"/>- - - - - -].
+                        
+                        
+                    </ab>
+
+                
+                
+            </div>
+
+            <div type="apparatus">
+                <p>Gudea : [- - - e]t II [Nerv(ia) Britt(onum) ∞ et II Britann(ica) equitata et I Hisp(anorum) et I] Can[nanef(atium) et II Hisp(anorum) et V Lingon(um) et VI Th]rac(um) [et sunt in Dacia Porolissensi su]b Clo[- - - proc(uratore) - - - - - - ; Roxan (RMD), lecture semblable; Petolescu : [- - - e]t II [Nerv(iana) Britt(onum) ∞ / - - -e]t I Can[nanef(atium) - - - / - - - et VI T]hrac[um - - - / - - - su]b Clo[- - -].</p>
+            </div>
+
+            
+           <div type="translation" xml:lang="fr">
+                <p>                    (L’empereur César Titus Aelius Hadrianus Antoninus Augustus Pius, fils du divin Hadrien, petit-fils du divin Trajan vainqueur des Parthes, petit-fils du divin Nerva, grand pontife, investi avec la … puissance tribunicienne, …, aux cavaliers et aux fantassins qui ont servi dans …, …) et II (… et] I Cannanefatium (… et VI) Thracum (et se trouvent en Dacie Porolissensis sous Clodius Gallus, ….… (avec les femmes qu’ils vont marier) ultérieurement, ….</p>
+                    <desc><ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/">Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported licence.</ref>
+                </desc>
+            </div>
+            
+
+            <div type="commentary">
+                <p>Diplôme militaire, fragment de la tabella I : la marge droite de la tab. I extr. et la partie inférieure centrale de la tab. I intus ; la marge de la partie extérieure marquée par une ligne. Pour le gouverneur, Gudea l’avait identifié à Clodius Albinus, qui aurait gouverné la Dacie sous Commode (hypothèse fort improbable, voir pour Clodius Albinus Piso, Fasti I, p. 137-138), Petolescu à Tib. Claudius Quintilianus, procurateur présidial de Dacie Porolissensis attesté en 157 (hypothèse tout aussi improbable, voir Piso, Fasti II, p. 130). Le problème fut tranché par la publication d’un diplôme militaire de 142, dans lequel un Clodius Gallus est attesté en 142 en tant que procurateur présidial de Dacie, W. Eck, ZPE 191, 2014, p. 272-277, no 2. Il ne s’agit pourtant pas de la même emission, car dans le nouveau diplôme la liste des troupes est différente : cohors I Batavorum, [cohors I Aelia Gaesatorum], cohors II Augusta Nervia Pacensis, cohors V Lingonum et [cohors VI Thracum]. Manque en tout cas la cohors I Cannanefatium, présente dans le fragment de diplôme de Buciumi.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>
