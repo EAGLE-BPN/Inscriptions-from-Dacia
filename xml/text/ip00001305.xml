@@ -123,7 +123,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="MC_16" url="https://commons.wikimedia.org/wiki/File:MC_16">
+   <graphic n="MC_16" url="https://upload.wikimedia.org/wikipedia/commons/a/a7/MC_16.jpg" sameAs="https://commons.wikimedia.org/wiki/File:MC_16">
        <desc> MC_16
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
@@ -143,7 +143,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </div>
             
             
-            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+            <div type="edition" xml:lang="la">
                 <head>Text</head>
                 
   

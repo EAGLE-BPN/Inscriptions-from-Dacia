@@ -123,7 +123,8 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PT_20" url="https://commons.wikimedia.org/wiki/File:PT_20">
+   <graphic n="PT_20" url="https://upload.wikimedia.org/wikipedia/commons/5/54/PT_20.JPG"
+       sameAs="https://commons.wikimedia.org/wiki/File:PT_20">
        <desc> PT_20
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
@@ -143,7 +144,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </div>
             
             
-            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+            <div type="edition" xml:lang="la">
                 <head>Text</head>
                 
   

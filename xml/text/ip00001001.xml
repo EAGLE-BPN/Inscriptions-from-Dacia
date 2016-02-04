@@ -123,7 +123,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
     </teiHeader>
          <facsimile>
 
-   <graphic n="PT_12" url="https://commons.wikimedia.org/wiki/File:PT_12">
+   <graphic n="PT_12" url="https://upload.wikimedia.org/wikipedia/commons/7/7f/PT_12.JPG" sameAs="https://commons.wikimedia.org/wiki/File:PT_12">
        <desc> PT_12
           <ref type="license" target="creativecommons.org/licenses/by-sa/3.0/">Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license. </ref>
       </desc>
@@ -143,7 +143,7 @@ This file is licensed under the Creative Commons Attribution-NonCommercial-Share
             </div>
             
             
-            <div type="edition" xml:lang="&#xA;                la&#xA;            ">
+            <div type="edition" xml:lang="la">
                 <head>Text</head>
                 
   
